@@ -6,7 +6,7 @@
 # shells out to `pdftotext` (poppler-utils); it is needed only to re-run that scan, not for any
 # core analysis.
 pandas>=2.0
-numpy>=1.24
+numpy>=2.5.1
 scipy>=1.10
 statsmodels>=0.14
 requests>=2.33.0

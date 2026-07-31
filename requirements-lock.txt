@@ -3,7 +3,7 @@
 # requests pinned to 2.33.0. Install with:
 #   pip install -r requirements-lock.txt
 pandas==2.3.3
-numpy==2.4.1
+numpy==2.5.1
 scipy==1.17.1
 statsmodels==0.14.6
 requests==2.33.0
