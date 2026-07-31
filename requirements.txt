@@ -14,5 +14,5 @@ httpx>=0.24
 openpyxl>=3.1
 python-dotenv>=1.0
 # Used only by specific optional lanes (not by the core deterministic analyses):
-anthropic>=0.40        # scripts/supplemental_batch.py (model reruns; API key + cost)
+anthropic>=0.120.2        # scripts/supplemental_batch.py (model reruns; API key + cost)
 python-docx>=1.1       # action/ DOCX template generators
