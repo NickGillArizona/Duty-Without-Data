@@ -1,0 +1,294 @@
+Supporting Statement for Paperwork Reduction Act Submissions
+
+HUD Standardized Grant Application Form HUD 27061
+
+(OMB # 2535-0113)
+
+A. Justification
+
+1.  Through 42 USC 3608e(6) the Secretary of HUD is required to annually
+    report to congress and make available to the public data on the
+    characteristics of persons and households who participate in
+    programs administered by the Department. This provision expressly
+    permits the Secretary to collect such information relating to those
+    characteristics as the Secretary deems appropriate.
+
+  42 U.S.C. 3608(e)(6): “annually report to the Congress, and make
+  available to the public, data on the race, color, religion, sex,
+  national origin, age, handicap, and family characteristics of persons
+  and households who are applicants for, participants in, or
+  beneficiaries or potential beneficiaries of, programs administered by
+  the Department to the extent such characteristics are within the
+  coverage of the provisions of law and Executive orders referred to in
+  subsection (f) of this section which apply to such programs (and in
+  order to develop the data to be included and made available to the
+  public under this subsection, the Secretary shall, without regard to
+  any other provision of law, collect such information relating to those
+  characteristics as the Secretary determines to be necessary or
+  appropriate).”
+
+  The purpose of this part is to enable the Secretary of Housing and
+  Urban Development to carry out his or her responsibilities under the
+  Fair Housing Act (42 USC 3608(a)), Title VI of the Civil Rights Act of
+  1964 (42 USC 2000d), and section 562 of the Housing and Community
+  Development Act of 1987 and the Executive Orders 12892, 11063. These
+  authorities prohibit discrimination in housing and in programs
+  receiving federal financial assistance and direct the Department to
+  administer its programs and activities in a manner affirmatively to
+  further fair housing.
+
+2.  This is a reinstatement with change of a currently approved
+    collection. The information collection is required to ensure HUD’s
+    compliance with the Fair Housing Act, Title VI of the Civil Rights
+    Act of 1964, and implementation of OMB’s 1997 Statistical Policy
+    Directive No. 15: Standards for Maintaining, Collecting, and
+    Presenting Federal Data on Race and Ethnicity (SPD 15). HUD’s method
+    for electronic collection of form HUD 27061 standardizes the format
+    for grant-level information collection requirements for both
+    applicants and recipients of HUD funding, and is consistent with the
+    minimum data requirements in SPD 15. To ensure that all programs
+    comply with Title VI of the Civil Rights Act of 1964, the form is
+    submitted annually, either with the application or once per year
+    during the project period.
+
+  The form allows all applicants and recipients of HUD funding, which
+  include public housing authorities, State and local units of
+  government, non-profit and for-profit organizations, and tribal
+  entities, to report expected and actual grant-level race and ethnic
+  data. Forms that report actual grant-level data typically represent a
+  summation of individual household data reported during the intake
+  process, either by the head of household or by observation.
+
+  Given the wide variation in HUD programs utilizing the information
+  collection, respondent organizations collect and report this
+  information in various ways. For example, a program that distributes
+  assistance to individual end-recipients through applications, such as
+  homeowners, would be able to collect the information included in the
+  collection through the application. However, a HUD program funding
+  organizations that provide wide-spread services, or activities that
+  may not have an identifiable pool of end-recipients, and may need to
+  rely on census data in their service areas to estimate the population
+  served. Furthermore, the interaction with the end-recipient varies,
+  and can be a self-identification by the end-recipient, use of census
+  data, or proxy identification when necessary, in line with OMB’s SPD
+  15.
+
+  Given the wide variation in HUD programs utilizing the information
+  collection, recipient organizations may submit form information in
+  different ways. Data collected may be submitted annual through
+  program-specific electronic systems, which include: grants.gov,
+  GrantSolutions, esnaps, DRGR, PIC. But all data collected must be kept
+  in the recipients’ program files and may be collected during a Federal
+  audit or monitoring event.
+
+  The standardization of this collection allows HUD to analyze the data
+  collected across grants and across HUD programs. Also, data reported
+  will be used by HUD to determine compliance with civil rights laws.
+  The form is a mandatory submission for all HUD programs not excepted
+  by the requirements of the Fair Housing Act and the Civil Rights Act
+  of 1964.
+
+  While this collection seeks to reinstate the existing form with
+  minimal changes, drawbacks in data quality, including statistical
+  errors inherent in OMB’s SPD 15, and easy of usability are not
+  addressed. HUD is working with OMB and other Federal agencies to
+  update OMB’s SPD 15 and improve the data quality and usability of the
+  data collection. These changes will be reflected in the next renewal
+  of this data collection.
+
+3.  This form is downloadable from Grants.gov and www.hud.gov, in both
+    Microsoft Word and PDF formats. Applicants are made aware of the
+    location of the form within the NOFO and recipients are made aware
+    in the award terms and conditions.
+
+4.  The form uniformly collects information across applicants and
+    funding years. The collection is not duplicative.
+
+5.  This collection does not have a significant economic impact on small
+    businesses or entities.
+
+6.  If form content was reduced, HUD staff’s ability to comply with the
+    Fair Housing Act and Title VI of the Civil Rights Act of 1964 could
+    be impaired. The information reported on the form is part of the
+    accountability mandated by Title VI of the Civil Rights Act of 1964,
+    with respect to HUD assistance made available and awarded.
+
+7.  There are no special circumstances required in the collection of the
+    information. The following circumstances do not apply to this
+    collection:
+
+- requiring respondents to report information to the agency more than
+  quarterly; N/A
+
+- requiring respondents to prepare a written response to a collection of
+  information in fewer than 30 days after receipt of it; N/A
+
+- requiring respondents to submit more than an original and two copies
+  of any document; N/A
+
+- requiring respondents to retain records other than health, medical,
+  government contract, grant-in-aid, or tax records for more than three
+  years; N/A
+
+- in connection with a statistical survey, that is not designed to
+  produce valid and reliable results than can be generalized to the
+  universe of study; N/A
+
+- requiring the use of a statistical data classification that has not
+  been reviewed and approved by OMB; N/A
+
+- that includes a pledge of confidentiality that is not supported by
+  authority established in statute or regulation, that is not supported
+  by disclosure and data security policies that are consistent with the
+  pledge, or which unnecessarily impedes sharing of data with other
+  agencies for compatible confidential use; or N/A
+
+- requiring respondents to submit proprietary trade secret, or other
+  confidential information unless the agency can demonstrate that it has
+  instituted procedures to protect the information's confidentiality to
+  the extent permitted by law. N/A
+
+8.  This information is collected in a manner consistent with guidelines
+    of 5 CFR 1320.8(d). The Notice Announcing the collection of
+    information appeared in the Federal Register on Tuesday, September
+    27, 2022, at 87 FR 58524. Three comments were received; however,
+    none caused a change in the form.
+
+  One of the three comments received requested HUD add sexual
+  orientation and gender identity (SOGI) questions to both Form 27061
+  and HUD Form 27061-H. The comment stated LGBTQ+ older adults face
+  significant barriers in receiving services and securing housing and
+  highlighted a growing trend among other agencies in adding LGBTQ+ data
+  collection. The comment also identified HUD’s obligation to collect
+  data concerning the sex of applicants, participants, and beneficiaries
+  of HUD programs for purposes of enforcing the Fair Housing Act and the
+  Civil Rights Act of 1964, which prohibit discrimination on the basis
+  of sex, including sexual orientation and gender identity. The
+  commenter identified three additional questions for Form 27061-H that
+  would then be compiled on Form 27061: (1) applicant’s sex assigned at
+  birth, (2) which gender they identify as now, and (3) their sexual
+  orientation.
+
+  HUD appreciates the suggestions of the comment and remains interested
+  in collecting SOGI data to inform enforcement of civil right statutes
+  under HUD’s jurisdiction. However, HUD is not adding the SOGI
+  questions during this renewal process, which applies only to Form
+  27061. While HUD agrees that collecting SOGI data would prove helpful
+  in expanding and preserving protections for LGBTQ+ individuals in HUD
+  programs and housing, HUD remains concerned that the process of
+  applicants asking LGBTQ+ individuals to disclose their gender and
+  sexual identity and then aggregating that data in the 27061 could be
+  problematic. While the commenter stated that social stigma no longer
+  prevents most LGBTQ+ persons from answering survey questions about
+  their sexual orientation or gender identity, HUD has concerns about
+  collecting this data for Form 27061. However, HUD appreciates the
+  comment and notes that it is intended to apply to other data
+  collections HUD undertakes and will explore other opportunities to
+  collect SOGI data. In particular, when Form 27061-H undergoes PRA
+  renewal, among other HUD forms, HUD will evaluate inclusion of SOGI
+  data collection, among other protected characteristics, to inform its
+  grantmaking and oversight.
+
+  The other two comments requested a copy of the existing form. The
+  current data elements for the form remains unchanged and is available
+  on HUD’s website at
+  https://www.hud.gov/sites/dfiles/OCHCO/documents/27061.pdf, as noted
+  in the 60-day notice published in the Federal Register.
+
+9.  No payments or gifts are provided to respondents.
+
+10. There is no assurance of confidentiality provided to the
+    respondents. The form collects grant-level summary information,
+    which does not include personal identifying information. The
+    information requested under this collection is protected and held
+    private in accordance with 5 U.S.C. 552 (Freedom of Information
+    Act), and (Privacy Act of 1974).
+
+11. The collection does not contain information of a sensitive nature
+    about sexual behavior or attitudes, religious beliefs, or private
+    matters.
+
+12. Estimated burden, see Table 1:
+
+Table 1: Estimated Burden for Respondents
+
++-------------+-------------+------------+------------+------------+------------+------------+-------------+
+| Information | Number of   | Frequency  | Responses  | Burden     | Annual     | Hourly     | Annual Cost |
+| Collection  | Respondents | of         |            | Hour Per   | Burden     | Cost Per   |             |
+|             |             | Response   | Per Annum  | Response   | Hours      | Response   |             |
++=============+=============+:==========:+:==========:+:==========:+:==========:+===========:+============:+
+| HUD-27061   | 14,375      | 1.2        | 17,250     | 0.50       | 8,625.00   | $45.43*    | $391,833.75 |
++-------------+-------------+------------+------------+------------+------------+------------+-------------+
+| * Median hourly rate for “Project Management Specialists” (occupation code 13-1082), May 2021 National   |
+| Occupational Employment and Wage Estimates United States,                                                |
+| https://www.bls.gov/oes/current/oes_nat.htm#11-0000.                                                     |
++----------------------------------------------------------------------------------------------------------+
+
+  The estimated total of all grant applications in all the Department’s
+  current grant programs is approximately 14,375, including initial and
+  updated applications. The actual burden is assessed against each HUD
+  program submission.
+
+13. There are no additional costs associated with the collection of this
+    information.
+
+14. The actual costs to the Federal government is assessed on each HUD
+    program submission. However, HUD estimates the cost of the maximum
+    burden on HUD staff would total at most $1,452,450.00. This estimate
+    assumes the form would be reviewed for one hour by a GS-13 step 5,
+    and then by a GS-14 and a GS-15 who will look at summary results on
+    an annual basis.
+
++-------------+-------------+-----------+-----------+------------------------------------+---------------+
+| Information | Number of   | Frequency | Responses | Hourly Cost Per Response*          | Annual Cost   |
+|             | Respondents | of        | Per Annum |                                    |               |
+| Collection  |             | Response  |           |                                    |               |
+|             |             |           |           +--------+--------+--------+---------+               |
+|             |             |           |           | GS 13: | GS 14: | GS 15: | Blended |               |
+|             |             |           |           | 1 hour | 15     | 15     |         |               |
+|             |             |           |           |        | mins.  | mins.  |         |               |
++=============+=============+===========+===========+========+========+========+=========+===============+
+| HUD-27061   | 14,375      | 1.2       | 17,250    | $51.25 | $15.14 | $17.81 | $84.20  | $1,452,450.00 |
++-------------+-------------+-----------+-----------+--------+--------+--------+---------+---------------+
+
+: Table 2: Estimated HUD Burden
+
+  * Using OPM’s “Rest of the United States” hourly rates for 2022,
+  Federal staff time is estimated for a GS-13 step 5 at $51.25 per hour,
+  as well as 15 minutes each for a GS-14 step 5 at $60.56/hr. and a
+  GS-15 step 5 at $71.24/hr., bringing the blended total to $84.20/hr
+  for each form submitted.
+
+15. This is a reinstatement with change of a currently approved
+    collection. The field labeled DUNS Number is relabeled as
+    Grantee/Recipient UEI. The PRA statement was also updated for
+    compliance.
+
+16. The information may be made available publicly depending on requests
+    from OMB, Congress, or Federal agencies with appropriate authority.
+    Also, individual HUD programs may assess the need to publish
+    information. When this information is used to inform public reports
+    or is otherwise reported publicly, HUD will ensure adequate
+    discussion is included regarding validity concerns and biases in how
+    this data is collected by grantee organizations and aggregated by
+    HUD. This discussion should acknowledge certain limitations to this
+    dataset including: (1) the inability for grantee organizations to
+    report non-responses or refused response data and a lack of clarity
+    as to how these data-points are reported to HUD; (2) potentially
+    varied collection methods, including both self-identification and
+    proxy reporting (which may present validity issues); (3) that
+    entities do not report multiracial categories that are below 1% of
+    all respondents, which may inadvertently skew the aggregate
+    reporting of the racial and/or ethnic identity of individuals served
+    by HUD grantees. Following internal consultation, the agency may
+    also choose to discuss additional sources of error or bias. .
+
+17. The information collection instruments will display the expiration
+    date for OMB approval of the information collection.
+
+18. There are no exceptions to the certification statement identified in
+    item 19 of the OMB 83-I.
+
+B. Collections of Information Employing Statistical Methods
+
+There are no statistical methods used in this collection.

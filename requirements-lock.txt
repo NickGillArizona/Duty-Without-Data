@@ -1,0 +1,14 @@
+# Exact package versions for the published-output release-check environment. Outputs were
+# last regenerated on Windows 11 / CPython 3.13 on 2026-07-10. Regenerated 2026-07-29:
+# requests pinned to 2.33.0. Install with:
+#   pip install -r requirements-lock.txt
+pandas==2.3.3
+numpy==2.4.1
+scipy==1.17.1
+statsmodels==0.14.6
+requests==2.33.0
+httpx==0.28.1
+openpyxl==3.1.5
+python-dotenv==1.2.2
+anthropic==0.84.0
+python-docx==1.2.0

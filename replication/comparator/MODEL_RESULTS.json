@@ -1,0 +1,638 @@
+{
+  "decomposition": [
+    {
+      "arm": "DIS",
+      "change_p3_minus_p1": -0.09365385574828292,
+      "claim_gate": "APPENDIX-READY",
+      "composition_effect_comp_first": 0.052505561674898865,
+      "composition_effect_path_symmetric": 0.05384519089087944,
+      "composition_effect_rate_first": 0.055184820106860016,
+      "composition_share_comp_first": 0.5606342766711078,
+      "composition_share_path_symmetric": 0.5749383243291257,
+      "composition_share_rate_first": 0.5892423719871437,
+      "decline_p1_minus_p3": 0.09365385574828292,
+      "n_p1": 383,
+      "n_p3": 314,
+      "pro_se_n_p1": 207,
+      "pro_se_n_p3": 233,
+      "represented_n_p1": 176,
+      "represented_n_p3": 81,
+      "strict_p1": 0.21148825065274152,
+      "strict_p3": 0.1178343949044586
+    },
+    {
+      "arm": "RD-PURE",
+      "change_p3_minus_p1": -0.18185231539424285,
+      "claim_gate": "APPENDIX-READY",
+      "composition_effect_comp_first": 0.07355730217082662,
+      "composition_effect_path_symmetric": 0.07740422866290383,
+      "composition_effect_rate_first": 0.08125115515498103,
+      "composition_share_comp_first": 0.40448922528899145,
+      "composition_share_path_symmetric": 0.42564334963289846,
+      "composition_share_rate_first": 0.4467974739768054,
+      "decline_p1_minus_p3": 0.18185231539424285,
+      "n_p1": 170,
+      "n_p3": 141,
+      "pro_se_n_p1": 76,
+      "pro_se_n_p3": 103,
+      "represented_n_p1": 94,
+      "represented_n_p3": 38,
+      "strict_p1": 0.2882352941176471,
+      "strict_p3": 0.10638297872340426
+    },
+    {
+      "arm": "DT-PURE",
+      "change_p3_minus_p1": 0.048379293662312514,
+      "claim_gate": "APPENDIX-READY",
+      "composition_effect_comp_first": -0.010014513788098684,
+      "composition_effect_path_symmetric": -0.012924714376093178,
+      "composition_effect_rate_first": -0.01583491496408767,
+      "composition_share_comp_first": NaN,
+      "composition_share_path_symmetric": NaN,
+      "composition_share_rate_first": NaN,
+      "decline_p1_minus_p3": -0.048379293662312514,
+      "n_p1": 78,
+      "n_p3": 53,
+      "pro_se_n_p1": 60,
+      "pro_se_n_p3": 39,
+      "represented_n_p1": 18,
+      "represented_n_p3": 14,
+      "strict_p1": 0.10256410256410257,
+      "strict_p3": 0.1509433962264151
+    },
+    {
+      "arm": "RACE-DT",
+      "change_p3_minus_p1": -0.030618493570116354,
+      "claim_gate": "APPENDIX-READY",
+      "composition_effect_comp_first": 0.005467588137520784,
+      "composition_effect_path_symmetric": 0.005281203149189104,
+      "composition_effect_rate_first": 0.005094818160857423,
+      "composition_share_comp_first": 0.17857142857142877,
+      "composition_share_path_symmetric": 0.17248409485251612,
+      "composition_share_rate_first": 0.1663967611336034,
+      "decline_p1_minus_p3": 0.030618493570116354,
+      "n_p1": 138,
+      "n_p3": 71,
+      "pro_se_n_p1": 96,
+      "pro_se_n_p3": 52,
+      "represented_n_p1": 42,
+      "represented_n_p3": 19,
+      "strict_p1": 0.08695652173913043,
+      "strict_p3": 0.05633802816901408
+    },
+    {
+      "arm": "NONDIS",
+      "change_p3_minus_p1": -0.05438707411310151,
+      "claim_gate": "APPENDIX-READY",
+      "composition_effect_comp_first": 0.026146069352844605,
+      "composition_effect_path_symmetric": 0.02398332531837071,
+      "composition_effect_rate_first": 0.021820581283896814,
+      "composition_share_comp_first": 0.4807405027612283,
+      "composition_share_path_symmetric": 0.4409747299238015,
+      "composition_share_rate_first": 0.40120895708637455,
+      "decline_p1_minus_p3": 0.05438707411310151,
+      "n_p1": 325,
+      "n_p3": 219,
+      "pro_se_n_p1": 194,
+      "pro_se_n_p3": 160,
+      "represented_n_p1": 131,
+      "represented_n_p3": 59,
+      "strict_p1": 0.10461538461538461,
+      "strict_p3": 0.0502283105022831
+    }
+  ],
+  "models": {
+    "cross_class_dis_vs_race_dt": {
+      "claim_gate": "APPENDIX-READY",
+      "formula": "strict_win ~ C(period, Treatment(reference=\"P1\")) * C(cohort2, Treatment(reference=\"RACE-DT\")) * pro_se_int",
+      "n": 964,
+      "terms": [
+        {
+          "ci_high": -0.8348912190476152,
+          "ci_low": -2.5746049654291836,
+          "coef": -1.7047480922383993,
+          "or": 0.18181818181818654,
+          "or_ci_high": 0.4339216812794722,
+          "or_ci_low": 0.07618391213408818,
+          "p": 0.00012246261490815252,
+          "term": "Intercept"
+        },
+        {
+          "ci_high": 1.8788131853647094,
+          "ci_low": -2.6282000842476227,
+          "coef": -0.3746934494414567,
+          "or": 0.6874999999999684,
+          "or_ci_high": 6.545731680283674,
+          "or_ci_low": 0.07220831422461743,
+          "p": 0.7445108088322077,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]"
+        },
+        {
+          "ci_high": NaN,
+          "ci_low": NaN,
+          "coef": -21.86131571660508,
+          "or": 3.2044331592276274e-10,
+          "or_ci_high": 0.0,
+          "or_ci_low": 0.0,
+          "p": NaN,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]"
+        },
+        {
+          "ci_high": 1.9961887481633944,
+          "ci_low": 0.14722092333298054,
+          "coef": 1.0717048357481875,
+          "or": 2.9203539823008913,
+          "or_ci_high": 7.360948142576788,
+          "or_ci_low": 1.1586098987181808,
+          "p": 0.023081582674486074,
+          "term": "C(cohort2, Treatment(reference=\"RACE-DT\"))[T.DIS]"
+        },
+        {
+          "ci_high": 2.057439794120393,
+          "ci_low": -2.7510577078676848,
+          "coef": -0.3468089568736457,
+          "or": 0.7069403714565105,
+          "or_ci_high": 7.825908204157948,
+          "or_ci_low": 0.06386027995185797,
+          "p": 0.7773902534826186,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]:C(cohort2, Treatment(reference=\"RACE-DT\"))[T.DIS]"
+        },
+        {
+          "ci_high": NaN,
+          "ci_low": NaN,
+          "coef": 21.659561275472274,
+          "or": 2550515354.426089,
+          "or_ci_high": 0.0,
+          "or_ci_low": 0.0,
+          "p": NaN,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]:C(cohort2, Treatment(reference=\"RACE-DT\"))[T.DIS]"
+        },
+        {
+          "ci_high": -0.09579064317868458,
+          "ci_low": -2.985099438715642,
+          "coef": -1.5404450409471633,
+          "or": 0.21428571428571122,
+          "or_ci_high": 0.9086542291178946,
+          "or_ci_low": 0.05053447821567307,
+          "p": 0.03662469552532354,
+          "term": "pro_se_int"
+        },
+        {
+          "ci_high": -17.41464749180279,
+          "ci_low": -22.477715500883008,
+          "coef": -19.9461814963429,
+          "or": 2.175121098807853e-09,
+          "or_ci_high": 2.7347314806961814e-08,
+          "or_ci_low": 1.730024255717666e-10,
+          "p": 8.444814589871306e-54,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]:pro_se_int"
+        },
+        {
+          "ci_high": NaN,
+          "ci_low": NaN,
+          "coef": 21.368839231507188,
+          "or": 1907080225.2537816,
+          "or_ci_high": 0.0,
+          "or_ci_low": 0.0,
+          "p": NaN,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]:pro_se_int"
+        },
+        {
+          "ci_high": 1.4664171670670378,
+          "ci_low": -1.645280245395535,
+          "coef": -0.08943153916424851,
+          "or": 0.9144508670520021,
+          "or_ci_high": 4.33368043975344,
+          "or_ci_low": 0.19295847949041067,
+          "p": 0.9102997678399251,
+          "term": "C(cohort2, Treatment(reference=\"RACE-DT\"))[T.DIS]:pro_se_int"
+        },
+        {
+          "ci_high": 22.297062988338645,
+          "ci_low": 15.586176397052235,
+          "coef": 18.94161969269544,
+          "or": 168360772.91371024,
+          "or_ci_high": 4824934460.546324,
+          "or_ci_low": 5874763.7067162115,
+          "p": 1.8737615506171712e-28,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]:C(cohort2, Treatment(reference=\"RACE-DT\"))[T.DIS]:pro_se_int"
+        },
+        {
+          "ci_high": NaN,
+          "ci_low": NaN,
+          "coef": -21.86756184668384,
+          "or": 3.184480232046194e-10,
+          "or_ci_high": 0.0,
+          "or_ci_low": 0.0,
+          "p": NaN,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]:C(cohort2, Treatment(reference=\"RACE-DT\"))[T.DIS]:pro_se_int"
+        }
+      ],
+      "warning": "Quasi-separation or thin-cell instability likely; interpret interaction coefficients as directional diagnostics only."
+    },
+    "within_disability_rd_vs_dt": {
+      "claim_gate": "APPENDIX-READY",
+      "formula": "strict_win ~ C(period, Treatment(reference=\"P1\")) * C(bucket2, Treatment(reference=\"DT-PURE\")) * pro_se_int",
+      "n": 498,
+      "terms": [
+        {
+          "ci_high": 0.28683481171009106,
+          "ci_low": -1.6731291728299684,
+          "coef": -0.6931471805599386,
+          "or": 0.5000000000000033,
+          "or_ci_high": 1.3322041307764614,
+          "or_ci_low": 0.18765892870658898,
+          "p": 0.16565703800340237,
+          "term": "Intercept"
+        },
+        {
+          "ci_high": 1.7073086576177023,
+          "ci_low": -3.09360301873761,
+          "coef": -0.693147180559954,
+          "or": 0.49999999999999567,
+          "or_ci_high": 5.514101155346606,
+          "or_ci_low": 0.04533830500327142,
+          "p": 0.5714262049583096,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]"
+        },
+        {
+          "ci_high": 2.127693927176789,
+          "ci_low": -0.7413995660569181,
+          "coef": 0.6931471805599354,
+          "or": 1.9999999999999802,
+          "or_ci_high": 8.395483873598248,
+          "or_ci_low": 0.4764466301434926,
+          "p": 0.34362892518894494,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]"
+        },
+        {
+          "ci_high": 1.3684212563917255,
+          "ci_low": -0.7576579572893796,
+          "coef": 0.3053816495511729,
+          "or": 1.357142857142845,
+          "or_ci_high": 3.929142687429607,
+          "or_ci_low": 0.4687630053717265,
+          "p": 0.5734055875124204,
+          "term": "C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]"
+        },
+        {
+          "ci_high": 1.9857912354406553,
+          "ci_low": -3.715786110413852,
+          "coef": -0.8649974374865982,
+          "or": 0.42105263157895007,
+          "or_ci_high": 7.284809104856692,
+          "or_ci_low": 0.024336302572618554,
+          "p": 0.5520440686493169,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]:C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]"
+        },
+        {
+          "ci_high": 0.563221035392272,
+          "ci_low": -2.720364110961576,
+          "coef": -1.0785715377846519,
+          "or": 0.340080971659923,
+          "or_ci_high": 1.7563205698124789,
+          "or_ci_low": 0.06585077307242707,
+          "p": 0.1978875194640427,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]:C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]"
+        },
+        {
+          "ci_high": -0.9573708058622461,
+          "ci_low": -4.390926492990833,
+          "coef": -2.67414864942654,
+          "or": 0.06896551724137855,
+          "or_ci_high": 0.3839009102714132,
+          "or_ci_low": 0.012389245352422524,
+          "p": 0.0022660451651718297,
+          "term": "pro_se_int"
+        },
+        {
+          "ci_high": 4.664754455730032,
+          "ci_low": -2.2102951227496037,
+          "coef": 1.227229666490214,
+          "or": 3.4117647058823897,
+          "or_ci_high": 106.13952007106127,
+          "or_ci_low": 0.10966827813534094,
+          "p": 0.4840983494437531,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]:pro_se_int"
+        },
+        {
+          "ci_high": 1.8627676608616754,
+          "ci_low": -3.789642681461374,
+          "coef": -0.9634375102998494,
+          "or": 0.381578947368424,
+          "or_ci_high": 6.44154012173065,
+          "or_ci_low": 0.02260367712119061,
+          "p": 0.5040437568597607,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]:pro_se_int"
+        },
+        {
+          "ci_high": 3.1630104130406207,
+          "ci_low": -0.5921660463645448,
+          "coef": 1.285422183338038,
+          "or": 3.6161943319838503,
+          "or_ci_high": 23.641660070969206,
+          "or_ci_low": 0.5531278855806689,
+          "p": 0.17965510060461964,
+          "term": "C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]:pro_se_int"
+        },
+        {
+          "ci_high": -16.60954796695424,
+          "ci_low": -24.307775182335284,
+          "coef": -20.45866157464476,
+          "or": 1.3029152610546653e-09,
+          "or_ci_high": 6.117373128424199e-08,
+          "or_ci_low": 2.7750280093286316e-11,
+          "p": 2.0624910236684552e-25,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]:C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]:pro_se_int"
+        },
+        {
+          "ci_high": 2.8362822395348712,
+          "ci_low": -3.598690304931171,
+          "coef": -0.38120403269814973,
+          "or": 0.6830385132109202,
+          "or_ci_high": 17.052251359107874,
+          "or_ci_low": 0.027359531636284327,
+          "p": 0.8163716071378483,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]:C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]:pro_se_int"
+        }
+      ],
+      "warning": "Quasi-separation or thin-cell instability likely; interpret interaction coefficients as directional diagnostics only."
+    },
+    "within_disability_sensitivity_mixed_as_dt": {
+      "claim_gate": "APPENDIX-READY",
+      "formula": "strict_win ~ C(period, Treatment(reference=\"P1\")) * C(bucket2, Treatment(reference=\"DT-PURE\")) * pro_se_int",
+      "n": 740,
+      "terms": [
+        {
+          "ci_high": -0.29777796069001794,
+          "ci_low": -1.3037777288146062,
+          "coef": -0.8007778447523121,
+          "or": 0.4489795918367341,
+          "or_ci_high": 0.7424661781246732,
+          "or_ci_low": 0.2715041840626861,
+          "p": 0.0018068498972479627,
+          "term": "Intercept"
+        },
+        {
+          "ci_high": 0.693814310196429,
+          "ci_low": -1.5398094839360583,
+          "coef": -0.4229975868698147,
+          "or": 0.6550802139037369,
+          "or_ci_high": 2.001334704433907,
+          "or_ci_low": 0.21442194836148035,
+          "p": 0.4578781666571461,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]"
+        },
+        {
+          "ci_high": 0.7962880346587708,
+          "ci_low": -0.8893280659285412,
+          "coef": -0.046520015634885226,
+          "or": 0.9545454545454618,
+          "or_ci_high": 2.217295111262343,
+          "or_ci_low": 0.4109317790696186,
+          "p": 0.9138504809933903,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]"
+        },
+        {
+          "ci_high": 1.0631641297872032,
+          "ci_low": -0.2371395023001059,
+          "coef": 0.4130123137435487,
+          "or": 1.5113636363636385,
+          "or_ci_high": 2.895518305708537,
+          "or_ci_low": 0.7888812295950478,
+          "p": 0.2131033416686653,
+          "term": "C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]"
+        },
+        {
+          "ci_high": 0.7653993744860705,
+          "ci_low": -3.0356934368395483,
+          "coef": -1.1351470311767389,
+          "or": 0.3213748657357699,
+          "or_ci_high": 2.1498527995842642,
+          "or_ci_low": 0.04804133768909976,
+          "p": 0.24174527782884458,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]:C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]"
+        },
+        {
+          "ci_high": 0.822079678433564,
+          "ci_low": -1.4998883616132384,
+          "coef": -0.33890434158983723,
+          "or": 0.712550607287441,
+          "or_ci_high": 2.275226660510185,
+          "or_ci_low": 0.22315507143004845,
+          "p": 0.5672301040172189,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]:C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]"
+        },
+        {
+          "ci_high": -1.1258402707104693,
+          "ci_low": -3.053347555577231,
+          "coef": -2.08959391314385,
+          "or": 0.12373737373737421,
+          "or_ci_high": 0.3243797859780795,
+          "or_ci_low": 0.04720065281890681,
+          "p": 2.1419094810430106e-05,
+          "term": "pro_se_int"
+        },
+        {
+          "ci_high": 2.439526175622354,
+          "ci_low": -1.5371892479493203,
+          "coef": 0.45116846383651676,
+          "or": 1.5701457725947765,
+          "or_ci_high": 11.467605824105336,
+          "or_ci_low": 0.21498452118182976,
+          "p": 0.6565179344285256,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]:pro_se_int"
+        },
+        {
+          "ci_high": 1.751528247472765,
+          "ci_low": -1.0076434153337592,
+          "coef": 0.37194241606950273,
+          "or": 1.4505494505494243,
+          "or_ci_high": 5.763403856480052,
+          "or_ci_low": 0.3650783045723077,
+          "p": 0.5972113826778074,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]:pro_se_int"
+        },
+        {
+          "ci_high": 1.9283984973624284,
+          "ci_low": -0.5266636032517453,
+          "coef": 0.7008674470553415,
+          "or": 2.015500289184481,
+          "or_ci_high": 6.878485503187996,
+          "or_ci_low": 0.5905720690724703,
+          "p": 0.2631166082481541,
+          "term": "C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]:pro_se_int"
+        },
+        {
+          "ci_high": -17.045809656364856,
+          "ci_low": -22.31939108772185,
+          "coef": -19.682600372043353,
+          "or": 2.831100385566963e-09,
+          "or_ci_high": 3.954566897300771e-08,
+          "or_ci_low": 2.026803339356381e-10,
+          "p": 1.7984266904106474e-48,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]:C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]:pro_se_int"
+        },
+        {
+          "ci_high": 0.34933939592814633,
+          "ci_low": -3.7825073140631074,
+          "coef": -1.7165839590674805,
+          "or": 0.17967889118457966,
+          "or_ci_high": 1.418130416363185,
+          "or_ci_low": 0.022765539448842853,
+          "p": 0.10341003329899276,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]:C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]:pro_se_int"
+        }
+      ],
+      "warning": "Quasi-separation or thin-cell instability likely; interpret interaction coefficients as directional diagnostics only."
+    },
+    "within_disability_sensitivity_mixed_as_rd": {
+      "claim_gate": "APPENDIX-READY",
+      "formula": "strict_win ~ C(period, Treatment(reference=\"P1\")) * C(bucket2, Treatment(reference=\"DT-PURE\")) * pro_se_int",
+      "n": 740,
+      "terms": [
+        {
+          "ci_high": 0.2868348117100932,
+          "ci_low": -1.6731291728299895,
+          "coef": -0.6931471805599482,
+          "or": 0.49999999999999856,
+          "or_ci_high": 1.3322041307764643,
+          "or_ci_low": 0.18765892870658504,
+          "p": 0.16565703800340148,
+          "term": "Intercept"
+        },
+        {
+          "ci_high": 1.7073086576177066,
+          "ci_low": -3.093603018737592,
+          "coef": -0.6931471805599425,
+          "or": 0.5000000000000014,
+          "or_ci_high": 5.514101155346629,
+          "or_ci_low": 0.045338305003272246,
+          "p": 0.571426204958315,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]"
+        },
+        {
+          "ci_high": 2.1276939271768103,
+          "ci_low": -0.7413995660569164,
+          "coef": 0.693147180559947,
+          "or": 2.000000000000003,
+          "or_ci_high": 8.395483873598428,
+          "or_ci_low": 0.4764466301434934,
+          "p": 0.34362892518894017,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]"
+        },
+        {
+          "ci_high": 1.1852965916039024,
+          "ci_low": -0.8862331236619702,
+          "coef": 0.1495317339709662,
+          "or": 1.161290322580648,
+          "or_ci_high": 3.2716570235859823,
+          "or_ci_low": 0.4122055593227506,
+          "p": 0.7772098762394255,
+          "term": "C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]"
+        },
+        {
+          "ci_high": 2.312830915324495,
+          "ci_low": -2.8474604545792013,
+          "coef": -0.2673147696273531,
+          "or": 0.7654320987654276,
+          "or_ci_high": 10.1029849049058,
+          "or_ci_low": 0.05799140584046136,
+          "p": 0.8390872456576308,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]:C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]"
+        },
+        {
+          "ci_high": 0.4077226361081425,
+          "ci_low": -2.740654619357774,
+          "coef": -1.1664659916248157,
+          "or": 0.3114657210401862,
+          "or_ci_high": 1.503390117202429,
+          "or_ci_low": 0.06452809172618812,
+          "p": 0.14641164172499546,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]:C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]"
+        },
+        {
+          "ci_high": -0.9573708058622987,
+          "ci_low": -4.390926492989065,
+          "coef": -2.674148649425682,
+          "or": 0.06896551724143771,
+          "or_ci_high": 0.383900910271393,
+          "or_ci_low": 0.012389245352444431,
+          "p": 0.002266045165167001,
+          "term": "pro_se_int"
+        },
+        {
+          "ci_high": 4.664754455728714,
+          "ci_low": -2.21029512275002,
+          "coef": 1.2272296664893467,
+          "or": 3.4117647058794307,
+          "or_ci_high": 106.13952007092136,
+          "or_ci_low": 0.10966827813529531,
+          "p": 0.48409834944400454,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]:pro_se_int"
+        },
+        {
+          "ci_high": 1.8627676608118158,
+          "ci_low": -3.789642681113829,
+          "coef": -0.9634375101510066,
+          "or": 0.38157894742521925,
+          "or_ci_high": 6.441540121409478,
+          "or_ci_low": 0.022603677129046408,
+          "p": 0.5040437568956613,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]:pro_se_int"
+        },
+        {
+          "ci_high": 3.010983680621769,
+          "ci_low": -0.6492193431145254,
+          "coef": 1.1808821687536217,
+          "or": 3.2572463768088302,
+          "or_ci_high": 20.307366065956344,
+          "or_ci_low": 0.5224534745064985,
+          "p": 0.205987288768824,
+          "term": "C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]:pro_se_int"
+        },
+        {
+          "ci_high": 2.332077922053031,
+          "ci_low": -5.902545623044112,
+          "coef": -1.7852338504955405,
+          "or": 0.1677578261620427,
+          "or_ci_high": 10.299320498634325,
+          "or_ci_low": 0.002732480093453333,
+          "p": 0.395422445744646,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P2]:C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]:pro_se_int"
+        },
+        {
+          "ci_high": 3.6815803429182252,
+          "ci_low": -2.3531092366893973,
+          "coef": 0.664235553114414,
+          "or": 1.943004629628748,
+          "or_ci_high": 39.70909850488085,
+          "or_ci_low": 0.09507309742362223,
+          "p": 0.6661305151704067,
+          "term": "C(period, Treatment(reference=\"P1\"))[T.P3]:C(bucket2, Treatment(reference=\"DT-PURE\"))[T.RD-PURE]:pro_se_int"
+        }
+      ],
+      "warning": ""
+    }
+  },
+  "power_notes": [
+    {
+      "cell": "DT-PURE P2 decided",
+      "n": 23,
+      "note": "Normal-approximation rough MDE for context only; do not significance-chase thin cells.",
+      "rough_mde_two_group_pp_at_p15": 0.29482492962847423
+    },
+    {
+      "cell": "RACE-DT P2 decided",
+      "n": 37,
+      "note": "Normal-approximation rough MDE for context only; do not significance-chase thin cells.",
+      "rough_mde_two_group_pp_at_p15": 0.23244877378130524
+    },
+    {
+      "cell": "RACE-DT P2 dated",
+      "n": 42,
+      "note": "Normal-approximation rough MDE for context only; do not significance-chase thin cells.",
+      "rough_mde_two_group_pp_at_p15": 0.2181742422927143
+    }
+  ]
+}

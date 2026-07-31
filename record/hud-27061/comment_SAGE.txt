@@ -1,0 +1,422 @@
+BEFORE THE
+OFFICE OF INFORMATION AND REGULATORY AFFAIRS
+OFFICE OF MANAGEMENT AND BUDGET
+WASHINGTON, DC
+____________________________________
+)
+Agency Information Collection )
+Activities; Submission for OMB Review; )
+Comment Request; )
+Proposed Information Collection: )
+Standardization Form for “Race and ) FR Doc. 7051-N-03
+Other Demographic Data Reporting ) OMB Control No. 2535-0113
+Form – HUD-27061” )
+____________________________________ )
+ATTN: Colette Pollard
+COMMENTS OF SAGE
+(SERVICES & ADVOCACY FOR LGBT ELDERS)
+Marques Hillman Richeson
+Joseph Shell
+JONES DAY
+901 Lakeside Avenue
+Cleveland, Ohio 44114-1190
+216.586.7195
+mhricheson@jonesday.com
+Counsel for SAGE
+Of Counsel:
+Aaron Tax
+Director of Advocacy, SAGE
+1200 18th Street N.W., Suite 700
+Washington, D.C. 20036
+202.997.0127
+atax@sageusa.org
+November 23, 2022
+TABLE OF CONTENTS
+Statement of Interest .................................................................................................................... 1
+Introduction and Summary ........................................................................................................ 2
+Collecting SOGI Data on Forms HUD-27061 and HUD-27061-H Is Necessary
+for the Proper Performance of HUD’s Functions. ............................................................ 3
+HUD Should Integrate SOGI Questions with Other Demographic Questions, Minimally
+Burdening Respondents ....................................................................................................... 7
+Conclusion .................................................................................................................................. 12
+i
+STATEMENT OF INTEREST
+SAGE (Services & Advocacy for LGBT Elders) is the country’s oldest and largest
+organization dedicated to improving the lives of lesbian, gay, bisexual, transgender, and
+queer (“LGBTQ+”) older adults. In conjunction with more than two dozen partners in 21
+states, SAGE offers supportive services and consumer resources to LGBTQ+ older adults
+and their caregivers, advocates for public policy changes that address the needs of
+LGBTQ+ older people, and provides training for agencies and organizations that serve
+LGBTQ+ older adults.
+Pursuant to a grant from the Department of Health and Human Services’
+Administration for Community Living, SAGE, in collaboration with 18 leading
+organizations nationwide, operates the National Resource Center on LGBTQ+ Aging
+(“NRC”), which is the country’s first and only technical-assistance resource center aimed
+at improving the quality of services and supports offered to LGBTQ+ older adults. The
+NRC provides training, technical assistance, and educational resources to aging
+providers, LGBTQ+ organizations, and LGBTQ+ older adults. In addition, the NRC has
+published, and made widely available, best practice guides, such as Inclusive Questions
+for Older Adults: A Practical Guide to Collecting Data on Sexual Orientation and Gender
+Identity.1
+With its National LGBTQ+ Housing Initiative, SAGE works to address the
+challenges LGBTQ+ older adults face in finding welcoming, affordable places to live.
+SAGE is addressing these challenges on several fronts by: advocating nationally against
+housing discrimination; training eldercare providers to be culturally competent;
+educating LGBTQ+ older adults about their housing rights; building LGBTQ+ friendly
+housing; and helping developers replicate such housing across the country.2
+1 NAT’L RES. CTR. ON LGBT AGING, Inclusive Questions for Older Adults: A Practical Guide to
+Collecting Data on Sexual Orientation and Gender Identity (2016), available at
+https://www.lgbtagingcenter.org/resources/pdfs/Sage_CollDataGuidebook2016.pdf.
+2 National LGBTQ+ Housing Initiative, SAGE, https://www.sageusa.org/what-we-do/national-lgbt-
+housing-initiative/.
+1
+INTRODUCTION AND SUMMARY
+SAGE submits these comments in support of HUD’s proposal to add sexual
+orientation and gender identity (“SOGI”) questions to Form 27061-H, and to collect SOGI
+responses via Form 27061. SOGI information is necessary for HUD to address rampant
+housing disparities and discrimination against LGBTQ+ older adults. And integrating
+SOGI questions into the existing demographic questionnaire would impose a minimal
+burden on respondents.
+LGBTQ+ older adults fare worse in many measures of socioeconomic wellbeing
+than their straight and cisgender peers. The same is true for older adults living with HIV
+or AIDS. Despite their significant need, these older adults are disproportionately
+unlikely to receive the services and supports they need to live independently. LGBTQ+
+adults across the life span, especially adults identifying as trans and gender
+non-conforming who are also racially and ethnically marginalized, experience significant
+discrimination in housing. For example, LGBTQ+ older adults are less likely to hear back
+about inquiries for housing, are at greater risk of being turned away from housing or
+being charged higher rents, and are less likely to be notified about available units.
+While SOGI data collection has historically been absent from population-based
+surveys and other administrative data collection protocols, several federal entities have
+more recently recognized the need to collect this data, including the U.S. Department of
+Health and Human Services, Centers for Disease Control and Prevention, The Joint
+Commission, and the National Institutes of Health. As HHS has explained, “[g]athering
+data on LGBT individuals will help researchers, policy makers, health care providers and
+advocates identify and address health disparities affecting the LGBT population.”3
+Likewise, for HUD, collecting SOGI data will allow the agency to fully understand
+the extent of disparities in grant-subsidized housing, and to better understand whether
+HUD is effectively assisting vulnerable LGBTQ+ adults. Including SOGI questions on
+HUD applications signals to LGBTQ+ individuals that their identities and experiences are
+valued, ultimately leading to greater participation and engagement with HUD’s
+programming.
+3 DEP’T OF HEALTH & HUM. SERVS., Better Health and Well-Being: Making Improvements for
+Lesbian, Gay, Bisexual, and Transgender (LGBT) Americans 4–5, available at
+https://www.hhs.gov/sites/default/files/lgbt-health-update-2011.pdf.
+2
+In addition to those benefits, HUD is required by law to collect SOGI data. Sections
+121.1 and 121.2 of the CFR requires participants in HUD’s programs to provide “data
+concerning the . . . sex” of “applicants for, participants in, or beneficiaries or potential
+beneficiaries of” HUD’s programs that HUD’s Secretary determines are “necessary and
+appropriate” to carry out her responsibilities under certain statutes, such as the Fair
+Housing Act and the Civil Rights Act of 1964. Those statutes prohibit discrimination on
+the basis of sex, which the President has interpreted to include sexual orientation and
+gender identity. HUD must therefore collect SOGI data to ensure that applicants for,
+participants in, or beneficiaries of HUD’s programs are not subjected to discrimination
+on the basis of their sexual orientation or gender identity.
+And given HUD’s extensive existing data-collection protocols, collecting SOGI
+data will be a relatively light lift for the agency. Forms 27061 and 27061-H already collect
+racial and ethnic data through a self-report questionnaire. Adding SOGI questions to that
+form imposes a minimal burden on HUD, potential tenants, and landlords participating
+in any of HUD’s programs.
+COLLECTING SOGI DATA ON FORMS HUD-27061 AND HUD-27061-H
+IS NECESSARY FOR THE PROPER PERFORMANCE OF HUD’S FUNCTIONS
+Economic outcomes are generally worse for LGBTQ+ adults than their straight
+counterparts.4 LGBTQ+ persons have “at least 15% higher odds of being poor than
+cisgender straight adults.”5 Roughly one-third of all LGBTQ+ persons ages 65 or older
+live at or near the federal poverty level.6 That poverty rate rises to roughly 48% for
+bisexual and transgender persons.7
+4 There are over nine million LGBTQ adults in the United States, nearly one-third of whom are over
+the age of 65. Christy Mallory & Brad Sears, WILLIAMS INST. ON SEXUAL ORIENTATION AND GENDER IDENTITY
+L. & PUB. POL’Y, Evidence of Housing Discrimination Based on Sexual Orientation and Gender Identity 1
+(2016), available at https://williamsinstitute.law.ucla.edu/wp-content/uploads/LGBT-Housing-
+Discrimination-US-Feb-2016.pdf, at 1; SAGE, Understanding the Affordable Housing Development
+Process 1 (2d ed. 2020), available at https://www.sageusa.org/wp-content/uploads/2020/07/understanding-
+the-affordable-housing-development-primer-2nd-edition.pdf.
+5 Mallory & Sears, supra note 4, at 3.
+6 SAGE, supra note 4.
+7 Id.
+3
+Those economic difficulties are compounded by discrimination. Nearly half (48%)
+of older same-sex couples have suffered some form of “adverse, differential treatment”
+when searching for housing.8 Numerous studies have shown that LGBTQ+ couples “face
+system-wide discrimination” by mortgage lenders in the form of lower approval rates
+and, if they are approved, higher interest rates and fees.9 Research has also shown that
+housing providers or agents are less likely to respond to a rental inquiry made by an
+LGBTQ+ person.10
+Transgender persons and LGBTQ+ persons of color are particular targets for
+discrimination.11 According to the U.S. Transgender Survey, transgender persons are
+three times more likely than other LGBTQ+ persons to be discriminated against because
+of their gender identity and five times more likely to be denied housing or evicted on that
+basis.12
+Those social and economic realities manifest as greater housing insecurity for
+LGBTQ+ persons compared to their straight counterparts. Less than half of all LGBTQ+
+adults own their own home, as opposed to 70% of non-LGBTQ+ adults.13 The rental
+8 Id. at 2; see also National LGBTQ+ Housing Initiative, SAGE, https://www.sageusa.org/what-we-
+do/national-lgbt-housing-initiative/; LGBTQ Equity and Housing Fact Sheet, OPPORTUNITY STARTS AT HOME,
+https://www.opportunityhome.org/resources/lgbtq-rights-and-housing-fact-sheet/; DEP’T OF HOUS. &
+URBAN DEV., An Estimate of Housing Discrimination Against Same-Sex Couples, at vi–viii (2013), available
+at https://www.huduser.gov/portal/Publications/pdf/Hsg_Disc_against_SameSexCpls_v3.pdf; Housing
+Discrimination Remains a Big Barrier for the LGBTQ+ Community, ACLU ILL. (June 28, 2021, 11:00 AM),
+https://www.aclu-il.org/en/news/housing-discrimination-remains-big-barrier-lgbtq-community.
+9 Mallory & Sears, supra note 4, at 4.
+10 Id.
+11 See generally Adam P. Romero, Shoshana K. Goldberg, & Luis A. Vasquez, WILLIAMS INST. ON
+SEXUAL ORIENTATION AND GENDER IDENTITY L. & PUB. POL’Y, LGBT People and Housing Affordability,
+Discrimination, and Homelessness (2020), available at https://williamsinstitute.law.ucla.edu/wp-
+content/uploads/LGBT-Housing-Apr-2020.pdf; see also Diane K. Levy et al., URBAN INSTIT., A
+Paired-Testing Pilot Study of Housing Discrimination Against Same-Sex Couples and Transgender
+Individuals 58–62 (2017), available at
+https://www.urban.org/sites/default/files/publication/91486/2017.06.27_hds_lgt_final_report_report_finali
+zed_0.pdf.
+12 Romero et al., supra note 11, at 20; Levy et al., supra note 11, at 37–49.
+13 Romero et al., supra note 11, at 3.
+4
+market reflects similar concerns,14 and again, LGBTQ+ persons of color suffer more. In
+2021, nearly 30% of black LGBTQ+ respondents in the Census Bureau’s survey were
+behind on their rent, compared to only 9.7% of white LGBTQ+ respondents.15 Members
+of the LGBTQ+ community are more likely to be homeless, and “once homeless, more
+likely to endure discrimination and harassment that extends their homelessness.”16 All
+of which makes LGBTQ+ individuals particularly likely to need housing assistance from
+HUD or HUD-funded programs.17
+While there has been some progress toward HUD’s goal of ensuring that every
+person has the ability “to secure a roof over their head free from discrimination,”18
+actively collecting SOGI data will help facilitate faster, more impactful results. Recent
+legal and administrative developments, such as the U.S. Supreme Court’s decision in
+Bostock and President Biden’s Executive Order 13988 on Preventing and Combating
+Discrimination on the Basis of Gender Identity or Sexual Orientation, have settled the
+question that, under federal law (including the Fair Housing Act), discrimination on the
+basis of sex includes SOGI discrimination.19 But the mere fact that SOGI discrimination
+is prohibited under the Fair Housing Act and various administrative rules, however, has
+not stopped it from occurring.
+Collecting SOGI data can help.
+SOGI data will provide HUD with the information necessary to conduct crucial
+research regarding housing and the LGBT community. In February 2022, HUD published
+14 Erik Gartland, High Hardship Among Black and Latinx LGBTQ Renters Underscores Need for More
+Housing Vouchers, CTR. ON BUDGET & POL’Y PRIORITIES (Oct. 17, 2022, 1:19 PM),
+https://www.cbpp.org/blog/high-hardship-among-black-and-latinx-lgbtq-renters-underscores-need-for-
+more-housing-vouchers..
+15 Veronica Helms, Emily Molfino, & Ben Winter, Examining Housing Experiences by Sexual
+Orientation and Gender Identity, DEP’T OF HOUS. & URBAN DEV.: EDGE (Feb. 23, 2022),
+https://www.huduser.gov/portal/pdredge/pdr-edge-spotlight-article-022222.html.
+16 LGBTQ Homelessness, HUD EXCHANGE, https://www.hudexchange.info/homelessness-
+assistance/resources-for-lgbt-homelessness/#resources-for-homeless-lgbtq-individuals-in-crisis.
+17 LGBTQ Equity and Housing Fact Sheet, supra note 8; Gartland, supra note 14.
+18 Press Release, Dep’t of Hous. & Urban Dev., HUD No. 21-021, HUD to Enforce Fair Housing Act
+to Prohibit Discrimination on the Basis of Sexual Orientation and Gender Identity (Feb. 11, 2021), available
+at https://www.hud.gov/press/press_releases_media_advisories/HUD_No_21_021.
+19 Exec. Order No. 13988, 86 Fed. Reg. 7023 (Jan. 20, 2021).
+5
+its first estimate of housing insecurity among LGBTQ+ persons, examining the
+“intersection of SOGI, race, ethnicity, and housing status.” 20 In doing so, HUD
+acknowledged the research community’s “poor track record” of studying the LGBTQ+
+community’s housing experiences, as well as policymakers’ tendency to “too often
+overlook” this “historically marginalized population.” Failing to collect SOGI data will
+only exacerbate that historical trend, “hindering” policymakers and service providers
+from “understand[ing] the experiences of the LGBTQI+ communities.”21 Although other
+housing data—such as marital status or living arrangements—allow researchers to infer
+same-sex relationships, that data imprecisely captures only the one in six LGBTQ+
+persons who happen to live with a same-sex spouse or a same-sex domestic partner.
+SOGI-specific questions are therefore needed to capture the other 83% of the LGBTQ+
+community, including single persons, LGBTQ+ persons in a relationship but not living
+with their partner, and transgender persons.22 Collecting that data through Forms 27061
+and 27061-H will capture a larger sample size than private surveys, which will “provide
+greater comprehension of the experiences of populations that are living at the intersection
+of multiple marginalized identities.” 23 More data regarding those intersecting
+populations will develop “insights [that] can lead to potential resources and interventions
+needed to better serve the community.”24
+Indeed, armed with accurate SOGI data, HUD can identify specific areas of need
+for LGBTQ+ potential tenants. Just as HHS relies on SOGI data to “identify and address
+health disparities affecting the LGBTQ+ population,”25 so too will that data help HUD
+address housing disparities. For instance, if the percentage of LGBTQ+ persons in an area
+is disproportionate to the number of LGBTQ+ persons receiving HUD assistance in that
+20 Helms et al., supra note 15.
+21 Caroline Medina & Lindsay Mahowald, Collecting Data About LGBTQI+ and Other Sexual and
+Gender-Diverse Communities, CTR. FOR AM. PROGRESS (May 24, 2022),
+https://www.americanprogress.org/article/collecting-data-about-lgbtqi-and-other-sexual-and-gender-
+diverse-communities/.
+22 Id.
+23 Id.
+24 Jennifer M. Ortman & Karen L. Parker, FED. COMM. ON STAT. METHODOLOGY, Why Do Federal
+Agencies Ask About Sexual Orientation and Gender Identity (SOGI) on Surveys? 1 (2021), available at
+https://nces.ed.gov/FCSM/pdf/FCSM_21_01_062221.pdf.
+25 DEP’T OF HEALTH & HUM. SERVS., supra note 3.
+6
+area, HUD will be alerted to possible discrimination. Likewise, if HUD discovers that a
+particular developer houses a relatively high number of LGBTQ+ individuals, HUD can
+learn what makes that developer’s housing so attractive, and can facilitate future projects
+with that developer. That is how cities with robust LGBTQ+-centric housing programs
+use SOGI data—to help them plan “future programming for LGBT[Q+] older people” and
+to “understand the outcomes and effectiveness” of their existing housing developments.26
+Simply put, without SOGI data, HUD’s ability to carry out its core functions is
+significantly impaired. Such data is necessary to craft policy solutions that advance
+housing equity and the policy directives President Biden announced in Executive Order
+13988.
+HUD SHOULD INTEGRATE SOGI QUESTIONS WITH OTHER DEMOGRAPHIC QUESTIONS,
+MINIMALLY BURDENING RESPONDENTS
+Just as important as HUD collecting SOGI data is how HUD collects that data.
+HUD should add SOGI questions to Form 27061-H alongside existing questions
+regarding ethnicity and race. That is, SOGI questions should be integrated with the other
+demographic questions so as to underscore the message that SOGI information is a key
+part of the whole individual. Separating SOGI questions from other demographic
+information may inadvertently enforce feelings of stigma and discrimination in LGBTQ+
+persons.
+HUD should add questions to Form 27061-H targeting three discrete data points,
+which would then be compiled on Form 27061: (1) applicants’ sex assigned at birth, (2)
+which gender they identify as now, and (3) their sexual orientation. SAGE recommends
+the following questions and definitions:
+Select
+Sex assigned at birth
+One
+Male
+Female
+Don’t know
+Prefer not to answer
+26 SAGE, supra note 4, at 6–7, 49; see also Medina & Mahowald, supra note 21.
+7
+Sex assigned at birth: Answer this question based on the sex designation—male,
+female, or intersex—given by a doctor at your birth and as indicated on your birth
+certificate.
+Select
+Gender Identity*
+One
+Male
+Female
+Transgender
+Non-binary
+Something else
+Don’t know
+Prefer not to answer
+Gender identity: Answer this question based on your inner sense of being male, female,
+or another gender. This may or may not be the same as the sex assigned to you at birth.
+• Male/Man: You identify as a boy/man/male.
+• Female/Woman: You identify as a girl/woman/female.
+• Transgender: Your gender identity differs from the sex you were assigned at
+birth.
+• Non-binary: Your gender identity does not fall into the category of male or
+female.
+• Something else: Your gender identity is not male, female, transgender, or non-
+binary (i.e., genderqueer).
+8
+Select
+Sexual Orientation*
+One
+Gay or lesbian
+Straight
+Bisexual
+Something else
+Don’t know
+Prefer not to answer
+Sexual orientation: Answer this question based on your primary physical, romantic, or
+emotional attraction to others.
+• Gay: You identify as a man and are primarily attracted to other men.
+• Lesbian: You identify as a woman and are primarily attracted to other women.
+• Straight: You identify as a man and are primarily attracted to women, or you
+identify as a woman and are primarily attracted to men.
+• Bisexual: You identify as either a man or a woman and are primarily attracted
+to both men and women.
+• Something else: Your sexual orientation is not gay, lesbian, straight, or
+bisexual. This includes but is not limited to a person primarily attracted to
+people regardless of gender identity (pansexual); a person who experiences
+little or no attraction to other people (asexual); or a person who describes their
+sexual orientation as “queer.”
+These questions largely mirror the National Academies of Sciences, Engineering,
+and Medicine’s recommended questions for collecting SOGI data, as laid out in their
+comprehensive 2020 report.27 One notable difference is the proposed sexual-orientation
+question, which here omits the phrase “that is, not gay or lesbian.”28 As noted by the
+27 NAT’L ACADS. OF SCIS., ENG’G, & MED., Understanding the Well-Being of LGBTQI+ Populations
+83–85 (2020), available at https://nap.nationalacademies.org/catalog/25877/understanding-the-well-being-
+of-lgbtqi-populations.
+28 Compare with id. at 83–84.
+9
+Center for American Progress, clarifying “straight” with the phrase “that is, not gay or
+lesbian” wrongly and inaccurately “reinforces” heterosexuality as the normative sexual
+orientation.29 Not to mention that clarifying what is meant by “straight” is likely
+unnecessary to achieve accurate answers.30
+Asking these questions and collecting their responses will impose a minimal
+burden on all involved. As indicated in its request for comment, HUD anticipates a
+minimal burden to respondents—30 minutes to complete the form—and to HUD staff—
+1.5 hours total for three staffers to review each form. The anticipated financial cost
+($561,918.75) is a miniscule slice of HUD’s $62.7 billion budget.31
+Those minor costs will be more than offset by an anticipated high response rate.
+Although the conventional thinking was that LGBTQ+ persons are hard to survey or
+unlikely to participate in demographic surveys, recent studies have shown the opposite.32
+One study found no additional burden in surveying LGBTQ+ persons compared to
+non-LGBTQ+ persons.33 In fact, LGBTQ+ persons are likely to participate in demographic
+surveys at a higher rate than non-LGBTQ+ persons.34 While social stigma used to be a
+roadblock to gathering accurate SOGI data, and still remains a concern—especially for
+transgender persons—it no longer prevents most LGBTQ+ persons from answering
+29 Medina & Mahowald, supra note 21.
+30 Id.
+31 Press Release, House Comm. on Appropriations, Appropriations Committee Releases Fiscal Year
+2023 Transportation, and Housing and Urban Development, and Related Agencies Funding Bill (June 22,
+2022) (HUD’s SOGI collection accounts for .00000896% of the Department’s 2023 budget), available at
+https://appropriations.house.gov/news/press-releases/appropriations-committee-releases-fiscal-year-
+2023-transportation-and-
+housing#:~:text=Department%20of%20Housing%20and%20Urban%20Development%20(HUD)%E2%80%
+94For%20fiscal,the%20President's%202023%20budget%20request.
+32 Sunghee Lee et al., Are Sexual Minorities Less Likely to Participate in Surveys? An Examination of
+Proxy Nonresponse Measures and Associate Biases with Sexual Orientation in a Population-Based Health Survey,
+30 FIELD METHODS 208, 209 (2018), available at
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6519959/pdf/nihms-990437.pdf.
+33 Nancy Bates, Yazmin A. Garcia Trejo, & Monica Vines, Are Sexual Minorities Hard-to-Survey?
+Insights from the 2020 Census Barriers, Attitudes, and Motivators (CBAMS) Survey, 35 J. OFF. STATS. 709, 718
+(2019), available at https://sciendo.com/article/10.2478/jos-2019-0030.
+34 Id.
+10
+survey questions about their sexual orientation or gender identity. 35 LGBTQ+
+individuals’ high response rate holds steady no matter how the survey is conducted,36 so
+collecting SOGI data from applicants or tenants via either electronic or hard copies of
+Form 27061-H should not affect whether LGBTQ+ persons participate. HUD could leave
+the method of collating that data to the discretion of each housing owner or agent, as
+owners and agents are responsible for completing Form 27061 and submitting it via
+TRACS.37
+SAGE recommends that HUD collect SOGI data at each “interim or annual re-
+certification,”38 as it does for ethnic and racial data. If HUD were to ask SOGI questions
+only at a tenant’s initial application or lease signing, those responses could become
+inaccurate as a person’s understanding of their sexual orientation or gender identity
+evolves. For just one example, at the time of the initial application, a person who is
+attracted to both men and women may nevertheless not identify as bisexual, for myriad
+reasons, including an unwillingness to “put a label on” their sexuality, discomfort with
+it, or because they simply had not thought about it. Years later, however, that person
+may identify as bisexual, and HUD asking SOGI questions at each interim or annual re-
+certification will make sure that such a person is accounted for. Plus, SOGI can be fluid
+over a person’s lifetime.39 A recent study surveying transgender persons found that more
+than half of respondents reported some shift in attraction in their lifetime, a number that
+rises to nearly 65% for transgender persons who have socially transitioned.40 Potential
+fluidity is a reason why the CDC recommends that SOGI “should be reassessed
+35 Sunghee Lee et al., supra note 32.
+36 Medina & Mahowald, supra note 21.
+37 See Form 27061-H (“Owners/agents must offer the opportunity to the head and co-head of each
+household to ‘self-certify’ during the application interview or lease signing. In-place tenants must complete
+the form[] as part of their next interim or annual re-certification.”).
+38 Id.
+39 Collecting Sexual Orientation and Gender Identity Information, CTRS. FOR DISEASE CONTROL &
+PREVENTION (Mar. 9, 2022), https://www.cdc.gov/hiv/clinicians/transforming-health/health-care-
+providers/collecting-sexual-orientation.html.
+40 Sunghee Lee et al., supra note 32, at 215.
+11
+periodically.”41 For that same reason, HUD should collect SOGI data as often as it collects
+ethnic and racial data.
+CONCLUSION
+For the foregoing reasons, SAGE supports HUD’s proposal to add SOGI questions
+to Form 27061-H and to collect SOGI responses via Form 27061.
+Respectfully submitted,
+______________________
+Marques Hillman Richeson
+Joseph Shell
+JONES DAY
+901 Lakeside Avenue
+Cleveland, Ohio 44114-1190
+216.586.7195
+mhricheson@jonesday.com
+Counsel for SAGE
+Of Counsel:
+Aaron Tax
+Director of Advocacy, SAGE
+1200 18th Street N.W., Suite 700
+Washington, DC 20036
+202.997.0127
+atax@sageusa.org
+November 23, 2022
+41 Collecting Sexual Orientation and Gender Identity Information, supra note 39.
+12

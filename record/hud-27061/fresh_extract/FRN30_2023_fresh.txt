@@ -1,0 +1,76 @@
+                                         5370                         Federal Register / Vol. 88, No. 18 / Friday, January 27, 2023 / Notices
+
+                                         C. Authority                                 StartPrinted Page15501PRAMain. Find            Description of the need for the
+                                                                                      this particular information collection by   information and proposed use: The
+                                            Section 3507 of the Paperwork             selecting ``Currently under 30-day          information collected through HUD's
+                                         Reduction Act of 1995, 44 U.S.C.             Review--Open for Public Comments'' or       standardized Form for the Collection of
+                                         Chapter 35.                                  by using the search function.               Race and Ethnic Data is required under
+                                                                                                                                  24 CFR--PART 1--Nondiscrimination
+                                         Anna Guido,                                  FOR FURTHER INFORMATION CONTACT:            in Federally Assisted Programs of the
+                                         Department Reports Management Officer,       Anna Guido, Reports Management              Department of Housing and Urban
+                                         Office of the Chief Information Officer.     Officer, REE, Department of Housing         Development--Effectuation of the Title
+                                         [FR Doc. 2023­01700 Filed 1­26­23; 8:45 am]  and Urban Development, 451 7th Street       VI of the Civil Rights Act of 1964.
+                                                                                      SW, Washington, DC 20410; email Anna        HUD's Title VI regulations, specifically
+                                         BILLING CODE 4210­67­P                       Guido at Anna.P.Guido@hud.gov ;             24 CFR 1.6, require recipients of Federal
+                                                                                      telephone 202­402­5535. HUD                 financial assistance to maintain and
+                                         DEPARTMENT OF HOUSING AND                    welcomes and is prepared to receive         submit racial and ethnic data so HUD
+                                         URBAN DEVELOPMENT                            calls from individuals who are deaf or      may determine whether such programs
+                                                                                      hard of hearing, as well as individuals     comply with Title VI data collection
+                                         [Docket No. FR­7070­N­06; OMB Control        with speech or communication                requirements. HUD must offer
+                                         No. 2535­0113]                               disabilities. To learn more about how to    individuals who are responding to
+                                                                                      make an accessible telephone call,          agency data requests for race the option
+                                         30-Day Notice of Proposed Information        please visit https://www.fcc.gov/           of selecting one or more of five racial
+                                         Collection: Race and Ethnic Collection       consumers/guides/telecommunications-        categories. HUD must also treat
+                                                                                      relay-service-trs. Copies of available      ethnicity as a category separate from
+                                         AGENCY: Office of Policy Development         documents submitted to OMB may be           race. Title VI requires recipients of HUD
+                                         and Research, Chief Data Officer, HUD.       obtained from Ms. Guido.                    funding to maintain records, make them
+                                         ACTION: Notice.                                                                          available to responsible Department
+                                                                                      SUPPLEMENTARY INFORMATION: This             officials, and if requested, submit
+                                         SUMMARY: HUD has submitted the               notice informs the public that HUD has      compliance reports. For example, HUD
+                                         proposed information collection              submitted to OMB a request for              grant programs may request information
+                                         requirement described below to the           approval of the information collection      during program monitoring and
+                                         Office of Management and Budget              described in Section A. The Federal         compliance reviews to ensure
+                                         (OMB) for review, in accordance with         Register notice that solicited public       compliance with the nondiscrimination
+                                         the Paperwork Reduction Act. The             comment on the information collection       requirements of Title VI.
+                                         purpose of this notice is to allow for an    for a period of 60 days was published
+                                         additional 30 days of public comment.        on September 27, 2022 at 87 FR 58524.          A draft HUD--27061 Race and Ethnic
+                                         DATES: Comments Due Date: February                                                       Data Reporting Form is available on
+                                         27, 2023.                                    A. Overview of Information Collection       HUD's website, https://www.hud.gov/
+                                         ADDRESSES: Interested persons are                                                        program_offices/administration/
+                                         invited to submit comments regarding            Title of Information Collection: Race    hudclips/forms/, while HUD proceeds
+                                         this proposal. Written comments and          and Ethnic Data Collection.                 with seeking approval from OMB for
+                                         recommendations for the proposed                                                         this information collection.
+                                         information collection should be sent           OMB Approval Number: 2535­0113.
+                                         within 30 days of publication of this           Type of Request Revisions of                Respondents:
+                                         notice to www.reginfo.gov/public/do/         currently approved collection.
+                                                                                         Form Number: HUD­27061.
+
+                                         Information collection        Number of   Frequency of  Responses  Burden hour Annual burden Hourly cost                          Annual cost
+                                                                      respondents    response    per annum
+                                                                                                            per response          hours                      per response
+
+                                         HUD­27061 .................  14,375          1.2        17,250     0.50                  $8,625.00                  * $45.43      $391,833.75
+
+                                            * Median hourly rate for ``Project Management Specialists'' (occupation code 13­1082), May 2021 National Occupational Employment and
+                                         Wage Estimates United States, https://www.bls.gov/oes/current/oes_nat.htm#11-0000.
+
+khammond on DSKJM1Z7X2PROD with NOTICES  B. Solicitation of Public Comment               (3) Ways to enhance the quality,            HUD encourages interested parties to
+                                                                                      utility, and clarity of the information to  submit comment in response to these
+                                            This notice is soliciting comments        be collected; and                           questions.
+                                         from members of the public and affected
+                                         parties concerning the collection of            (4) Ways to minimize the burden of       C. Authority
+                                         information described in Section A on        the collection of information on those
+                                         the following:                               who are to respond; including through          Section 3507 of the Paperwork
+                                                                                      the use of appropriate automated            Reduction Act of 1995, 44 U.S.C.
+                                            (1) Whether the proposed collection       collection techniques or other forms of     Chapter 35.
+                                         of information is necessary for the          information technology, e.g., permitting
+                                         proper performance of the functions of       electronic submission of responses.         Anna Guido,
+                                         the agency, including whether the                                                        Department Reports Management Officer,
+                                         information will have practical utility;        (5) ways to minimize the burden of       Office of the Chief Information Officer.
+                                                                                      the collection of information on those      [FR Doc. 2023­01699 Filed 1­26­23; 8:45 am]
+                                            (2) The accuracy of the agency's          who are to respond, including the use
+                                         estimate of the burden of the proposed       of automated collection techniques or       BILLING CODE 4210­67­P
+                                         collection of information;                   other forms of information technology.
+
+                                         VerDate Sep<11>2014 16:53 Jan 26, 2023 Jkt 259001 PO 00000 Frm 00072 Fmt 4703 Sfmt 4703 E:\FR\FM\27JAN1.SGM 27JAN1
+

@@ -1,0 +1,235 @@
+cohort,dimension,category,period,numerator,denominator,share,ci_low,ci_high,registered_status,claim_gate,note
+DIS,bucket_mix,DT-PURE,P1,18,176,0.102273,0.062500,0.147727,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,bucket_mix,MIXED,P1,53,176,0.301136,0.238636,0.369318,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,bucket_mix,OTHER,P1,11,176,0.062500,0.028409,0.102273,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,bucket_mix,RD-PURE,P1,94,176,0.534091,0.460227,0.607955,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,bucket_mix,DT-PURE,P2,5,40,0.125000,0.025000,0.225000,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,bucket_mix,MIXED,P2,17,40,0.425000,0.275000,0.575000,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,bucket_mix,OTHER,P2,2,40,0.050000,0.000000,0.125000,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,bucket_mix,RD-PURE,P2,16,40,0.400000,0.250000,0.550000,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,bucket_mix,DT-PURE,P3,14,81,0.172840,0.098765,0.259259,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,bucket_mix,MIXED,P3,26,81,0.320988,0.222222,0.419753,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,bucket_mix,OTHER,P3,3,81,0.037037,0.000000,0.086420,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,bucket_mix,RD-PURE,P3,38,81,0.469136,0.358025,0.580247,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,institutional_share,institutional,P1,73,176,0.414773,0.340909,0.482955,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,institutional_share,noninstitutional,P1,103,176,0.585227,0.511364,0.659091,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,institutional_share,institutional,P2,17,40,0.425000,0.275000,0.575000,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,institutional_share,noninstitutional,P2,23,40,0.575000,0.425000,0.725000,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,institutional_share,institutional,P3,30,81,0.370370,0.271605,0.469136,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,institutional_share,noninstitutional,P3,51,81,0.629630,0.518519,0.728395,disclosed,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,10th Circuit,P1,8,176,0.045455,0.017045,0.079545,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,11th Circuit,P1,17,176,0.096591,0.056818,0.142045,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,1st Circuit,P1,1,176,0.005682,0.000000,0.017045,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,2nd Circuit,P1,15,176,0.085227,0.045455,0.125000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,3rd Circuit,P1,26,176,0.147727,0.096591,0.198864,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,4th Circuit,P1,8,176,0.045455,0.017045,0.079545,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,5th Circuit,P1,20,176,0.113636,0.073864,0.164773,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,6th Circuit,P1,19,176,0.107955,0.062500,0.159091,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,7th Circuit,P1,15,176,0.085227,0.045455,0.130682,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,8th Circuit,P1,1,176,0.005682,0.000000,0.017045,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,9th Circuit,P1,37,176,0.210227,0.147727,0.272727,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,D.C. Circuit,P1,2,176,0.011364,0.000000,0.028409,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,MISSING,P1,7,176,0.039773,0.017045,0.068182,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,10th Circuit,P2,2,40,0.050000,0.000000,0.125000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,11th Circuit,P2,2,40,0.050000,0.000000,0.125000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,1st Circuit,P2,0,40,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,2nd Circuit,P2,7,40,0.175000,0.075000,0.300000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,3rd Circuit,P2,3,40,0.075000,0.000000,0.175000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,4th Circuit,P2,4,40,0.100000,0.025000,0.200000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,5th Circuit,P2,4,40,0.100000,0.025000,0.200000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,6th Circuit,P2,2,40,0.050000,0.000000,0.125000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,7th Circuit,P2,5,40,0.125000,0.025000,0.250000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,8th Circuit,P2,2,40,0.050000,0.000000,0.125000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,9th Circuit,P2,7,40,0.175000,0.075000,0.300000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,D.C. Circuit,P2,0,40,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,MISSING,P2,2,40,0.050000,0.000000,0.125000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,10th Circuit,P3,8,81,0.098765,0.037037,0.172840,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,11th Circuit,P3,8,81,0.098765,0.037037,0.160494,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,1st Circuit,P3,2,81,0.024691,0.000000,0.061728,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,2nd Circuit,P3,10,81,0.123457,0.061728,0.197531,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,3rd Circuit,P3,11,81,0.135802,0.061728,0.209877,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,4th Circuit,P3,5,81,0.061728,0.012346,0.123457,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,5th Circuit,P3,8,81,0.098765,0.037037,0.172840,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,6th Circuit,P3,7,81,0.086420,0.024691,0.148148,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,7th Circuit,P3,5,81,0.061728,0.012346,0.123457,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,8th Circuit,P3,6,81,0.074074,0.024691,0.135802,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,9th Circuit,P3,11,81,0.135802,0.061728,0.222222,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,D.C. Circuit,P3,0,81,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,court_circuit_mix,MISSING,P3,0,81,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,DEVELOPER,P1,4,176,0.022727,0.005682,0.045455,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,GOVERNMENT,P1,2,176,0.011364,0.000000,0.028409,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,GROUP_HOME_OPERATOR,P1,1,176,0.005682,0.000000,0.017045,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,HOA_CONDO_ASSN,P1,21,176,0.119318,0.073864,0.164773,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,HOUSING_AUTHORITY,P1,15,176,0.085227,0.045455,0.130682,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,INDIVIDUAL_TENANT,P1,1,176,0.005682,0.000000,0.017045,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,LANDLORD,P1,2,176,0.011364,0.000000,0.028409,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,MUNICIPALITY,P1,50,176,0.284091,0.221591,0.352273,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,OTHER,P1,10,176,0.056818,0.028409,0.096591,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,PRIVATE_LANDLORD,P1,45,176,0.255682,0.193182,0.318182,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,PROPERTY_MANAGEMENT,P1,23,176,0.130682,0.085227,0.181818,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,PROPERTY_MANAGER,P1,1,176,0.005682,0.000000,0.017045,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,REAL_ESTATE_AGENT,P1,1,176,0.005682,0.000000,0.017045,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,DEVELOPER,P2,0,40,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,GOVERNMENT,P2,0,40,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,GROUP_HOME_OPERATOR,P2,0,40,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,HOA_CONDO_ASSN,P2,7,40,0.175000,0.075000,0.300000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,HOUSING_AUTHORITY,P2,4,40,0.100000,0.025000,0.200000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,INDIVIDUAL_TENANT,P2,0,40,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,LANDLORD,P2,1,40,0.025000,0.000000,0.075000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,MUNICIPALITY,P2,16,40,0.400000,0.250000,0.550000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,OTHER,P2,0,40,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,PRIVATE_LANDLORD,P2,9,40,0.225000,0.100000,0.350000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,PROPERTY_MANAGEMENT,P2,3,40,0.075000,0.000000,0.175000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,PROPERTY_MANAGER,P2,0,40,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,REAL_ESTATE_AGENT,P2,0,40,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,DEVELOPER,P3,2,81,0.024691,0.000000,0.061728,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,GOVERNMENT,P3,2,81,0.024691,0.000000,0.061728,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,GROUP_HOME_OPERATOR,P3,0,81,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,HOA_CONDO_ASSN,P3,10,81,0.123457,0.049383,0.197531,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,HOUSING_AUTHORITY,P3,6,81,0.074074,0.024691,0.135802,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,INDIVIDUAL_TENANT,P3,0,81,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,LANDLORD,P3,1,81,0.012346,0.000000,0.037037,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,MUNICIPALITY,P3,30,81,0.370370,0.271605,0.481481,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,OTHER,P3,3,81,0.037037,0.000000,0.086420,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,PRIVATE_LANDLORD,P3,16,81,0.197531,0.111111,0.283951,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,PROPERTY_MANAGEMENT,P3,11,81,0.135802,0.061728,0.209877,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,PROPERTY_MANAGER,P3,0,81,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,defendant_type_mix,REAL_ESTATE_AGENT,P3,0,81,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,ADMINISTRATIVE_REVIEW,P1,2,176,0.011364,0.000000,0.028409,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,APPEAL,P1,29,176,0.164773,0.113636,0.221591,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,DEFAULT_JUDGMENT,P1,1,176,0.005682,0.000000,0.017045,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,DISCOVERY,P1,1,176,0.005682,0.000000,0.017045,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,MOTION_TO_DISMISS,P1,69,176,0.392045,0.323864,0.460227,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,OTHER,P1,3,176,0.017045,0.000000,0.039773,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,OTHER_PROCEDURAL,P1,7,176,0.039773,0.011364,0.068182,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,PRELIMINARY_INJUNCTION,P1,12,176,0.068182,0.034091,0.107955,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,SETTLEMENT_CONSENT,P1,1,176,0.005682,0.000000,0.017045,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,SUMMARY_JUDGMENT,P1,41,176,0.232955,0.170455,0.295455,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,TRIAL,P1,10,176,0.056818,0.028409,0.090909,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,ADMINISTRATIVE_REVIEW,P2,0,40,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,APPEAL,P2,7,40,0.175000,0.075000,0.300000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,DEFAULT_JUDGMENT,P2,0,40,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,DISCOVERY,P2,0,40,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,MOTION_TO_DISMISS,P2,16,40,0.400000,0.250000,0.550000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,OTHER,P2,0,40,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,OTHER_PROCEDURAL,P2,1,40,0.025000,0.000000,0.075000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,PRELIMINARY_INJUNCTION,P2,2,40,0.050000,0.000000,0.125000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,SETTLEMENT_CONSENT,P2,0,40,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,SUMMARY_JUDGMENT,P2,13,40,0.325000,0.175000,0.475000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,TRIAL,P2,1,40,0.025000,0.000000,0.075000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,ADMINISTRATIVE_REVIEW,P3,0,81,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,APPEAL,P3,15,81,0.185185,0.111111,0.271605,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,DEFAULT_JUDGMENT,P3,2,81,0.024691,0.000000,0.061728,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,DISCOVERY,P3,1,81,0.012346,0.000000,0.037037,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,MOTION_TO_DISMISS,P3,25,81,0.308642,0.209877,0.407407,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,OTHER,P3,2,81,0.024691,0.000000,0.061728,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,OTHER_PROCEDURAL,P3,7,81,0.086420,0.037037,0.148148,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,PRELIMINARY_INJUNCTION,P3,5,81,0.061728,0.012346,0.123457,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,SETTLEMENT_CONSENT,P3,0,81,0.000000,0.000000,0.000000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,SUMMARY_JUDGMENT,P3,23,81,0.283951,0.185185,0.382716,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,procedural_posture_mix,TRIAL,P3,1,81,0.012346,0.000000,0.037037,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,section_504_ra_overlay_share,is_ra_case_false,P1,45,176,0.255682,0.193182,0.318182,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,section_504_ra_overlay_share,is_ra_case_true,P1,131,176,0.744318,0.681818,0.806818,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,section_504_ra_overlay_share,is_ra_case_false,P2,9,40,0.225000,0.100000,0.350000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,section_504_ra_overlay_share,is_ra_case_true,P2,31,40,0.775000,0.650000,0.900000,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,section_504_ra_overlay_share,is_ra_case_false,P3,25,81,0.308642,0.209877,0.407407,registered,APPENDIX-READY,featured represented decided disability cohort
+DIS,section_504_ra_overlay_share,is_ra_case_true,P3,56,81,0.691358,0.592593,0.790123,registered,APPENDIX-READY,featured represented decided disability cohort
+RACE-DT,bucket_mix,DT-PURE,P1,33,42,0.785714,0.642857,0.904762,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,bucket_mix,MIXED,P1,1,42,0.023810,0.000000,0.071429,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,bucket_mix,OTHER,P1,8,42,0.190476,0.071429,0.309524,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,bucket_mix,RD-PURE,P1,0,42,0.000000,0.000000,0.000000,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,bucket_mix,DT-PURE,P2,8,10,0.800000,0.500000,1.000000,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,bucket_mix,MIXED,P2,2,10,0.200000,0.000000,0.500000,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,bucket_mix,OTHER,P2,0,10,0.000000,0.000000,0.000000,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,bucket_mix,RD-PURE,P2,0,10,0.000000,0.000000,0.000000,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,bucket_mix,DT-PURE,P3,17,19,0.894737,0.736842,1.000000,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,bucket_mix,MIXED,P3,0,19,0.000000,0.000000,0.000000,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,bucket_mix,OTHER,P3,2,19,0.105263,0.000000,0.263158,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,bucket_mix,RD-PURE,P3,0,19,0.000000,0.000000,0.000000,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,institutional_share,institutional,P1,5,42,0.119048,0.023810,0.214286,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,institutional_share,noninstitutional,P1,37,42,0.880952,0.785714,0.976190,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,institutional_share,institutional,P2,0,10,0.000000,0.000000,0.000000,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,institutional_share,noninstitutional,P2,10,10,1.000000,1.000000,1.000000,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,institutional_share,institutional,P3,1,19,0.052632,0.000000,0.157895,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,institutional_share,noninstitutional,P3,18,19,0.947368,0.842105,1.000000,disclosed,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,10th Circuit,P1,1,42,0.023810,0.000000,0.071429,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,11th Circuit,P1,4,42,0.095238,0.023810,0.190476,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,1st Circuit,P1,4,42,0.095238,0.023810,0.190476,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,2nd Circuit,P1,6,42,0.142857,0.047619,0.261905,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,3rd Circuit,P1,2,42,0.047619,0.000000,0.119048,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,4th Circuit,P1,5,42,0.119048,0.023810,0.214286,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,5th Circuit,P1,5,42,0.119048,0.023810,0.214286,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,6th Circuit,P1,3,42,0.071429,0.000000,0.142857,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,7th Circuit,P1,4,42,0.095238,0.023810,0.190476,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,9th Circuit,P1,4,42,0.095238,0.023810,0.190476,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,D.C. Circuit,P1,4,42,0.095238,0.023810,0.190476,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,10th Circuit,P2,0,10,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,11th Circuit,P2,1,10,0.100000,0.000000,0.300000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,1st Circuit,P2,0,10,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,2nd Circuit,P2,1,10,0.100000,0.000000,0.300000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,3rd Circuit,P2,2,10,0.200000,0.000000,0.500000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,4th Circuit,P2,1,10,0.100000,0.000000,0.300000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,5th Circuit,P2,1,10,0.100000,0.000000,0.300000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,6th Circuit,P2,0,10,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,7th Circuit,P2,2,10,0.200000,0.000000,0.500000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,9th Circuit,P2,0,10,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,D.C. Circuit,P2,2,10,0.200000,0.000000,0.500000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,10th Circuit,P3,0,19,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,11th Circuit,P3,5,19,0.263158,0.052632,0.473684,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,1st Circuit,P3,1,19,0.052632,0.000000,0.157895,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,2nd Circuit,P3,1,19,0.052632,0.000000,0.157895,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,3rd Circuit,P3,0,19,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,4th Circuit,P3,2,19,0.105263,0.000000,0.263158,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,5th Circuit,P3,4,19,0.210526,0.052632,0.421053,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,6th Circuit,P3,1,19,0.052632,0.000000,0.157895,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,7th Circuit,P3,1,19,0.052632,0.000000,0.157895,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,9th Circuit,P3,3,19,0.157895,0.000000,0.315789,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,court_circuit_mix,D.C. Circuit,P3,1,19,0.052632,0.000000,0.157895,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,DEVELOPER,P1,0,42,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,GOVERNMENT,P1,3,42,0.071429,0.000000,0.166667,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,HOA_CONDO_ASSN,P1,5,42,0.119048,0.023810,0.214286,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,HOUSING_AUTHORITY,P1,2,42,0.047619,0.000000,0.119048,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,MUNICIPALITY,P1,8,42,0.190476,0.071429,0.309524,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,OTHER,P1,10,42,0.238095,0.119048,0.380952,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,PRIVATE_LANDLORD,P1,9,42,0.214286,0.095238,0.333333,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,PROPERTY_MANAGEMENT,P1,5,42,0.119048,0.023810,0.214286,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,DEVELOPER,P2,1,10,0.100000,0.000000,0.300000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,GOVERNMENT,P2,1,10,0.100000,0.000000,0.300000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,HOA_CONDO_ASSN,P2,4,10,0.400000,0.100000,0.700000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,HOUSING_AUTHORITY,P2,1,10,0.100000,0.000000,0.300000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,MUNICIPALITY,P2,0,10,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,OTHER,P2,2,10,0.200000,0.000000,0.500000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,PRIVATE_LANDLORD,P2,0,10,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,PROPERTY_MANAGEMENT,P2,1,10,0.100000,0.000000,0.300000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,DEVELOPER,P3,0,19,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,GOVERNMENT,P3,0,19,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,HOA_CONDO_ASSN,P3,7,19,0.368421,0.157895,0.578947,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,HOUSING_AUTHORITY,P3,1,19,0.052632,0.000000,0.157895,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,MUNICIPALITY,P3,3,19,0.157895,0.000000,0.315789,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,OTHER,P3,2,19,0.105263,0.000000,0.263158,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,PRIVATE_LANDLORD,P3,4,19,0.210526,0.052632,0.421053,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,defendant_type_mix,PROPERTY_MANAGEMENT,P3,2,19,0.105263,0.000000,0.263158,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,APPEAL,P1,8,42,0.190476,0.071429,0.309524,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,DISCOVERY,P1,0,42,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,MOTION_TO_DISMISS,P1,21,42,0.500000,0.357143,0.642857,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,OTHER,P1,0,42,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,OTHER_PROCEDURAL,P1,0,42,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,SUMMARY_JUDGMENT,P1,13,42,0.309524,0.190476,0.452381,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,APPEAL,P2,2,10,0.200000,0.000000,0.500000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,DISCOVERY,P2,1,10,0.100000,0.000000,0.300000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,MOTION_TO_DISMISS,P2,5,10,0.500000,0.200000,0.800000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,OTHER,P2,0,10,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,OTHER_PROCEDURAL,P2,0,10,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,SUMMARY_JUDGMENT,P2,2,10,0.200000,0.000000,0.500000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,APPEAL,P3,4,19,0.210526,0.052632,0.421053,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,DISCOVERY,P3,0,19,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,MOTION_TO_DISMISS,P3,8,19,0.421053,0.210526,0.631579,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,OTHER,P3,1,19,0.052632,0.000000,0.157895,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,OTHER_PROCEDURAL,P3,1,19,0.052632,0.000000,0.157895,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,procedural_posture_mix,SUMMARY_JUDGMENT,P3,5,19,0.263158,0.052632,0.473684,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,section_504_ra_overlay_share,is_ra_case_false,P1,42,42,1.000000,1.000000,1.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,section_504_ra_overlay_share,is_ra_case_true,P1,0,42,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,section_504_ra_overlay_share,is_ra_case_false,P2,9,10,0.900000,0.700000,1.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,section_504_ra_overlay_share,is_ra_case_true,P2,1,10,0.100000,0.000000,0.300000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,section_504_ra_overlay_share,is_ra_case_false,P3,19,19,1.000000,1.000000,1.000000,registered,APPENDIX-READY,thin represented context cohort
+RACE-DT,section_504_ra_overlay_share,is_ra_case_true,P3,0,19,0.000000,0.000000,0.000000,registered,APPENDIX-READY,thin represented context cohort

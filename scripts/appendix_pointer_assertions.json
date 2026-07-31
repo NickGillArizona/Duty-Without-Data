@@ -1,0 +1,152 @@
+{
+ "_comment": "Assertion inventory for check_appendix_pointers.py. Each record routes a repository-pointing raw footnote label to its target file, section heading (null = whole file), and the literals the footnote states that the target must carry. Rows are added only after the target has been verified by inspection; FOOTNOTE_INDEX.md is the reader-facing companion to this registry.",
+ "pointers": [
+  {
+   "raw_footnote": "86",
+   "target_file": "article/appendices/Appendix_E_Accommodation_Defendant_Analysis.md",
+   "target_heading": "### E.1.1 Claim-Specificity Validation (cited by fn 86)",
+   "required_literals": ["66.6%", "74.7%", "85%"],
+   "note": "claim-specificity blind-validation record; provenance table links results/specificity_threelayer/"
+  },
+  {
+   "raw_footnote": "70",
+   "target_file": "article/appendices/Appendix_A4_Reproducibility_Audit.md",
+   "target_heading": null,
+   "required_literals": ["77.7%", "129/166", "4.18"],
+   "note": "per-window qualifying-judgment series, broad rates, and the disposition-lag sensitivity cell"
+  },
+  {
+   "raw_footnote": "76",
+   "target_file": "article/appendices/FN76_AGREEMENT.md",
+   "target_heading": null,
+   "required_literals": ["66.6"],
+   "note": "descriptive gate counts and driver-field agreement support"
+  },
+  {
+   "raw_footnote": "89",
+   "target_file": "article/appendices/Appendix_A6_Comparator_Analysis.md",
+   "target_heading": null,
+   "required_literals": ["13.6"],
+   "note": "comparator levels devolved from print; hosted with confidence intervals"
+  },
+  {
+   "raw_footnote": "90",
+   "target_file": "article/appendices/Appendix_A7_Selection_and_Participation.md",
+   "target_heading": null,
+   "required_literals": ["INDETERMINATE"],
+   "note": "selection-audit verdict as printed in fn 90"
+  },
+  {
+   "raw_footnote": "66",
+   "target_file": "article/appendices/Appendix_A_Case_Dataset_Methodology.md",
+   "target_heading": null,
+   "required_literals": ["3,366"],
+   "note": "pipeline denominators; corpus construction"
+  },
+  {
+   "raw_footnote": "87",
+   "target_file": "article/appendices/Appendix_M_Doctrinal_Audit_Methodology.md",
+   "target_heading": null,
+   "required_literals": ["contingency"],
+   "note": "translation-family contingency tables and ensemble validation layers"
+  },
+  {
+   "raw_footnote": "140",
+   "target_file": "article/appendices/Appendix_H_Supplementary_Data.md",
+   "target_heading": "### H.5.3 Pleading-Stage Defense-Win Lower Bounds (the Note's fn 140)",
+   "required_literals": ["140/287", "50/68", "143/251"],
+   "note": "lower-bound floors as printed"
+  },
+  {
+   "raw_footnote": "140",
+   "target_file": "article/appendices/Appendix_B_Results_Tables.md",
+   "target_heading": null,
+   "required_literals": ["140/287"],
+   "note": "same floors restated with the document-level tables fenced off"
+  },
+  {
+   "raw_footnote": "141",
+   "target_file": "article/appendices/Appendix_M_Doctrinal_Audit_Methodology.md",
+   "target_heading": "### M.2.1 24 C.F.R. Part 121 / DOJ § 3604(f)(3) joint audit",
+   "required_literals": [],
+   "note": "citation-sweep sections M.2.1-M.2.2"
+  },
+  {
+   "raw_footnote": "142",
+   "target_file": "article/appendices/Appendix_M_Doctrinal_Audit_Methodology.md",
+   "target_heading": "## M.12 HUD Annual Report Longitudinal Audit (FY 1989 – FY 2023)",
+   "required_literals": [],
+   "note": "annual-report longitudinal audit"
+  },
+  {
+   "raw_footnote": "47",
+   "target_file": "article/appendices/Appendix_T_NSPIRE_UFAS_Crosswalk.md",
+   "target_heading": null,
+   "required_literals": ["17"],
+   "note": "17-category crosswalk"
+  },
+  {
+   "raw_footnote": "26",
+   "target_file": "article/appendices/Appendix_L_HUD_Administrative_Data.md",
+   "target_heading": null,
+   "required_literals": [],
+   "note": "POSH per-program breakdown"
+  },
+  {
+   "raw_footnote": "132",
+   "target_file": "article/appendices/Appendix_Y_Olmstead_Housing_Remedies.md",
+   "target_heading": null,
+   "required_literals": [],
+   "note": "decree-registry remedies inventory"
+  },
+  {
+   "raw_footnote": "153",
+   "target_file": "article/appendices/admin_record_c/pra_comment_2026/README.md",
+   "target_heading": null,
+   "required_literals": ["HUD-2006-0214-0011"],
+   "note": "as-filed comment module"
+  },
+  {
+   "raw_footnote": "164",
+   "target_file": "results/counsel_timing_audit/README.md",
+   "target_heading": null,
+   "required_literals": [],
+   "note": "docket-level counsel-timing audit promised by fn 164"
+  },
+  {
+   "raw_footnote": "178",
+   "target_file": "article/appendices/Appendix_M_Doctrinal_Audit_Methodology.md",
+   "target_heading": "## M.17 Institutional Record-Building and Voucher Record-Flow Audits (cited by fn 178)",
+   "required_literals": ["forty-eight of sixty", "floors"],
+   "note": "P5 institutional pre-suit record-building audit, relocated from print July 30, 2026 (D-T1R-1); counts are floors"
+  },
+  {
+   "raw_footnote": "162",
+   "target_file": "article/appendices/Appendix_P_Privacy_Implementation_Architecture.md",
+   "target_heading": "## P.1 Requester-facing record comparators (cited by fn 162)",
+   "required_literals": ["New York City", "California"],
+   "note": "municipal/state requester-facing analogs relocated from fn 162 (D-T2R-1)"
+  },
+  {
+   "raw_footnote": "104",
+   "target_file": "article/appendices/Appendix_P_Privacy_Implementation_Architecture.md",
+   "target_heading": "## P.2 Part 8 promulgation history and the HHS Part 84 comparator (cited by fn 104)",
+   "required_literals": ["Nondiscrimination Based on Handicap In Federally Assisted Programs"],
+   "note": "document titles relocated from fn 104 (D-T2R-1; pointer cure per V-T2 Check 4)"
+  },
+  {
+   "raw_footnote": "106",
+   "target_file": "article/appendices/Appendix_P_Privacy_Implementation_Architecture.md",
+   "target_heading": "## P.3 Recurring federal § 504 collection comparators (cited by fn 106)",
+   "required_literals": ["National Transit Database", "CC-305"],
+   "note": "extended comparator catalogue pointer added by D-T2R-1"
+  },
+  {
+   "raw_footnote": "119",
+   "target_file": "article/appendices/Appendix_D_Standing_Reviewability_Annex.md",
+   "target_heading": "## D.6 Additional Standing and Reviewability Issues (cited by fns 119 and 121)",
+   "required_literals": ["not properly collecting and disseminating"],
+   "note": "Alliance information-collection aside relocated from fn 119 (D-T2R-1)"
+  }
+ ]
+}

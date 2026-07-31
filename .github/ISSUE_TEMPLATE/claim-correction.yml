@@ -1,0 +1,42 @@
+name: Claim or citation correction
+description: Report a public claim, citation, or reproducibility problem.
+title: "[Correction] "
+labels:
+  - correction
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for helping improve the public record. Do not include confidential, sealed, or personally identifying material.
+  - type: input
+    id: locator
+    attributes:
+      label: Claim ID, footnote, file, or public path
+      placeholder: "Example: C-EMP-01; footnote 86; article/CLAIMS_LEDGER.csv"
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current statement or problem
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Supporting source or reproducible route
+      description: Provide a public source, commit permalink, or steps that reproduce the issue.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction
+    validations:
+      required: true
+  - type: checkboxes
+    id: safe
+    attributes:
+      label: Public-material confirmation
+      options:
+        - label: I confirm that this report contains no confidential, sealed, or nonpublic personal material.
+          required: true

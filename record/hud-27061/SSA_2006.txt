@@ -1,0 +1,86 @@
+bjbjd
+Paperwork Reduction Act SubmissionPlease read the instruction before completing this form.  For additional forms or assistance in completing this forms, contact your agency
+s Paperwork Reduction Officer. Send two copies of this form, the collection instrument to be reviewed, the Supporting Statement, and any additional documentation to: Office of Information and Regulatory Affairs, Office of Management and Budget, Docket Library, Room 10102, 725 Seventeenth St. NW,  Washington, DC  20503.1. Agency/Subagency Originating Request:U.S. Department of Housing and Urban DevelopmentOffice of Administration
+2. OMB Control Number:a. 2535-0113
+ FORMCHECKBOX 
+ None 
+3.	Type of information collection: (check one)
+ FORMCHECKBOX 
+  New Collection 
+ FORMCHECKBOX 
+  Revision of a currently approved collection
+ FORMCHECKBOX 
+  Extension of a currently approved collection
+ FORMCHECKBOX 
+  Reinstatement, without change, of previously approved 		collection for which approval has expired
+ FORMCHECKBOX 
+  Reinstatement, with change, of previously approved collection 		for which approval has expired
+ FORMCHECKBOX 
+  Existing collection in use without an OMB control numberFor b-f, note item A2 of Supporting Statement instructions.
+4.	Type of review requested: (check one)
+ FORMCHECKBOX 
+  Regular
+ FORMCHECKBOX 
+  Emergency - Approval requested by
+ FORMCHECKBOX 
+  Delegated5.	Small entities: Will this information collection have a significant economic impact on a substantial number of small entities?  
+"8. Agency form number(s):  (if applicable)HUD-270619. Keywords:Housing, Racial and Ethnic Data, Grants 10. Abstract:All HUD program offices use this form when collecting information concerning the race and ethnicity of the populations intended to benefit from HUD funding as required by Title VI of the Civil Rights Act of 1964.  11. Affected public:  (mark primary with 
+ and all others that apply with 
+)a. X	Individuals or households	e. 
+ FORMTEXT 
+FORMCHECKBOX 
+  Third party disclosure c. 
+ FORMCHECKBOX 
+  Reporting:1. 
+ FORMCHECKBOX 
+  On occasion	2. 
+ FORMCHECKBOX 
+  Weekly	3. 
+ FORMCHECKBOX 
+  Monthly4. 
+ FORMCHECKBOX 
+  Quarterly	5. 
+ FORMCHECKBOX 
+ Semi-annually	6. 
+ FORMCHECKBOX 
+  Annually7. 
+ FORMCHECKBOX 
+  Biennually	8. 
+ FORMCHECKBOX 
+  Other (describe)  
+ FORMTEXT 
+ Gauff Phone: 202-708-0614  x3376
+19. Certification for Paperwork Reduction Act SubmissionsOn behalf of the U.S. Department of Housing and Urban Development, I certify that the collection of information encompassed by this request complies with 5 CFR 1320.9.Note: The text of 5 CFR 1320.9, and the related provisions of 5 CFR 1320/8(b)(3). appear at the end of the instructions.  The certification is to be made with reference to those regulatory provisions as set forth in the instructions.The following is a summary of the topics, regarding the proposed collections of information, that the certification covers:It is necessary for the proper performance of agency functions;It avoids unnecessary duplication;It reduces burden on small entities;It uses plain, coherent, and unambiguous terminology that is understandable to respondents;Its implementation will be consistent and compatible with current reporting and recordkeeping practices;It indicates the retention periods for recordkeeping requirements;It informs respondents of the information called for under 5 CFR 1320.8(b)(3):Why the information is being collected;Use of the information;Burden estimate;Nature of response (voluntary, required for a benefit, or mandatory);Nature and extent of confidentiality; andNeed to display currently valid OMB control number;It was developed by an  office that has planned and allocated resources for the efficient and effective management and use of the information to collected (see note in item 19 of the instructions);It uses effective and efficient statistical survey methodology; andIt makes appropriate use of information technology.If you are unable to certify compliance with any of these provisions, identify the item below and explain the reason in item 18 of the Supporting Statement.
+ FORMTEXT 
+.6 - Nondiscrimination in Federally Assisted Programs of the Department of Housing and Urban Development -Effectuation of Title VI of the Civil Right Act of 1964; Federal Register Notice (62 FR 58782-58790) published on October 30, 1997; and Office of Management and Budget (OMB) Bulletin No. 00-02 
+Provisional Guidance on Aggregation and Allocation of Data on Race for Use in Civil Rights Monitoring and Enforcement.Based on the Department of Housing and Urban Development
+s (HUD) Title VI Regulations (24 CFR 1.6), HUD requires all recipients of funding to maintain and submit racial and ethnic data so HUD may determine whether federally assisted programs are in compliance with Title VI data collection requirements.  HUD must offer individuals, who are responding to agency data requests for race, the option of selecting one or more of five racial categories.  HUD must also treat ethnicity as a category separate from race, and change the terminology for certain racial and ethnic groups.Under Title VI of the Civil Right Act of 1964, no person in the United States shall, on the grounds of race, color, or national origin, be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under any program or activity receiving Federal financial assistance from the Department of Housing and Urban Development.  Title VI requires all recipients of HUD funding to maintain and submit this data during program monitoring and compliance reviews to ensure compliance with nondiscrimination requirements of Title VI.This collection of information provides that all HUD programs comply with OMB guidelines on reporting aggregating data on race and ethnicity.  HUD
+s automated systems have been modified to conform to the latest requirements.  The E-Grants system is in place and serves, as the primary system for collection of this sort of information.4.  This collection of information is not being duplicated.This collection of information does not have an impact on small businesses or other small entities. The racial and ethnic data of HUD funded recipients must be available to the Department to show:(1)  the actual beneficiaries of HUD
+s programs and activities; (2)  the extent to which members of minority groups are beneficiaries of HUD
+s federally assisted programs.There are no special circumstances that require this collection of information to be conducted in a manner that is inconsistent with the guidelines in 5 CFR 1320.6.Notice of this collection of information was published in the Federal Register on July12, 2006 page 39331.  Comments may be received until September 11.There are no payments or gifts provided to respondents in this collection of information.There are no assurances of confidentiality provided in this collection of information.11.	There are no questions of a sensitive nature asked in this collection of information.12.	Estimate of the hour burden of the collection of information.The number of responses is potentially well over four millions accounting for all submissions to the Department which are provide racial / ethnic information.  The resulting public burden is reported under submissions by each program information collection.Number of	Frequency of	Estimated Additional	Estimated AnnualRespondents	Responses 	Burden p/Rspns.	   Burden (Hours)1	1	1 hour	   1		TOTAL REPORTING BURDEN		   113.	There is no additional cost burden to respondents.14.	There is no additional cost to the Federal Government.15.	This is an extension of a currently approved collection.  No changes or adjustments have been made.   16.	The results of this collection of information will not be published.17.	The OMB approval number and expiration date will be displayed on the form.18.	There are no exceptions to the certification statement identified in Item 19 of OMB 83-I.Collections of Information Employing Statistical MethodsThe collection of information will not be used for statistical purposes.OMB 83-I	10/95OMB 83-I	10/95Signature of Senior Officer or Designee:XLillian Deitzer, Departmental Reports Management Officer,Office of the Chief Information Officer 
+Date: 
+OMB-83-I	10/95
+$`'0*
+2p5@8
+$`'0*
+Text5
+Text17
+Text17
+Text25
+Text27
+Text16
+$#,##0.00;($#,##0.00)
+Text16
+Text18
+Text20
+Text21
+cKsb}
+Paperwork Reduction Act Submission
+WAYNE EDDINS
+83-I-OMB.DOT
+Microsoft Word 9.0
+Paperwork Reduction Act Submission
+Title
+Microsoft Word Document
+MSWordDoc
+Word.Document.8

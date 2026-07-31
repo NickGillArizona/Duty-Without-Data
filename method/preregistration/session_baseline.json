@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-07-08T09:46:36.520650-07:00",
+  "prompt_file": "registered strengthening protocol",
+  "prompt_sha256": "9962dadcfaeec29c3eff13f063877637260c666914ba65b921de08fb9d3e9402",
+  "canonical_database": "Displacing-Deference-Data-and-Doctrine-for-a-Disability-Centered-AFFH\\data\\FHA_Unified_Database.json",
+  "canonical_database_sha256_lf": "bc6c4b1091401d82216266b89152a7bb2c4aa72c70c0686f3cff01a0a0bff95a",
+  "canonical_database_records": 3366,
+  "expected_database_sha256_lf": "bc6c4b1091401d82216266b89152a7bb2c4aa72c70c0686f3cff01a0a0bff95a",
+  "expected_database_records": 3366
+}

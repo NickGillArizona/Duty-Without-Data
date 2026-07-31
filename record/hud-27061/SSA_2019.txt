@@ -1,0 +1,164 @@
+Justification
+
+1. Authority: HUD Regulations 24 CFR 1.6 - Nondiscrimination in
+Federally Assisted Programs of the Department of Housing and Urban
+Development -Effectuation of Title VI of the Civil Right Act of 1964;
+Federal Register Notice (62 FR 58782-58790) published on October 30,
+1997; and Office of Management and Budget (OMB) Bulletin No. 00-02
+–Provisional Guidance on Aggregation and Allocation of Data on Race for
+Use in Civil Rights Monitoring and Enforcement.
+
+  Based on the Department of Housing and Urban Development’s (HUD) Title
+  VI Regulations (24 CFR 1.6), HUD requires all recipients of funding to
+  maintain and submit racial and ethnic data so HUD may determine
+  whether federally assisted programs are in compliance with Title VI
+  data collection requirements. HUD must offer individuals, who are
+  responding to agency data requests for race, the option of selecting
+  one or more of five racial categories. HUD must also treat ethnicity
+  as a category separate from race, and change the terminology for
+  certain racial and ethnic groups.
+
+2.  Under Title VI of the Civil Right Act of 1964, no person in the
+    United States shall, on the grounds of race, color, or national
+    origin, be excluded from participation in, be denied the benefits
+    of, or be otherwise subjected to discrimination under any program or
+    activity receiving Federal financial assistance from the Department
+    of Housing and Urban Development. Title VI requires all recipients
+    of HUD funding to maintain and submit this data during program
+    monitoring and compliance reviews to ensure compliance with
+    nondiscrimination requirements of Title VI.
+
+This collection of information provides that all HUD programs comply
+with OMB guidelines on reporting aggregating data on race and ethnicity.
+
+3.  HUD’s automated systems have been modified to conform to the latest
+    requirements of the Title VI regulations. The E-Grants electronic
+    data system is the primary system for collection of this
+    information.
+
+4. This collection of information is not being duplicated.
+
+5.  This collection of information does not have an impact on small
+    businesses or other small entities.
+
+6.  The racial and ethnic data of HUD funded recipients must be
+    available to the Department to show:
+
+  (1) the actual beneficiaries of HUD’s programs and activities;
+
+  (2) the extent to which members of minority groups are beneficiaries
+  of HUD’s federally assisted programs.
+
+7.  There are no special circumstances that require this collection of
+    information to be conducted in a manner that is inconsistent with
+    the guidelines in 5 CFR 1320.6. This includes:
+
+- requiring respondents to report information to the agency more than
+  quarterly (N/A);
+
+- requiring respondents to prepare a written response to a collection of
+  information in fewer than 30 days after receipt of it (N/A);
+
+- requiring respondents to submit more than an original and two copies
+  of any document (N/A);
+
+- requiring respondents to retain records other than health, medical,
+  government contract, grant-in-aid, or tax records for more than three
+  years (N/A);
+
+- in connection with a statistical survey, that is not designed to
+  produce valid and reliable results than can be generalized to the
+  universe of study (N/A);
+
+- requiring the use of a statistical data classification that has not
+  been reviewed and approved by OMB (N/A);
+
+- that includes a pledge of confidentiality that is not supported by
+  authority established in statute or regulation, that is not supported
+  by disclosure and data security policies that are consistent with the
+  pledge, or which unnecessarily impedes sharing of data with other
+  agencies for compatible confidential use (N/A); or
+
+- requiring respondents to submit proprietary trade secret, or other
+  confidential information unless the agency can demonstrate that it has
+  instituted procedures to protect the information's confidentiality to
+  the extent permitted by law (N/A).
+
+8.  Notice of this collection of information was published in the
+    Federal Register on December 4, 2018, Vol. 83 Page 62599. No
+    comments were received.
+
+9.  There are no payments or gifts provided to respondents in this
+    collection of information.
+
+10. There are no assurances of confidentiality provided in this
+    collection of information. The information requested under this
+    collection is protected and held private in accordance with 5 U.S.C.
+    552 (Freedom of Information Act), and (Privacy Act of 1974). A
+    Privacy Threshold Analysis was approved by the Department.
+
+11. The collection does not contain information of a sensitive nature
+about sexual behavior or attitudes, religious beliefs, or private
+matters.
+
+12. Estimated Burden
+
++-------------+-------------+-----------+-----------+----------+----------+----------+------------+
+| Information | Number of   | Frequency | Responses | Burden   | Annual   | Hourly   | Annual     |
+| Collection  | Respondents | of        | Per Annum | Hour Per | Burden   | Cost Per | Cost       |
+|             |             | Response  |           | Response | Hours    | Response |            |
++=============+============:+==========:+==========:+=========:+=========:+=========:+===========:+
+| HUD - 27061 | 4,100.00    | 1.00      | 4,100.00  | 0.50     | 2,050.00 | $20.88   | $42,804.00 |
+|             |             |           |           |          |          |          |            |
+| Race and    |             |           |           |          |          |          |            |
+| Ethnic Data |             |           |           |          |          |          |            |
+| Reporting   |             |           |           |          |          |          |            |
+| Form        |             |           |           |          |          |          |            |
++-------------+-------------+-----------+-----------+----------+----------+----------+------------+
+| Total       | 4,100.00    | 1.00      | 4,100.00  | 0.50     | 2,050.00 | $20.88   | $42,804.00 |
++-------------+-------------+-----------+-----------+----------+----------+----------+------------+
+
+The annual burden is calculated at the hourly rate of a nonprofit
+Executive Director position who would complete the form. This data is
+taken from payscale.com at
+https://www.payscale.com/research/US/Job=Executive_Director/Salary.
+
+13. There is no additional cost burden to respondents.
+
+14. Estimated Cost to the Federal Government.
+
++-------------+-------------+-----------+-----------+----------+----------+----------+------------+
+| Information | Number of   | Frequency | Responses | Burden   | Annual   | Hourly   | Annual     |
+| Collection  | Respondents | of        | Per Annum | Hour Per | Burden   | Cost Per | Cost       |
+|             |             | Response  |           | Response | Hours    | Response |            |
++=============+============:+==========:+==========:+=========:+=========:+=========:+===========:+
+| HUD -27061  | 4,100.00    | 1.00      | 4,100.00  | 0.50     | 2,050.00 | $39.96   | $81,918.00 |
+|             |             |           |           |          |          |          |            |
+| Race and    |             |           |           |          |          |          |            |
+| Ethnic Data |             |           |           |          |          |          |            |
+| Reporting   |             |           |           |          |          |          |            |
+| Form        |             |           |           |          |          |          |            |
++-------------+-------------+-----------+-----------+----------+----------+----------+------------+
+| Total       | 4,100.00    | 1.00      | 4,100.00  | 0.50     | 2,050.00 | $39.96   | $81,918.00 |
++-------------+-------------+-----------+-----------+----------+----------+----------+------------+
+
+The cost is calculated at the hourly rate of a GS-12 staff member in the
+Washington D.C. area and additional operating expenses to review the
+responses. Data is taken from the Office of Personnel Management and the
+table with Washington-Baltimore-Arlington locality pay.
+
+15. This is a reinstatement with change, of a currently approved
+collection. Information on this form has been changed. The five racial
+categories section has been amended slightly.
+
+16. The results of this collection of information will not be published.
+
+17. The OMB approval number and expiration date will be displayed on the
+form.
+
+18. There are no exceptions to the certification statement identified in
+Item 19 of OMB 83-I.
+
+B.  Collections of Information Employing Statistical Methods
+
+The collection of information will not be used for statistical purposes.

@@ -1,0 +1,212 @@
+[
+  {
+    "source_file": "10178312_2024_Doe v. University Of Idaho_idd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "MEDIUM",
+    "reasoning": "Court dismissed FHA claim against University on sovereign/Eleventh Amendment immunity grounds; as to individual defendants and Dingel, court held the premises were not a 'dwelling' under § 3602. Jurisdictional immunity dominated the disability-relevant analysis."
+  },
+  {
+    "source_file": "10201075_2024_Ewideh v. Homesite Insurance Company of the Midwest_pamd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Pro se complaint about insurance claim handling was dismissed under Rule 12(b)(6)/41(b) because allegations were vague and conclusory and did not tie any facts to a cognizable FHA theory."
+  },
+  {
+    "source_file": "10243211_2023_Martinez v. Pierce County_wawd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "EXHAUSTION_OR_PRECLUSION",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA claim had already been dismissed without leave to amend in a prior order and plaintiff improperly reasserted it; the court treated the repeat assertion as barred by the prior disposition."
+  },
+  {
+    "source_file": "10289147_2024_HUMPHRIES v. U.S. DEPARTMENT OF HOUSING _ URBAN DEVELOPEMENT_paed",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed FHA and related disability claims against HUD on sovereign immunity grounds and for lack of a private right of action against the federal agency, a threshold jurisdictional defect."
+  },
+  {
+    "source_file": "10330608_2025_Morris v. City of Baltimore_mdd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "The court dismissed on Article III standing grounds, noting the complaint was largely copy-pasted from a Chicago case and alleged no concrete injury traceable to Baltimore."
+  },
+  {
+    "source_file": "10373979_2025_Housing Opportunities Made Equal of Greater Cincinnati v. Count X LLC_ohsd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "HIGH",
+    "reasoning": "This order dismissed defendant's counterclaims, not the FHA plaintiff's claims; the plaintiff's FHA claims survived. The case appears misfiltered as a pleading-stage defendant win."
+  },
+  {
+    "source_file": "10595841_2025_Santiago v. Chill_kywd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "LOW",
+    "reasoning": "Dismissal rested on improper service and failure to prosecute rather than an FHA merits defect; mapped to PROCEDURAL_GATEWAY as closest threshold bucket in the taxonomy."
+  },
+  {
+    "source_file": "10636620_2025_Millerborg v. Blue Bonnet Trail, LLC_txnd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed for lack of Article III standing in an ADA/FHA tester-style context, a quintessential jurisdictional gateway ruling."
+  },
+  {
+    "source_file": "10657007_2025_Gakuba v. Franklin_mdd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "MEDIUM",
+    "reasoning": "Court found mootness and also failure to state an FHA claim; the threshold mootness/standing ruling is treated as primary, with translation failure secondary."
+  },
+  {
+    "source_file": "10696687_2019_Scott Chandler v. Chartwell Holdings, Inc., et al._nhd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff's maintenance-related grievances did not include any allegation that he requested a reasonable accommodation from the landlord, which is the touchstone translation defect for disability FHA claims."
+  },
+  {
+    "source_file": "10737236_2025_Alicia Paschall v. Amber Andrade and Julie Hardison_waed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA retaliation / housing-interference theory failed because no protected activity was alleged and vague housing interference facts were not tied to FHA elements."
+  },
+  {
+    "source_file": "10766412_2025_Randy Dewayne Pittman v. Landsphere Property Management, et al._cand",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Court dismissed after prior screening order identified failure to state an FHA claim; plaintiff failed to amend, and the brief order adopted that screening's translation-level defect."
+  },
+  {
+    "source_file": "10805317_2026_Jameerah Ware, Amira Ware, and Cheryl Vaughn v. A and K Properties of SC, Inc. and Sheriff Phillip E. Thompson_scd",
+    "pleading_failure_family": "MIXED",
+    "pleading_failure_mechanism": "MIXED",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA claim treated as conceded (no response to motion to dismiss), ADA claim dismissed on sovereign immunity; multiple distinct mechanisms apply to different claims with no single dominant one."
+  },
+  {
+    "source_file": "11267607 - Terry v. YWCA OF NORTHESTERN NEW YORK",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Complaint fails Rule 8 because FHA sexual-harassment allegations lack any factual detail about when, where, or by whom harassment occurred; elements stated in the abstract without tying to facts."
+  },
+  {
+    "source_file": "4274256_2018_Collington v. District of Columbia Housing Authority_dcd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA claim dismissed because plaintiff alleged no discrimination on any FHA-protected basis (race, color, religion, sex, familial status, national origin); facts do not map to any FHA cause of action on disability or otherwise."
+  },
+  {
+    "source_file": "9526362_2022_Yates v. Mack_alsd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "LOW",
+    "reasoning": "This order addresses attorney's fees, but references the earlier dismissal holding Baldwin County was not the proper 'public entity' for ADA/FHA purposes because Sheriff, Call Center, and Probate Court are state not county actors — a technical element-mismatch defect."
+  },
+  {
+    "source_file": "9589037_2023_Goodwin v. City Attorney's Office_caed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Screening dismissal because complaint contained no factual allegations identifying what happened, when, or who was involved; plaintiff stated only 'Denied Fair Housing Act Intentional Discrimination' without any factual support."
+  },
+  {
+    "source_file": "9626373_2022_McDaniel v. Dominium Management Services, LLC_cod",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiffs conceded they were not pursuing disability as an FHA basis and court dismissed for lack of personal participation under the FHA; no disability-FHA nexus was pleaded."
+  },
+  {
+    "source_file": "9680091_2022_Jackson v. Chicago Housing Authority_ilnd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Defendant King (architect) dismissed because plaintiff failed to allege personal involvement in any FHA/ADA violation; facts don't map to an FHA theory against her."
+  },
+  {
+    "source_file": "9717641_2023_Alexander v. CS_KY_LLC_kywd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "STATUTORY_HOOK_UNCLEAR",
+    "confidence": "HIGH",
+    "reasoning": "Court expressly held the FHA and ADA 'do not apply here' and HUD Smoke Free Rule has no private cause of action; plaintiff invoked inapplicable statutory hooks for a secondhand-smoke grievance."
+  },
+  {
+    "source_file": "9742828_2023_Bailey v. The Queen's Landing Council of Unit Owners, Inc._mdd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Court held plaintiff alleged injury related to her disabilities but not discrimination because of disability; she alleged race discrimination, not disability-based adverse action, so no disability-FHA nexus was pleaded."
+  },
+  {
+    "source_file": "9783022_2022_Reckley v. Village Health Care Center_mtd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff's death rendered her ADA/FHA injunctive-only claims moot; the court dismissed on mootness, a core Article III jurisdictional ground."
+  },
+  {
+    "source_file": "9823280_2020_Fulkerson v. The Hartford_nvd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Screening dismissal (with leave to amend) because plaintiff did not include factual allegations as to how he was discriminated against under the FHA by either defendant."
+  },
+  {
+    "source_file": "9850873_2019_Lopez v. New York City Dept. Homeless Services_nysd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Court held plaintiff lacked Article III standing against WIN defendants because DHS, not WIN, had authority over placement; traceability and redressability were missing."
+  },
+  {
+    "source_file": "9869240_2021_Currin v. Glenwood Management Corp._nysd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff alleged disability and accommodation request but court found Glenwood actually placed him on the waitlist, allowed a live-in assistant, and provided pool access — i.e. did not refuse the accommodation, so elements did not line up."
+  },
+  {
+    "source_file": "9889710_2023_Syville v. City of New York_nysd",
+    "pleading_failure_family": "MIXED",
+    "pleading_failure_mechanism": "MIXED",
+    "confidence": "MEDIUM",
+    "reasoning": "Some claims barred by claim preclusion from Syville II settlement; others dismissed because general complaints about shelter conditions were not tied to disability-based discrimination. Multiple distinct mechanisms."
+  },
+  {
+    "source_file": "9913950_2022_Chapman v. Franklin County Sheriff_ohsd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Court held plaintiff's jail-housing / hijab grievance does not plausibly show she qualifies for FHA protection under these circumstances; FHA does not cover pretrial-detention housing conditions."
+  },
+  {
+    "source_file": "9933567_2020_DAVIS v. RUBIN_paed",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff identified the right FHA disability theory and named her disability generally but did not describe the disability or allege facts from which one could infer it motivated eviction; claim fails Iqbal/Twombly plausibility."
+  },
+  {
+    "source_file": "9940687_2024_ROBINSON v. PATHWAY TO HOUSING_paed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Court held 'nothing in Robinson's Complaint suggests she was discriminated against' — unsafe-housing grievance lacked any nexus to a protected-class/disability-based adverse action."
+  },
+  {
+    "source_file": "Alvarez v. City of Philadelphia",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "EXHAUSTION_OR_PRECLUSION",
+    "confidence": "HIGH",
+    "reasoning": "Court held FHA retaliation claim was barred by claim preclusion from plaintiff's prior 2022 dismissed lawsuit, with merits failure (no protected-class allegation) as alternative ground."
+  }
+]

@@ -1,0 +1,48 @@
+name: release-checks
+
+# Runs the repository release gate in the supported dependency-floor
+# environment and in the environment recorded for the published outputs.
+# A green run means the committed files passed the registered claim,
+# advocacy-language, retired-claim, superseded-series, appendix-pointer,
+# link, path, manifest, and strengthening checks. It does not establish
+# legal or factual accuracy. What each check does and does not prove is
+# documented in replication/GATES.md.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  release-checks:
+    name: release-checks (${{ matrix.environment-name }})
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-latest
+            python-version: "3.11"
+            requirements-file: requirements.txt
+            environment-name: supported-floor
+          - os: windows-latest
+            python-version: "3.13"
+            requirements-file: requirements-lock.txt
+            environment-name: published-output
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r ${{ matrix.requirements-file }}
+      - name: Run release checks
+        run: python scripts/run_release_checks.py

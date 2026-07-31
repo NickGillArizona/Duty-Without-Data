@@ -1,0 +1,1333 @@
+{
+ "count": 872,
+ "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0zNy4wMzExMDUmcz05NjMxNDg1JnQ9byZkPTIwMjYtMDctMDcmcD0y&filed_after=01%2F01%2F2022&filed_before=07%2F01%2F2026&q=%22fair+housing+act%22+AND+race+AND+discrimination&stat_Errata=on&stat_In-chambers=on&stat_Published=on&stat_Relating-to=on&stat_Separate=on&stat_Unknown=on&stat_Unpublished=on&type=o",
+ "previous": null,
+ "results": [
+  {
+   "absolute_url": "/opinion/9607470/in-re-wells-fargo-mortgage-discrimination-litigation/",
+   "attorney": "",
+   "caseName": "In re Wells Fargo Mortgage Discrimination Litigation",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9607470,
+   "court": "District Court, N.D. California",
+   "court_citation_string": "N.D. Cal.",
+   "court_id": "cand",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2023-01-18",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "3:22-cv-00990",
+   "docket_id": 63052766,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T01:57:55.340571Z",
+    "date_created": "2024-06-20T17:55:19.606594Z",
+    "score": {
+     "bm25": 99.0456
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      9433871
+     ],
+     "download_url": null,
+     "id": 10074083,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.cand.391955/gov.uscourts.cand.391955.102.0.pdf",
+     "meta": {
+      "timestamp": "2025-11-01T17:35:16.443821Z",
+      "date_created": "2024-06-20T17:55:19.625569Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "3a1d8e8156861fada9cfbed72804704eeedcdd0c",
+     "snippet": "1                                                                         \n2                                                                         \n3                                                                         \n4                      UNITED STATES DISTRICT COURT                       \n5                     NORTHERN DISTRICT OF CALIFORNIA                     \n6                                                                         \n7    IN RE WELLS FARGO MORTGAGE       Master File ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10074083
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10190572/smith-v-supportive-housing-coalition/",
+   "attorney": "",
+   "caseName": "Smith v. Supportive Housing Coalition",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10190572,
+   "court": "District Court, D. New Mexico",
+   "court_citation_string": "D.N.M.",
+   "court_id": "nmd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-08-16",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:24-cv-00776",
+   "docket_id": 69014833,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-11-02T06:03:07.013197Z",
+    "date_created": "2024-11-02T06:01:52.886186Z",
+    "score": {
+     "bm25": 42.84109
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [],
+     "download_url": null,
+     "id": 10657166,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.nmd.505016/gov.uscourts.nmd.505016.15.0.pdf",
+     "meta": {
+      "timestamp": "2025-11-02T18:36:50.014733Z",
+      "date_created": "2024-11-02T06:01:52.893422Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "bba15b16b14ff21a673aa693cd1f633c4deadbd9",
+     "snippet": "          IN THE UNITED STATES DISTRICT COURT                        \n            FOR THE DISTRICT OF NEW MEXICO                           \n\nJERRY SMITH,                                                              \n\n     Plaintiff,                                                      \n\nv.                                      Civ. No. 24-776 SCY/LF       \n\nSUPPORTIVE HOUSING COALITION, a New                                       \nMexico Corporation, CITY OF ALBUQUERQUE,                          ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10657166
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10691671/crawford-v-oguleye/",
+   "attorney": "",
+   "caseName": "Crawford v. Oguleye",
+   "caseNameFull": "Demetrius L. Crawford v. Bosed Oguleye, et al.",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10691671,
+   "court": "District Court, N.D. Alabama",
+   "court_citation_string": "N.D. Ala.",
+   "court_id": "alnd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-10-06",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:25-cv-00100",
+   "docket_id": 69807859,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-10-07T08:48:10.537560Z",
+    "date_created": "2025-10-07T08:47:24.700176Z",
+    "score": {
+     "bm25": 42.637966
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      77594,
+      552261
+     ],
+     "download_url": null,
+     "id": 11158259,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.alnd.192943/gov.uscourts.alnd.192943.20.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-24T04:35:39.433488Z",
+      "date_created": "2025-10-07T08:47:24.706750Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "effb5e78e181de9727b465b2625d2ec4f5e2224d",
+     "snippet": "       IN THE UNITED STATES DISTRICT COURT                           \n     FOR THE NORTHERN DISTRICT OF ALABAMA                            \n                 SOUTHERN DIVISION                                   \n\nDEMETRIUS L CRAWFORD,              ]                                      \n                              ]                                      \nPlaintiff,                    ]                                      \n                              ]                                      \nv.  ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    11158259
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9906705/culver-v-churchill/",
+   "attorney": "",
+   "caseName": "Culver v. Churchill",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9906705,
+   "court": "District Court, N.D. Ohio",
+   "court_citation_string": "N.D. Ohio",
+   "court_id": "ohnd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-04-10",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "3:23-cv-02454",
+   "docket_id": 68117427,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-27T07:19:59.091627Z",
+    "date_created": "2024-06-27T06:37:00.038570Z",
+    "score": {
+     "bm25": 41.560513
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      111915,
+      112254,
+      765119,
+      792450,
+      1353908,
+      9489720
+     ],
+     "download_url": null,
+     "id": 10373315,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.ohnd.302811/gov.uscourts.ohnd.302811.7.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-27T17:11:53.007433Z",
+      "date_created": "2024-06-27T06:37:00.047345Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "489b43ee8db643754337ec8e20b4a4628b8de191",
+     "snippet": "              UNITED STATES DISTRICT COURT                           \n               NORTHERN DISTRICT OF OHIO                             \n                   WESTERN DIVISION                                  \n\n\nChelsea Culver, and                Case No. 3:23-CV-2454                  \nBen Smith,                                                                \n\n     Plaintiffs,              Judge James G. Carr                    \n\n  v.                                                              ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10373315
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/8245169/epcon-community-franchising-llc-v-wilcox-dev-group-llc/",
+   "attorney": "",
+   "caseName": "Epcon Community Franchising, L.L.C. v. Wilcox Dev. Group, L.L.C.",
+   "caseNameFull": "",
+   "citation": [
+    "201 N.E.3d 936",
+    "2022 Ohio 3442"
+   ],
+   "citeCount": 2,
+   "cluster_id": 8245169,
+   "court": "Ohio Court of Appeals",
+   "court_citation_string": "Ohio Ct. App.",
+   "court_id": "ohioctapp",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2022-09-29",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "21AP-674",
+   "docket_id": 65387274,
+   "judge": "Beatty Blunt",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-11-26T18:08:08.042721Z",
+    "date_created": "2022-09-29T20:08:17.834047Z",
+    "score": {
+     "bm25": 41.01198
+    }
+   },
+   "neutralCite": "2022 Ohio 3442",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      2008,
+      103438,
+      104425,
+      106700,
+      109826,
+      112446,
+      118055,
+      118379,
+      803270,
+      2690118,
+      2702170,
+      2959750,
+      4462964,
+      7228221,
+      7250229
+     ],
+     "download_url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/10/2022/2022-Ohio-3442.pdf",
+     "id": 8210432,
+     "joined_by_ids": [],
+     "local_path": "pdf/2022/09/29/epcon_community_franchising_l.l.c._v._wilcox_dev._group_l.l.c..pdf",
+     "meta": {
+      "timestamp": "2025-11-26T18:08:08.018123Z",
+      "date_created": "2022-09-29T20:08:17.838575Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "1e353bf6eb3e234afce9e086281c7303c28bf412",
+     "snippet": "[Cite as Epcon Community Franchising, L.L.C. v. Wilcox Dev. Group, L.L.C., 2022-Ohio-3442.]\n\n\n                            IN THE COURT OF APPEALS OF OHIO\n\n                                 TENTH APPELLATE DISTRICT\n\nEpcon Community Franchising, LLC,                  :\n\n                Plaintiff-Appellant,               :\n                                                                              No. 21AP-674\nv.                                                 :                       (C.P.C. No. 2",
+     "type": "combined-opinion"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    8210432
+   ],
+   "source": "C",
+   "status": "Published",
+   "suitNature": "",
+   "syllabus": "The Fair Housing Act (\"FHA\") preempts state law claims for contribution brought pursuant to R.C. 2307.25 because such claims stand \" 'as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress' \", in this case the FHA. English v. Gen. Elec. Co., 496 U.S. 72, 79 (1990), quoting Hines v. Davidowitz, 312 U.S. 52, 67 (1941). Thus, the trial court did not err in dismissing Epcon's contribution claim as preempted by the FHA, appellant's sole assignment of error is overruled and the judgment is affirmed."
+  },
+  {
+   "absolute_url": "/opinion/9818012/burnside-v-monarch-real-estate-crop/",
+   "attorney": "",
+   "caseName": "Burnside v. Monarch Real Estate Crop",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9818012,
+   "court": "District Court, D. New Mexico",
+   "court_citation_string": "D.N.M.",
+   "court_id": "nmd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2023-07-06",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:23-cv-00167",
+   "docket_id": 66864549,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-11-15T03:50:38.736410Z",
+    "date_created": "2024-06-25T12:43:31.452656Z",
+    "score": {
+     "bm25": 40.232864
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      3177858,
+      3181935
+     ],
+     "download_url": null,
+     "id": 10284624,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.nmd.484675/gov.uscourts.nmd.484675.9.0.pdf",
+     "meta": {
+      "timestamp": "2025-11-01T17:00:02.286539Z",
+      "date_created": "2024-06-25T12:43:31.459443Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "8a5cc444a726f22c39b2fb4797d54b3659a4e903",
+     "snippet": "          IN THE UNITED STATES DISTRICT COURT                        \n            FOR THE DISTRICT OF NEW MEXICO                           \nJOHNNY LEVELT BURNSIDE,                                                   \n\n          Plaintiff,                                                 \n\nv.                                      No. 2:23-cv-00167-DHU-GBW         \n\nMONARCH REAL ESTATE CORP.,                                                \nBRADLEY BERGLUND, and                                         ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10284624
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10688173/armour-v-gold/",
+   "attorney": "",
+   "caseName": "Armour v. Gold",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10688173,
+   "court": "District Court, D. Maryland",
+   "court_citation_string": "D. Maryland",
+   "court_id": "mdd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-09-30",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:25-cv-02790",
+   "docket_id": 71200144,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-10-03T08:51:53.029978Z",
+    "date_created": "2025-10-03T08:51:52.958571Z",
+    "score": {
+     "bm25": 40.03485
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      698760,
+      755407,
+      2653798,
+      4369858,
+      9431378,
+      9435053,
+      9499837,
+      9888934
+     ],
+     "download_url": null,
+     "id": 11154760,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.mdd.589256/gov.uscourts.mdd.589256.10.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-24T04:33:04.797392Z",
+      "date_created": "2025-10-03T08:51:52.962829Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "72db81197d40d2e039cfd38b3f03ffe19fe38367",
+     "snippet": "         IN THE UNITED STATES DISTRICT COURT                         \n            FOR THE DISTRICT OF MARYLAND                             \n\nREBECCA ARMOUR, et al.,                                                   \n\nPlaintiffs,                                                          \n\n\n                              Action No. 25-cv-2790-ABA              \nv.                                                                   \n\nJEREMY GOLD, et al.,                                                  ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    11154760
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9695984/northern-v-pedcor-management-corp/",
+   "attorney": "",
+   "caseName": "Northern v. Pedcor Management Corp.",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9695984,
+   "court": "District Court, N.D. Indiana",
+   "court_citation_string": "N.D. Ind.",
+   "court_id": "innd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2022-05-09",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:22-cv-00120",
+   "docket_id": 63290840,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T02:20:07.345466Z",
+    "date_created": "2024-06-21T19:30:31.686570Z",
+    "score": {
+     "bm25": 38.831127
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [],
+     "download_url": null,
+     "id": 10162596,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.innd.110956/gov.uscourts.innd.110956.8.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-27T16:30:18.475925Z",
+      "date_created": "2024-06-21T19:30:31.702152Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "2c25b1d17012aaf62a88fcba87bf7e5b6f5e2413",
+     "snippet": "             UNITED STATES DISTRICT COURT                            \n            NORTHERN DISTRICT OF INDIANA                             \n                  HAMMOND DIVISION                                   \nSHEDRICK NORTHERN,                 )                                      \n                              )                                      \n          Plaintiff,          )                                      \n                              )                                      \nvs.  ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10162596
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9679405/johnson-v-flannery/",
+   "attorney": "",
+   "caseName": "Johnson v. Flannery",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9679405,
+   "court": "District Court, N.D. Illinois",
+   "court_citation_string": "N.D. Ill.",
+   "court_id": "ilnd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2022-01-11",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "3:21-cv-50421",
+   "docket_id": 60699779,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T02:15:53.999959Z",
+    "date_created": "2024-06-21T16:09:47.572629Z",
+    "score": {
+     "bm25": 38.667362
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [],
+     "download_url": null,
+     "id": 10146018,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.ilnd.408634/gov.uscourts.ilnd.408634.17.0.pdf",
+     "meta": {
+      "timestamp": "2025-11-01T20:35:50.514801Z",
+      "date_created": "2024-06-21T16:09:47.577269Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "689a40630fa129761bd472066f5247fc53834ed4",
+     "snippet": "            IN THE UNITED STATES DISTRICT COURT                          \n           FOR THE NORTHERN DISTRICT OF ILLINOIS                         \n                      WESTERN DIVISION                                   \n\nRichard Johnson,                                                         \n\n                      Plaintiff,                                         \n                                     Case No. 3:21-cv-50421              \n            v.                                        ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10146018
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10691150/crawford-v-milner/",
+   "attorney": "",
+   "caseName": "Crawford v. Milner",
+   "caseNameFull": "Pamela Crawford v. Douglas M. Milner et al.",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10691150,
+   "court": "District Court, W.D. Washington",
+   "court_citation_string": "W.D. Wash.",
+   "court_id": "wawd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-09-29",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "3:25-cv-05662",
+   "docket_id": 70946445,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-10-06T08:54:00.655364Z",
+    "date_created": "2025-10-06T08:53:59.799474Z",
+    "score": {
+     "bm25": 38.596867
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      108786,
+      773766,
+      801038,
+      5125558,
+      6985107,
+      9485355,
+      10754453
+     ],
+     "download_url": null,
+     "id": 11157738,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.wawd.350738/gov.uscourts.wawd.350738.12.0.pdf",
+     "meta": {
+      "timestamp": "2025-12-08T06:13:14.911926Z",
+      "date_created": "2025-10-06T08:53:59.806406Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "9791daa80bc5b0d24ebd4cc2860ce686e9400ba3",
+     "snippet": "1                                                                            \n2                                                                            \n3                                                                            \n4                                                                            \n\n5                                                                            \n6                                                                            \n7                              ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    11157738
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9755367/worthy-v-community-management-associates-inc/",
+   "attorney": "",
+   "caseName": "Worthy v. Community Management Associates Inc.",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9755367,
+   "court": "District Court, E.D. Michigan",
+   "court_citation_string": "E.D. Mich.",
+   "court_id": "mied",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-01-17",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:24-cv-10066",
+   "docket_id": 68152237,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-11-16T18:44:58.944373Z",
+    "date_created": "2024-06-23T07:22:00.149315Z",
+    "score": {
+     "bm25": 38.427746
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      215638,
+      217795,
+      741092,
+      868648,
+      1401965
+     ],
+     "download_url": null,
+     "id": 10221979,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.mied.374521/gov.uscourts.mied.374521.4.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-27T16:45:49.536712Z",
+      "date_created": "2024-06-23T07:22:00.157996Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "695eba4f03ad666f710cf488bb7aab3f31aa700b",
+     "snippet": "                 UNITED STATES DISTRICT COURT                            \n                 EASTERN DISTRICT OF MICHIGAN                            \n                      SOUTHERN DIVISION                                  \n\nDAVID ROY WORTHY,                                                         \n\n         Plaintiff,                    No. 24-10066                      \nv.                                                                        \n                                       Honorable Nan",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10221979
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9646460/williams-v-professional-marketing-management-inc/",
+   "attorney": "",
+   "caseName": "Williams v. Professional Marketing Management, Inc.",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9646460,
+   "court": "District Court, M.D. Florida",
+   "court_citation_string": "M.D. Fla.",
+   "court_id": "flmd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2023-06-07",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "8:23-cv-01223",
+   "docket_id": 67476268,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T02:07:31.978873Z",
+    "date_created": "2024-06-21T05:16:38.325496Z",
+    "score": {
+     "bm25": 38.22505
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      50042,
+      70970,
+      548797,
+      3063167,
+      8408151,
+      8477796,
+      9431378,
+      9433757
+     ],
+     "download_url": null,
+     "id": 10113073,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.flmd.414844/gov.uscourts.flmd.414844.4.0.pdf",
+     "meta": {
+      "timestamp": "2025-11-01T20:32:22.098874Z",
+      "date_created": "2024-06-21T05:16:38.329565Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "a0a94d4cdfcd3648f2979ea9ecde96ebfba4499f",
+     "snippet": "            UNITED STATES DISTRICT COURT                             \n             MIDDLE DISTRICT OF FLORIDA                              \n                    TAMPA DIVISION                                   \n\n\nBRITTANY WILLIAMS,                                                        \n\nPlaintiff,                                                           \n\nv.                                      Case No. 8:23-cv-1223-WFJ-AEP     \n\nPROFESSIONAL MARKETING                                           ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10113073
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9484516/francine-arthur-v-windsor-shadows-homeowners-association/",
+   "attorney": "",
+   "caseName": "Francine Arthur v. Windsor Shadows Homeowner's Association",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9484516,
+   "court": "Court of Appeals for the Ninth Circuit",
+   "court_citation_string": "9th Cir.",
+   "court_id": "ca9",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-03-15",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "22-16039",
+   "docket_id": 68344938,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T01:27:38.619450Z",
+    "date_created": "2024-03-15T17:01:20.451251Z",
+    "score": {
+     "bm25": 37.916687
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      777147,
+      1345341,
+      1402483,
+      2576447,
+      2613286,
+      4575172,
+      9430607
+     ],
+     "download_url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2024/03/15/22-16039.pdf",
+     "id": 9951129,
+     "joined_by_ids": [],
+     "local_path": "pdf/2024/03/15/francine_arthur_v._windsor_shadows_homeowners_association.pdf",
+     "meta": {
+      "timestamp": "2025-11-29T11:14:36.209323Z",
+      "date_created": "2024-03-15T17:01:20.452872Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "acb8f4a65bc30c06459bc0fa971f2f7dfce5b0b6",
+     "snippet": "                           NOT FOR PUBLICATION                           FILED\n                    UNITED STATES COURT OF APPEALS                       MAR 15 2024\n                                                                      MOLLY C. DWYER, CLERK\n                                                                       U.S. COURT OF APPEALS\n                           FOR THE NINTH CIRCUIT\n\nFRANCINE M. ARTHUR,                             No.    22-16039\n\n                Plaintiff-Appellant,",
+     "type": "combined-opinion"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    9951129
+   ],
+   "source": "C",
+   "status": "Unpublished",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10594319/randle-v-pearson/",
+   "attorney": "",
+   "caseName": "Randle v. Pearson",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10594319,
+   "court": "District Court, N.D. Indiana",
+   "court_citation_string": "N.D. Ind.",
+   "court_id": "innd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-05-27",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:25-cv-00234",
+   "docket_id": 70343265,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-05-29T08:57:28.662134Z",
+    "date_created": "2025-05-29T08:56:36.345746Z",
+    "score": {
+     "bm25": 37.49339
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      8414714,
+      9435068,
+      9435339
+     ],
+     "download_url": null,
+     "id": 11060907,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.innd.122782/gov.uscourts.innd.122782.4.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-27T20:33:02.627896Z",
+      "date_created": "2025-05-29T08:56:36.350431Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "22008e78eb236a6c27f34792a75c6d759159aef1",
+     "snippet": "                  UNITED STATES DISTRICT COURT                           \n                  NORTHERN DISTRICT OF INDIANA                           \n                       HAMMOND DIVISION                                  \n\nAPRIL ELISHA RANDLE,                                                     \n\n     Plaintiff,                                                          \n\n     v.                           Case No. 2:25-CV-00234-GSL-JEM         \n\nSHARDAI PEARSON, et al.,                            ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    11060907
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10658512/sheely-v-warner-robins-housing-authority/",
+   "attorney": "",
+   "caseName": "SHEELY v. WARNER ROBINS HOUSING AUTHORITY",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10658512,
+   "court": "District Court, M.D. Georgia",
+   "court_citation_string": "M.D. Ga.",
+   "court_id": "gamd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-08-21",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "5:25-cv-00263",
+   "docket_id": 70581175,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-08-22T11:08:03.738804Z",
+    "date_created": "2025-08-22T11:08:03.602863Z",
+    "score": {
+     "bm25": 37.485416
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      77745,
+      112254,
+      804621,
+      9427232,
+      9429619,
+      9430387,
+      9435339
+     ],
+     "download_url": null,
+     "id": 11125099,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.gamd.137794/gov.uscourts.gamd.137794.6.0.pdf",
+     "meta": {
+      "timestamp": "2025-11-01T17:32:07.056844Z",
+      "date_created": "2025-08-22T11:08:03.610854Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "cca7f739a91030ca58e70bf140a891a40b064aba",
+     "snippet": "         IN THE UNITED STATES DISTRICT COURT                         \n         FOR THE MIDDLE DISTRICT OF GEORGIA                          \n                   MACON DIVISION                                    \nBRIANCA MICHELLE SHEELY,                                                  \n          Plaintiff,                                                 \nv.                                       CIVIL ACTION NO.                 \n                                     5:25-cv-00263-TES               \n",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    11125099
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9735091/flores-v-first-cambridge-realty-corporation/",
+   "attorney": "",
+   "caseName": "Flores v. First Cambridge Realty Corporation",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9735091,
+   "court": "District Court, D. Massachusetts",
+   "court_citation_string": "D. Mass.",
+   "court_id": "mad",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-02-02",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:23-cv-12604",
+   "docket_id": 67929871,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-25T05:55:28.433933Z",
+    "date_created": "2024-06-22T19:33:57.164262Z",
+    "score": {
+     "bm25": 37.46657
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      202177,
+      203052,
+      203182,
+      504001,
+      1402483,
+      2399765,
+      2439384,
+      2475467,
+      3193538,
+      8415099,
+      9435294
+     ],
+     "download_url": null,
+     "id": 10201703,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.mad.263037/gov.uscourts.mad.263037.25.0_1.pdf",
+     "meta": {
+      "timestamp": "2025-11-30T18:36:11.799595Z",
+      "date_created": "2024-06-22T19:33:57.185063Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "c9c402dd51e5f7b4cbd4286b76ac0aab291688a7",
+     "snippet": "                UNITED STATES DISTRICT COURT                            \n                 DISTRICT OF MASSACHUSETTS                              \n\n                            )                                           \nRENÉ FLORES,                  )                                           \n                            )                                           \n   Plaintiff,               )                                           \n                            )                              ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10201703
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9688511/prejean-v-dischbein/",
+   "attorney": "",
+   "caseName": "Prejean v. Dischbein",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9688511,
+   "court": "District Court, S.D. Illinois",
+   "court_citation_string": "S.D. Ill.",
+   "court_id": "ilsd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2022-06-02",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "3:21-cv-01593",
+   "docket_id": 63355814,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-04-10T22:49:46.532614Z",
+    "date_created": "2024-06-21T18:34:38.254588Z",
+    "score": {
+     "bm25": 37.449993
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [],
+     "download_url": null,
+     "id": 10155123,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.ilsd.89650/gov.uscourts.ilsd.89650.6.0.pdf",
+     "meta": {
+      "timestamp": "2025-11-01T20:37:03.610509Z",
+      "date_created": "2024-06-21T18:34:38.272961Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "ab7be704f34af94455124b8edfa08e449222e5fe",
+     "snippet": "              IN THE UNITED STATES DISTRICT COURT                        \n             FOR THE SOUTHERN DISTRICT OF ILLINOIS                       \n\nCAROLINA PREJEAN,               )                                        \n                                )                                        \n               Plaintiff,       )                                        \n                                )                                        \nvs.                             )  Case No. 21-cv-1593-",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10155123
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9734363/united-states-v-chicopee-housing-authority/",
+   "attorney": "",
+   "caseName": "United States v. Chicopee Housing Authority",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9734363,
+   "court": "District Court, D. Massachusetts",
+   "court_citation_string": "D. Mass.",
+   "court_id": "mad",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2023-03-24",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "3:21-cv-10649",
+   "docket_id": 59842950,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-25T05:09:28.313057Z",
+    "date_created": "2024-06-22T19:25:36.456307Z",
+    "score": {
+     "bm25": 37.150932
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      202104,
+      203209,
+      204028,
+      1427164,
+      3161322,
+      8773261,
+      9042853
+     ],
+     "download_url": null,
+     "id": 10200975,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.mad.233264/gov.uscourts.mad.233264.77.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-24T00:19:41.653954Z",
+      "date_created": "2024-06-22T19:25:36.480016Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "36c6a4b9aeacc04eb8c2625c7357d2ebd578b276",
+     "snippet": "                 UNITED STATES DISTRICT COURT                           \n                  DISTRICT OF MASSACHUSETTS                             \n\n\nUNITED STATES OF AMERICA,     )                                           \n        Plaintiff,          )                                           \n                            )                                           \n                            )                                           \n        v.                  )    Civil No. 3:21-cv-10649-K",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10200975
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10287778/city-of-pompano-beach-v-coral-rock-development-group-llc/",
+   "attorney": "",
+   "caseName": "City of Pompano Beach v. Coral Rock Development Group, LLC",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10287778,
+   "court": "District Court of Appeal of Florida",
+   "court_citation_string": "Fla. Dist. Ct. App.",
+   "court_id": "fladistctapp",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-12-04",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "4D2024-1263",
+   "docket_id": 69435433,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-12-04T16:03:53.214615Z",
+    "date_created": "2024-12-04T16:03:53.166704Z",
+    "score": {
+     "bm25": 37.117607
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [],
+     "download_url": "https://4dca.flcourts.gov/pre_opinion_content_download/2444263",
+     "id": 10754366,
+     "joined_by_ids": [],
+     "local_path": "pdf/2024/12/04/city_of_pompano_beach_v._coral_rock_development_group_llc.pdf",
+     "meta": {
+      "timestamp": "2025-07-03T19:19:14.325543Z",
+      "date_created": "2024-12-04T16:03:53.168362Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "e90504cb34aba9100e5ea9b64405a613468c61b2",
+     "snippet": "        DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA\n                              FOURTH DISTRICT\n\n                       CITY OF POMPANO BEACH,\n                               Appellant,\n\n                                      v.\n\n            CORAL ROCK DEVELOPMENT GROUP, LLC, and\n                   CORAL ROCK POMPANO, LLC,\n                           Appellees.\n\n                             No. 4D2024-1263\n\n                             [December 4, 2024]\n\n   Appeal of a nonfinal order from t",
+     "type": "combined-opinion"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10754366
+   ],
+   "source": "C",
+   "status": "Published",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9631485/mcarthur-v-summit-security/",
+   "attorney": "",
+   "caseName": "McArthur v. Summit Security",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9631485,
+   "court": "District Court, D. Connecticut",
+   "court_citation_string": "D. Conn.",
+   "court_id": "ctd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2022-07-28",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "3:20-cv-01002",
+   "docket_id": 17364139,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T02:03:58.284427Z",
+    "date_created": "2024-06-21T00:34:33.083353Z",
+    "score": {
+     "bm25": 37.031105
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [],
+     "download_url": null,
+     "id": 10098098,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.ctd.140091/gov.uscourts.ctd.140091.19.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-24T00:03:03.079946Z",
+      "date_created": "2024-06-21T00:34:33.103716Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "997a402afa2f7e2180baba5537c1b226320df4e7",
+     "snippet": "                UNITED STATES DISTRICT COURT                            \n                  DISTRICT OF CONNECTICUT                               \n\n\nALEXANDER McARTHUR,                                                     \nPlaintiff,                           No. 3:20-cv-1002 (SRU)             \n\n     v.                                                                 \n\nSUMMIT SECURITY,                                                        \nDEPT. OF SOCIAL SERVICES,                                 ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10098098
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  }
+ ]
+}

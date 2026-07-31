@@ -1,0 +1,144 @@
+58524
+
+Federal Register / Vol. 87, No. 186 / Tuesday, September 27, 2022 / Notices
+
+· Your Form I­94, Arrival/Departure Record;
+· Your Form I­797, Notice of Action, reflecting approval of your Form I­765; or
+· Form I­797, Notice of Action, reflecting approval or receipt of a past or current Form I­821.
+Check with the government agency regarding which document(s) the agency will accept. Some benefit-granting agencies use the SAVE program to confirm the current immigration status of applicants for public benefits.
+While SAVE can verify when an individual has TPS, each agency's procedures govern whether they will accept an unexpired EAD, Form I­797, or Form I­94, Arrival/Departure Record. If an agency accepts the type of TPSrelated document you are presenting, such as an EAD, the agency should accept your automatically extended EAD, regardless of the country of birth listed on the EAD. Regardless of the TPS-related document you present, it may assist the agency if you:
+a. Present the agency with a copy of the relevant Federal Register notice listing the TPS-related document, including any applicable auto-extension of the document, along with your recent TPS-related document with your ANumber, or USCIS number;
+b. Explain that SAVE will be able to verify the continuation of your TPS using this information; and
+c. Ask the agency to initiate a SAVE query with your information and follow through with additional verification steps, if necessary, to get a final SAVE response verifying your TPS.
+You can also ask the agency to look for SAVE notices or contact SAVE if they have any questions about your immigration status or automatic extension of TPS-related documentation. In most cases, SAVE provides an automated electronic response to benefit-granting agencies within seconds, but occasionally verification can be delayed. You can check the status of your SAVE verification by using CaseCheck at save.uscis.gov/casecheck/. CaseCheck is a free service that lets you follow the progress of your SAVE verification case using your date of birth and one immigration identifier number (ANumber, USCIS number, or Form I­94 number) or Verification Case Number. If an agency has denied your application based solely or in part on a SAVE response, the agency must offer you the opportunity to appeal the decision in accordance with the agency's procedures. If the agency has received and acted on or will act on a SAVE verification and you do not believe the
+
+SAVE response is correct, the SAVE website, www.uscis.gov/save, has detailed information on how to make corrections or update your immigration record, make an appointment, or submit a written request to correct records.
+[FR Doc. 2022­20784 Filed 9­26­22; 8:45 am]
+BILLING CODE 9111­97­P
+DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+[Docket No. FR­7051­N­03]
+60 Day Notice of Proposed Information Collection: Standardization Form for ``Race and Other Demographic Data Reporting Form--HUD 27061'' OMB Control No.: 2535­0113
+AGENCY: Office of Strategic Planning and Management, HUD. ACTION: Notice.
+SUMMARY: HUD is seeking approval from the Office of Management and Budget (OMB) for the information collection described below. In accordance with the Paperwork Reduction Act, HUD is requesting comment from all interested parties on the proposed collection of information. The purpose of this notice is to allow for 60 days of public comment.
+DATES: Comments Due Date: November 28, 2022. ADDRESSES: Interested persons are invited to submit comments regarding this proposal. Comments should refer to the proposal by name and/or OMB Control Number and should be sent to Colette Pollard, Reports Management Officer, REE, Department of Housing and Urban Development, 451 7th Street SW, Room 4176, Washington, DC 20410­5000; telephone 202­402­3400 (this is not a toll-free number) or email at Colette.Pollard@hud.gov for a copy of the proposed form. Persons with hearing or speech impairments may access this number through TTY by calling the tollfree Federal Relay Service at (800) 877­ 8339.
+Electronic Submission of Comments. Interested persons may also submit comments electronically through the Federal eRulemaking Portal at www.regulations.gov. HUD strongly encourages commenters to submit comments electronically. Electronic submission of comments allows the commenter maximum time to prepare and submit a comment, ensures timely receipt by HUD, and enables HUD to make them immediately available to the public. Comments submitted electronically through the www.regulations.gov website can be
+
+viewed by other commenters and interested members of the public. Commenters should follow the instructions provided on that site to submit comments electronically.
+Note: To receive consideration as public comments, comments must be submitted through one of the methods specified above. Again, all submissions must refer to the docket number and title of the notice.
+FOR FURTHER INFORMATION CONTACT: Dorthera Yorkshire, Office of the Chief Financial Officer, Grants Management and Oversight Division, Department of Housing and Urban Development, 451 Seventh St. SW, Room 10162, Washington, DC 20410 or by email Dorthera.Yorkshire@hud.gov or telephone 202­402­4336. This is not a toll-free number. Persons with hearing or speech impairments may access this number through TTY by calling the tollfree Federal Relay Service at (800) 877­ 8339.
+Copies of the proposed data collection form may be requested from Ms. Pollard.
+SUPPLEMENTARY INFORMATION: This notice informs the public that the Department is soliciting comments prior to submitting the proposed information collection to OMB for review, as required by the Paperwork Reduction Act of 1995 (44 U.S.C. chapter 35, as amended). HUD is seeking approval from OMB for the information collection described in Section A.
+A. Overview of Information Collection
+Title of Proposal: Standardization form for ``Race and Other Demographic Data Reporting Form.''
+Type of Request: Renewal of a currently approved collection.
+OMB Control Number, if applicable: 2535­0113.
+Form Numbers: HUD 27061. Description of the need for the information and proposed use: All HUD program offices use this form when collecting information concerning the race, ethnicity, and other protected class data of the populations intended to benefit from HUD funding as required by Title VI of the Civil Rights Act of 1964; the Fair Housing Act; and HUD's regulations. Members of affected public: Applicants for HUD's competitively funded financial assistance programs that are subject to Title VI of the Civil Rights Act of 1964 and the Fair Housing Act. Estimation of the total numbers of hours needed to prepare the information collection including number of respondents, frequency of response, and
+
+jspears on DSK121TN23PROD with NOTICES
+
+VerDate Sep<11>2014 17:51 Sep 26, 2022 Jkt 256001 PO 00000 Frm 00052 Fmt 4703 Sfmt 4703 E:\FR\FM\27SEN1.SGM 27SEN1
+
+Federal Register / Vol. 87, No. 186 / Tuesday, September 27, 2022 / Notices
+
+58525
+
+hours of response: The form is used by entities when they apply for grants. As HUD receives roughly 14,375 applications on an annual basis, we
+
+expect that there will be 14,375 respondents who may need to use this form. HUD estimates that it will take half an hour to complete the form, at
+
+$65.15 per hour.1 The total estimated burden on respondents would thus reach $561,918 on an annual basis. This is shown in Table 1.
+
+TABLE 1--ESTIMATED BURDEN TO RESPONDENTS
+
+Form
+
+Number of respondents
+
+Frequency
+
+Hours per Respondent
+
+Total hours Cost per hour
+
+Total cost
+
+27071 .......................................................
+
+14,375
+
+1.2
+
+0.50
+
+8,625
+
+65.15
+
+$561,918.75
+
+Estimation of the Cost to the Federal government: The following Table 2 shows the estimated burden of Federal financial assistance review. HUD
+
+estimates the cost of the maximum burden on HUD staff would total at most $561,918.75. This estimate is based on the assumption that each form would be
+
+reviewed for one hour by a GS13 step 5 performing a review, and then by a GS 14 and a GS15 who will look at summary results on an annual basis.2
+
+TABLE 2--ESTIMATED BURDEN TO GOVERNMENT
+
+Estimated respondents
+
+Frequency
+
+Estimated number of responses
+
+Estimated burden hours
+per review
+
+Estimated burden hours
+per year
+
+Total estimated burden 2
+
+14,375 ..................................................................................
+
+1.2
+
+17,250
+
+0.50
+
+8,625
+
+$561,918.75
+
+B. Solicitation of Public Comment
+This notice is soliciting comments from members of the public and affected agencies concerning the proposed collection of information to: (1) Evaluate whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information will have practical utility; (2) Evaluate the accuracy of the agency's estimate of the burden of the proposed collection of information; (3) Enhance the quality, utility, and clarity of the information to be collected; and (4) Minimize the burden of the collection of information on those who are to respond; including through the use of appropriate automated collection techniques or other forms of information technology, e.g., permitting electronic submission of responses.
+In addition to the race and ethnicity data collected to comply with Title VI of the Civil Rights Act of 1964, HUD also intends to update this form to collect protected class data as required by the Fair Housing Act and HUD regulations at 24 CFR 121. HUD further solicits comments from members of the public and affecting agencies concerning the proposed collection of information on: (1) data sources available to support this collection; (2) particular data fields in HUD Form 27061 to appropriately collect this
+
+information; and (2) methods to minimize burden on grantees in collecting this information.
+C. Authority
+The Paperwork Reduction Act of 1995, 44 U.S.C. chapter 35, as amended.
+George Tomchick, Deputy Chief Financial Officer, Office of the Chief Financial Officer. [FR Doc. 2022­20868 Filed 9­26­22; 8:45 am]
+BILLING CODE 4210­67­P
+DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+[Docket No. FR­7061­N­14]
+60-Day Notice of Proposed Information Collection: Public Housing Mortgage Program and Section 30, OMB No.: 2577­0265
+AGENCY: Office of the Assistant Secretary for Public and Indian Housing, PIH, HUD. ACTION: Notice.
+SUMMARY: HUD is seeking approval from the Office of Management and Budget (OMB) for the information collection described below. In accordance with the Paperwork Reduction Act, HUD is requesting comment from all interested parties on the proposed collection of information. The purpose of this notice
+
+is to allow for 60 days of public comment.
+DATES: Comments Due Date: November 28, 2022.
+ADDRESSES: Interested persons are invited to submit comments regarding this proposal. Comments should refer to the proposal by name and/or OMB Control Number and should be sent to: Colette Pollard, Reports Management Officer, REE, Department of Housing and Urban Development, 451 7th Street SW, Room 4176, Washington, DC 20410­5000; telephone 202­402­3400 (this is not a toll-free number) or email at Colette.Pollard@hud.gov for a copy of the proposed forms or other available information. Persons with hearing or speech impairments may access this number through TTY by calling the tollfree Federal Relay Service at (800) 877­ 8339.
+FOR FURTHER INFORMATION CONTACT: Leea J. Thornton, Office of Policy, Programs and Legislative Initiatives, PIH, Department of Housing and Urban Development, 451 7th Street SW, Room 3178, Washington, DC 20410; telephone 202­402­6455, (this is not a toll-free number). Persons with hearing or speech impairments may access this number via TTY by calling the Federal Relay Service at (800) 877­8339. Copies of available documents submitted to OMB may be obtained from Ms. Thornton.
+
+1 Estimated cost for respondents is calculated from the March 2022 Department of Labor Bureau of Labor Statistics report on Employer Costs for Employee Compensation determined that the hourly rate of management, professional and related wages and salaries averaged $44.28 per hour plus
+
+$20.87 per hour for fringe benefits for a total $65.15 per hour.
+2 Federal staff time is estimated for a GS­13 step 5 hourly rate at $58.01 per hour (from the Office of Personnel Management and the table with Washington-Baltimore-Arlington locality pay), plus
+
+16% fringe benefit for a total of $67.29 per hour, as well as 15 minutes each for a GS­14 step 5 at $72.19/hr and a GS­15 step 5 at $84.91/hr, based on similar calculations bringing the blended total to $106.57/hr for each form submitted.
+
+jspears on DSK121TN23PROD with NOTICES
+
+VerDate Sep<11>2014 17:51 Sep 26, 2022 Jkt 256001 PO 00000 Frm 00053 Fmt 4703 Sfmt 4703 E:\FR\FM\27SEN1.SGM 27SEN1
+
+

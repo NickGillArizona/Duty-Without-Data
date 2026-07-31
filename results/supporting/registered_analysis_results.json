@@ -1,0 +1,423 @@
+{
+  "timestamp": "2026-07-08T09:55:38.264424-07:00",
+  "bootstrap_reps": 2000,
+  "bootstrap_seed": 20260708,
+  "quoted_numbers": {
+    "selection_outcome": "SUPPORTS-BOUNDING",
+    "selection_max_dimension": "defendant_type_mix",
+    "selection_max_category": "MUNICIPALITY",
+    "selection_max_abs_shift": 0.086279,
+    "dis_inst_p1_n": 74,
+    "dis_inst_p1_den": 383,
+    "dis_inst_p1_share": 0.193211,
+    "dis_inst_p3_n": 30,
+    "dis_inst_p3_den": 314,
+    "dis_inst_p3_share": 0.095541,
+    "disany_inst_p1_n": 77,
+    "disany_inst_p1_den": 476,
+    "disany_inst_p1_share": 0.161765,
+    "disany_inst_p3_n": 33,
+    "disany_inst_p3_den": 399,
+    "disany_inst_p3_share": 0.082707,
+    "org_total": 86,
+    "org_p1_exit": 49,
+    "org_p3_entry": 24,
+    "org_continuing": 7,
+    "org_p2_only": 6,
+    "pretrend_outcome": "DIVERGING",
+    "pretrend_rd_strict_change": -0.206811,
+    "pretrend_dt_strict_change": 0.014946,
+    "pretrend_strict_difference": -0.221756,
+    "pretrend_rd_pro_se_change": -0.081118,
+    "pretrend_dt_pro_se_change": 0.085598,
+    "pretrend_pro_se_difference": -0.166716,
+    "rd_p1a_n": 84,
+    "rd_p1b_n": 86,
+    "dt_p1a_n": 32,
+    "dt_p1b_n": 46,
+    "fhip_match_status": "CONDITIONAL-UNRESOLVED"
+  },
+  "selection_decision": {
+    "outcome": "SUPPORTS-BOUNDING",
+    "max_shift": {
+      "dimension": "defendant_type_mix",
+      "category": "MUNICIPALITY",
+      "p1_share": 0.284091,
+      "p3_share": 0.37037,
+      "shift": 0.086279,
+      "abs_shift": 0.086279
+    },
+    "shift_rows": [
+      {
+        "dimension": "bucket_mix",
+        "category": "DT-PURE",
+        "p1_share": 0.102273,
+        "p3_share": 0.17284,
+        "shift": 0.07056699999999999,
+        "abs_shift": 0.07056699999999999
+      },
+      {
+        "dimension": "bucket_mix",
+        "category": "MIXED",
+        "p1_share": 0.301136,
+        "p3_share": 0.320988,
+        "shift": 0.01985199999999998,
+        "abs_shift": 0.01985199999999998
+      },
+      {
+        "dimension": "bucket_mix",
+        "category": "OTHER",
+        "p1_share": 0.0625,
+        "p3_share": 0.037037,
+        "shift": -0.025463,
+        "abs_shift": 0.025463
+      },
+      {
+        "dimension": "bucket_mix",
+        "category": "RD-PURE",
+        "p1_share": 0.534091,
+        "p3_share": 0.469136,
+        "shift": -0.06495499999999998,
+        "abs_shift": 0.06495499999999998
+      },
+      {
+        "dimension": "court_circuit_mix",
+        "category": "10th Circuit",
+        "p1_share": 0.045455,
+        "p3_share": 0.098765,
+        "shift": 0.05331,
+        "abs_shift": 0.05331
+      },
+      {
+        "dimension": "court_circuit_mix",
+        "category": "11th Circuit",
+        "p1_share": 0.096591,
+        "p3_share": 0.098765,
+        "shift": 0.0021740000000000093,
+        "abs_shift": 0.0021740000000000093
+      },
+      {
+        "dimension": "court_circuit_mix",
+        "category": "1st Circuit",
+        "p1_share": 0.005682,
+        "p3_share": 0.024691,
+        "shift": 0.019009,
+        "abs_shift": 0.019009
+      },
+      {
+        "dimension": "court_circuit_mix",
+        "category": "2nd Circuit",
+        "p1_share": 0.085227,
+        "p3_share": 0.123457,
+        "shift": 0.03823,
+        "abs_shift": 0.03823
+      },
+      {
+        "dimension": "court_circuit_mix",
+        "category": "3rd Circuit",
+        "p1_share": 0.147727,
+        "p3_share": 0.135802,
+        "shift": -0.011924999999999991,
+        "abs_shift": 0.011924999999999991
+      },
+      {
+        "dimension": "court_circuit_mix",
+        "category": "4th Circuit",
+        "p1_share": 0.045455,
+        "p3_share": 0.061728,
+        "shift": 0.016272999999999996,
+        "abs_shift": 0.016272999999999996
+      },
+      {
+        "dimension": "court_circuit_mix",
+        "category": "5th Circuit",
+        "p1_share": 0.113636,
+        "p3_share": 0.098765,
+        "shift": -0.014870999999999995,
+        "abs_shift": 0.014870999999999995
+      },
+      {
+        "dimension": "court_circuit_mix",
+        "category": "6th Circuit",
+        "p1_share": 0.107955,
+        "p3_share": 0.08642,
+        "shift": -0.021535,
+        "abs_shift": 0.021535
+      },
+      {
+        "dimension": "court_circuit_mix",
+        "category": "7th Circuit",
+        "p1_share": 0.085227,
+        "p3_share": 0.061728,
+        "shift": -0.023499,
+        "abs_shift": 0.023499
+      },
+      {
+        "dimension": "court_circuit_mix",
+        "category": "8th Circuit",
+        "p1_share": 0.005682,
+        "p3_share": 0.074074,
+        "shift": 0.068392,
+        "abs_shift": 0.068392
+      },
+      {
+        "dimension": "court_circuit_mix",
+        "category": "9th Circuit",
+        "p1_share": 0.210227,
+        "p3_share": 0.135802,
+        "shift": -0.07442499999999999,
+        "abs_shift": 0.07442499999999999
+      },
+      {
+        "dimension": "court_circuit_mix",
+        "category": "D.C. Circuit",
+        "p1_share": 0.011364,
+        "p3_share": 0.0,
+        "shift": -0.011364,
+        "abs_shift": 0.011364
+      },
+      {
+        "dimension": "court_circuit_mix",
+        "category": "MISSING",
+        "p1_share": 0.039773,
+        "p3_share": 0.0,
+        "shift": -0.039773,
+        "abs_shift": 0.039773
+      },
+      {
+        "dimension": "defendant_type_mix",
+        "category": "DEVELOPER",
+        "p1_share": 0.022727,
+        "p3_share": 0.024691,
+        "shift": 0.0019640000000000005,
+        "abs_shift": 0.0019640000000000005
+      },
+      {
+        "dimension": "defendant_type_mix",
+        "category": "GOVERNMENT",
+        "p1_share": 0.011364,
+        "p3_share": 0.024691,
+        "shift": 0.013327,
+        "abs_shift": 0.013327
+      },
+      {
+        "dimension": "defendant_type_mix",
+        "category": "GROUP_HOME_OPERATOR",
+        "p1_share": 0.005682,
+        "p3_share": 0.0,
+        "shift": -0.005682,
+        "abs_shift": 0.005682
+      },
+      {
+        "dimension": "defendant_type_mix",
+        "category": "HOA_CONDO_ASSN",
+        "p1_share": 0.119318,
+        "p3_share": 0.123457,
+        "shift": 0.004139000000000004,
+        "abs_shift": 0.004139000000000004
+      },
+      {
+        "dimension": "defendant_type_mix",
+        "category": "HOUSING_AUTHORITY",
+        "p1_share": 0.085227,
+        "p3_share": 0.074074,
+        "shift": -0.011152999999999996,
+        "abs_shift": 0.011152999999999996
+      },
+      {
+        "dimension": "defendant_type_mix",
+        "category": "INDIVIDUAL_TENANT",
+        "p1_share": 0.005682,
+        "p3_share": 0.0,
+        "shift": -0.005682,
+        "abs_shift": 0.005682
+      },
+      {
+        "dimension": "defendant_type_mix",
+        "category": "LANDLORD",
+        "p1_share": 0.011364,
+        "p3_share": 0.012346,
+        "shift": 0.0009819999999999985,
+        "abs_shift": 0.0009819999999999985
+      },
+      {
+        "dimension": "defendant_type_mix",
+        "category": "MUNICIPALITY",
+        "p1_share": 0.284091,
+        "p3_share": 0.37037,
+        "shift": 0.086279,
+        "abs_shift": 0.086279
+      },
+      {
+        "dimension": "defendant_type_mix",
+        "category": "OTHER",
+        "p1_share": 0.056818,
+        "p3_share": 0.037037,
+        "shift": -0.019781,
+        "abs_shift": 0.019781
+      },
+      {
+        "dimension": "defendant_type_mix",
+        "category": "PRIVATE_LANDLORD",
+        "p1_share": 0.255682,
+        "p3_share": 0.197531,
+        "shift": -0.05815100000000001,
+        "abs_shift": 0.05815100000000001
+      },
+      {
+        "dimension": "defendant_type_mix",
+        "category": "PROPERTY_MANAGEMENT",
+        "p1_share": 0.130682,
+        "p3_share": 0.135802,
+        "shift": 0.005120000000000013,
+        "abs_shift": 0.005120000000000013
+      },
+      {
+        "dimension": "defendant_type_mix",
+        "category": "PROPERTY_MANAGER",
+        "p1_share": 0.005682,
+        "p3_share": 0.0,
+        "shift": -0.005682,
+        "abs_shift": 0.005682
+      },
+      {
+        "dimension": "defendant_type_mix",
+        "category": "REAL_ESTATE_AGENT",
+        "p1_share": 0.005682,
+        "p3_share": 0.0,
+        "shift": -0.005682,
+        "abs_shift": 0.005682
+      },
+      {
+        "dimension": "institutional_share",
+        "category": "institutional",
+        "p1_share": 0.414773,
+        "p3_share": 0.37037,
+        "shift": -0.044403000000000026,
+        "abs_shift": 0.044403000000000026
+      },
+      {
+        "dimension": "institutional_share",
+        "category": "noninstitutional",
+        "p1_share": 0.585227,
+        "p3_share": 0.62963,
+        "shift": 0.04440299999999997,
+        "abs_shift": 0.04440299999999997
+      },
+      {
+        "dimension": "procedural_posture_mix",
+        "category": "ADMINISTRATIVE_REVIEW",
+        "p1_share": 0.011364,
+        "p3_share": 0.0,
+        "shift": -0.011364,
+        "abs_shift": 0.011364
+      },
+      {
+        "dimension": "procedural_posture_mix",
+        "category": "APPEAL",
+        "p1_share": 0.164773,
+        "p3_share": 0.185185,
+        "shift": 0.020411999999999986,
+        "abs_shift": 0.020411999999999986
+      },
+      {
+        "dimension": "procedural_posture_mix",
+        "category": "DEFAULT_JUDGMENT",
+        "p1_share": 0.005682,
+        "p3_share": 0.024691,
+        "shift": 0.019009,
+        "abs_shift": 0.019009
+      },
+      {
+        "dimension": "procedural_posture_mix",
+        "category": "DISCOVERY",
+        "p1_share": 0.005682,
+        "p3_share": 0.012346,
+        "shift": 0.006663999999999999,
+        "abs_shift": 0.006663999999999999
+      },
+      {
+        "dimension": "procedural_posture_mix",
+        "category": "MOTION_TO_DISMISS",
+        "p1_share": 0.392045,
+        "p3_share": 0.308642,
+        "shift": -0.08340299999999995,
+        "abs_shift": 0.08340299999999995
+      },
+      {
+        "dimension": "procedural_posture_mix",
+        "category": "OTHER",
+        "p1_share": 0.017045,
+        "p3_share": 0.024691,
+        "shift": 0.007646,
+        "abs_shift": 0.007646
+      },
+      {
+        "dimension": "procedural_posture_mix",
+        "category": "OTHER_PROCEDURAL",
+        "p1_share": 0.039773,
+        "p3_share": 0.08642,
+        "shift": 0.046646999999999994,
+        "abs_shift": 0.046646999999999994
+      },
+      {
+        "dimension": "procedural_posture_mix",
+        "category": "PRELIMINARY_INJUNCTION",
+        "p1_share": 0.068182,
+        "p3_share": 0.061728,
+        "shift": -0.006454000000000008,
+        "abs_shift": 0.006454000000000008
+      },
+      {
+        "dimension": "procedural_posture_mix",
+        "category": "SETTLEMENT_CONSENT",
+        "p1_share": 0.005682,
+        "p3_share": 0.0,
+        "shift": -0.005682,
+        "abs_shift": 0.005682
+      },
+      {
+        "dimension": "procedural_posture_mix",
+        "category": "SUMMARY_JUDGMENT",
+        "p1_share": 0.232955,
+        "p3_share": 0.283951,
+        "shift": 0.050996000000000014,
+        "abs_shift": 0.050996000000000014
+      },
+      {
+        "dimension": "procedural_posture_mix",
+        "category": "TRIAL",
+        "p1_share": 0.056818,
+        "p3_share": 0.012346,
+        "shift": -0.044472,
+        "abs_shift": 0.044472
+      },
+      {
+        "dimension": "section_504_ra_overlay_share",
+        "category": "is_ra_case_false",
+        "p1_share": 0.255682,
+        "p3_share": 0.308642,
+        "shift": 0.05296000000000001,
+        "abs_shift": 0.05296000000000001
+      },
+      {
+        "dimension": "section_504_ra_overlay_share",
+        "category": "is_ra_case_true",
+        "p1_share": 0.744318,
+        "p3_share": 0.691358,
+        "shift": -0.05296000000000001,
+        "abs_shift": 0.05296000000000001
+      }
+    ]
+  },
+  "pretrend_decision": {
+    "outcome": "DIVERGING",
+    "rd_strict_change": -0.20681063122923588,
+    "dt_strict_change": 0.01494565217391304,
+    "strict_difference": -0.2217562834031489,
+    "rd_pro_se_change": -0.08111849390919157,
+    "dt_pro_se_change": 0.08559782608695654,
+    "pro_se_difference": -0.1667163199961481,
+    "rd_declining_relative_to_dt_gt_10pp": true
+  }
+}

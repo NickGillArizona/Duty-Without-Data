@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" width="760" height="460" role="img">
+  <title>Three panels comparing Form HUD-27061 across the 2022 proposal, the 2023 approved form, and the 2026 renewal. In September 2022 HUD proposed adding protected-class categories, citing the Fair Housing Act and 24 CFR 121, whose categories include disability (handicap) and family characteristics. The form approved in 2023 collects race and ethnicity only, and the 2023 notice contains no occurrence of the words disability, handicap, protected class, or Fair Housing Act. The June 2026 renewal proposes the same race-and-ethnicity form unchanged while still describing it as collecting race, ethnicity, and other protected class data as required by the Fair Housing Act. The burden estimate is identical in all three: 14,375 respondents, 0.50 hours per response, 8,625 annual hours.</title>
+  <g font-family="Helvetica, Arial, sans-serif">
+    <text x="14" y="28" font-size="18" fill="#1f2328" font-weight="bold">Form HUD-27061: proposed, narrowed, renewed unchanged</text>
+    <text x="14" y="48" font-size="12.5" fill="#57606a">One collection (OMB Control No. 2535-0113) across three Federal Register notices. Sources cited in each panel.</text>
+
+    <!-- Panel 1: September 2022 -->
+    <rect x="14" y="70" width="228" height="310" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+    <rect x="14" y="70" width="228" height="44" rx="8" fill="#eaeef2"/>
+    <rect x="14" y="96" width="228" height="18" fill="#eaeef2"/>
+    <line x1="14" y1="114" x2="242" y2="114" stroke="#d0d7de"/>
+    <text x="26" y="88" font-size="15" fill="#1f2328" font-weight="bold">September 2022</text>
+    <text x="26" y="105" font-size="10.5" fill="#57606a">What HUD proposed</text>
+    <text x="26" y="136" font-size="11" fill="#1f2328" font-weight="bold">Race and Other Demographic Data</text>
+    <text x="26" y="150" font-size="11" fill="#1f2328" font-weight="bold">Reporting Form</text>
+    <text x="26" y="163" font-size="9.5" fill="#57606a">(the notice&#8217;s caption for the update)</text>
+    <rect x="20" y="212" width="216" height="56" rx="4" fill="#fff8c5"/>
+    <text x="26" y="180" font-size="12" fill="#1f2328">Race</text>
+    <text x="230" y="180" font-size="11" fill="#1a7f37" font-weight="bold" text-anchor="end">Collected</text>
+    <text x="26" y="205" font-size="12" fill="#1f2328">Ethnicity</text>
+    <text x="230" y="205" font-size="11" fill="#1a7f37" font-weight="bold" text-anchor="end">Collected</text>
+    <text x="26" y="232" font-size="12" fill="#1f2328">Disability (&#8220;handicap&#8221;)</text>
+    <text x="230" y="232" font-size="11" fill="#9a6700" font-weight="bold" text-anchor="end">Proposed</text>
+    <text x="26" y="259" font-size="12" fill="#1f2328">Family characteristics</text>
+    <text x="230" y="259" font-size="11" fill="#9a6700" font-weight="bold" text-anchor="end">Proposed</text>
+    <line x1="26" y1="280" x2="230" y2="280" stroke="#d0d7de"/>
+    <text x="26" y="296" font-size="10.5" fill="#1f2328" font-style="italic">&#8220;HUD also intends to update this form</text>
+    <text x="26" y="310" font-size="10.5" fill="#1f2328" font-style="italic">to collect protected class data as</text>
+    <text x="26" y="324" font-size="10.5" fill="#1f2328" font-style="italic">required by the Fair Housing Act and</text>
+    <text x="26" y="338" font-size="10.5" fill="#1f2328" font-style="italic">HUD regulations at 24 CFR 121.&#8221;</text>
+    <text x="26" y="360" font-size="9.5" fill="#57606a">87 Fed. Reg. 58,524, 58,525 (Sept. 27, 2022)</text>
+
+    <text x="253" y="235" font-size="20" fill="#57606a" text-anchor="middle">&#8594;</text>
+
+    <!-- Panel 2: January 2023 -->
+    <rect x="264" y="70" width="228" height="310" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+    <rect x="264" y="70" width="228" height="44" rx="8" fill="#eaeef2"/>
+    <rect x="264" y="96" width="228" height="18" fill="#eaeef2"/>
+    <line x1="264" y1="114" x2="492" y2="114" stroke="#d0d7de"/>
+    <text x="276" y="88" font-size="15" fill="#1f2328" font-weight="bold">January 2023</text>
+    <text x="276" y="105" font-size="10.5" fill="#57606a">What was approved</text>
+    <text x="276" y="136" font-size="11" fill="#1f2328" font-weight="bold">Race and Ethnic Data Reporting Form</text>
+    <text x="276" y="150" font-size="9.5" fill="#57606a">(the approved form; expiration June 30, 2026)</text>
+    <rect x="270" y="212" width="216" height="56" rx="4" fill="#fff8c5"/>
+    <text x="276" y="180" font-size="12" fill="#1f2328">Race</text>
+    <text x="480" y="180" font-size="11" fill="#1a7f37" font-weight="bold" text-anchor="end">Collected</text>
+    <text x="276" y="205" font-size="12" fill="#1f2328">Ethnicity</text>
+    <text x="480" y="205" font-size="11" fill="#1a7f37" font-weight="bold" text-anchor="end">Collected</text>
+    <text x="276" y="232" font-size="12" fill="#1f2328">Disability (&#8220;handicap&#8221;)</text>
+    <text x="480" y="232" font-size="11" fill="#cf222e" font-weight="bold" text-anchor="end">Absent</text>
+    <text x="276" y="259" font-size="12" fill="#1f2328">Family characteristics</text>
+    <text x="480" y="259" font-size="11" fill="#cf222e" font-weight="bold" text-anchor="end">Absent</text>
+    <line x1="276" y1="280" x2="480" y2="280" stroke="#d0d7de"/>
+    <text x="276" y="296" font-size="10.5" fill="#1f2328">The 30-day notice contains no</text>
+    <text x="276" y="310" font-size="10.5" fill="#1f2328">occurrence of &#8220;disability,&#8221; &#8220;handicap,&#8221;</text>
+    <text x="276" y="324" font-size="10.5" fill="#1f2328">&#8220;protected class,&#8221; or &#8220;Fair Housing</text>
+    <text x="276" y="338" font-size="10.5" fill="#1f2328">Act.&#8221; No explanation appears.</text>
+    <text x="276" y="360" font-size="9.5" fill="#57606a">88 Fed. Reg. 5,370 (Jan. 27, 2023)</text>
+
+    <text x="503" y="235" font-size="20" fill="#57606a" text-anchor="middle">&#8594;</text>
+
+    <!-- Panel 3: June 2026 -->
+    <rect x="514" y="70" width="228" height="310" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+    <rect x="514" y="70" width="228" height="44" rx="8" fill="#eaeef2"/>
+    <rect x="514" y="96" width="228" height="18" fill="#eaeef2"/>
+    <line x1="514" y1="114" x2="742" y2="114" stroke="#d0d7de"/>
+    <text x="526" y="88" font-size="15" fill="#1f2328" font-weight="bold">June 2026</text>
+    <text x="526" y="105" font-size="10.5" fill="#57606a">What HUD proposes to renew</text>
+    <text x="526" y="136" font-size="11" fill="#1f2328" font-weight="bold">Race and Ethnic Data Reporting Form</text>
+    <text x="526" y="149" font-size="9.5" fill="#57606a">(unchanged; the notice&#8217;s caption still reads</text>
+    <text x="526" y="161" font-size="9.5" fill="#57606a">&#8220;Race and Other Demographic &#8230; Form&#8221;)</text>
+    <rect x="520" y="212" width="216" height="56" rx="4" fill="#fff8c5"/>
+    <text x="526" y="180" font-size="12" fill="#1f2328">Race</text>
+    <text x="730" y="180" font-size="11" fill="#1a7f37" font-weight="bold" text-anchor="end">Collected</text>
+    <text x="526" y="205" font-size="12" fill="#1f2328">Ethnicity</text>
+    <text x="730" y="205" font-size="11" fill="#1a7f37" font-weight="bold" text-anchor="end">Collected</text>
+    <text x="526" y="232" font-size="12" fill="#1f2328">Disability (&#8220;handicap&#8221;)</text>
+    <text x="730" y="232" font-size="11" fill="#cf222e" font-weight="bold" text-anchor="end">Absent</text>
+    <text x="526" y="259" font-size="12" fill="#1f2328">Family characteristics</text>
+    <text x="730" y="259" font-size="11" fill="#cf222e" font-weight="bold" text-anchor="end">Absent</text>
+    <line x1="526" y1="280" x2="730" y2="280" stroke="#d0d7de"/>
+    <text x="526" y="296" font-size="10.5" fill="#1f2328">Still described as collecting &#8220;race,</text>
+    <text x="526" y="310" font-size="10.5" fill="#1f2328">ethnicity, and other protected class</text>
+    <text x="526" y="324" font-size="10.5" fill="#1f2328">data &#8230; as required by &#8230; the Fair</text>
+    <text x="526" y="338" font-size="10.5" fill="#1f2328">Housing Act.&#8221; The form is unchanged.</text>
+    <text x="526" y="360" font-size="9.5" fill="#57606a">91 Fed. Reg. 35,697, 35,698 (June 12, 2026)</text>
+
+    <line x1="14" y1="396" x2="746" y2="396" stroke="#d0d7de"/>
+    <text x="14" y="414" font-size="12" fill="#1f2328" font-weight="bold">The burden estimate never moved: 14,375 respondents, 0.50 hours per response, 8,625 annual hours.</text>
+    <text x="14" y="431" font-size="11" fill="#57606a">Identical in the 2022 proposal, the 2023 approval, and the 2026 renewal notice &#8212; which forecloses respondent</text>
+    <text x="14" y="447" font-size="11" fill="#57606a">burden as the disclosed reason for the narrowing. Comments on the renewal are due August 11, 2026.</text>
+  </g>
+</svg>

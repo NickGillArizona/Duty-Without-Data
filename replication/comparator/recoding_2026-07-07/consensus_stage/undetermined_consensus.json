@@ -1,0 +1,2246 @@
+[
+ {
+  "row_id": "UND|034 - CLOVER COMMUNITIES BEAVERCREEK LLC v MUSSACHIO ARCHITECTS PC",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-01-29",
+  "outcome": "UNDETERMINED",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10046364_2024_Thomas Merck v. Walmart, Inc._ca6",
+  "group": "EMPTY_PCS",
+  "date_filed": "2024-08-20",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "other",
+  "votes": [
+   "other",
+   "undetermined",
+   "other"
+  ]
+ },
+ {
+  "row_id": "UND|10105570_2024_Adam U. Steines v. Westgate Palace, L.L.C._ca11",
+  "group": "EMPTY_PCS",
+  "date_filed": "2024-09-05",
+  "outcome": "PROCEDURAL",
+  "consensus": "other",
+  "votes": [
+   "other",
+   "other",
+   "other"
+  ]
+ },
+ {
+  "row_id": "UND|10180794_2024_Edwards v. Klinedinst_ksd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-07-22",
+  "outcome": "PROCEDURAL",
+  "consensus": "race",
+  "votes": [
+   "race",
+   "race",
+   "race"
+  ]
+ },
+ {
+  "row_id": "UND|10189320_2024_FRANKLIN v. THE JERSEY CITY HOUSING AUTHORITY_njd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-01-23",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10190181_2024_MCLEAN v. SUMITRA_njd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-09-27",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10199579_2024_Blackburn v. Webb_okwd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-10-29",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10201923_2024_Newbury v. United States Department of Housing and Urban Development_rid",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-08-20",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "NO_CONSENSUS",
+  "votes": [
+   "familial_status",
+   "sex",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10202266_2024_Scipio v. Housing Authority of Hartsville_scd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-08-22",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10213413_2021_MDG - RIO V Limited v. City of Seguin, Texas_txwd",
+  "group": "EMPTY_PCS",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "other",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10218049_2021_Hatfield v. Cottages on 78th Community Association, The_utd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|10241092_2023_Tajammul v. Everett Affordable Housing Portfolio LLLP_wawd",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-01-09",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10256152_2022_Barilani, Sherilyn v. Housing Authority of the City of Eau Claire_wiwd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2022-02-09",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "NO_CONSENSUS",
+  "votes": [
+   "disability",
+   null,
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10277742_2024_Evans-Williams v. Sunstates Management Corporation_mssd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-11-19",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10290700_2024_White v. The GSH Group_mied",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-12-09",
+  "outcome": "PROCEDURAL",
+  "consensus": "disability",
+  "votes": [
+   "disability",
+   "disability",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10297777_2024_Plainview Mobile Home Park v. City of Oak Grove, Kentucky_kywd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-12-19",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10299473_2024_White v. Matthews_oked",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-10-15",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "disability",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10322177_2025_L. Ford v._ca3",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-01-28",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10331641_2025_MCLEAN v. SUMITRA_njd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2025-02-11",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10337882_2025_Mindale Farms Co. v. City of Tallmadge, Ohio_ohnd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2025-02-21",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10385661_2025_Willis v. US Bank Trust National Association_txnd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-04-25",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10458286_2025_National Urban League v. Trump_dcd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2025-05-02",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "race",
+  "votes": [
+   "other",
+   "race",
+   "race"
+  ]
+ },
+ {
+  "row_id": "UND|10528777_2025_Harris v. Wells Fargo Bank, N.A._tnwd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2025-05-05",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "race",
+  "votes": [
+   "race",
+   "race",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10547559_2025_Fleming v. Westwood Place Apartments, LLC_mdd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-05-06",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10582796_2025_Cole v. Faulkner_ilnd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-05-09",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|10589627_2025_Deepa Patel v. City of Stanton_cacd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2025-05-19",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10590335_2025_Turner v. Autumn Lake Property Owners Association, Inc._txsd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-05-19",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10592503_2025_St. Clair v. George_txnd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-04-24",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10594578_2025_Glover v. Elevate Property Management_ned",
+  "group": "EMPTY_PCS",
+  "date_filed": "2025-05-28",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10599504_2025_Calhoun v. The Greens at Lake Overholser_okwd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-06-05",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10605847_2025_(PS) James v. Metzger Mgt. Co._caed",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-06-16",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10614918_2025_Scoggins v. Falcon Court_caed",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-06-20",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|10621495_2025_Shaw v. Habitat for Humanity_tnwd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-06-02",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10634751_2025_Ferraraccio v. New Peoples Bank_wvsd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-07-16",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10637254_2025_Moon v. Jovanelly_scd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-07-18",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10637328_2025_HAYWOOD v. WARNER ROBINS HOUSING AUTHORITY_gamd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-07-18",
+  "outcome": "PROCEDURAL",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "undetermined",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|10646007_2025_FEINGOLD v. ERIE INSURANCE EXCHANGE_paed",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-07-31",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10647836_2025_Gadson v. Riverbay Corporation_nysd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-08-04",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|10650712_2025_Johnson v. Guardian Management_ord",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-08-07",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10656874_2025_King_Morocco v. Greystar_ca5",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-08-19",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|10658512_2025_SHEELY v. WARNER ROBINS HOUSING AUTHORITY_gamd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2025-08-21",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "undetermined",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|10659345_2025_PRINCE v. PAJELA_njd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-08-22",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   null,
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|10674429_2025_Jackson v. S2 Residential_ca5",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-09-19",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10674633_2025_Ortiguerra v. Grand Isle Shipyard, LLC_laed",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-09-19",
+  "outcome": "PROCEDURAL",
+  "consensus": "national_origin",
+  "votes": [
+   "national_origin",
+   "national_origin",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10674949_2025_Woodard v. State of Missouri_moed",
+  "group": "EMPTY_PCS",
+  "date_filed": "2025-09-19",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10682848_2025_Chimney v. Deutsch Bank National Trust_txed",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-09-29",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "NO_CONSENSUS",
+  "votes": [
+   "race",
+   null,
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10688150_2025_Henderson v. Wright_ohnd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2025-10-01",
+  "outcome": "MIXED",
+  "consensus": "undetermined",
+  "votes": [
+   null,
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10688173_2025_Armour v. Gold_mdd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-09-30",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10691174_2025_Miami Valley Fair Housing Center, Inc. v. Paradise Residency, LLC_ohsd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-10-03",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10691671_2025_Crawford v. Oguleye_alnd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2025-10-06",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10704025_2025_Jasmine Hill v. Philadelphia Housing Authority, et al._paed",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-10-14",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10706118_2025_Seyed Alireza Amidi Namin v. Kevin Jeffrey Vert_utd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-10-17",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10730134_2025_Mikel James Gueltzau v. Derek Warehime, Property Manager and Owner; and Cathy Warehime, Property Manager and Owner_ned",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-11-03",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10736151_2025_Jana Smith v. Mark Downey; Charles Olsen; Ariell Hartwell; Mark Simon; and Sherman Smith_ord",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-11-13",
+  "outcome": "PLAINTIFF_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10741156_2025_Jessica Berk v. Ritz Condominium Association, et al._njd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-11-19",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10748519_2025_Karen Denise Price, individually and as executor and sole beneficiary of the Estate of Dennis H. Buie v. FCI Lender Services, et al._gand",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-12-04",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10749500_2025_Shyane Harden v. Kier Management; Michelle Tipplette; and Lindsay Borke_utd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-12-08",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|10762371_2025_Domonique Cornell Wilson, et al. v. Holiday Estates, et al._mied",
+  "group": "EMPTY_PCS",
+  "date_filed": "2025-12-18",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10766939_2025_Blakelick Properties, LLC v. The Village of Glen Ellyn_ilnd",
+  "group": "UNDETERMINED",
+  "date_filed": "2025-12-30",
+  "outcome": "PLAINTIFF_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10787023_2026_United States of America v. Douglas S. Waterbury, Carol A. Waterbury, E_A Management Co., and Ontario Realty, Inc._nynd",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-02-09",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10805225_2026_Elhadj Alpha Mahmound Souare v. Akron Metropolitan Housing Authority, et al._ohnd",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-02-24",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10808264_2026_Imani Lawson v. Dice Holdings LLC, Ozarks Communities, Theresa Knoth, and Daniel_ilsd",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-03-04",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "retaliation_only",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10810520_2026_Collins v. Wells Fargo _ Company_ca9",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|11267603 - How cited",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "UNDETERMINED",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|3171091_2016_Richard Wolf v. Bank of America, N.A., et a_ca5",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|4424296_2019_Kirschenbaum v. Assa Corp._ca2",
+  "group": "EMPTY_PCS",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "other",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|4454484_2019_Daimeon Mosley v. Kohl's Dep't Stores, Inc._ca6",
+  "group": "EMPTY_PCS",
+  "date_filed": null,
+  "outcome": "PLAINTIFF_WIN",
+  "consensus": "disability",
+  "votes": [
+   "disability",
+   "disability",
+   "disability"
+  ]
+ },
+ {
+  "row_id": "UND|4581562_2020_Dr. David S. Muransky v. Godiva Chocolatier, Inc._ca11",
+  "group": "EMPTY_PCS",
+  "date_filed": null,
+  "outcome": "PROCEDURAL",
+  "consensus": "other",
+  "votes": [
+   "other",
+   "other",
+   "other"
+  ]
+ },
+ {
+  "row_id": "UND|4757512_2020_Akshar Global Investments Corp v. City of Los Angeles_ca9",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "MIXED",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|4768065_2020_Eric Ferrier v. Cascade Falls Condominium Association, Inc._ca11",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|4848196_2021_Ricky Kamdem-Ouaffo v. Plaza Square Apartments_ca3",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|4886973_2021_Paul Clark, Sr. v. Council of Unit Owners_ca4",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|4892967_2021_Lockey v. Carson_dcd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|5032477_2021_Nicole Fedynich v. Juana Lozano_ca4",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "PROCEDURAL",
+  "consensus": "disability",
+  "votes": [
+   "disability",
+   "disability",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|6225633_2022_Karen C. Yeh Ho v. Valencia Isles Homeowners Association, Inc._ca11",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-01-13",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|6472707_2022_Commissiong v. US Dept. Housing _ Urban Development_ca2",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-05-27",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|8509670_2022_Sandpiper Residents Association v. United States Department of Housing and Urban Development_dcd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-11-04",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9369813_2023_Chris Langer v. Milan Kiser_ca9",
+  "group": "EMPTY_PCS",
+  "date_filed": "2023-01-23",
+  "outcome": "PLAINTIFF_WIN",
+  "consensus": "disability",
+  "votes": [
+   "disability",
+   "disability",
+   "disability"
+  ]
+ },
+ {
+  "row_id": "UND|9402431_2023_Joelle Angel v. Charlestowne Condominium Association, Inc._ca4",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-05-25",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9423174_2023_James Nathaniel Douse v. Sabrina Traeger_ca11",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-08-29",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9426575_2023_Orlando Garcia v. Gateway Hotel L.P._ca9",
+  "group": "EMPTY_PCS",
+  "date_filed": "2023-09-15",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "disability",
+  "votes": [
+   "disability",
+   "disability",
+   "disability"
+  ]
+ },
+ {
+  "row_id": "UND|9428257_2023_Sonya Youvett McNeal v. Navy Federal Credit Union_ca11",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-09-26",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9479284_2024_Amia Bryant v. Darrell Steinburg_ca9",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-02-28",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9512468_2022_Victorio Campos v. 1169 Palms LLC_cacd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-02-07",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9516404_2023_Wilmington Savings Fund Society, FSB v. Bersadeh Bagheri_cacd",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-04-19",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9545241_2022_Arkansas United v. Thurston_arwd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2022-08-19",
+  "outcome": "MIXED",
+  "consensus": "disability",
+  "votes": [
+   "other",
+   "disability",
+   "disability"
+  ]
+ },
+ {
+  "row_id": "UND|9545274_2022_Arkansas United v. Thurston_arwd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2022-09-07",
+  "outcome": "PLAINTIFF_WIN",
+  "consensus": "disability",
+  "votes": [
+   "disability",
+   "disability",
+   "disability"
+  ]
+ },
+ {
+  "row_id": "UND|9562205_2021_Project Sentinel v. Komar_caed",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9576362_2022_(PS)Shultz v. Kern County_caed",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-03-04",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9589037_2023_Goodwin v. City Attorney's Office_caed",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-09-12",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9604396_2022_National Fair Housing Alliance, Inc. v. Carson_cand",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-04-05",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "other",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9627426_2023_Frederickson v. Larimer County_cod",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-03-29",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9631452_2022_McArthur v. Nur Market_ctd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-07-28",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9631621_2022_Morales v. U.S. Department of H.U.D._ctd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-09-14",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9635966_2023_SAMUEL v. NEW CASTLE HOUSING AUTHORITY (NCCHA)_ded",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-03-27",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|9636368_2023_Lewis v. Greenville on 141 Apartments and Townhomes - Westover Companies_ded",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-11-07",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9644670_2022_Douse v. Traeger_flmd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2022-10-20",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9667151_2021_Guion v. Bonner Homeless Transitions_idd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "disability",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9668057_2023_Gerdon v. French_idd",
+  "group": "EMPTY_PCS",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "other",
+  "votes": [
+   "other",
+   "other",
+   "other"
+  ]
+ },
+ {
+  "row_id": "UND|9679405_2022_Johnson v. Flannery_ilnd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-01-11",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|9680452_2022_Satterfield v. HSBC Bank USA, N.A._ilnd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-06-23",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9680646_2022_Williams Jr v. Heartland Realty Investors, Inc._ilnd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2022-07-27",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9682870_2023_County of Cook, IL v. Wells Fargo _ Co._ilnd",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-09-20",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "race",
+  "votes": [
+   "race",
+   "race",
+   "race"
+  ]
+ },
+ {
+  "row_id": "UND|9694252_2021_Norman v. Northwest Indiana CA_innd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9694963_2021_Norman v. Northwest Indiana CA_innd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "NO_CONSENSUS",
+  "votes": [
+   "retaliation_only",
+   null,
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9695454_2022_Black v. Friedrichsen_innd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-02-08",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9696090_2022_Northern v. Pedcor Management Corp._innd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-06-06",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "disability",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9698376_2024_Mabry v. City of East Chicago_innd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-02-28",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9717642_2023_Forte v. Hopkinsville Housing Authority_kywd",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-11-29",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "other",
+  "votes": [
+   "other",
+   "other",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9727679_2021_Fenelon v. Housing _ Urban Development_lawd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9727902_2021_Fenelon v. Housing _ Urban Development_lawd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9735311_2024_Thompson v. PennyMac Loan Services LLC_mad",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-03-31",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "NO_CONSENSUS",
+  "votes": [
+   "disability",
+   "undetermined",
+   "race"
+  ]
+ },
+ {
+  "row_id": "UND|9739119_2021_Truesdale v. Cumming_mdd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "race",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9741144_2022_Smith v. New Rez, LLC_mdd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-11-30",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9741796_2023_Johnson v. City of Annapolis_mdd",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-05-01",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9741834_2023_National Fair Housing Alliance v. Bank of America, National Association_mdd",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-04-28",
+  "outcome": "PROCEDURAL",
+  "consensus": "race",
+  "votes": [
+   "race",
+   "race",
+   "race"
+  ]
+ },
+ {
+  "row_id": "UND|9741918_2023_Estate of DaMon R. Fisher v. City of Annapolis_mdd",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-05-01",
+  "outcome": "PROCEDURAL",
+  "consensus": "race",
+  "votes": [
+   "race",
+   "race",
+   "race"
+  ]
+ },
+ {
+  "row_id": "UND|9742608_2023_CASA de Maryland, Inc. v. Arbor Realty Trust, Inc._mdd",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-10-26",
+  "outcome": "SETTLEMENT",
+  "consensus": "national_origin",
+  "votes": [
+   "national_origin",
+   null,
+   "national_origin"
+  ]
+ },
+ {
+  "row_id": "UND|9743469_2024_Clark v. Council of Unit Owners of the 100 Harborview Drive Condominium_mdd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-05-13",
+  "outcome": "PROCEDURAL",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|9749413_2021_Rankin_mied",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9754082_2023_Allen v. Michigan First Credit Union_mied",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-05-08",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9755367_2024_Worthy v. Community Management Associates Inc._mied",
+  "group": "EMPTY_PCS",
+  "date_filed": "2024-01-17",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "other",
+  "votes": [
+   "other",
+   "other",
+   "other"
+  ]
+ },
+ {
+  "row_id": "UND|9755770_2024_Johnson Chambers v. Michigan First Credit Union_mied",
+  "group": "EMPTY_PCS",
+  "date_filed": "2024-03-27",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9759789_2024_Servis v. Jang_miwd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-03-04",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9775981_2022_Auburn Hills Homeowners Association v. New Page Properties, L.L.C._mowd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-10-12",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9785636_2022_Young v. Lake Royale Association_nced",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-07-29",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|9793761_2023_Mescall v. Renaissance at Antiquity_ncwd",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-11-13",
+  "outcome": "PROCEDURAL",
+  "consensus": "disability",
+  "votes": [
+   "disability",
+   null,
+   "disability"
+  ]
+ },
+ {
+  "row_id": "UND|9796832_2021_Knight v. Chatelain_ned",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "undetermined",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|9797085_2022_Knight v. Biggs_ned",
+  "group": "EMPTY_PCS",
+  "date_filed": "2022-03-10",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9797747_2023_AB Realty, LLC v. Lane_ned",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-03-06",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9806051_2022_D'ANTONIO v. BOROUGH OF ALLENDALE_njd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-01-31",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9811823_2024_FRANKLIN v. THE JERSEY CITY HOUSING AUTHORITY_njd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-03-26",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9818630_2024_Thomas v. Bridge_nmd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-01-02",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9818938_2024_Thomas v. Bridge_nmd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2024-02-12",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9824801_2021_Godwin v. Senior Garden Apartments_nvd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9841571_2022_Saint-Jean v. Emigrant Mortgage Company_nyed",
+  "group": "EMPTY_PCS",
+  "date_filed": "2022-05-06",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "race",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9847385_2021_Cedar Development East,LLC v. Town Board of Hurley_nynd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "PROCEDURAL",
+  "consensus": "familial_status",
+  "votes": [
+   "familial_status",
+   "undetermined",
+   "familial_status"
+  ]
+ },
+ {
+  "row_id": "UND|9847505_2021_United States v. Waterbury_nynd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "MIXED",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9849398_2023_Ming v. Brouillete_nynd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2023-08-24",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9849905_2024_Brown v. Community Preservation Partners, LLC_nynd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-04-22",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9863597_2021_Samura v. Figueroa_nysd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9879567_2022_Jones v. City of New York_nysd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-11-16",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9880628_2022_Jones v. City of New York_nysd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9890495_2024_Warren v. 111 Tenants Corp._nysd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-01-04",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9890868_2024_Jane Doe v. Related Companies, LLP_nysd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-01-19",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9891404_2024_Cullum v. Wyndham Hotels _ Resorts Corp._nysd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-02-12",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "other",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9892170_2024_Tiffany Simone Fulton v. City of New York_nysd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-03-08",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9900555_2024_Jones v. Homestate Asset Management LLC_nywd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-04-29",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9906705_2024_Culver v. Churchill_ohnd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2024-04-10",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9915088_2023_Leonard v. Montgomery_ohsd",
+  "group": "EMPTY_PCS",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9915788_2023_Epps v. United States of America_ohsd",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-05-22",
+  "outcome": "PROCEDURAL",
+  "consensus": "race",
+  "votes": [
+   "race",
+   "undetermined",
+   "race"
+  ]
+ },
+ {
+  "row_id": "UND|9918050_2024_Clark v. Blueprint Investments, LLC_ohsd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-05-08",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9922075_2021_United States v. Johnson_okwd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "PLAINTIFF_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9927283_2021_Watson v. loanDepot.com, LLC_ord",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "PLAINTIFF_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "race",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9927500_2021_Myers v. Highlands At Vista Ridge Homeowners Association, Inc._ord",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9927566_2022_Allen v. loanDepot.com, LLC_ord",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-01-06",
+  "outcome": "PLAINTIFF_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9928046_2022_Johnson v. Brenneke_ord",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-03-31",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "disability",
+  "votes": [
+   "disability",
+   "disability",
+   "disability"
+  ]
+ },
+ {
+  "row_id": "UND|9928262_2022_Johnson v. Brenneke_ord",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-06-21",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9930903_2024_Washington v. Farmington Estates Owners Association_ord",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-06-07",
+  "outcome": "MIXED",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9932222_2020_GLYNN v. ELLSWORTH CONGREGATION OF LEHOVAH'S WITNESSES_paed",
+  "group": "EMPTY_PCS",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9934691_2021_EL v. PEOPLE'S EMERGENCY CENTER_paed",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|9940379_2024_ROSADO v. WHITCRAFT_paed",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-03-26",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9947666_2024_Ewideh v. Homesite Insurance Company of the Midwest_pamd",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-02-07",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9949878_2021_THOMPSON v. BROMALL_pawd",
+  "group": "UNDETERMINED",
+  "date_filed": null,
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9971145_2022_McGuire v. Highmark Holdings_tnmd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-03-11",
+  "outcome": "PROCEDURAL",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|9971239_2022_McDonald v. Madison Flats_tnmd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-03-29",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9971566_2022_McGuire v. Highmark Holdings_tnmd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-09-15",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|_existing_cases",
+  "group": "UNDETERMINED",
+  "date_filed": "2024-05-20",
+  "outcome": "UNDETERMINED",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9990293_2022_Shibley v. National Bank of Commerce, DBA, Private Bank of Bu_ganb",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-02-03",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10208624_2022_Ford v. Camillo Properties_txsd",
+  "group": "UNDETERMINED",
+  "date_filed": "2022-03-16",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|9994368_2023_Ditech Holding Corporation_nysb",
+  "group": "UNDETERMINED",
+  "date_filed": "2023-09-01",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10829691_2026_Dustin Barral v. Brooktree Apartments and 2300 West Apartments_nvd",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-01-15",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "other",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10841572_2026_Miguel Angel Quinones-Camacho v. Toledo Properties Owner B LLC, et al._ohnd",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-03-19",
+  "outcome": "PROCEDURAL",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "undetermined",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|10838583_2026_Nu Nu Yee v. Candance Doe, et al._innd",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-03-24",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10844806_2026_Darlene Wente v. Tammy Steidl, et al._ohnd",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-03-24",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "undetermined",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|10845042_2026_Holly Jarvis v. William D\u2019Angelo; and Marpat, LLC_nynd",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-03-25",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10850003_2026_Calvin Andrews v. Spokane Housing Authority, Kelly Keenaw, Melynn Beetham, Winde_waed",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-03-27",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "disability",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10829860_2026_Mortel v. Nowicki_ca5",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-03-30",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10842996_2026_Amine Merzaki v. Oktibbeha County; et al._msnd",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-04-14",
+  "outcome": "PROCEDURAL",
+  "consensus": "disability",
+  "votes": [
+   "disability",
+   "disability",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10892124_2026_Tracey Vinson v. Ann Arbor Housing Commission, et al._mied",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-04-14",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "national_origin",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10847941_2026_United States v. State of Texas_ca5",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-04-24",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "national_origin",
+  "votes": [
+   "national_origin",
+   "national_origin",
+   "national_origin"
+  ]
+ },
+ {
+  "row_id": "UND|10876110_2026_Johnna Swanfeld v. Citizens Property Insurance Corporation and Freedom Mortgage _flsd",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-05-15",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10861482_2026_Paul Alpha Grant v. Greystar Real Estate Partners, LLC; Conservice, LLC_hid",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-05-19",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10864627_2026_Ryan Owens v. Willow Bridge Property Company, et al._tnmd",
+  "group": "EMPTY_PCS",
+  "date_filed": "2026-05-26",
+  "outcome": "DEFENDANT_WIN",
+  "consensus": "retaliation_only",
+  "votes": [
+   "retaliation_only",
+   "retaliation_only",
+   "retaliation_only"
+  ]
+ },
+ {
+  "row_id": "UND|10865996_2026_Karen E. Stant, Executrix of the Estate of Genevieve R. Davilman v. Turtle Creek_mssd",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-05-28",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "disability",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10884215_2026_Melissa Mae Mielke-Metzger v. Richard O. Moriarty_wied",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-06-03",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ },
+ {
+  "row_id": "UND|10829527_2026_Robert A. Johnson v. Raven Wood Homeowners Association_wawd",
+  "group": "UNDETERMINED",
+  "date_filed": "2026-01-20",
+  "outcome": "PROCEDURAL",
+  "consensus": "undetermined",
+  "votes": [
+   "undetermined",
+   "undetermined",
+   "undetermined"
+  ]
+ }
+]

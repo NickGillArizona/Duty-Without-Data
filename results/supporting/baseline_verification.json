@@ -1,0 +1,160 @@
+{
+  "timestamp": "2026-07-08T09:46:36.593346-07:00",
+  "status": "PASS",
+  "errors": [],
+  "institutional_baseline_rows": [
+    {
+      "arm": "DIS",
+      "period": "P1",
+      "inst_n": 74,
+      "n": 383,
+      "share": 0.193211,
+      "definition": "plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR}; decided cells",
+      "claim_gate": "APPENDIX-READY"
+    },
+    {
+      "arm": "DIS",
+      "period": "P2",
+      "inst_n": 17,
+      "n": 101,
+      "share": 0.168317,
+      "definition": "plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR}; decided cells",
+      "claim_gate": "APPENDIX-READY"
+    },
+    {
+      "arm": "DIS",
+      "period": "P3",
+      "inst_n": 30,
+      "n": 314,
+      "share": 0.095541,
+      "definition": "plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR}; decided cells",
+      "claim_gate": "APPENDIX-READY"
+    },
+    {
+      "arm": "RD-PURE",
+      "period": "P1",
+      "inst_n": 32,
+      "n": 170,
+      "share": 0.188235,
+      "definition": "plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR}; decided cells",
+      "claim_gate": "APPENDIX-READY"
+    },
+    {
+      "arm": "RD-PURE",
+      "period": "P2",
+      "inst_n": 4,
+      "n": 33,
+      "share": 0.121212,
+      "definition": "plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR}; decided cells",
+      "claim_gate": "APPENDIX-READY"
+    },
+    {
+      "arm": "RD-PURE",
+      "period": "P3",
+      "inst_n": 11,
+      "n": 141,
+      "share": 0.078014,
+      "definition": "plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR}; decided cells",
+      "claim_gate": "APPENDIX-READY"
+    },
+    {
+      "arm": "DT-PURE",
+      "period": "P1",
+      "inst_n": 9,
+      "n": 78,
+      "share": 0.115385,
+      "definition": "plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR}; decided cells",
+      "claim_gate": "APPENDIX-READY"
+    },
+    {
+      "arm": "DT-PURE",
+      "period": "P2",
+      "inst_n": 2,
+      "n": 23,
+      "share": 0.086957,
+      "definition": "plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR}; decided cells",
+      "claim_gate": "APPENDIX-READY"
+    },
+    {
+      "arm": "DT-PURE",
+      "period": "P3",
+      "inst_n": 2,
+      "n": 53,
+      "share": 0.037736,
+      "definition": "plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR}; decided cells",
+      "claim_gate": "APPENDIX-READY"
+    },
+    {
+      "arm": "RACE-DT",
+      "period": "P1",
+      "inst_n": 6,
+      "n": 138,
+      "share": 0.043478,
+      "definition": "plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR}; decided cells",
+      "claim_gate": "APPENDIX-READY"
+    },
+    {
+      "arm": "RACE-DT",
+      "period": "P2",
+      "inst_n": 0,
+      "n": 37,
+      "share": 0.0,
+      "definition": "plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR}; decided cells",
+      "claim_gate": "APPENDIX-READY"
+    },
+    {
+      "arm": "RACE-DT",
+      "period": "P3",
+      "inst_n": 1,
+      "n": 71,
+      "share": 0.014085,
+      "definition": "plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR}; decided cells",
+      "claim_gate": "APPENDIX-READY"
+    }
+  ],
+  "represented_baseline_rows": [
+    {
+      "period": "P1",
+      "n": 176,
+      "rd_pure": 94,
+      "mixed": 53,
+      "dt_pure": 18,
+      "other": 11,
+      "institutional": 73,
+      "definition": "represented (pro_se is False), decided, DIS cohort",
+      "claim_gate": "APPENDIX-READY"
+    },
+    {
+      "period": "P3",
+      "n": 81,
+      "rd_pure": 38,
+      "mixed": 26,
+      "dt_pure": 14,
+      "other": 3,
+      "institutional": 30,
+      "definition": "represented (pro_se is False), decided, DIS cohort",
+      "claim_gate": "APPENDIX-READY"
+    }
+  ],
+  "comparator_anchor_rows": [
+    {
+      "arm": "RD-PURE",
+      "P1": 170,
+      "P2": 33,
+      "P3": 141
+    },
+    {
+      "arm": "DT-PURE",
+      "P1": 78,
+      "P2": 23,
+      "P3": 53
+    }
+  ],
+  "fhip_full_terminee_roster_located": false,
+  "fhip_named_plaintiff_examples": [
+    "Massachusetts Fair Housing Center",
+    "Intermountain Fair Housing Council",
+    "Fair Housing Council of South Texas",
+    "Housing Research & Advocacy Center"
+  ]
+}

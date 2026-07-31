@@ -1,0 +1,219 @@
+[
+  {
+    "source_file": "10166992_2024_Harvey v. Maxwell _ Morgan P.C._azd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff invoked FHA but failed to connect alleged disability to the challenged conduct; lived experience did not translate into statutory elements tying adverse action to disability."
+  },
+  {
+    "source_file": "10197106_2024_Avila v. New York City Housing Authority_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Court found plaintiff failed to allege causal link between disability and NYCHA's conduct; FHA/ADA framework invoked but not mapped to facts showing discrimination because of disability."
+  },
+  {
+    "source_file": "10221825_2021_Fedynich v. Lozano_vaed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Pro se plaintiff failed to allege facts connecting alleged disability to defendant's conduct; court dismissed for lack of plausible disability-based discrimination allegations."
+  },
+  {
+    "source_file": "10282877_2024_Ramos v. Department of Homeless Services_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff's FHA claim against DHS failed because complaint did not tie disability status to adverse housing action; elements not linked to factual allegations."
+  },
+  {
+    "source_file": "10314935_2025_Feliciano v. Aguirre_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Pro se plaintiff invoked FHA but failed to plead that alleged discrimination occurred because of disability; translation gap between lived grievance and statutory framework."
+  },
+  {
+    "source_file": "10368714_2025_Eldridge v. City of Alton, Illinois_ilsd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff invoked FHA framework but failed to plead specific facts tied to elements of disability discrimination or reasonable accommodation claim."
+  },
+  {
+    "source_file": "10587034_2025_APPELGREN v. ISLAND HOSPITALITY MANAGEMENT VII, LLC_njd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "HIGH",
+    "reasoning": "Failure-to-accommodate claim dismissed because plaintiff did not plead a specific reasonable accommodation request made to defendant with necessary detail."
+  },
+  {
+    "source_file": "10632268_2025_Drummer v. Southern Nevada Regional Housing Authority_nvd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff alleged disability and adverse housing action but failed to plead a plausible causal connection; elements of FHA claim not connected to specific factual allegations."
+  },
+  {
+    "source_file": "10652099_2025_Rosa v. Administration for Children's Services (ACS)_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Pro se plaintiff's FHA claim against ACS dismissed for failure to plead facts satisfying elements of disability discrimination; narrative did not translate into statutory claim."
+  },
+  {
+    "source_file": "10682848_2025_Chimney v. Deutsch Bank National Trust_txed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff's complaint against bank did not articulate a cognizable FHA disability theory; grievance about foreclosure/mortgage not framed within § 3604 disability provisions."
+  },
+  {
+    "source_file": "10731021_2025_Asya Weston, et al. v. WIP 800 J Lofts, et al._caed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiffs invoked FHA but failed to plead plausible nexus between disability and challenged housing conduct at the Lofts."
+  },
+  {
+    "source_file": "10762570_2025_Shirley Drummer v. Southern Nevada Regional Housing Authority, et al._nvd",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "MIXED",
+    "confidence": "MEDIUM",
+    "reasoning": "Second Drummer action against SNRHA dismissed for insufficient factual detail on multiple FHA elements; mixed failures across disability nexus and accommodation pleading."
+  },
+  {
+    "source_file": "10795873_2026_Bianca Bates v. Amin Habeeb, Marisol Bassit, and Iron Valley Real Estate_pamd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff's grievances against real estate defendants not translated into a cognizable FHA disability discrimination theory with identifiable protected class basis."
+  },
+  {
+    "source_file": "11267594 - Israel v. Guinn",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff's FHA allegations not tied to specific elements of disability discrimination claim; court found conclusory pleading insufficient under Iqbal/Twombly."
+  },
+  {
+    "source_file": "11267648 - Resources for Human Development, Inc. v. LOWER PROVIDENCE TOWNSHIP",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "MEDIUM",
+    "reasoning": "Nonprofit's zoning challenge for supportive housing did not identify discriminatory policy for disparate impact nor frame disability discrimination theory; exhaustion issue on reasonable accommodation."
+  },
+  {
+    "source_file": "9490768_2024_Dwight Smith v. AMH 2014-1 Borrower, LLC_ca11",
+    "pleading_failure_family": "MIXED",
+    "pleading_failure_mechanism": "MIXED",
+    "confidence": "HIGH",
+    "reasoning": "Eleventh Circuit affirmed: plaintiff failed to plead facts showing Crohn's substantially limits major life activity (disability element) AND requested accommodation (delaying eviction) was not reasonable or tied to disability; retaliation claim failed on timing."
+  },
+  {
+    "source_file": "9576362_2022_(PS)Shultz v. Kern County_caed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "§ 1915 screening: pro se plaintiff did not allege membership in protected class or different treatment because of protected status; no cognizable FHA disability theory articulated."
+  },
+  {
+    "source_file": "9620937_2023_Cruz-McCoy v. Rady Children's Hospital_casd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "MEDIUM",
+    "reasoning": "Blind plaintiff alleged FHA among many statutes but Rule 8 shotgun pleading did not tie facts to elements; dispute centered on child custody/hospital treatment, not housing discrimination under FHA."
+  },
+  {
+    "source_file": "9659627_2024_MILLER v. GEORGIA DEPARTMENT OF COMMUNITY SUPERVISION_gamd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "MEDIUM",
+    "reasoning": "Paraplegic parolee's claims about nursing facility placement did not translate into cognizable FHA housing discrimination theory; claims treated under § 1983/ADA rather than FHA disability framework."
+  },
+  {
+    "source_file": "9709850_2022_Coe v. Cross-Lines Retirement Center, Inc._ksd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "HIGH",
+    "reasoning": "Motion to dismiss targeted only ADA (Count II) and private nuisance (Count VII) claims. FHA claim (Count III) was NOT challenged and proceeds forward; plaintiff's FHA disability claim survives."
+  },
+  {
+    "source_file": "9741085_2022_Grier v. HUD_mdd",
+    "pleading_failure_family": "MIXED",
+    "pleading_failure_mechanism": "MIXED",
+    "confidence": "HIGH",
+    "reasoning": "FHA claim failed on multiple grounds: plaintiff referenced 'native New Orleanians' (not protected class), no specific discriminatory conduct alleged, no discriminatory intent, AND claims time-barred under two-year FHA statute of limitations."
+  },
+  {
+    "source_file": "9767513_2020_Jones v. Deca Realty_moed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "§ 1915 screening: plaintiff alleged mold/ductwork dispute invoking 'Disability Act' but did not allege disability, did not tie housing treatment to disability; mere landlord-tenant dispute, not FHA disability claim."
+  },
+  {
+    "source_file": "9811067_2023_STEELE v. NEAL_njd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "§ 1915 screening: pro se plaintiff did not cite FHA provision or state facts supporting disparate treatment, disparate impact, or failure to accommodate theory; conclusory shotgun pleading."
+  },
+  {
+    "source_file": "9845882_2020_Doe v. YWCA of Northeastern NY_nynd",
+    "pleading_failure_family": "MIXED",
+    "pleading_failure_mechanism": "MIXED",
+    "confidence": "MEDIUM",
+    "reasoning": "Complex FHA claim involving domestic violence survivor with disability; court addressed vicarious liability and agency questions. Mixed issues around whether YWCA as sublessor is liable for Dozer Blaze agent's conduct; some claims survive screening analysis while others face dismissal grounds."
+  },
+  {
+    "source_file": "9865092_2021_Davis v. Port Jervis Community Development_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Even with liberal construction, plaintiff did not allege facts suggesting Section 8 termination was based on any FHA-protected characteristic including disability; no nexus between alleged discrimination and protected class."
+  },
+  {
+    "source_file": "9882647_2023_Avila v. Sun River Health, Inc._nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff alleged disability and denial of safety transfer but failed to plead facts showing Sun River denied him services because of his disability; ADA/Rehabilitation Act elements not tied to specific factual allegations of discrimination."
+  },
+  {
+    "source_file": "9900765_2019_Muhammad v. Wilhite_ohnd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "§ 1915 screening: plaintiff did not reveal disability status or allege lease non-renewal was because of disability or any FHA-protected status; parking/plumbing dispute not tied to protected characteristic."
+  },
+  {
+    "source_file": "9930678_2024_Boyce v. St. Vincent DePaul (Lane Co)_ord",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff did not allege protected class membership or outwardly neutral practices with disparate impact; neither disparate treatment nor disparate impact theory stated; FHA framework not properly invoked."
+  },
+  {
+    "source_file": "9939426_2023_WISSMAN v. PGM REAL ESTATE LLC, PROPERTY MANAGEMENT_paed",
+    "pleading_failure_family": "UNCLEAR",
+    "pleading_failure_mechanism": "UNCLEAR",
+    "confidence": "LOW",
+    "reasoning": "Order dismisses FHA and ADA claims under § 1915(e)(2)(B)(ii) without detailed discussion in the order itself; substantive memorandum not fully visible but court found failure to state claim, suggesting translation/element pleading failure."
+  },
+  {
+    "source_file": "9979087_2022_Turentine v. FC Lebanon II, LLC_txed",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Case not dismissed on merits; court found venue improper in Northern District of Texas and transferred to Eastern District under § 1406(a). Procedural venue ruling, not a pleading-failure dismissal of FHA disability claim."
+  },
+  {
+    "source_file": "Oxford House, Inc. v. Township of North Bergen",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Oxford House adequately alleged disability of prospective residents but failed to plead facts supporting discriminatory intent under Arlington Heights framework; conclusory allegations of animus not tied to specific facts. Disparate impact theory waived. Dismissed with prejudice."
+  }
+]

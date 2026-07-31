@@ -1,0 +1,12 @@
+# Subscription federal-opinion-database query — § 100.200 comparator
+
+Query string: "24 C.F.R. § 100.200"
+Run date: 2026-04-03
+Comparator role: baseline citation count for 24 C.F.R. § 100.200 (HUD's discriminatory housing practices regulation), used in the Note's Part 121 citation-pattern discussion (fn 141) to contextualize the Part 121 query's eight-document as-run yield (of which only the unpublished ADAPT footnote genuinely engages the regulation; see the July 7, 2026 re-verification note in results/hud_administrative_record_deep_dives.md § 8).
+
+Reported result count: 500+ federal opinions
+Database scope: all federal courts (Supreme Court, Circuit Courts of Appeals, District Courts), all dates available
+
+Subscription-database TOS prohibits redistribution of opinion text pulled through the seat. The query string and result count are factual and public; the underlying opinions are freely accessible through CourtListener, PACER, or other public services.
+
+Result memo: research/part_121_comparator_docket_audit.md

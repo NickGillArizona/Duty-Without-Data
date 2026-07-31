@@ -1,0 +1,212 @@
+[
+  {
+    "source_file": "10178074_2024_Hauanio v. The Michaels Organization_hid",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "SAC dismissed. The only specific FHA-related facts (two towing stickers on plaintiff's vehicle) were insufficient to translate into any recognized theory of disability-based housing discrimination; court found allegations did not tie to elements of a 3604 or 3617 claim."
+  },
+  {
+    "source_file": "10199481_2024_Blackburn v. Webb_okwd",
+    "pleading_failure_family": "NO_FAILURE_DEFENDANT_WIN",
+    "pleading_failure_mechanism": "MIXED",
+    "confidence": "HIGH",
+    "reasoning": "Dismissal with prejudice as Rule 41(b) sanction for plaintiff's repeated failures to comply with discovery orders. Not a pleading-sufficiency dismissal; defendant prevailed on a non-pleading ground."
+  },
+  {
+    "source_file": "10228861_2023_Allen v. Virgin Islands Housing Authority_vid",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "MEDIUM",
+    "reasoning": "Section 1915 screening of failure-to-accommodate claim. Plaintiff did not plead that defendant knew or should have known of her anxiety disability before the adverse action, so the 'knowledge' element was missing."
+  },
+  {
+    "source_file": "10288340_2024_Alvanos, Shauna v. Heartland Credit Union_wiwd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Rule 8 failure; complaint failed to identify any protected ground or connect factual allegations to FHA elements. Plaintiff did not translate her grievance into a cognizable legal theory tied to statutory elements."
+  },
+  {
+    "source_file": "10328943_2025_Rodriguez v. City Of Chicago_ilnd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "HIGH",
+    "reasoning": "FHA claim dismissed because driveway parking dispute did not fall within 'premises' or services covered by 3604; retaliation claim failed for lack of causal link. The pleaded adverse actions did not map onto FHA-protected conduct."
+  },
+  {
+    "source_file": "10369715_2025_Ricketts v. Westwood Condo Assoc._ctd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "FHA claim dismissed because asthma was not pleaded as substantially limiting a major life activity; plaintiff failed to translate the medical condition into a qualifying 'handicap' under 3602(h)."
+  },
+  {
+    "source_file": "10594466_2025_Hunt v. Volare Health LLC_ord",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "HIGH",
+    "reasoning": "Section 3617 retaliation claim failed because plaintiff did not plausibly allege she 'aided or encouraged' the patient in exercising FHA rights; the statutory 'aiding or encouraging' element was not met by the pleaded facts."
+  },
+  {
+    "source_file": "10634768_2025_Thompson v. PennyMac Loan Services LLC_mad",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "MEDIUM",
+    "reasoning": "ADA/FHA claims dismissed for failure to plead a qualifying disability and any nexus between disability and the adverse mortgage-servicing actions; origination-era claims also time-barred."
+  },
+  {
+    "source_file": "10656273_2025_Berry v. Berry_azd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Section 1915 screening; retaliatory-eviction theory was vague and conclusory, with no facts plausibly linking protected activity to any adverse housing action. Causal chain was unpleaded."
+  },
+  {
+    "source_file": "10691174_2025_Miami Valley Fair Housing Center, Inc. v. Paradise Residency, LLC_ohsd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "HIGH",
+    "reasoning": "Motion to dismiss DENIED without prejudice; court ordered plaintiff to amend standing allegations but allowed the FHA claims to proceed. Plaintiff's claims survived the motion to dismiss."
+  },
+  {
+    "source_file": "10735679_2025_Delroy Askins v. Prestige Management Inc.; Lowell Hendricks_nysd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "FHA discrimination claim dismissed because complaint contained no facts suggesting disability was a motivating factor in the adverse action; plaintiff failed to plead any causal nexus between disability status and defendants' conduct."
+  },
+  {
+    "source_file": "10766204_2025_Mary E. Martinez v. ABQ Code Enforcement, Angelo Matzer, Ray Velarde, and William (Josh) Gallegos_nmd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Sixty-four page narrative complaint failed Rule 8's short-and-plain-statement requirement; plaintiff did not translate her grievances into any cognizable FHA claim with identifiable elements."
+  },
+  {
+    "source_file": "10804696_2026_Karen DeMoor v. Freeman Webb Company, Realtors, et al._tnmd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "HIGH",
+    "reasoning": "FHA reasonable-accommodation claim dismissed because plaintiff did not allege she ever requested a specific accommodation; ADA claims also time-barred. The threshold 'request' element was not pleaded."
+  },
+  {
+    "source_file": "11267601 - PLACE OF GRACE, INC. v. Indiana",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "HIGH",
+    "reasoning": "Intentional discrimination / disparate treatment FHA claim PROCEEDS; only the reasonable-accommodation theory dismissed on standing grounds. Plaintiff's core FHA claim survived the motion to dismiss."
+  },
+  {
+    "source_file": "3171091_2016_Richard Wolf v. Bank of America, N.A., et a_ca5",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Fifth Circuit affirmed dismissal of FHA claim because plaintiffs failed to allege any discriminatory intent or significant discriminatory effect; mortgage/securitization grievance could not be translated into a 3604 theory."
+  },
+  {
+    "source_file": "9524475_2022_Cash v. US Department of Housing and Urban Development_alnd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Amended complaint failed to comply with Rule 8 and failed to allege facts plausibly showing unequal treatment on a protected basis; air-conditioning/landlord dispute did not translate into a cognizable FHA theory."
+  },
+  {
+    "source_file": "9582973_2023_(PS) Ringgold v. Burgett Inc._caed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "FHA and state housing-law counts dismissed because plaintiff's relationship with defendant was an employment relationship, not housing; 3604 requires a sale/rental context that plaintiff could not plead."
+  },
+  {
+    "source_file": "9622784_2024_Moore v. Pacific View Apartments Carlsbad LLC_casd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Third amended complaint dismissed with prejudice; plaintiff failed to allege any causal link between her pleaded disabilities (limits on walking/seeing) and her requested unit transfer to escape neighbor noise. The necessity/nexus element was unpleaded."
+  },
+  {
+    "source_file": "9666500_2019_LaRosa v. River Quarry Apartments, LLC_idd",
+    "pleading_failure_family": "MIXED",
+    "pleading_failure_mechanism": "PARTIAL_CLAIM_SURVIVAL",
+    "confidence": "HIGH",
+    "reasoning": "Denial/constructive denial claim under 3604(f) dismissed (no refusal because dog was allowed to stay throughout review; ELEMENT_MISMATCH on refusal element) and 3604(c) dismissed, but 3617 INTERFERENCE claim SURVIVES, as does derivative negligence. Partial plaintiff win on FHA interference theory."
+  },
+  {
+    "source_file": "9717400_2023_Nance v. Mayfield Plaza Apartments Management_kywd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Section 1915 screening. Plaintiff lacked standing (not lessee), and felon status is not an FHA-protected class; grievance could not be translated into a cognizable FHA theory on any protected ground."
+  },
+  {
+    "source_file": "9741265_2022_Cooper v. Mr. Timmins_mdd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "CAUSAL_CHAIN_BROKEN",
+    "confidence": "HIGH",
+    "reasoning": "Section 3617 retaliation failed on knowledge and causation elements; four-year gap between protected activity (2015 sex-for-repairs suit) and alleged 2019 retaliation undermined any plausible causal chain, and no facts alleged these defendants knew of the earlier suit."
+  },
+  {
+    "source_file": "9774614_2019_Barbero v. Wilhoit Property Management, Inc._mowd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Fourteen counts dismissed; FHA 3604 count fails because plaintiff did not tie off-leash-dog-during-ice-storm request to any effect on her ability to use and enjoy the dwelling; 3617 and ADA counts recite statutes without factual grounding."
+  },
+  {
+    "source_file": "9816832_2022_Burnside v. Monarch Real Estate Corp._nmd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "IFP screening; complaint did not identify which FHA or ADA provisions each defendant allegedly violated or tie specific conduct to elements; leave to amend granted so that plaintiff can translate grievance into pleaded elements."
+  },
+  {
+    "source_file": "9850350_2019_Harris v. The Yonkers Department of Social Services_OTDA_OAH_nysd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Although plaintiff identified herself and her children as disabled, she alleged no facts suggesting defendants' conduct (benefit denials/eviction) was 'on the basis of' disability; the causal/because-of element was missing."
+  },
+  {
+    "source_file": "9866627_2021_Madison v. Gramm_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Section 1915 screening of shelter assault/targeting complaint. Plaintiff did not allege he exercised any FHA right or that defendants' conduct was because of his race or disability; FHA 3604/3617 elements not tied to pleaded facts. Leave to amend granted."
+  },
+  {
+    "source_file": "9886483_2023_Gambaro v. 1917 ACP Owner LLC_nysd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "HIGH",
+    "reasoning": "Action STAYED, not dismissed; court stayed case pending state-court grant of leave to sue temporary receiver. FHA failure-to-accommodate claim (inoperable elevator) survives the motion to dismiss."
+  },
+  {
+    "source_file": "9911207_2021_Vanessa McQueen v. City of Cincinnati_ohsd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Section 1915 dismissal with prejudice adopted from R&R; plaintiff failed to include factual context from which the court could reasonably infer discrimination by any defendant on an FHA-protected ground."
+  },
+  {
+    "source_file": "9932182_2020_HORIZON HOUSE, INC. v. EAST NORRITON TOWNSHIP_paed",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "HIGH",
+    "reasoning": "Disparate treatment and disparate impact FHAA/ADA/RA claims SURVIVE motion to dismiss (plausibly pleaded facially discriminatory Group Home ordinance); only reasonable-accommodation claim dismissed without prejudice on necessity element. Plaintiff substantially prevails."
+  },
+  {
+    "source_file": "9940146_2024_PAYNE v. MANSION AT BALA_paed",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "CAUSAL_CHAIN_BROKEN",
+    "confidence": "HIGH",
+    "reasoning": "Section 3617 retaliation claim dismissed without prejudice; no facts linked prior defendant (Galman Group) to new defendant (Mansion at Bala) or established any causal connection between plaintiff's prior racial-discrimination suit and Mansion's refusal to rent."
+  },
+  {
+    "source_file": "9985480_2022_Turentine v. FC Lebanon II_txnd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "HIGH",
+    "reasoning": "Rule 12(b)(3) improper-venue motion GRANTED but action TRANSFERRED to Eastern District of Texas in the interest of justice; FHA/ADA/Rehab Act claims survive and continue in the proper venue. Not a pleading-sufficiency dismissal."
+  }
+]

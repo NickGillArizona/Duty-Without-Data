@@ -1,0 +1,28 @@
+# Universal one-case-one-unit recount table of record: case-level N 287/68/251 = 606.
+# The base counts recompute from replication/case_level_census.csv via
+# scripts/build_case_level_series.py --check; rules in replication/CASE_LEVEL_RULES.md.
+# Lines beginning with '#' are comments and are skipped by the parser.
+metric,period,numerator,denominator,value_pct,ci95_lo_pct,ci95_hi_pct,basis_note
+case_level_N,P1,,287,,,,universal one-case-one-unit collapse on final_case_id_harmonized_v2
+case_level_N,P2,,68,,,,universal one-case-one-unit collapse on final_case_id_harmonized_v2
+case_level_N,P3,,251,,,,universal one-case-one-unit collapse on final_case_id_harmonized_v2
+case_level_N,pooled,,606,,,,
+strict_qualifying_rate,P1,10,287,3.48,1.6833,6.3143,victories fixed at the ratified 18
+strict_qualifying_rate,P2,0,68,0.00,0.0000,5.2803,victories fixed at the ratified 18
+strict_qualifying_rate,P3,8,251,3.19,1.3859,6.1833,victories fixed at the ratified 18
+strict_qualifying_rate,pooled,18,606,2.97,1.7697,4.6538,
+broad_favorable_rate,P1,12,287,4.18,,,victories + surviving true-broad (12/0/9)
+broad_favorable_rate,P2,0,68,0.00,,,victories + surviving true-broad (12/0/9)
+broad_favorable_rate,P3,9,251,3.59,,,victories + surviving true-broad (12/0/9)
+represented_pool,pooled,,206,,,,per-window 116/30/60
+represented_victory_cell,pooled,18,206,8.7,5.2610,13.4580,Table 1 line 127 cell
+pro_se_pool,pooled,,400,,,,per-window 171/38/191
+pro_se_victory_cell,pooled,0,400,0.00,0.0000,0.9180,exact 95% upper bound 0.92%
+pro_se_docket_share,P1,171,287,59.6,,,case-level share series
+pro_se_docket_share,P2,38,68,55.9,,,case-level share series
+pro_se_docket_share,P3,191,251,76.1,,,case-level share series
+fn140_pleading_share,P1,140,287,48.8,,,"A08 basis (census flag OR FULL_SWEEP PLEADING_LOSS stem; favorable rows excluded; Oxford House document bridge), case-collapsed (any-member rule)"
+fn140_pleading_share,P2,50,68,73.5,,,"A08 basis (census flag OR FULL_SWEEP PLEADING_LOSS stem; favorable rows excluded; Oxford House document bridge), case-collapsed (any-member rule)"
+fn140_pleading_share,P3,143,251,57.0,,,"A08 basis (census flag OR FULL_SWEEP PLEADING_LOSS stem; favorable rows excluded; Oxford House document bridge), case-collapsed (any-member rule)"
+under_call_bound,pooled,1,606,0.17,,0.9160,exact 95% upper endpoint 0.92%
+p1_vs_p3_strict_diff_pp,,,,-0.30,,,

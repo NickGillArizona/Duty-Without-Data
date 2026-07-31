@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Duty Without Data companion repository social preview</title>
+  <desc id="desc">Editorial social preview with the title Duty Without Data, the subtitle Disability fair housing and the record-dependent right, the thesis line The rights exist. The records don't. A drafted section 553(e) petition asks HUD to fix the record architecture, and the project Pages address. No statistic and no date appear.</desc>
+  <defs>
+    <linearGradient id="shade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#071c2f" stop-opacity="0.98"/>
+      <stop offset="48%" stop-color="#0d2c45" stop-opacity="0.94"/>
+      <stop offset="73%" stop-color="#173a54" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#173a54" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="bottom" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="45%" stop-color="#071c2f" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#071c2f" stop-opacity="0.44"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <image href="social-preview-record-architecture.jpg" x="0" y="0" width="1280" height="640" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1280" height="640" fill="url(#shade)"/>
+  <rect width="1280" height="640" fill="url(#bottom)"/>
+
+  <g transform="translate(70 68)" filter="url(#shadow)">
+    <text x="0" y="0" fill="#b8cbd8" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="3">LEGAL ARGUMENT · EVIDENCE · REPLICATION</text>
+    <rect x="0" y="30" width="82" height="5" rx="2.5" fill="#d96a21"/>
+
+    <text x="0" y="126" fill="#ffffff" font-family="Georgia, Cambria, serif" font-size="76" font-weight="700">DUTY</text>
+    <text x="0" y="205" fill="#ffffff" font-family="Georgia, Cambria, serif" font-size="76" font-weight="700">WITHOUT DATA</text>
+
+    <text x="0" y="260" fill="#dce7ee" font-family="Segoe UI, Arial, sans-serif" font-size="28">Disability fair housing and the</text>
+    <text x="0" y="298" fill="#dce7ee" font-family="Segoe UI, Arial, sans-serif" font-size="28">record-dependent right</text>
+
+    <g transform="translate(0 348)">
+      <rect x="0" y="0" width="600" height="118" rx="12" fill="#f7f2e8" fill-opacity="0.96" stroke="#e0b18c" stroke-width="2"/>
+      <text x="24" y="44" fill="#a94f16" font-family="Georgia, Cambria, serif" font-size="30" font-weight="700">The rights exist. The records don&#8217;t.</text>
+      <text x="24" y="78" fill="#243d52" font-family="Segoe UI, Arial, sans-serif" font-size="20">A drafted &#167; 553(e) petition asks HUD</text>
+      <text x="24" y="102" fill="#243d52" font-family="Segoe UI, Arial, sans-serif" font-size="20">to fix the record architecture.</text>
+    </g>
+
+    <text x="0" y="508" fill="#b8cbd8" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="1">NICKGILLARIZONA.GITHUB.IO/DUTY-WITHOUT-DATA</text>
+  </g>
+</svg>

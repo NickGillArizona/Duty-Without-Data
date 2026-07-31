@@ -1,0 +1,12 @@
+# Normalize all text files to LF in the repository, regardless of contributor OS
+# or core.autocrlf. Prevents CRLF/LF churn in diffs and in the published history.
+* text=auto
+
+# Binary assets: never normalize line endings or attempt text diffs.
+*.png  binary
+*.pdf  binary
+*.doc  binary
+*.docx binary
+*.xls  binary
+*.xlsx binary
+*.zip  binary

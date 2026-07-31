@@ -1,0 +1,67 @@
+{
+  "description": "Merged mechanism ensemble: original 668 + July-2026 extension (60 coded: 47 round 1 + 13 round 2; 62 attempted, 2 dropped unparseable). Built by build_merged_summary.py using compute_ensemble stat functions. Original ensemble_results.json is unchanged (anchors vs-original layer).",
+  "n_coded_total": 728,
+  "translation_replay_full_universe": {
+    "n_pro_se": 632,
+    "n_represented": 95,
+    "ensemble": {
+      "pro_se_translation_pct": 45.25,
+      "represented_translation_pct": 13.68,
+      "pro_se_translation_count": 286,
+      "represented_translation_count": 13,
+      "gap_pp": 31.57,
+      "chi2_1df": 32.701,
+      "p": 1.0748242274599438e-08,
+      "diff_ci": {
+        "diff": 0.3157,
+        "ci95_low": 0.2364,
+        "ci95_high": 0.395,
+        "se": 0.0404
+      }
+    }
+  },
+  "family_x_representation": {
+    "n": 727,
+    "chi2_8df": 72.07,
+    "cramers_v": 0.315,
+    "per_bucket": {
+      "TRANSLATION": {
+        "pro_se_count": 286,
+        "pro_se_pct": 45.25,
+        "represented_count": 13,
+        "represented_pct": 13.68,
+        "gap_pp": 31.57,
+        "chi2_1df": 32.701,
+        "p": 1.0748242274599438e-08
+      },
+      "PROCEDURAL_GATEWAY": {
+        "pro_se_count": 117,
+        "pro_se_pct": 18.51,
+        "represented_count": 31,
+        "represented_pct": 32.63,
+        "gap_pp": -14.12,
+        "chi2_1df": 9.3019,
+        "p": 0.0022892097394210235
+      },
+      "NO_FAILURE": {
+        "pro_se_count": 15,
+        "pro_se_pct": 2.37,
+        "represented_count": 14,
+        "represented_pct": 14.74,
+        "gap_pp": -12.36,
+        "chi2_1df": 29.8118,
+        "p": 4.760855874988461e-08
+      },
+      "OTHER": {
+        "pro_se_count": 214,
+        "pro_se_pct": 33.86,
+        "represented_count": 37,
+        "represented_pct": 38.95,
+        "gap_pp": -5.09,
+        "chi2_1df": 0.7336,
+        "p": 0.39170801830542723
+      }
+    }
+  },
+  "fleiss_bucket_kappa": 0.6297
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "analysis_date": "2026-04-12",
+    "public_housing_source": "HUD REAC Physical Inspection Scores - Public Housing (08252025)",
+    "multifamily_source": "HUD REAC Physical Inspection Scores - Multifamily (08252025)",
+    "notes": "REAC scores on 0-100 scale. Below 60 = failing under both UPCS and NSPIRE protocols."
+  },
+  "inspection_overview": {
+    "public_housing": {
+      "total_inspections": 6190,
+      "states_covered": 0,
+      "mean_score": 83.1,
+      "median_score": 88,
+      "pct_below_60": 10.5,
+      "n_below_60": 652,
+      "protocol_breakdown": {
+        "UPCS": 3139,
+        "NSPIRE": 3051
+      },
+      "score_distribution": {
+        "0-9": 20,
+        "10-19": 17,
+        "20-29": 31,
+        "30-39": 79,
+        "40-49": 119,
+        "50-59": 386,
+        "60-69": 236,
+        "70-79": 807,
+        "80-89": 1729,
+        "90-100": 2766
+      }
+    },
+    "multifamily": {
+      "total_inspections": 28459,
+      "states_covered": 0,
+      "mean_score": 89.4,
+      "median_score": 92,
+      "pct_below_60": 2.8,
+      "n_below_60": 790,
+      "protocol_breakdown": {
+        "UPCS": 12414,
+        "NSPIRE": 16045
+      },
+      "score_distribution": {
+        "0-9": 48,
+        "10-19": 29,
+        "20-29": 39,
+        "30-39": 87,
+        "40-49": 132,
+        "50-59": 455,
+        "60-69": 652,
+        "70-79": 1860,
+        "80-89": 6650,
+        "90-100": 18507
+      }
+    },
+    "combined": {
+      "total_properties_inspected": 34649,
+      "combined_mean_score": 88.3,
+      "total_below_60": 1442,
+      "pct_below_60": 4.2
+    }
+  },
+  "nspire_transition_insight": {
+    "description": "NSPIRE protocol (replacing UPCS) catches significantly more failures",
+    "public_housing_UPCS_failure_rate": 4.4,
+    "public_housing_NSPIRE_failure_rate": 16.8,
+    "multifamily_UPCS_failure_rate": 0.9,
+    "multifamily_NSPIRE_failure_rate": 4.2
+  },
+  "accessibility_keyword_search": {
+    "description": "Comprehensive keyword search across all string columns for accessibility-related terms",
+    "keywords_searched": [
+      "accessib",
+      "disab",
+      "ada",
+      "section 504",
+      "design and construction",
+      "fair housing",
+      "barrier",
+      "wheelchair",
+      "handicap"
+    ],
+    "genuine_accessibility_matches": 544,
+    "note": "All matches were incidental (property names, street addresses), not inspection content"
+  }
+}

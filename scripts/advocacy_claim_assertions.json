@@ -1,0 +1,235 @@
+{
+ "_comment": "Assertion inventory for check_advocacy_claims.py. Guards the reader-facing pages against (a) the appearance of figures that are not part of the case-level series of record and (b) silent drift of the required headline claims and hedges. Patterns are Python regexes; required patterns match whitespace-normalized page text, forbidden patterns match raw lines and wrap-normalized text. Any change to the series of record requires a deliberate, simultaneous update of the pages and this inventory. The retired victories-per-month presentation has no successor pattern by design.",
+ "pages_all": [
+  "article/THE_ARGUMENT.md",
+  "README.md",
+  "index.md",
+  "TAKE_ACTION.md",
+  "COMMENT.md"
+ ],
+ "forbidden": [
+  {
+   "id": "F-SIXTEEN",
+   "pattern": "(?i)\\bsixteen\\b",
+   "rationale": "not a value in the series of record (eighteen qualifying judgments)"
+  },
+  {
+   "id": "F-179",
+   "pattern": "17\\.9",
+   "rationale": "document-level cell; not part of the reported case-level series"
+  },
+  {
+   "id": "F-98PCT",
+   "pattern": "\\b9\\.8%",
+   "rationale": "document-level cell; not part of the reported case-level series"
+  },
+  {
+   "id": "F-THREEFIFTHS",
+   "pattern": "(?i)three[- ]fifths",
+   "rationale": "no composition decomposition is reported (no aggregate change to decompose)"
+  },
+  {
+   "id": "F-BROAD-P2",
+   "pattern": "20\\.8%",
+   "rationale": "document-level cell; not part of the reported case-level series"
+  },
+  {
+   "id": "F-BROAD-P1",
+   "pattern": "30\\.3%",
+   "rationale": "document-level cell; not part of the reported case-level series (percent-anchored; the legitimate +30.3pp RD contrast is unaffected)"
+  },
+  {
+   "id": "F-BROAD-P3",
+   "pattern": "18\\.3%",
+   "rationale": "document-level cell; not part of the reported case-level series"
+  },
+  {
+   "id": "F-WINSERIES",
+   "pattern": "42\\.6",
+   "rationale": "document-level win-series component; not reported"
+  },
+  {
+   "id": "F-1497",
+   "pattern": "1,497",
+   "rationale": "point estimate not used; order-of-magnitude phrasing only"
+  },
+  {
+   "id": "F-OLD-STRICT-P1-16BASIS",
+   "pattern": "2\\.45%",
+   "rationale": "superseded interim series (16-victory basis)"
+  },
+  {
+   "id": "F-OLD-STRICT-P3-16BASIS",
+   "pattern": "2\\.53%",
+   "rationale": "superseded interim series (16-victory basis)"
+  },
+  {
+   "id": "F-TRANSLATION-LEVELS",
+   "pattern": "45\\.3%|31\\.6%|13\\.7%",
+   "rationale": "model-only translation-family levels; not part of the series of record"
+  },
+  {
+   "id": "F-MERITS-VICTORIES",
+   "pattern": "(?i)merits victor",
+   "rationale": "reader pages use 'qualifying plaintiff-side judgments'; 'merits victories' overstates finality for the seven liability-only determinations"
+  },
+  {
+   "id": "F-730-BASIS",
+   "pattern": "\\b(?:N\\s*=\\s*730|among\\s+(?:the\\s+)?730|730\\s+(?:identified\\s+)?(?:decided|case))",
+   "rationale": "superseded 730-row case-level N (universal collapse: 606)"
+  },
+  {
+   "id": "F-728-BASIS",
+   "pattern": "\\b728\\s+decided\\b|\\bN\\s*=\\s*728\\b",
+   "rationale": "superseded two-merge-only N (universal collapse: 606)"
+  },
+  {
+   "id": "F-TRIPLE-OLD-N",
+   "pattern": "367/86/277",
+   "rationale": "superseded per-window N (universal collapse: 287/68/251)"
+  },
+  {
+   "id": "F-OLD-STRICT-P1-730BASIS",
+   "pattern": "2\\.72%?(?![\\d.])",
+   "rationale": "superseded 730-basis strict rate (universal basis: 3.48%)"
+  },
+  {
+   "id": "F-OLD-STRICT-P3-730BASIS",
+   "pattern": "2\\.89%?(?![\\d.])",
+   "rationale": "superseded 730-basis strict rate (universal basis: 3.19%)"
+  },
+  {
+   "id": "F-OLD-VPM",
+   "pattern": "0\\.33\\s*(?:to|->)\\s*0\\.47",
+   "rationale": "victories-per-month values are withdrawn from citation on the superseded basis; no successor presentation is published"
+  },
+  {
+   "id": "F-OLD-REPCELL",
+   "pattern": "18\\s+of\\s+263|\\b6\\.8%",
+   "rationale": "superseded represented cell (universal basis: 18 of 206, 8.7%)"
+  },
+  {
+   "id": "F-OLD-PROSE-POOL",
+   "pattern": "0\\s+of\\s+467",
+   "rationale": "superseded pro se pool (universal basis: 0 of 400)"
+  },
+  {
+   "id": "F-DOCLEVEL-SHARES",
+   "pattern": "54\\.2%|63\\.3%|73\\.7%",
+   "rationale": "document-level share series; reader pages carry the case-level 59.6% -> 76.1% series"
+  },
+  {
+   "id": "F-OLD-CASE-SHARES",
+   "pattern": "57\\.5%|55\\.8%|75\\.1%",
+   "rationale": "superseded 730-basis case-level shares (universal basis: 59.6/55.9/76.1)"
+  },
+  {
+   "id": "F-OLD-REP-WINDOWS",
+   "pattern": "156/38/69",
+   "rationale": "superseded per-window represented counts (universal basis: 116/30/60)"
+  },
+  {
+   "id": "F-ATLEAST57",
+   "pattern": "(?i)at least 57(?:\\.\\d)?%",
+   "rationale": "identified LIVE FALSE printed figure (tier audit 2026-07-18); never reprint"
+  }
+ ],
+ "required": [
+  {
+   "id": "R-ARG-18",
+   "page": "article/THE_ARGUMENT.md",
+   "pattern": "eighteen of 606 decided cases, or 3\\.0%",
+   "rationale": "eighteen-judgment census headline (terminology conformed to the manuscript at the 2026-07-31 curation: qualifying plaintiff-side judgments, not dataset-field victories)"
+  },
+  {
+   "id": "R-ARG-RATES",
+   "page": "article/THE_ARGUMENT.md",
+   "pattern": "3\\.48%, 0\\.00%, and 3\\.19%",
+   "rationale": "strict series of record (universal 606 basis) in the Figure 1 alt text"
+  },
+  {
+   "id": "R-ARG-PROSE",
+   "page": "article/THE_ARGUMENT.md",
+   "pattern": "59\\.6% to 76\\.1%",
+   "rationale": "case-level pro se docket-share rise (universal 606 basis)"
+  },
+  {
+   "id": "R-README-18",
+   "page": "README.md",
+   "pattern": "eighteen qualifying plaintiff-side judgments",
+   "rationale": "eighteen-judgment census headline, finality-separated presentation"
+  },
+  {
+   "id": "R-README-RATES",
+   "page": "README.md",
+   "pattern": "3\\.48% / 0\\.00% / 3\\.19%",
+   "rationale": "strict series of record (universal 606 basis)"
+  },
+  {
+   "id": "R-README-N606",
+   "page": "README.md",
+   "pattern": "606 decided cases",
+   "rationale": "universal one-case-one-unit case-level N"
+  },
+  {
+   "id": "R-README-REPCELL",
+   "page": "README.md",
+   "pattern": "18 of 206 \\(8\\.7%\\)",
+   "rationale": "represented victory cell on the universal basis"
+  },
+  {
+   "id": "R-README-PROSE",
+   "page": "README.md",
+   "pattern": "59\\.6% to 76\\.1%",
+   "rationale": "case-level pro se docket-share rise (universal 606 basis)"
+  },
+  {
+   "id": "R-README-REPRESENTED",
+   "page": "README.md",
+   "pattern": "counsel had appeared in every one of the eighteen qualifying plaintiff-side judgments",
+   "rationale": "zero pro se qualifying judgments (0 of 400 pro se decided cases)"
+  },
+  {
+   "id": "R-INDEX-18",
+   "page": "index.md",
+   "pattern": "eighteen times in four",
+   "rationale": "eighteen-judgment census headline on the Pages front door (phrasing conformed at the 2026-07-31 curation)"
+  },
+  {
+   "id": "R-INDEX-ALT",
+   "page": "index.md",
+   "pattern": "eighteen qualifying plaintiff-side judgments in all, none pro se",
+   "rationale": "figure alt text carries the census in the finality-separated terminology"
+  },
+  {
+   "id": "R-INDEX-PROSE",
+   "page": "index.md",
+   "pattern": "59\\.6% to 76\\.1%",
+   "rationale": "case-level pro se docket-share rise (universal 606 basis)"
+  },
+  {
+   "id": "R-README-FINALITY",
+   "page": "README.md",
+   "pattern": "nine final contested judgments awarding relief, two final default judgments awarding relief, and seven liability determinations",
+   "rationale": "finality classes must be stated, not glossed as merits relief"
+  },
+  {
+   "id": "R-ARG-FINALITY",
+   "page": "article/THE_ARGUMENT.md",
+   "pattern": "nine final contested judgments awarding relief, two final default judgments, and seven liability determinations",
+   "rationale": "finality classes must be stated, not glossed as merits relief"
+  },
+  {
+   "id": "R-COMMENT-MACHINE",
+   "page": "COMMENT.md",
+   "pattern": "machine-based",
+   "rationale": "the translation-family finding must carry the machine-based disclosure wherever it is stated"
+  },
+  {
+   "id": "R-COMMENT-DIRECTIONAL",
+   "page": "COMMENT.md",
+   "pattern": "directional",
+   "rationale": "the translation-family finding is directional, not a precise level"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+arm,p1_inst_n,p1_n,p1_share,p3_inst_n,p3_n,p3_share,definition,claim_gate
+DIS,74,383,0.193,30,314,0.096,"plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR} (UPPERCASE per DB vocabulary); decided cells",APPENDIX-READY
+RD-PURE,32,170,0.188,11,141,0.078,"plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR} (UPPERCASE per DB vocabulary); decided cells",APPENDIX-READY
+DT-PURE,9,78,0.115,2,53,0.038,"plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR} (UPPERCASE per DB vocabulary); decided cells",APPENDIX-READY
+RACE-DT,6,138,0.043,1,71,0.014,"plaintiff_type in {FAIR_HOUSING_ORG, GOVERNMENT, GROUP_HOME_OPERATOR} (UPPERCASE per DB vocabulary); decided cells",APPENDIX-READY

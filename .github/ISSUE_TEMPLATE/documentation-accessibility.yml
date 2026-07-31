@@ -1,0 +1,30 @@
+name: Documentation or accessibility problem
+description: Report a navigation, rendering, readability, or assistive-technology problem.
+title: "[Access] "
+labels:
+  - accessibility
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Affected file or anchor
+      placeholder: "Example: README.md#what-the-archive-shows"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem did you encounter?
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser, viewport, or assistive technology
+      description: Optional, but useful for reproducing display and access problems.
+  - type: textarea
+    id: result
+    attributes:
+      label: What result would work better?
+    validations:
+      required: true

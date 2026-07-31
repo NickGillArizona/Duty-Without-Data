@@ -1,0 +1,212 @@
+[
+  {
+    "source_file": "10182963_2024_Siguel v. King Farm Citizens Assembly, Inc._mdd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "NO_FAILURE_PLAINTIFF_WIN",
+    "confidence": "HIGH",
+    "reasoning": "Court denied defendant's motion for reconsideration; FHA Count VI (reasonable accommodation) survived and plaintiff's disability discrimination claim proceeds. No pleading failure on the FHA disability claim."
+  },
+  {
+    "source_file": "10201865_2024_Cortez-Villanueva v. Puerta de Tierra, LLC_prd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "NO_FAILURE_PLAINTIFF_WIN",
+    "confidence": "HIGH",
+    "reasoning": "Court denied defendants' motion to dismiss; FHA disability discrimination claim adequately pleaded and proceeds past 12(b)(6). No pleading failure."
+  },
+  {
+    "source_file": "10243326_2023_Slaughter v. Valley View I LLP_wawd",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "CONCLUSORY_NO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Section 1915(e)(2) screening dismissal; plaintiff's FHA disability claim failed to allege specific facts showing discrimination or retaliation tied to disability beyond conclusory assertions."
+  },
+  {
+    "source_file": "10297980_2024_Ortiz v. Valasek_ned",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Dismissal turned on Rooker-Feldman and Younger abstention barring federal adjudication of claims tied to state eviction proceedings, not on pleading deficiencies in the FHA elements."
+  },
+  {
+    "source_file": "10330857_2025_Clark v. NYCHA_nysd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "LIMITATIONS_OR_TIMELINESS",
+    "confidence": "HIGH",
+    "reasoning": "FHA claim dismissed as time-barred under the two-year statute of limitations; repeat-filer plaintiff could not revive claims tied to events long past the limitations period."
+  },
+  {
+    "source_file": "10377601_2025_TWYMAN v. RECAP PA HOLDINGS, LLC_paed",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "COMPARATOR_OR_INTENT_GAP",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA claim failed because complaint lacked facts showing discriminatory intent or disparate impact tied to disability, and failed to establish necessity for the requested accommodation."
+  },
+  {
+    "source_file": "10598009_2025_Scoggins v. Falcon Court_caed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Section 1915 screening dismissal; retaliation allegations failed to identify specific protected FHA activity, adverse action, or causal link in terms cognizable under § 3617."
+  },
+  {
+    "source_file": "10637254_2025_Moon v. Jovanelly_scd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Dismissed for lack of subject matter jurisdiction; bare invocation of FHA without colorable federal claim failed to establish federal question jurisdiction."
+  },
+  {
+    "source_file": "10657815_2025_Bortnick v. Housing Authority of Lincoln County_ord",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "LIMITATIONS_OR_TIMELINESS",
+    "confidence": "HIGH",
+    "reasoning": "FHA disability claim dismissed as barred by the statute of limitations; accrual analysis placed conduct outside the limitations window."
+  },
+  {
+    "source_file": "10697217_2017_Lath v. Oak Brook Condominium Owners Assoc., et al._nhd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "COMPARATOR_OR_INTENT_GAP",
+    "confidence": "HIGH",
+    "reasoning": "§ 3617 retaliation counts dismissed for failure to allege animus tied to a protected characteristic on part of defendants who engaged in the challenged conduct; § 3604(f)(2) ANSI-based claim dismissed for lack of standing because plaintiff did not allege he had a physical handicap or was denied accessible parking."
+  },
+  {
+    "source_file": "10740678_2025_John R. Fouts v. United States of America et al._kywd",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "CONCLUSORY_NO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Section 1915 screening; FHA allegations conclusory and lacked facts supporting a cognizable discrimination theory tied to a protected class."
+  },
+  {
+    "source_file": "10766941_2025_Valery Kantsepolsky v. River Shores Association, Inc._flsd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "NO_FAILURE_PLAINTIFF_WIN",
+    "confidence": "HIGH",
+    "reasoning": "FHA disability claim survived 12(b)(6); court stayed the federal action under Colorado River abstention but did not dismiss for pleading failure. The claim was adequately pleaded on the merits."
+  },
+  {
+    "source_file": "10805479_2026_Jlyn Bryant et al. v. Tinker Federal Credit Union_okwd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "COMPARATOR_OR_INTENT_GAP",
+    "confidence": "HIGH",
+    "reasoning": "FHA/ECOA claims grounded in 'vapor money' theory failed to plead membership in a protected class, comparator treatment, or facts tying any adverse action to a protected characteristic."
+  },
+  {
+    "source_file": "11267609 - Doria v. YAVAPAI COLLEGE DISTRICT GOVERNING BOARD",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "EXHAUSTION_OR_PRECLUSION",
+    "confidence": "HIGH",
+    "reasoning": "Dismissal rested on res judicata and collateral estoppel from prior litigation of the same or related claims, barring relitigation rather than turning on the adequacy of disability allegations."
+  },
+  {
+    "source_file": "4309890_2018_Carol Vorchheimer v. Philadelphian Owners Associati_ca3",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "HIGH",
+    "reasoning": "Third Circuit held that the requested accommodation was not plausibly 'necessary' under § 3604(f)(3)(B) in light of alternatives available; failure lay in the necessity element, not the factual narrative."
+  },
+  {
+    "source_file": "9526612_2023_Allfrey v. Fairhope Motorcoach Resort Condominium Owners Association, Inc._alsd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA disability claim failed because plaintiff did not allege conduct by defendants that constituted discrimination on the basis of disability or denial of a reasonable accommodation connected to defendants' acts."
+  },
+  {
+    "source_file": "9589809_2023_Goodwin v. City Attorney's Office_caed",
+    "pleading_failure_family": "MIXED",
+    "pleading_failure_mechanism": "MULTIPLE_INDEPENDENT_FAILURES",
+    "confidence": "MEDIUM",
+    "reasoning": "Case dismissed on combined grounds: failure to state an FHA claim (no cognizable housing-discrimination theory against a non-housing defendant) and failure to prosecute, constituting multiple independent bases."
+  },
+  {
+    "source_file": "9631438_2022_McArthur v. Nino's Market_ctd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "§ 3617 claim was inapposite because the dispute involved a market/storefront and non-housing conduct; plaintiff's allegations did not translate into any cognizable FHA dwelling-related theory."
+  },
+  {
+    "source_file": "9680452_2022_Satterfield v. HSBC Bank USA, N.A._ilnd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Case dismissed under Rooker-Feldman; FHA § 3617 claim not independent of state-court eviction orders, so the federal court lacked subject matter jurisdiction. Dismissal did not rest on FHA pleading adequacy."
+  },
+  {
+    "source_file": "9719433_2020_Briley v. Barreca_laed",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "CONCLUSORY_NO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Court identified that plaintiff did not allege he or his partner had a qualifying disability or facts linking defendants' conduct to disability discrimination under the FHA; motion denied with leave to amend, but the identified deficiency was factual underdevelopment."
+  },
+  {
+    "source_file": "9742964_2024_Affinity Recovery Center LLC v. Town Commissioners of Sudlersville_mdd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "HIGH",
+    "reasoning": "FHA discrimination and reasonable-accommodation claims dismissed because complaint failed to show the 8-bed zoning rule singled out substance-use disabilities and failed to show expansion to 16 beds was 'necessary' under Bryant Woods Inn."
+  },
+  {
+    "source_file": "9785178_2021_Swanson v. King_nced",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "CONCLUSORY_NO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "FHA disability claim dismissed because plaintiff alleged discrimination in conclusory terms and supplied no factual support for any element of the claim."
+  },
+  {
+    "source_file": "9824661_2021_O'Neil v. Salas_nvd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Section 1915 screening; complaint parroted FHA elements without identifying any cognizable theory (disparate treatment, disparate impact, or reasonable accommodation) or tying conduct to facts."
+  },
+  {
+    "source_file": "9850893_2019_Vinnie Hardee v. Pritchett_nysd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "NO_FAILURE_PLAINTIFF_WIN",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff won judgment on the pleadings on her procedural due process claim and obtained the relief she sought (order directing an informal hearing); the FHA/ADA/Section 504 claims were dismissed as moot, not for pleading failure."
+  },
+  {
+    "source_file": "9869575_2021_Zlotnick v. Crystal Run Village, Inc._nysd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "COMPARATOR_OR_INTENT_GAP",
+    "confidence": "HIGH",
+    "reasoning": "FHA § 3604(f)(2) and § 3617 claims dismissed because allegations of inadequate care/negligence did not establish discriminatory animus, intentional disparate treatment, or retaliation; claims attacked adequacy of services rather than discrimination."
+  },
+  {
+    "source_file": "9890376_2024_Gonzalez v. Tejada_nysd",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "CONCLUSORY_NO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "FHA claim against real estate agency dismissed because single-sentence allegation that apartment was denied because son has autism lacked factual detail (when, where, why) needed for a minimal inference of discriminatory motivation."
+  },
+  {
+    "source_file": "9914173_2022_McComb v. Dominium Property Management_ohsd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "RULE_8_OR_PLEADING_FORM",
+    "confidence": "HIGH",
+    "reasoning": "Third amended complaint dismissed with prejudice for repeated noncompliance with Rule 8 and court orders to provide a short and plain statement; substance of FHA claim never reached because of form defects."
+  },
+  {
+    "source_file": "9933772_2021_LEE v. HUD_paed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "FHA claim dismissed because complaint alleged HUD's failure to intervene against PHA/neighbors, conduct not covered by § 3604(f); no cognizable disability-discrimination theory could be constructed from the facts alleged."
+  },
+  {
+    "source_file": "9940740_2024_STEVENS-NUNEZ v. BRISTOL BOROUGH MUNICIPAL ADMINISTRATION_paed",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "COMPARATOR_OR_INTENT_GAP",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA/FHAA claim dismissed without prejudice because plaintiff did not plead membership in a protected class, did not tie conduct to disability discrimination, and did not allege a refused reasonable accommodation."
+  },
+  {
+    "source_file": "Banks v. Ross",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "HIGH",
+    "reasoning": "FHA race and disability claims dismissed because complaint failed to draw a sufficient nexus between handicap/race and defendants' actions; no facts showed housing denial or adverse treatment was because of handicap."
+  }
+]

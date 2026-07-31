@@ -1,0 +1,212 @@
+[
+  {
+    "source_file": "10189729_2024_BORIA v. THE HERITAGE AT ALEXANDER HAMILTON_njd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "MEDIUM",
+    "reasoning": "The FHA count (Count 6) survived the motion to dismiss; only the negligence per se counts (3 and 4) predicated on the FHA were dismissed. The disability-related FHA claim itself was not dismissed at the pleading stage."
+  },
+  {
+    "source_file": "10210465_2023_Bowman v. Shadowbriar Apartments, LLC_txsd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "MEDIUM",
+    "reasoning": "Third-party motion to dismiss denied; plaintiff's FHA disability claim survived the pleading stage. This appears to be a misfilter into the defendant-win/procedural pool."
+  },
+  {
+    "source_file": "10252125_2023_Huzjak v. Ellis_wied",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Section 1915 screening dismissed pro se complaint alleging neighbor disputes with no cognizable FHA theory; facts do not map to any FHA cause of action."
+  },
+  {
+    "source_file": "10300683_2024_Williams v. Toll Brothers Builders_ded",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Court dismissed FHA claim because allegations were conclusory labels without facts tying disability to any adverse housing action."
+  },
+  {
+    "source_file": "10338845_2025_Lee v. Omaha Housing Authority Foundation Inc._ned",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA claim dismissed because plaintiff alleged no facts on protected-class membership or a causal link between protected activity and adverse housing action."
+  },
+  {
+    "source_file": "10397848_2025_(PS) Faruki v. Housing Authority for the County of Sacramento_caed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Pro se conclusory allegations dismissed; no facts showing defendant's notice of disability or similarly situated comparators tied to the FHA elements."
+  },
+  {
+    "source_file": "10603090_2025_Dodev v. D.R. Horton Incorporated_azd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "LIMITATIONS_OR_TIMELINESS",
+    "confidence": "HIGH",
+    "reasoning": "FHA claim dismissed as time-barred under the two-year statute of limitations."
+  },
+  {
+    "source_file": "10644107_2025_Ballentine v. Bowery Residence Committee_nyed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Court expressly held plaintiff pleaded no specific facts describing how he was punished or denied accommodations or how any adverse action was 'due to [his] disability'; disability and generic grievance alleged but elements not tied to facts."
+  },
+  {
+    "source_file": "10666591_2025_Watkins v. Chau_mad",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "FHA retaliation claim against HUD employee barred by sovereign immunity; court disposed on jurisdictional grounds without reaching merits."
+  },
+  {
+    "source_file": "10705595_2025_RoSHIEKA CHARISMA JONES v. THOMPSON TOWERS APARTMENTS_mied",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Failure-to-accommodate FHA claim dismissed because plaintiff did not plead elements of a reasonable accommodation request tied to specific facts."
+  },
+  {
+    "source_file": "10743632_2025_Raphael Jackson, et al. v. Mills Properties, Inc., et al._moed",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "EXHAUSTION_OR_PRECLUSION",
+    "confidence": "HIGH",
+    "reasoning": "Dismissal grounded in Rooker-Feldman / Younger / Colorado River abstention doctrines, which map to the EXHAUSTION_OR_PRECLUSION mechanism per the crosswalk."
+  },
+  {
+    "source_file": "10769944_2026_James B. Herrera v. Maddox Management, LLC_nmd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Disability allegation conclusory; causation/elements not tied to specific pleaded facts about defendant's conduct."
+  },
+  {
+    "source_file": "11267545 - Taylor v. Royal",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "FHAA claim dismissed on threadbare allegations; elements recited but not tied to specific pleaded facts."
+  },
+  {
+    "source_file": "11267619 - MENDOZA-LEBRON v. Adams",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA/ADA damages claim dismissed because plaintiff did not allege disparate treatment connecting the adverse action to protected-class membership; elements of disparate treatment not matched to facts."
+  },
+  {
+    "source_file": "7230859_2015_Hoostein v. Mental Health Ass'n_mad",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiffs were landlords, not a protected class of persons with disabilities; no cognizable FHA theory available given pleaded posture."
+  },
+  {
+    "source_file": "9531969_2021_Arthur v. Windsor Shadows Homeowner's Association_azd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "MEDIUM",
+    "reasoning": "Court held plaintiff 'sufficiently stated a claim' under the FHA; claim survived the motion to dismiss, indicating upstream misfilter."
+  },
+  {
+    "source_file": "9599868_2021_Vargas v. Facebook, Inc._cand",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "SAC dismissed for lack of Article III injury-in-fact; court did not reach FHA merits because plaintiffs failed to plead facts showing personal injury."
+  },
+  {
+    "source_file": "9635704_2022_Webb v. State of Delaware_ded",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA familial-status count dismissed because plaintiff, a single homeless male with no minor children, did not fit the statutory definition of 'familial status'; facts do not match the invoked theory's technical element."
+  },
+  {
+    "source_file": "9686868_2021_Karnes v. Bank of Whittington_ilsd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "TIMING_OR_NOTICE_GAP",
+    "confidence": "MEDIUM",
+    "reasoning": "Court expressly faulted plaintiff for failing to allege the city turned off water because of her disability or that landlord took advantage of her disability; no causal link pled."
+  },
+  {
+    "source_file": "9721824_2022_Turnipseed v. APMT, LLC_laed",
+    "pleading_failure_family": "NO_FAILURE_DEFENDANT_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "HIGH",
+    "reasoning": "Motion to dismiss for failure to prosecute was DENIED; no pleading-stage failure occurred. This is an upstream misfilter."
+  },
+  {
+    "source_file": "9743547_2024_Jones v. Blue Ocean Realty LLC_mdd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "LIMITATIONS_OR_TIMELINESS",
+    "confidence": "HIGH",
+    "reasoning": "FHA refusal-to-rent/failure-to-accommodate claim dismissed as barred by the two-year FHA statute of limitations; equitable tolling and continuing-violation arguments rejected."
+  },
+  {
+    "source_file": "9793761_2023_Mescall v. Renaissance at Antiquity_ncwd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "MEDIUM",
+    "reasoning": "Motions to dismiss administratively denied as moot; plaintiff granted leave to amend before any substantive dismissal of the FHA claim."
+  },
+  {
+    "source_file": "9831553_2023_Bloodgood-Loper v. Loper_nvd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA disability-discrimination claim dismissed because plaintiff alleged husband's alcoholism as handicap but failed to tie any defendant action to that disability; elements stated but not connected to facts."
+  },
+  {
+    "source_file": "9855791_2020_Barker v. Women In Need, Inc._nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Court held plaintiff alleged discrimination based on gender identity but did not allege a disability under the FHAA or tie defendants' conduct to a cognizable FHA protected status; disability nexus missing."
+  },
+  {
+    "source_file": "9873933_2022_Paynes El-Bey v. ADT Security Services, Inc._nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Failure-to-accommodate FHA claim dismissed because plaintiff did not allege landlord's knowledge of disability, a request for accommodation, or a refusal; reasonable accommodation elements not tied to facts."
+  },
+  {
+    "source_file": "9891146_2024_Monterroso v. City of New York_nysd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "TIMING_OR_NOTICE_GAP",
+    "confidence": "MEDIUM",
+    "reasoning": "Court held plaintiff was not denied housing because of her disability but instead challenged the substance/adequacy of housing provided; causal link between disability and adverse treatment missing."
+  },
+  {
+    "source_file": "9916064_2023_Rudolph v. Green_ohsd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Section 1915 screening dismissed FHA claim because allegations were threadbare: plaintiff did not identify disability, specify discriminatory comments, or plausibly allege discriminatory animus."
+  },
+  {
+    "source_file": "9935821_2022_DEJESUS v. LUCEY_paed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "FHA claim dismissed because plaintiff alleged landlord rented him an illegal apartment without heat but never alleged discrimination based on any protected characteristic; no disability or other protected-class nexus."
+  },
+  {
+    "source_file": "9951229_2022_MIMS v. CITY OF NEW CASTLE_pawd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "LIMITATIONS_OR_TIMELINESS",
+    "confidence": "HIGH",
+    "reasoning": "FHA Count V dismissed as time-barred under the FHA's two-year statute of limitations; all alleged triggering events predated the limitations cutoff."
+  },
+  {
+    "source_file": "Chapman v. Davis",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA disability failure-to-accommodate claim dismissed because plaintiff did not allege refusal after notice; the request for vaccination records was not a refusal, so the refusal element was not tied to pleaded facts."
+  }
+]

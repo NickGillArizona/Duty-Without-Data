@@ -1,0 +1,97 @@
+row_id,arm,r1_role,pro_se,masked_consensus_family,verified_family,route
+"RACE-DT|9632673_2023_Clark v. Santander Bank, N.A._ctd",RACE-DT,A_row,True,A,UNCLEAR,adjudicated
+"RACE-DT|9708781_2022_Ngiendo v. University Partners, LLC._ksd",RACE-DT,A_row,True,A,A,panel_agrees_masked
+RACE-DT|9936396_2022_PAYNE v. THE GALMAN GROUP_paed,RACE-DT,A_row,True,A,B,adjudicated
+DT-PURE|10251972_2023_United States of America v. City of Milwaukee_wied,DT-PURE,A_row,False,A,A,adjudicated
+DT-PURE|10310926_2025_Cymbalsky v. 522 Shore Road Owners Inc_nyed,DT-PURE,A_row,True,A,B,adjudicated
+"DT-PURE|CYMBALSKY v. 522 SHORE ROAD OWNERS, INC.",DT-PURE,A_row,True,A,B,adjudicated
+RD-PURE|10347396_2025_Leonard v. Hocking Metropolitan Housing Authority_ohsd,RD-PURE,A_row,True,A,A,panel_agrees_masked
+RD-PURE|9922307_2021_Melton v. University of Oklahoma_okwd,RD-PURE,A_row,False,A,A,adjudicated
+"RD-PURE|10804696_2026_Karen DeMoor v. Freeman Webb Company, Realtors, et al._tnmd",RD-PURE,A_row,True,A,A,panel_agrees_masked
+RD-PURE|9799020_2022_Kris v. Dusseault Family Revocable Trust of 2017_nhd,RD-PURE,A_row,True,A,A,panel_agrees_masked
+RD-PURE|9892631_2024_Monterroso v. City of New York_nysd,RD-PURE,A_row,True,A,A,panel_agrees_masked
+RD-PURE|9940740_2024_STEVENS-NUNEZ v. BRISTOL BOROUGH MUNICIPAL ADMINISTRATION_paed,RD-PURE,A_row,True,A,B,adjudicated
+"RD-PURE|PRJ CAPITAL, LLC v. Moran",RD-PURE,A_row,True,A,B,adjudicated
+RD-PURE|9614541_2020_Eulitt v. City of San Diego_casd,RD-PURE,A_row,True,A,A,panel_agrees_masked
+RD-PURE|10000566_2024_Robinson v. District of Columbia_dcd,RD-PURE,A_row,True,A,A,panel_agrees_masked
+"RD-PURE|10881457_2026_Ramone Taylor, et al. v. Lisa Royal, et al._paed",RD-PURE,A_row,True,A,A,panel_agrees_masked
+RD-PURE|11267545 - Taylor v. Royal,RD-PURE,A_row,True,A,A,panel_agrees_masked
+RD-PURE|9891794_2024_Levine v. Project Renewal_nysd,RD-PURE,A_row,True,A,A,panel_agrees_masked
+"RD-PURE|11267636 - APPELGREN v. ISLAND HOSPITALITY MANAGEMENT VII, LLC",RD-PURE,A_row,True,A,A,panel_agrees_masked
+"RD-PURE|10178278_2024_Bock v. Brentwood Homeowners Association, Inc._idd",RD-PURE,A_row,True,A,A,panel_agrees_masked
+RD-PURE|11267548 - DEMOOR v. FREEMAN WEBB COMPANY,RD-PURE,A_row,True,A,A,panel_agrees_masked
+"RD-PURE|10696687_2019_Scott Chandler v. Chartwell Holdings, Inc., et al._nhd",RD-PURE,A_row,True,A,A,panel_agrees_masked
+"RD-PURE|10587034_2025_APPELGREN v. ISLAND HOSPITALITY MANAGEMENT VII, LLC_njd",RD-PURE,A_row,True,A,A,panel_agrees_masked
+RD-PURE|10210256_2023_El-Bey v. Berkshire Hathaway Home Service_txsd,RD-PURE,A_row,True,A,A,panel_agrees_masked
+RD-PURE|10705595_2025_RoSHIEKA CHARISMA JONES v. THOMPSON TOWERS APARTMENTS_mied,RD-PURE,A_row,True,A,A,panel_agrees_masked
+"RD-PURE|10797202_2026_Leonor E Canales v. Phoenix Housing Authority, et al._azd",RD-PURE,A_row,True,A,B,adjudicated
+"RACE-DT|10741255_2025_Jimmy Keels Williamson v. Christian Recovery Centers, Inc._nced",RACE-DT,no_consensus,True,,UNCLEAR,adjudicated
+"DT-PURE|10741255_2025_Jimmy Keels Williamson v. Christian Recovery Centers, Inc._nced",DT-PURE,no_consensus,True,,UNCLEAR,adjudicated
+RD-PURE|11267623 - Watts v. THE IRVINE COMPANY LLC,RD-PURE,no_consensus,True,,B,adjudicated
+RD-PURE|10755145_2025_Desiree Knight v. Macon Housing Authority_gamd,RD-PURE,no_consensus,True,,MISFILTER,adjudicated
+RD-PURE|10666542_2025_Legge v. Clarke County Zoning Department_vawd,RD-PURE,no_consensus,False,,MISFILTER,adjudicated
+RD-PURE|10361834_2025_QUEWON v. PHILADELPHIA HOUSING AUTHORITY_paed,RD-PURE,no_consensus,True,,B,adjudicated
+DT-PURE|9534448_2022_Arthur v. Windsor Shadows Homeowner's Association_azd,DT-PURE,misfilter,True,MISFILTER,MISFILTER,panel_agrees_masked
+RD-PURE|9621470_2023_Musgrove v. Hanifin_casd,RD-PURE,misfilter,True,MISFILTER,MISFILTER,panel_agrees_masked
+RD-PURE|10193512_2024_Hendricks v. Urban _ Economic Development_nynd,RD-PURE,misfilter,True,MISFILTER,MISFILTER,panel_agrees_masked
+"RD-PURE|10300055_2024_Alonso Cano v. 245 C_C, LLC_flsd",RD-PURE,misfilter,False,MISFILTER,MISFILTER,panel_agrees_masked
+"RACE-DT|10305742_2024_Johnson-Byrd v. PennyMac Loan Services, LLC_mowd",RACE-DT,queue_bc,True,C,C,panel_agrees_masked
+"RACE-DT|10708624_2025_CHARLESETTA MOORE, SR. v. C.F.Y. DEVELOPMENT INC., et al._caed",RACE-DT,queue_bc,True,B,B,panel_agrees_masked
+"RACE-DT|4867798_2021_Francis v. Kings Park Manor, Inc._ca2",RACE-DT,queue_bc,False,C,C,panel_agrees_masked
+RACE-DT|9591610_2024_(PS) James v. Metzger Mgt. Co._caed,RACE-DT,queue_bc,True,B,B,panel_agrees_masked
+RACE-DT|9606994_2022_Christian v. Rancho Grande Manufactured Home Community_cand,RACE-DT,queue_bc,True,B,B,panel_agrees_masked
+"RACE-DT|9855309_2020_Stone v. 23rd Chelsea Associates, LLC_nysd",RACE-DT,queue_bc,True,C,C,panel_agrees_masked
+"RACE-DT|9938339_2023_LAWTON v. WELLS FARGO BANK, N.A._paed",RACE-DT,queue_bc,True,B,B,panel_agrees_masked
+"RACE-DT|10872316_2026_Ernesto Varela, et al. v. William Harold Hill, et al._moed",RACE-DT,queue_bc,True,C,C,panel_agrees_masked
+DT-PURE|10197106_2024_Avila v. New York City Housing Authority_nysd,DT-PURE,queue_bc,True,B,B,panel_agrees_masked
+DT-PURE|10252125_2023_Huzjak v. Ellis_wied,DT-PURE,queue_bc,True,C,B,adjudicated
+DT-PURE|10708675_2025_J. F. and on behalf of her adolescents and mother v. LUIS VENTURA_txnd,DT-PURE,queue_bc,True,C,C,adjudicated
+DT-PURE|11267637 - Doe v. Department of Veterans Affairs,DT-PURE,queue_bc,True,C,C,panel_agrees_masked
+DT-PURE|3200963_2016_Dorothy Hartman v. Bank of New York Mellon_ca3,DT-PURE,queue_bc,True,B,B,panel_agrees_masked
+DT-PURE|9831553_2023_Bloodgood-Loper v. Loper_nvd,DT-PURE,queue_bc,True,B,B,panel_agrees_masked
+DT-PURE|9848981_2023_Byng v. Kelly_nynd,DT-PURE,queue_bc,True,B,B,panel_agrees_masked
+DT-PURE|Miller v. GEORGIA DEPARTMENT OF COMMUNITY SUPERVISION,DT-PURE,queue_bc,True,C,C,panel_agrees_masked
+"RD-PURE|9533652_2022_Beram v. Sedona, City of_azd",RD-PURE,queue_bc,True,C,C,panel_agrees_masked
+RD-PURE|10622451_2025_Gilbert v. Tucson Realty _ Trust Company Management Services LLC_azd,RD-PURE,queue_bc,True,B,B,panel_agrees_masked
+RD-PURE|10800816_2026_Brown v. Nationwide Mutual Insurance Company_dcd,RD-PURE,queue_bc,True,C,C,panel_agrees_masked
+RD-PURE|9890838_2024_Gambaro v. 1917 ACP Owner LLC_nysd,RD-PURE,queue_bc,False,C,C,panel_agrees_masked
+RD-PURE|10221825_2021_Fedynich v. Lozano_vaed,RD-PURE,queue_bc,True,B,B,panel_agrees_masked
+"RD-PURE|9721118_2022_Louisiana Fair Housing Action Center, Inc. v. Azalea Garden Properties, LLC_laed",RD-PURE,queue_bc,False,B,B,panel_agrees_masked
+RD-PURE|10434033_2025_Fox v. Kovacs_nvd,RD-PURE,queue_bc,True,B,B,adjudicated
+RD-PURE|10621722_2025_Waheed v. Park_nysd,RD-PURE,queue_bc,True,C,C,panel_agrees_masked
+DT-PURE|10242837_2023_Martinez v. Pierce County_wawd,DT-PURE,control_bc,True,B,A,adjudicated
+"DT-PURE|9714620_2024_Miller v. Alco Management, Inc_kyed",DT-PURE,control_bc,True,C,B,adjudicated
+RACE-DT|9868893_2021_Tasfay v. Ramos_nysd,RACE-DT,control_bc,True,B,B,panel_agrees_masked
+RACE-DT|10186453_2024_Weik v. Asby_mtd,RACE-DT,control_bc,True,C,C,panel_agrees_masked
+RD-PURE|10644107_2025_Ballentine v. Bowery Residence Committee_nyed,RD-PURE,control_bc,True,B,B,panel_agrees_masked
+"RD-PURE|9683510_2024_Haymarket DuPage, LLC v. Village of Itasca_ilnd",RD-PURE,control_bc,False,C,C,panel_agrees_masked
+DT-PURE|9950565_2021_MIMS v. CITY OF NEW CASTLE_pawd,DT-PURE,control_bc,True,B,B,panel_agrees_masked
+DT-PURE|9786613_2024_Jett v. The Country Acres Association of Columbus County LTD_nced,DT-PURE,control_bc,True,C,B,adjudicated
+RACE-DT|10190122_2024_NELSON v. CLAUSSEN_njd,RACE-DT,control_bc,False,B,B,panel_agrees_masked
+"RACE-DT|10665957_2025_Hobbs, Sr v. Goncharko_ilnd",RACE-DT,control_bc,True,C,C,panel_agrees_masked
+RD-PURE|9869240_2021_Currin v. Glenwood Management Corp._nysd,RD-PURE,control_bc,True,B,B,adjudicated
+"RD-PURE|10870437_2026_Aaron Albert Mitchell, Jr. v. Township of Willingboro, et al._njd",RD-PURE,control_bc,False,C,C,adjudicated
+DT-PURE|10838867_2026_Zeng v. Owner of 8020 Quartz Lane_ca5,DT-PURE,control_bc,True,B,B,panel_agrees_masked
+"DT-PURE|9836005_2024_Perkins Jr. v. Panorama Towers Condo Unit Owners, Dennis Kariger_nvd",DT-PURE,control_bc,True,C,C,adjudicated
+RACE-DT|9817781_2023_Burnside v. Monarch Real Estate Crop_nmd,RACE-DT,control_bc,True,B,B,panel_agrees_masked
+"RACE-DT|9848402_2022_Cedar Development East,LLC v. Town Board of Hurley_nynd",RACE-DT,control_bc,False,C,C,panel_agrees_masked
+RD-PURE|9902915_2021_McCoy v. Akron Police Department_ohnd,RD-PURE,control_bc,True,B,B,panel_agrees_masked
+RD-PURE|9526362_2022_Yates v. Mack_alsd,RD-PURE,control_bc,False,C,C,panel_agrees_masked
+"DT-PURE|9869575_2021_Zlotnick v. Crystal Run Village, Inc._nysd",DT-PURE,control_bc,False,B,B,panel_agrees_masked
+DT-PURE|10678137_2025_Ogando v. Napolitano_nyed,DT-PURE,control_bc,True,C,C,adjudicated
+RACE-DT|10699981_2025_Moore v. Model Cities_mnd,RACE-DT,control_bc,True,B,B,panel_agrees_masked
+"RACE-DT|10223773_2024_Benton v. Home Max Realty, Inc._vaed",RACE-DT,control_bc,True,C,C,panel_agrees_masked
+RD-PURE|10314935_2025_Feliciano v. Aguirre_nysd,RD-PURE,control_bc,True,B,B,panel_agrees_masked
+RD-PURE|10666591_2025_Watkins v. Chau_mad,RD-PURE,control_bc,True,C,C,adjudicated
+DT-PURE|10302146_2024_Tanner v. Rochdale Village Inc._nyed,DT-PURE,control_bc,True,B,B,panel_agrees_masked
+"DT-PURE|Tanner v. Rochdale Village, Inc.",DT-PURE,control_bc,True,C,B,adjudicated
+"RACE-DT|9882238_2023_Reeves v. CMP Consultants, Inc._nysd",RACE-DT,control_bc,True,B,B,panel_agrees_masked
+RACE-DT|9842777_2023_Samura v. Figueroa_nyed,RACE-DT,control_bc,True,C,C,panel_agrees_masked
+RD-PURE|9930022_2023_Adgerson v. Central City Concern Housing Administration_ord,RD-PURE,control_bc,True,B,B,panel_agrees_masked
+RD-PURE|11267617 - MILLERBORG v. BLUE BONNET TRAIL LLC,RD-PURE,control_bc,True,C,C,panel_agrees_masked
+"DT-PURE|9812229_2024_OXFORD HOUSE, INC. v. TOWNSHIP OF NORTH BERGEN_njd",DT-PURE,control_bc,False,B,B,panel_agrees_masked
+DT-PURE|EWIDEH v. HOMESITE INS. CO. OF THE MIDWEST,DT-PURE,control_bc,True,C,B,adjudicated
+RACE-DT|9768334_2021_Wheatley v. Beasley_moed,RACE-DT,control_bc,True,B,B,panel_agrees_masked
+RACE-DT|9922722_2021_Miller v. Legacy Bank_okwd,RACE-DT,control_bc,True,C,C,panel_agrees_masked
+"RD-PURE|10223161_2023_Graves, Esq v. Foulger-Pratt Companies, LLC_vaed",RD-PURE,control_bc,True,B,B,panel_agrees_masked
+RD-PURE|9741207_2022_Emrit v. Hagerstown Housing Authority_mdd,RD-PURE,control_bc,True,C,C,panel_agrees_masked

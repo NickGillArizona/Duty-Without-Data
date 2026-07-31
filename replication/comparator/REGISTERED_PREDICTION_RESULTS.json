@@ -1,0 +1,32 @@
+[
+  {
+    "claim_gate": "APPENDIX-READY",
+    "evidence": "RACE-DT pro se share change 3.7%; DIS change 20.2%.",
+    "prediction": "Race pro se share rises P1 to P3 but less than disability.",
+    "status": "CONFIRMED"
+  },
+  {
+    "claim_gate": "APPENDIX-READY",
+    "evidence": "DIS strict change -9.4%; RACE-DT strict change -3.1%; DIS comp share 57.5%; RACE-DT comp share 17.2%.",
+    "prediction": "Strict-win decline and composition share are larger in disability than race.",
+    "status": "CONFIRMED"
+  },
+  {
+    "claim_gate": "APPENDIX-READY",
+    "evidence": "RD-PURE strict change -18.2%; DT-PURE strict change 4.8%; RD-PURE MTD survival change -26.6%; DT-PURE MTD survival change -11.1%; RD comp share 42.6%; DT comp share NA.",
+    "prediction": "RD-PURE decline and pleading-gate concentration are steeper than DT-PURE.",
+    "status": "CONFIRMED"
+  },
+  {
+    "claim_gate": "SCREENING-ONLY",
+    "evidence": "RD-PURE pro se Family-A 49.6%; DT-PURE 47.0%; RACE-DT 36.9%.",
+    "prediction": "Family-A institutionally-held-fact deficits are overrepresented in RD-PURE pro se pleading losses.",
+    "status": "CONFIRMED_PROXY_ONLY"
+  },
+  {
+    "claim_gate": "APPENDIX-READY",
+    "evidence": "RACE-DT strict change -3.1% from P1 to P3.",
+    "prediction": "Race disparate-treatment merits outcomes are comparatively stable.",
+    "status": "CONFIRMED"
+  }
+]

@@ -1,0 +1,99 @@
+{
+  "_redaction_note": "Archived from the regulations.gov API v4 on 2026-07-10 (comment HUD-2006-0214-0011, include=attachments). The submitter's personal email address, present in the pasted comment-box signature as returned by the API, has been replaced with '[personal email redacted]' before archiving; no other content was altered.",
+  "data": {
+    "attributes": {
+      "address1": null,
+      "address2": null,
+      "agencyId": "HUD",
+      "category": null,
+      "city": null,
+      "comment": "Comment on 60-Day Notice of Proposed Information Collection: &quot;Race and Ethnic Data Reporting Form&quot; (Form HUD-27061), Docket No. FR-7093-N-02, OMB Control No. 2535-0113, 91 Fed. Reg. 35,697 (June 12, 2026).<br/><br/>Nicholas Gill submits this comment in his individual capacity. He is a law student; his student note on disability and fair-housing administration will be published; and he has served as a research assistant on empirical fair-housing research.<br/><br/>The Notice describes a collection materially broader than the instrument HUD actually fields. The abstract states that the form collects &quot;other protected class data . . . as required by . . . the Fair Housing Act,&quot; 91 Fed. Reg. at 35,698, but the operative instrument is a race-and-ethnicity form. It does not collect the disability (&quot;handicap&quot;) data that the Fair Housing Act, 42 U.S.C. 3604(f), and HUD&#39;s demographic-data regulation, 24 C.F.R. 121.2, identify as protected-class categories. Because the collection is described broader than it is built, it cannot be certified as having the practical utility the PRA requires, 44 U.S.C. 3506(c)(2)(A); 5 C.F.R. 1320.3(l), 1320.5(d)(1), for the Fair Housing Act function the abstract names. I also note that the most recent approval stated an expiration date of June 30, 2026, which has passed while this renewal remains pending; as of the date of this comment I have located no extension request or successor information-collection request in OMB&#39;s public records.<br/><br/>The unchanged burden estimate (14,375 respondents; 8,625 annual hours, identical to the prior cycle) confirms the mismatch: either the described scope is accurate and the carried-over burden figures cannot be, or the burden figures are accurate and the abstract overstates the collection. HUD should reconcile the two.<br/><br/>HUD itself invoked 24 C.F.R. Part 121 - whose enumerated categories include &quot;handicap and family characteristics&quot; - as authority for broader protected-class collection in the prior 60-day notice for this same control number, 87 Fed. Reg. 58,524, 58,525 (Sept. 27, 2022), but the broader categories were not carried forward into the collection approved in 2023, 88 Fed. Reg. 5,370 (Jan. 27, 2023). HUD&#39;s 2023 Supporting Statement stated that when Form 27061-H undergoes PRA renewal, &quot;among other HUD forms,&quot; HUD &quot;will evaluate inclusion of SOGI data collection, among other protected characteristics.&quot; The renewal record should explain whether that evaluation reached the Part 121 disability category and, if not, why.<br/><br/>I respectfully request that HUD: (1) reconcile the abstract with the instrument - correct the abstract to its actual race-and-ethnicity/Title VI scope, or revise the instrument (or establish a companion collection cross-walked to this control number) to collect the described Fair Housing Act disability data in aggregate, privacy-tiered form; (2) decline to certify practical utility for the broader described scope on the present record; (3) correct or re-estimate the burden figures; (4) add an aggregate, privacy-tiered disability-compliance data element (accessible-unit inventory under 24 C.F.R. 8.22, 8.26, 8.27, and reasonable-accommodation request-and-disposition counts), designed as entity-level aggregates so no individual&#39;s disability status appears on a FOIA-releasable form; (5) implement any added fields through burden-minimizing means (aggregate reporting, electronic and system-integrated submission, phased rollout); (6) identify the program office, form, OMB control number, database, fields, confidentiality tier, and reporting cadence - if any - through which HUD separately captures the described Fair Housing Act disability data, and if none exists, say so; and (7) docket this comment and address it in the Supporting Statement accompanying any submission to OMB, 5 C.F.R. 1320.5(a), 1320.8(d).<br/><br/>The full comment is attached.<br/><br/>Respectfully submitted,<br/>Nicholas Gill<br/>Tucson, Arizona<br/>[personal email redacted]",
+      "commentOn": "09000064b93288d1",
+      "commentOnDocumentId": "HUD-2006-0214-0010",
+      "country": null,
+      "displayProperties": null,
+      "docAbstract": null,
+      "docketId": "HUD-2006-0214",
+      "documentType": "Public Submission",
+      "duplicateComments": 0,
+      "email": null,
+      "fax": null,
+      "field1": null,
+      "field2": null,
+      "fileFormats": null,
+      "firstName": null,
+      "govAgency": null,
+      "govAgencyType": null,
+      "lastName": null,
+      "legacyId": null,
+      "modifyDate": "2026-07-07T15:51:10Z",
+      "objectId": "09000064b9369ee1",
+      "openForComment": false,
+      "organization": null,
+      "originalDocumentId": null,
+      "pageCount": 0,
+      "phone": null,
+      "postedDate": "2026-07-07T04:00:00Z",
+      "postmarkDate": null,
+      "reasonWithdrawn": null,
+      "receiveDate": "2026-07-06T04:00:00Z",
+      "restrictReason": null,
+      "restrictReasonType": null,
+      "stateProvinceRegion": null,
+      "submitterRep": null,
+      "submitterRepAddress": null,
+      "submitterRepCityState": null,
+      "subtype": null,
+      "title": "Comment Submitted by Nicholas Gill",
+      "trackingNbr": "mr9-hzht-ywci",
+      "withdrawn": false,
+      "zip": null
+    },
+    "id": "HUD-2006-0214-0011",
+    "links": {
+      "self": "https://api.regulations.gov/v4/comments/HUD-2006-0214-0011"
+    },
+    "relationships": {
+      "attachments": {
+        "data": [
+          {
+            "id": "09000064b93695c7",
+            "type": "attachments"
+          }
+        ],
+        "links": {
+          "related": "https://api.regulations.gov/v4/comments/HUD-2006-0214-0011/attachments",
+          "self": "https://api.regulations.gov/v4/comments/HUD-2006-0214-0011/relationships/attachments"
+        }
+      }
+    },
+    "type": "comments"
+  },
+  "included": [
+    {
+      "attributes": {
+        "agencyNote": null,
+        "authors": null,
+        "docAbstract": null,
+        "docOrder": 2,
+        "fileFormats": [
+          {
+            "fileUrl": "https://downloads.regulations.gov/HUD-2006-0214-0011/attachment_2.pdf",
+            "format": "pdf",
+            "size": 14512
+          }
+        ],
+        "modifyDate": "2026-07-06T17:45:49Z",
+        "publication": null,
+        "restrictReason": null,
+        "restrictReasonType": null,
+        "title": "Nicholas_Gill_full_submission_2026-07-06_Redacted"
+      },
+      "id": "09000064b93695c7",
+      "links": {
+        "self": "https://api.regulations.gov/v4/attachments/09000064b93695c7"
+      },
+      "type": "attachments"
+    }
+  ]
+}

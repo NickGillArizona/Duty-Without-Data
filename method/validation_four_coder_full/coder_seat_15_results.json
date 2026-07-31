@@ -1,0 +1,212 @@
+[
+  {
+    "source_file": "10185180_2024_Doll v. Trellis Walnut Towers LLC_mnd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed reasonable-accommodation claim because plaintiff did not allege she requested an accommodation from the defendant before the adverse housing action; no request, no refusal under § 3604(f)(3)(B)."
+  },
+  {
+    "source_file": "10210256_2023_El-Bey v. Berkshire Hathaway Home Service_txsd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "HIGH",
+    "reasoning": "Pro se plaintiff alleged disability but did not identify any accommodation request or any § 3604(f) violation tied to the defendants' conduct; screening dismissal for failure to state an FHA claim."
+  },
+  {
+    "source_file": "10251972_2023_United States of America v. City of Milwaukee_wied",
+    "pleading_failure_family": "NO_FAILURE_DEFENDANT_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "MEDIUM",
+    "reasoning": "Order concerns False Claims Act / fraud claims and does not turn on FHA disability pleading defects; appears to be a misfiltered case for this pleading-failure taxonomy."
+  },
+  {
+    "source_file": "10300589_2024_Gonzalez v. Lexington Police Department_mad",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "HIGH",
+    "reasoning": "Court found no allegation that plaintiff requested a housing accommodation from the police-department defendant or tied disability to any cognizable FHA housing action."
+  },
+  {
+    "source_file": "10338763_2025_Wiggins v. Omaha Housing Authority Foundation Inc._ned",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Court held plaintiff alleged disability and adverse housing action but offered only conclusory assertions that the PHA's conduct was because of disability; causation element unsupported by facts."
+  },
+  {
+    "source_file": "10397674_2025_TWYMAN v. RECAP PA HOLDINGS, LLC_paed",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "COMPARATOR_OR_INTENT_GAP",
+    "confidence": "HIGH",
+    "reasoning": "Disparate-treatment theory invoked, but court found no comparator allegation and no allegation of intentional disability-based differential treatment; facts didn't fit the theory."
+  },
+  {
+    "source_file": "10602426_2025_Kindle v. Moore_ilsd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "§ 1915 screening dismissal; pro se plaintiff recited FHA elements in the abstract without tying concrete facts to any specific disability-based theory of liability."
+  },
+  {
+    "source_file": "10643981_2025_Fussell v. Sun Vista RV Resort LLC_azd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "TIMING_OR_NOTICE_GAP",
+    "confidence": "MEDIUM",
+    "reasoning": "Disability claim dismissed because no allegation defendant was aware of disability or that adverse action was tied to it; race-based claim survived separately."
+  },
+  {
+    "source_file": "10665957_2025_Hobbs, Sr v. Goncharko_ilnd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "HIGH",
+    "reasoning": "Court held the property or conduct at issue did not satisfy a technical FHA element (e.g., dwelling / covered transaction) needed for the disability theory plaintiff pleaded."
+  },
+  {
+    "source_file": "10705497_2025_Abraham Shitrai Israel and Sarah Iris Israel v. Barbara Guinn, et al._nynd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiffs alleged disability in passing but pleaded no nexus between the disability and any housing-related adverse action by defendants; court found no cognizable § 3604(f) theory."
+  },
+  {
+    "source_file": "10743592_2025_JAMES B. HERRERA v. MADDOX MANAGEMENT, LLC_nmd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Pro se complaint alleged a landlord-tenant grievance and referenced disability but failed to connect disability to the adverse housing conduct or to any FHA provision."
+  },
+  {
+    "source_file": "10768398_2026_Charles Ray Johnson v. Norman Rinehart_sdd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "§ 1915 screening; pro se plaintiff invoked FHA but court found facts did not map onto any § 3604 element — allegations stated elements in the abstract."
+  },
+  {
+    "source_file": "11267541 - HERBOZO v. Fernandez",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed on a threshold jurisdictional/standing basis rather than reaching the FHA merits."
+  },
+  {
+    "source_file": "11267617 - MILLERBORG v. BLUE BONNET TRAIL LLC",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Dismissal turned on a threshold jurisdictional or standing defect, not on analysis of the FHA disability elements."
+  },
+  {
+    "source_file": "6499202_2022_Staton v. Vesta Corporation_dcd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Court identified pleading defects in tying disability-based allegations to specific FHA elements; although some claims proceeded, the disability-centered theory was not adequately translated into FHA elements."
+  },
+  {
+    "source_file": "9531932_2021_Petramala v. Phoenix, City of_azd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "HIGH",
+    "reasoning": "Court held § 3604(f)(3)(B) reasonable-accommodation theory does not reach plaintiff's demand (e.g., control of neighbor smoking) — a technical mismatch between facts and the statutory element."
+  },
+  {
+    "source_file": "9594478_2024_Chhang v. West Coast USA Properties LLC_caed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "MEDIUM",
+    "reasoning": "Court found PHA not a proper FHA defendant for private landlord's conduct, and plaintiff failed to articulate a cognizable § 3604 or § 3617 theory against the defendants actually sued."
+  },
+  {
+    "source_file": "9632861_2024_McArthur v. Property Management_ctd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Retaliation / disability claim dismissed because causation between disability (or protected activity) and adverse action was alleged only conclusorily."
+  },
+  {
+    "source_file": "9683510_2024_Haymarket DuPage, LLC v. Village of Itasca_ilnd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Court resolved case on Article III traceability/standing analysis rather than reaching FHA disability merits."
+  },
+  {
+    "source_file": "9721118_2022_Louisiana Fair Housing Action Center, Inc. v. Azalea Garden Properties, LLC_laed",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Disability-based disparate-impact theory dismissed as too thin on statistical or causal facts to satisfy Iqbal/Twombly; race-based theory survived with more developed factual allegations."
+  },
+  {
+    "source_file": "9743515_2024_Morris v. Memorial Development Partners, LP_mdd",
+    "pleading_failure_family": "MIXED",
+    "pleading_failure_mechanism": "MIXED",
+    "confidence": "MEDIUM",
+    "reasoning": "Order addressed multiple claims with distinct defects — third-party standing problems, lack of discriminatory intent, and insufficient facts — none clearly dominant for the disability claim."
+  },
+  {
+    "source_file": "9786613_2024_Jett v. The Country Acres Association of Columbus County LTD_nced",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed because plaintiff alleged housing grievances but did not connect them to a protected disability basis under the FHA."
+  },
+  {
+    "source_file": "9827432_2021_Carpenter v. Southern Nevada Regional Housing Authority_nvd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Pro se complaint recited FHA elements but did not tie them to specific pleaded facts about the PHA's alleged disability-based conduct."
+  },
+  {
+    "source_file": "9855547_2020_Anderson-Bey v. ACS_nysd",
+    "pleading_failure_family": "MIXED",
+    "pleading_failure_mechanism": "MIXED",
+    "confidence": "MEDIUM",
+    "reasoning": "Multiple independent grounds including threshold gateway issues and FHA element failures; no single dominant defect for the disability claim."
+  },
+  {
+    "source_file": "9873146_2022_Sykes v. New York City Housing Authority_nysd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Court held plaintiff failed to allege disability was a motivating factor in the challenged NYCHA actions; causation conclusorily pleaded."
+  },
+  {
+    "source_file": "9890838_2024_Gambaro v. 1917 ACP Owner LLC_nysd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Dismissal turned on plaintiff's failure to obtain state-court leave to sue a receiver — a threshold jurisdictional bar reached before FHA merits."
+  },
+  {
+    "source_file": "9915430_2023_Chappel v. Adams County Children's Services_ohsd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "§ 3617 interference claim dismissed because complaint alleged no facts showing discriminatory animus or nexus between disability and defendants' conduct."
+  },
+  {
+    "source_file": "9935410_2021_HEIMBACH v. HILL_paed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "MEDIUM",
+    "reasoning": "Court dismissed FHA claim because complaint alleged no discriminatory conduct tied to disability; separate Rooker-Feldman analysis addressed other claims."
+  },
+  {
+    "source_file": "9950565_2021_MIMS v. CITY OF NEW CASTLE_pawd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Court held plaintiff did not plausibly allege disability was a motivating factor in the city's zoning/housing decisions; discriminatory purpose pleaded conclusorily."
+  },
+  {
+    "source_file": "CYMBALSKY v. 522 SHORE ROAD OWNERS, INC.",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "HIGH",
+    "reasoning": "Court held plaintiff did not plead any adverse housing action tied to disability or any animus — facts did not fit the disparate-treatment elements."
+  }
+]

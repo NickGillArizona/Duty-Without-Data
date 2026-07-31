@@ -1,0 +1,162 @@
+{
+  "win_rates_by_plaintiff": {
+    "INSTITUTIONAL": {
+      "n": 74,
+      "strict_win": 0.4595,
+      "broad_win": 0.6757,
+      "pro_se_share": 0.0135
+    },
+    "GROUP_HOME": {
+      "n": 135,
+      "strict_win": 0.2667,
+      "broad_win": 0.4444,
+      "pro_se_share": 0.0148
+    },
+    "INDIVIDUAL": {
+      "n": 1263,
+      "strict_win": 0.133,
+      "broad_win": 0.2439,
+      "pro_se_share": 0.7181
+    }
+  },
+  "chi2_plaintiff_outcome": {
+    "chi2": 82.93,
+    "p": 0.0
+  },
+  "procedural_depth": {
+    "INSTITUTIONAL": {
+      "n": 118,
+      "mtd_survival": 0.5085,
+      "merits_reached": 0.322,
+      "sj_or_trial": 0.339,
+      "interactive_process": 0.1441,
+      "avg_fha_claims": 1.51,
+      "avg_theories": 1.17
+    },
+    "GROUP_HOME": {
+      "n": 158,
+      "mtd_survival": 0.7152,
+      "merits_reached": 0.5443,
+      "sj_or_trial": 0.4747,
+      "interactive_process": 0.1329,
+      "avg_fha_claims": 2.04,
+      "avg_theories": 1.86
+    },
+    "INDIVIDUAL": {
+      "n": 1623,
+      "mtd_survival": 0.3167,
+      "merits_reached": 0.1738,
+      "sj_or_trial": 0.1479,
+      "interactive_process": 0.0998,
+      "avg_fha_claims": 1.69,
+      "avg_theories": 1.4
+    }
+  },
+  "chi2_merits_reached": {
+    "chi2": 126.387,
+    "p": 0.0
+  },
+  "institutional_by_period": {
+    "P1": {
+      "total": 932,
+      "institutional_n": 158,
+      "institutional_share": 0.1695
+    },
+    "P2": {
+      "total": 314,
+      "institutional_n": 46,
+      "institutional_share": 0.1465
+    },
+    "P3": {
+      "total": 653,
+      "institutional_n": 72,
+      "institutional_share": 0.1103
+    }
+  },
+  "model_institutional": {
+    "formula": "broad_win ~ is_institutional + pro_se_int + post_2024 + C(def_cat)",
+    "n": 1472,
+    "pseudo_r2": 0.179,
+    "coefficients": {
+      "Intercept": {
+        "coef": -0.321,
+        "se": 0.1997,
+        "p": 0.108,
+        "or": 0.7254
+      },
+      "C(def_cat)[T.PRIVATE]": {
+        "coef": 0.9061,
+        "se": 0.1993,
+        "p": 0.0,
+        "or": 2.4746
+      },
+      "C(def_cat)[T.PUBLIC_QUASI]": {
+        "coef": 0.1153,
+        "se": 0.219,
+        "p": 0.5987,
+        "or": 1.1222
+      },
+      "is_institutional": {
+        "coef": 0.275,
+        "se": 0.188,
+        "p": 0.1435,
+        "or": 1.3165
+      },
+      "pro_se_int": {
+        "coef": -1.9809,
+        "se": 0.1486,
+        "p": 0.0,
+        "or": 0.1379
+      },
+      "post_2024": {
+        "coef": -0.3537,
+        "se": 0.1324,
+        "p": 0.0075,
+        "or": 0.7021
+      }
+    }
+  },
+  "model_merits_reached": {
+    "formula": "merits_int ~ is_institutional + pro_se_int + post_2024 + C(def_cat)",
+    "n": 1899,
+    "pseudo_r2": 0.1504,
+    "coefficients": {
+      "Intercept": {
+        "coef": -1.039,
+        "se": 0.1962,
+        "p": 0.0,
+        "or": 0.3538
+      },
+      "C(def_cat)[T.PRIVATE]": {
+        "coef": 0.7922,
+        "se": 0.1965,
+        "p": 0.0001,
+        "or": 2.2083
+      },
+      "C(def_cat)[T.PUBLIC_QUASI]": {
+        "coef": 0.8273,
+        "se": 0.2091,
+        "p": 0.0001,
+        "or": 2.2872
+      },
+      "is_institutional": {
+        "coef": 0.3032,
+        "se": 0.1625,
+        "p": 0.062,
+        "or": 1.3542
+      },
+      "pro_se_int": {
+        "coef": -1.7482,
+        "se": 0.1412,
+        "p": 0.0,
+        "or": 0.1741
+      },
+      "post_2024": {
+        "coef": -0.3691,
+        "se": 0.124,
+        "p": 0.0029,
+        "or": 0.6914
+      }
+    }
+  }
+}

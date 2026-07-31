@@ -1,0 +1,219 @@
+[
+  {
+    "source_file": "10164858_2021_Miller v. Coastline Management_alsd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "MEDIUM",
+    "reasoning": "Pro se plaintiff alleged housing grievances with landlord but failed to tie disability status to any adverse housing action or accommodation denial; court found no cognizable FHA disability theory connecting disability to conduct."
+  },
+  {
+    "source_file": "10196929_2024_Cavallo v. HPD Section 8_nysd",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff invoked FHA but pleaded only conclusory allegations about Section 8 denial without tying specific facts to the disability-discrimination elements; insufficient under Iqbal/Twombly."
+  },
+  {
+    "source_file": "10221540_2020_Fedynich v. Boulder Housing Partners_vaed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "MEDIUM",
+    "reasoning": "Pro se complaint presents grievances that do not map onto any FHA cause of action; court found no cognizable theory for the disability-related claim."
+  },
+  {
+    "source_file": "10277927_2024_Morris v. Baltimore Municipal_mdd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed on threshold standing/jurisdictional grounds before reaching FHA merits."
+  },
+  {
+    "source_file": "10310926_2025_Cymbalsky v. 522 Shore Road Owners Inc_nyed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff alleged disability but failed to tie it to any specific housing-related adverse action or accommodation request by the co-op defendant."
+  },
+  {
+    "source_file": "10366167_2025_Morris v. Baltimore City_mdd",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff invoked FHA disability theory but facts pleaded were too thin/conclusory to satisfy plausibility."
+  },
+  {
+    "source_file": "10586094_2025_Shomo v. Cooksey_mdd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "MEDIUM",
+    "reasoning": "Pro se complaint dismissed at § 1915 screening with conclusory allegations that do not map onto any FHA cause of action."
+  },
+  {
+    "source_file": "10632090_2025_Mendoza-Lebron v. Adams_nyed",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "TIMING_OR_NOTICE_GAP",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff alleged disability and adverse action but did not adequately allege that defendants knew of disability or acted because of it."
+  },
+  {
+    "source_file": "10651176_2025_AGiza v. Bexar County_txwd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "MEDIUM",
+    "reasoning": "Pro se claim dismissed at screening as conclusory; grievance does not map onto any FHA cause of action."
+  },
+  {
+    "source_file": "10682741_2025_Neptune v. Cobble Ridge Homeowner Association_nced",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed on Eleventh Amendment / jurisdictional grounds before reaching FHA merits."
+  },
+  {
+    "source_file": "10730094_2025_Eric Crouse v. Housing Works, Deschutes County, and the State of Oregon_ord",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed for lack of subject-matter jurisdiction before reaching FHA merits."
+  },
+  {
+    "source_file": "10757978_2025_Susan Suarez; Delailah Perez; Andre Rojas v. Park Lane Management Corporation, et al._nysd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "MEDIUM",
+    "reasoning": "Court disposed of claim on threshold abstention/immunity grounds without reaching FHA merits."
+  },
+  {
+    "source_file": "10787023_2026_United States of America v. Douglas S. Waterbury, Carol A. Waterbury, E_A Management Co., and Ontario Realty, Inc._nynd",
+    "pleading_failure_family": "NO_FAILURE_DEFENDANT_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "MEDIUM",
+    "reasoning": "Case disposed on consent decree expiration, not on any pleading defect in the disability claim; misfilter for pleading-loss criterion."
+  },
+  {
+    "source_file": "11267591 - RAMDHAN v. MORGAN STONEHILL, LLC",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA disability theory invoked but pleaded facts too thin/conclusory to satisfy plausibility."
+  },
+  {
+    "source_file": "11267645 - Ricketts v. WESTWOOD CONDO ASSOC.",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff invoked FHA disability theory but pleaded condition did not satisfy the statutory 'handicap' definition element."
+  },
+  {
+    "source_file": "9486151_2024_Briggs v. Campbell_dcd",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff's FHA disability claim pleaded only conclusory facts that did not plausibly support required elements."
+  },
+  {
+    "source_file": "9565491_2021_Hamilton v. Madera County_caed",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "TAC dismissed under Rule 8(a); FHA fifth cause of action conclusory and plaintiff not shown to be 'aggrieved person' under the statute."
+  },
+  {
+    "source_file": "9618024_2021_Musgrove v. Hanifin_casd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff was granted leave to file 7AC and motion to dismiss 6AC denied as moot; misfilter for pleading-loss criterion."
+  },
+  {
+    "source_file": "9658375_2022_WHITBY v. MACON BIBB COUNTY GEORGIA_gamd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "EXHAUSTION_OR_PRECLUSION",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed on res judicata grounds based on prior state court judgment, a threshold preclusion defense."
+  },
+  {
+    "source_file": "9704762_2019_Ngiendo v. Pep-KU, LLC_ksd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "MEDIUM",
+    "reasoning": "Hostile housing environment theory identified but facts did not satisfy severe/pervasive element and PEP-KU not shown to be responsible; elements did not fit facts."
+  },
+  {
+    "source_file": "9740678_2022_Want v. Jones_mdd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "HIGH",
+    "reasoning": "Court found no allegation that landlord refused a reasonable accommodation or denied opportunity to lease; accommodation request not alleged."
+  },
+  {
+    "source_file": "9767259_2020_Stroud v. Farr Rentals, LLC_moed",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "TIMING_OR_NOTICE_GAP",
+    "confidence": "MEDIUM",
+    "reasoning": "Court found no facts showing plaintiff was treated differently because of protected characteristic; no causal link or defendant awareness alleged."
+  },
+  {
+    "source_file": "9804772_2021_LIVINGSTONE v. HUGO BOSS STORE, ATLANTIC CITY, NJ_njd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "FHA retaliation dismissed because defendants (retail store) were not involved in renting or selling housing; grievance does not map onto any FHA cause of action."
+  },
+  {
+    "source_file": "9845340_2019_UMH Properties, Inc. v. Village of Coxsackie_nynd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "HIGH",
+    "reasoning": "Only the state-law CPLR 3001 and Article 78 claims were dismissed; FHA § 3604 and § 3617 claims were not at issue in the partial motion for judgment on the pleadings and survived."
+  },
+  {
+    "source_file": "9865041_2021_Brock v. The City of New York_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Court held homelessness is not a protected class under the FHA and plaintiff failed to connect adverse action to any protected characteristic."
+  },
+  {
+    "source_file": "9882634_2023_Bethea v. NYCHA Law Department_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "MEDIUM",
+    "reasoning": "Court found no facts showing discrimination based on protected characteristic in the terms/conditions of housing; disability nexus missing."
+  },
+  {
+    "source_file": "9900376_2024_Meadows v. Buffalo Police Department_nywd",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "LOW",
+    "reasoning": "Neighbor feud case with various civil rights claims; FHA only tangentially addressed and disposed on thin/conclusory allegations."
+  },
+  {
+    "source_file": "9928755_2022_Gibson v. Community Development Partners (CDP)_ord",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Court recited reasonable accommodation elements but found plaintiff's allegations lacked specific facts connecting adverse treatment to protected class or identifying the accommodation sought."
+  },
+  {
+    "source_file": "9938953_2023_SAMUEL v. THE DELAWARE COUNTY HOUSING AUTHORITY_paed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Court found § 3617 interference conduct (post-June 2020 Ward entries, rent fluctuations) not alleged to be 'because of' handicap; disability nexus missing."
+  },
+  {
+    "source_file": "9979014_2022_Thompson v. Gainesville Housing Authority_txed",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "HIGH",
+    "reasoning": "Reasonable accommodation claim dismissed because 'mental illness' without additional specificity insufficient to plead qualifying disability under FHA — first element fails."
+  },
+  {
+    "source_file": "Ortiz v. VALASEK",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Dismissed without prejudice under Rooker-Feldman (state eviction court already ruled) and Younger abstention (state case still pending) — threshold jurisdictional disposition."
+  }
+]

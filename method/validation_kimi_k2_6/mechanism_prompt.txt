@@ -1,0 +1,78 @@
+You are classifying the mechanism by which a Fair Housing Act disability-related claim failed at the pleading stage. The case was dismissed on a motion to dismiss or a § 1915 screening order with outcome DEFENDANT_WIN or PROCEDURAL. You will receive the full text (or head-and-tail truncation) of the court's opinion or order.
+
+Your task: emit a single JSON object with exactly these keys:
+
+{
+  "pleading_failure_family": "<one of the family codes below>",
+  "pleading_failure_mechanism": "<one of the mechanism codes below>",
+  "confidence": "<HIGH|MEDIUM|LOW>",
+  "reasoning": "<one or two sentences on why this family/mechanism, citing a specific feature of the opinion>"
+}
+
+No markdown. No preamble. No trailing prose. Only the JSON object.
+
+=== FAMILY CODES ===
+
+TRANSLATION — The plaintiff had a concrete housing grievance but failed to render it into a legally cognizable FHA theory or to tie the elements of an FHA claim to pleaded facts. Hallmarks: no accommodation request alleged, no disability nexus to adverse action, no cognizable FHA theory identified, wrong statutory hook, elements alleged without supporting facts.
+
+PROCEDURAL_GATEWAY — The court disposed of the claim on a threshold or jurisdictional basis before reaching the FHA merits. Hallmarks: Article III standing, subject-matter jurisdiction, Rooker-Feldman, mootness, limitations, exhaustion, claim preclusion, abstention.
+
+ELEMENT_MISMATCH — The plaintiff pleaded facts that, even accepted as true, do not line up with the elements of the specific FHA theory invoked. Distinct from TRANSLATION: the theory is correctly identified but the fact pattern doesn't fit it.
+
+CAUSAL_LINK — The plaintiff alleged disability and adverse action but did not allege (or alleged only conclusorily) a causal link — e.g., no allegation the defendant knew of the disability, no allegation the adverse action was because of disability, no temporal or evidentiary hook.
+
+FACTUAL_DETAIL — The plaintiff alleged the right theory and the right elements, but the facts pleaded are too thin or conclusory to satisfy Iqbal/Twombly plausibility. Distinct from TRANSLATION (theory was right) and ELEMENT_MISMATCH (elements matched).
+
+MIXED — Multiple distinct families apply to different claims or different aspects of a single claim, none clearly dominant.
+
+UNCLEAR — The opinion does not give enough information to classify, or the court's reasoning is too abbreviated to identify a failure mechanism.
+
+NO_FAILURE_PLAINTIFF_WIN — Despite matching the pleading-loss filter upstream, the opinion on its face shows the claim survived or the plaintiff prevailed (e.g., partial survival, amended complaint survived MTD, remand in plaintiff's favor). Use this to flag misfiltered cases.
+
+NO_FAILURE_DEFENDANT_WIN — Similar misfilter flag for defendant-win cases that did not actually turn on a pleading defect (e.g., defendant won on merits after discovery, summary judgment mislabeled).
+
+MERITS_EVIDENCE — The dismissal turned on evidentiary sufficiency or merits-stage reasoning despite procedural_posture labeling as MTD (common in mixed MTD / summary-judgment orders).
+
+=== MECHANISM CODES ===
+
+Pair each family with a mechanism code below. The atomic mechanism should be the most specific failure observed; if multiple, use the one the court analyzed first or emphasized most.
+
+TRANSLATION-family mechanisms:
+  REQUEST_NOT_ALLEGED — no allegation that plaintiff requested accommodation, modification, or relief from the defendant
+  ELEMENTS_NOT_TIED_TO_FACTS — required elements stated in the abstract, not tied to specific pleaded facts
+  DISABILITY_NEXUS_MISSING — disability alleged but no nexus to housing-related adverse action or accommodation request
+  NO_COGNIZABLE_FHA_THEORY — facts allege a grievance but do not map to any FHA cause of action
+  STATUTORY_HOOK_UNCLEAR — plaintiff cites inapplicable FHA provisions, or cannot identify applicable subsection
+
+PROCEDURAL_GATEWAY-family mechanisms:
+  JURISDICTION_OR_STANDING — Article III standing, subject-matter jurisdiction, Rooker-Feldman, mootness, ripeness
+  EXHAUSTION_OR_PRECLUSION — failure to exhaust, res judicata, collateral estoppel, claim-splitting
+  LIMITATIONS_OR_TIMELINESS — statute of limitations, laches, continuing-violation doctrine
+
+ELEMENT_MISMATCH-family mechanisms:
+  ADVERSE_ACTION_NOT_CONNECTED — adverse action and protected-class membership both alleged but not connected
+  COMPARATOR_OR_INTENT_GAP — disparate-treatment claim without a comparator or without intent allegation
+  TECHNICAL_PROOF_GAP — theory fails on a technical requirement (e.g., not a "dwelling" under § 3602)
+
+CAUSAL_LINK-family mechanisms:
+  TIMING_OR_NOTICE_GAP — no allegation defendant knew of disability before adverse action, or temporal gap undermines causation
+  ELEMENTS_NOT_TIED_TO_FACTS — causation element not tied to facts (overlaps with TRANSLATION; use CAUSAL_LINK family if disability-nexus is the specific defect)
+
+FACTUAL_DETAIL / MIXED / UNCLEAR / NO_FAILURE_* families: use
+  MIXED — when multiple mechanisms apply
+  UNCLEAR — when the mechanism cannot be determined
+  CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS — for NO_FAILURE_* families
+
+MERITS_EVIDENCE-family mechanisms:
+  TECHNICAL_PROOF_GAP — evidence or proof is insufficient on a specific element
+  MIXED — multiple merits-stage reasons
+
+=== RULES ===
+
+1. Classify what the court actually analyzed, not what the plaintiff alleged or what a full record might have shown.
+2. If the opinion grants leave to amend, still classify the pleading defect the court identified; note it in "reasoning" but do not upgrade the family to NO_FAILURE.
+3. If the case is pro se and dismissed at § 1915 screening with conclusory or unintelligible allegations, default to TRANSLATION / NO_COGNIZABLE_FHA_THEORY unless the court specifically identified a jurisdictional defect.
+4. If multiple FHA claims are addressed with different dispositions, classify the disability-related claim that received the most analysis.
+5. "Confidence" is HIGH when the court's reasoning is explicit, MEDIUM when it is implicit but clear, LOW when the opinion is too short or unclear to classify with certainty.
+
+Respond with ONLY the JSON object.

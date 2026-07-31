@@ -1,0 +1,99 @@
+Justification
+
+1. Authority: HUD Regulations 24 CFR 1.6 - Nondiscrimination in
+Federally Assisted Programs of the Department of Housing and Urban
+Development -Effectuation of Title VI of the Civil Right Act of 1964;
+Federal Register Notice (62 FR 58782-58790) published on October 30,
+1997; and Office of Management and Budget (OMB) Bulletin No. 00-02
+–Provisional Guidance on Aggregation and Allocation of Data on Race for
+Use in Civil Rights Monitoring and Enforcement.
+
+  Based on the Department of Housing and Urban Development’s (HUD) Title
+  VI Regulations (24 CFR 1.6), HUD requires all recipients of funding to
+  maintain and submit racial and ethnic data so HUD may determine
+  whether federally assisted programs are in compliance with Title VI
+  data collection requirements. HUD must offer individuals, who are
+  responding to agency data requests for race, the option of selecting
+  one or more of five racial categories. HUD must also treat ethnicity
+  as a category separate from race, and change the terminology for
+  certain racial and ethnic groups.
+
+2.  Under Title VI of the Civil Right Act of 1964, no person in the
+    United States shall, on the grounds of race, color, or national
+    origin, be excluded from participation in, be denied the benefits
+    of, or be otherwise subjected to discrimination under any program or
+    activity receiving Federal financial assistance from the Department
+    of Housing and Urban Development. Title VI requires all recipients
+    of HUD funding to maintain and submit this data during program
+    monitoring and compliance reviews to ensure compliance with
+    nondiscrimination requirements of Title VI.
+
+This collection of information provides that all HUD programs comply
+with OMB guidelines on reporting aggregating data on race and ethnicity.
+
+3.  HUD’s automated systems have been modified to conform to the latest
+    requirements. The E-Grants system is in place and serves, as the
+    primary system for collection of this sort of information.
+
+4. This collection of information is not being duplicated.
+
+5.  This collection of information does not have an impact on small
+    businesses or other small entities.
+
+6.  The racial and ethnic data of HUD funded recipients must be
+    available to the Department to show:
+
+  (1) the actual beneficiaries of HUD’s programs and activities;
+
+  (2) the extent to which members of minority groups are beneficiaries
+  of HUD’s federally assisted programs.
+
+7.  There are no special circumstances that require this collection of
+    information to be conducted in a manner that is inconsistent with
+    the guidelines in 5 CFR 1320.6.
+
+8.  Notice of this collection of information was published in the
+    Federal Register on April 10, 2013, Vol. 78 Page 21393. No comments
+    were received.
+
+9.  There are no payments or gifts provided to respondents in this
+    collection of information.
+
+10. There are no assurances of confidentiality provided in this
+    collection of information.
+
+11. There are no questions of a sensitive nature asked in this
+collection of information.
+
+12. Estimate of the hour burden of the collection of information.
+
+The number of responses is potentially well over four millions
+accounting for all submissions to the Department which are provide
+racial / ethnic information.
+
+The resulting public burden is reported under submissions by each
+program information collection.
+
+The number of burden hours, 4,100,000. The number of respondents is
+4,100.000, the number of responses is 4,100,000, the frequency of
+response is annually and on occasion, and the burden hours per response
+is 1.
+
+13. There is no additional cost burden to respondents.
+
+14. There is no additional cost to the Federal Government.
+
+15. This is an extension without change, of a currently approved
+collection.
+
+16. The results of this collection of information will not be published.
+
+17. The OMB approval number and expiration date will be displayed on the
+form.
+
+18. There are no exceptions to the certification statement identified in
+Item 19 of OMB 83-I.
+
+B.  Collections of Information Employing Statistical Methods
+
+The collection of information will not be used for statistical purposes.

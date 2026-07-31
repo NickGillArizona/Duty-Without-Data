@@ -1,0 +1,212 @@
+[
+  {
+    "source_file": "10189892_2024_FRANKLIN v. THE JERSEY CITY HOUSING AUTHORITY_njd",
+    "family": "PROCEDURAL_GATEWAY",
+    "mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "high",
+    "notes": "Pro se FHA claims against HUD dismissed on sovereign immunity/standing grounds; no adjudication of disability pleading merits."
+  },
+  {
+    "source_file": "10212330_2020_Harmony Haus Westlake, LLC v. Parkstone Property Owners Association, Inc._txwd",
+    "family": "ELEMENT_MISMATCH",
+    "mechanism": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "medium",
+    "notes": "FHA disability discrimination/reasonable accommodation claims dismissed because plaintiff failed to allege conduct was 'because of' handicap; retaliation claim survived."
+  },
+  {
+    "source_file": "10252595_2023_United States of America v. City of Milwaukee_wied",
+    "family": "TRANSLATION",
+    "mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "medium",
+    "notes": "FCA case involving HUD/FHA-related certifications; government failed to tie specific regulatory provisions to specific false certifications; not a disability-pleading failure in the conventional sense."
+  },
+  {
+    "source_file": "10301861_2024_Young v. Schwadel_nyed",
+    "family": "TRANSLATION",
+    "mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "high",
+    "notes": "Pro se plaintiff didn't state disability, describe accommodation requested, or allege defendant's refusal; FHA claim conclusory; leave to amend granted."
+  },
+  {
+    "source_file": "10347396_2025_Leonard v. Hocking Metropolitan Housing Authority_ohsd",
+    "family": "ELEMENT_MISMATCH",
+    "mechanism": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "medium",
+    "notes": "No refusal to accommodate pleaded; benign ESA documentation inquiries not discriminatory statements under § 3604(c)."
+  },
+  {
+    "source_file": "10415278_2025_QUEWON v. PHILADELPHIA HOUSING AUTHORITY_paed",
+    "family": "TRANSLATION",
+    "mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "high",
+    "notes": "Despite multiple amendments, pro se plaintiff didn't allege disability, protected status, or discriminatory motive; hip/knee pain mentioned without necessity/accommodation request."
+  },
+  {
+    "source_file": "10603183_2025_JONES v. FEATHERSTONE CONDOMINIUM HOMEOWNERS ASSOCIATION INC_gamd",
+    "family": "TRANSLATION",
+    "mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "medium",
+    "notes": "Retaliation claim lacks adverse action; reasonable accommodation claim doesn't describe disability, necessity link, or refusal."
+  },
+  {
+    "source_file": "10645870_2025_Sause v. Schwager_ksd",
+    "family": "TRANSLATION",
+    "mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "high",
+    "notes": "Rule 8 failure; string citation of statutes without tying facts to any FHA theory; shotgun pleading dismissed with leave to amend."
+  },
+  {
+    "source_file": "10667207_2025_Jennings v. Campbell_scd",
+    "family": "TRANSLATION",
+    "mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "medium",
+    "notes": "Pro se vague and conclusory FHA allegations; plaintiff fails to connect facts to any FHA element or cognizable theory."
+  },
+  {
+    "source_file": "10707819_2025_Presidential Candidate Number P60005535, also known as Ronald Satish Emrit, and Presidential Committee_Political Action Committee_Separate Segregated Fund (SSF) Number C00569897 d_b_a United Emrits of Ameri",
+    "family": "PROCEDURAL_GATEWAY",
+    "mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "high",
+    "notes": "Frivolous/vexatious-litigant complaint; no standing; never reached merits of FHA disability pleading."
+  },
+  {
+    "source_file": "10744139_2025_Desiree Knight v. Macon Housing Authority_gamd",
+    "family": "ELEMENT_MISMATCH",
+    "mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "medium",
+    "notes": "FHA failure-to-accommodate lacked necessity link; retaliation lacked adverse action; § 504 lacked disability-nexus; due process survived."
+  },
+  {
+    "source_file": "10772814_2026_Karen Sam _ Robert Sam v. Dekalb Housing Authority, et al._ilnd",
+    "family": "TRANSLATION",
+    "mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "medium",
+    "notes": "Plaintiffs did not connect alleged wrongs to disability or allege discriminatory intent/impact under FHA."
+  },
+  {
+    "source_file": "11267548 - DEMOOR v. FREEMAN WEBB COMPANY",
+    "family": "ELEMENT_MISMATCH",
+    "mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "medium",
+    "notes": "FHA claim fails because plaintiff did not plead a request for accommodation tied to disability; ADA/§1983 claims time-barred."
+  },
+  {
+    "source_file": "11267621 - Gilbert v. TUCSON REALTY & TRUST COMPANY",
+    "family": "ELEMENT_MISMATCH",
+    "mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "medium",
+    "notes": "Plaintiff failed on multiple elements of reasonable accommodation claim including substantial limitation, knowledge, and necessity/causation."
+  },
+  {
+    "source_file": "7230918_2015_Holy Ghost Revival Ministries v. City of Marysville_wawd",
+    "family": "ELEMENT_MISMATCH",
+    "mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "high",
+    "notes": "Amended complaint contained no allegations about what accommodation was proposed, whether it was reasonable, or how handicap deprived residents of opportunity to use dwellings."
+  },
+  {
+    "source_file": "9533633_2022_Petramala v. Phoenix, City of_azd",
+    "family": "ELEMENT_MISMATCH",
+    "mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "high",
+    "notes": "TAC removed specific limiting condition; only conclusory 'handicapped' label; no factual allegations showing substantial limitation of major life activity; amendment held futile."
+  },
+  {
+    "source_file": "9600205_2021_Melton v. Regional Center of the East Bay, Inc._cand",
+    "family": "PROCEDURAL_GATEWAY",
+    "mechanism": "EXHAUSTION_OR_ADMINISTRATIVE",
+    "confidence": "high",
+    "notes": "FHA claim against Arleen's dismissed without prejudice for failure to exhaust administrative remedies under Lanterman Act; reached merits on ADA/504 only as to state department."
+  },
+  {
+    "source_file": "9635966_2023_SAMUEL v. NEW CASTLE HOUSING AUTHORITY (NCCHA)_ded",
+    "family": "ELEMENT_MISMATCH",
+    "mechanism": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "medium",
+    "notes": "§ 3617 harassment/retaliation claims fail because bank statement requests and inspections were lawful regulatory activity, not adverse action or protected activity; no disability claim pleaded."
+  },
+  {
+    "source_file": "9694808_2021_Norman v. Northwest Indiana CA_innd",
+    "family": "TRANSLATION",
+    "mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "high",
+    "notes": "Pro se plaintiff asserted disability-based FHA claim but 'not alleged any information regarding a disability or how she was discriminated against based on a disability'; retaliation claim also failed."
+  },
+  {
+    "source_file": "9722146_2023_Carey v. St. Charles Parish_laed",
+    "family": "PROCEDURAL_GATEWAY",
+    "mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "high",
+    "notes": "Dismissed on res judicata and Rooker-Feldman grounds; § 3604 disparate treatment prima facie also lacked elements 2-4, but gatekeeping doctrines dispositive."
+  },
+  {
+    "source_file": "9743609_2024_Canty-Massey v. Vantage Management, Inc._mdd",
+    "family": "MIXED",
+    "mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "medium",
+    "notes": "Disability discrimination/failure-to-accommodate dismissed because defendant offered comparable units and no animus pleaded; retaliation and harassment dismissed for lack of adverse action/protected activity; race/sex claims survived."
+  },
+  {
+    "source_file": "9795430_2020_Thompson v. Morgan Properties Management Company, LLC_ned",
+    "family": "NO_FAILURE_DEFENDANT_WIN",
+    "mechanism": "MERITS_OR_STANDING_FACTUAL",
+    "confidence": "high",
+    "notes": "Not a pleading-failure outcome; plaintiff had ramp throughout, defendants ultimately installed permanent ramp—no injury in fact; standing dismissal turned on factual record, not pleading defect."
+  },
+  {
+    "source_file": "9832482_2023_Kandell v. SUR 702_nvd",
+    "family": "ELEMENT_MISMATCH",
+    "mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "high",
+    "notes": "FHA disability claim failed for lack of facts establishing disability within meaning of statute and no facts showing service animal necessary as accommodation; sexual orientation claim also dismissed."
+  },
+  {
+    "source_file": "9856749_2020_Ash v. City of N.Y._nysd",
+    "family": "PROCEDURAL_GATEWAY",
+    "mechanism": "STATUTE_OF_LIMITATIONS",
+    "confidence": "high",
+    "notes": "FHA claim time-barred under 2-year limitations period; no equitable tolling available; no disability-specific analysis reached."
+  },
+  {
+    "source_file": "9874632_2022_Mercer v. New York City Housing Authority_nysd",
+    "family": "TRANSLATION",
+    "mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "high",
+    "notes": "Pro se complaint raised lead-paint/§1983 claims but court liberally construed for possible FHA disability theory; 'no facts plausibly suggesting a viable FHA claim'; leave to amend granted."
+  },
+  {
+    "source_file": "9891340_2024_Ball v. Hope East of Fifth HDFC Inc._nysd",
+    "family": "TRANSLATION",
+    "mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "high",
+    "notes": "Pro se plaintiff alleges 'physically disabled' without specifying disability; no facts showing disability motivated landlord's refusal to transfer/repair; FHA and Rehab Act claims dismissed with leave to amend."
+  },
+  {
+    "source_file": "9917897_2024_Chapman v. Columbus Metropolitan Housing Authority_ohsd",
+    "family": "ELEMENT_MISMATCH",
+    "mechanism": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "high",
+    "notes": "§ 3604(c) claim fails because landlord statements about access/ESA records were not discriminatory; no statement indicating preference or limitation based on disability or family status."
+  },
+  {
+    "source_file": "9935831_2022_DEJESUS v. LUCEY_paed",
+    "family": "UNCLEAR",
+    "mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "low",
+    "notes": "Brief order dismissing FHA claims without prejudice along with § 1983; reasoning in separate memorandum not included in file; treated as pleading-insufficiency translation failure."
+  },
+  {
+    "source_file": "9953316_2020_Del Villar-Rosario v. Fernandez-Ramos_prd",
+    "family": "TRANSLATION",
+    "mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "high",
+    "notes": "Shotgun pleading citing § 3604 alongside many statutes; scant factual allegations insufficient under Rule 8; sua sponte dismissal without prejudice."
+  },
+  {
+    "source_file": "Dunn v. Manuel",
+    "family": "ELEMENT_MISMATCH",
+    "mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "high",
+    "notes": "Hoarding disorder not pleaded as 'substantially limiting major life activity'; fails first element of all FHA theories; alternatively fails intentional discrimination, retaliation, accommodation, and hostile environment elements."
+  }
+]

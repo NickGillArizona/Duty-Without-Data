@@ -1,0 +1,185 @@
+{
+  "schema_version": "1.0",
+  "generated_from": ["method/pipeline/model_configuration.md", "method/pipeline/consensus_resolution.md", "method/VALIDATION.md"],
+  "last_updated": "2026-05-02",
+  "data_snapshot": "data/FHA_Unified_Database.json (3,366 records as committed; 3,198 at the 2026-05-02 run this file documents, before the 2026-07-03 corpus refresh)",
+  "openrouter_costs_extracted": "2026-03-28",
+  "stages": {
+    "stage1_screening": {
+      "label": "FHA Relevance Screening",
+      "model": "Google Gemini 3.1 Flash Lite",
+      "openrouter_slug": "google/gemini-3.1-flash-lite",
+      "task": "Binary YES/NO FHA relevance screening",
+      "temperature": 0.0,
+      "reasoning": "disabled",
+      "estimated_cost_usd": "<5",
+      "produces": "screening_result field on T0 (3,198 records at this run; T1 = 2,522 passed). The 2026-07-03 CourtListener refresh appended 168 further screened-in records, bringing the committed database to T0 = 3,366 / T1 = 2,690 (see article/appendices/Appendix_A_Case_Dataset_Methodology.md, sec. A.5)"
+    },
+    "stage2_triple_classification": {
+      "label": "Triple-Model Independent Classification (Layer 1 base classifiers)",
+      "models": [
+        {
+          "label": "MiniMax M2.7",
+          "openrouter_slug": "minimax/minimax-m2.7",
+          "provider": "MiniMax",
+          "role": "Primary extraction",
+          "temperature": 0.2,
+          "reasoning_budget_tokens": 2048,
+          "max_output_tokens": 8192,
+          "output_cost_per_million_usd": 1.20,
+          "classification_cost_usd": 14.85,
+          "field_suffix_in_audit_db": "_minmax"
+        },
+        {
+          "label": "DeepSeek V3.2",
+          "openrouter_slug": "deepseek/deepseek-v3.2",
+          "provider": "DeepSeek",
+          "role": "Consensus verification",
+          "temperature": 0.2,
+          "reasoning_budget_tokens": 16384,
+          "max_output_tokens": 8192,
+          "output_cost_per_million_usd": 0.38,
+          "classification_cost_usd": 31.33,
+          "field_suffix_in_audit_db": "_deepseek"
+        },
+        {
+          "label": "Kimi K2.5",
+          "openrouter_slug": "moonshotai/kimi-k2.5",
+          "provider": "Moonshot AI",
+          "role": "Consensus verification",
+          "temperature": 0.2,
+          "reasoning_budget_tokens": 1024,
+          "max_output_tokens": 8192,
+          "output_cost_per_million_usd": 2.20,
+          "classification_cost_usd": 39.41,
+          "field_suffix_in_audit_db": "_kimi"
+        }
+      ],
+      "input_truncation": "Case texts >50,000 chars are truncated, preserving first 25,000 + last 25,000 characters.",
+      "abandoned_evaluations": [
+        {
+          "label": "GLM-5",
+          "openrouter_slug": "z-ai/glm-5",
+          "status": "Evaluated as a candidate base classifier but not used in Layer 1.",
+          "sunk_cost_usd": 49.32,
+          "note": "GLM-5.1 IS used as a base classifier in Layer 2 (mechanism-family ensemble) and as the escalation model in the supplementary classification script (scripts/unified_overnight_openrouter.py). It is not part of the Layer 1 primary classification pipeline that produced data/FHA_Unified_Database.json."
+        }
+      ]
+    },
+    "stage3_tiered_consensus_adjudication": {
+      "label": "Tiered Consensus Adjudication (Anthropic models)",
+      "tier3_haiku": {
+        "label": "Anthropic Haiku 4.5 (non-critical-field 3-way splits)",
+        "openrouter_slug": "anthropic/claude-haiku-4.5",
+        "api": "Anthropic Batch API (50% discount)",
+        "task": "Adjudicate three-way splits on non-critical categorical fields"
+      },
+      "tier4_sonnet": {
+        "label": "Anthropic Sonnet 4.6 (critical-field 3-way splits)",
+        "openrouter_slug": "anthropic/claude-sonnet-4.6",
+        "api": "Anthropic Batch API (50% discount)",
+        "thinking_tokens": 2000,
+        "max_output_tokens": 4000,
+        "task": "Adjudicate three-way splits on outcome / primary_claim_type / claim_types and re-extract free-text narrative fields"
+      },
+      "tier_distribution_ra_database": {
+        "n_records": 1857,
+        "tier_0_unanimous": {"count": 12, "percent": 0.6},
+        "tier_1_majority_noncritical": {"count": 278, "percent": 15.0},
+        "tier_2_majority_critical": {"count": 565, "percent": 30.4},
+        "tier_3_haiku_adjudicated": {"count": 697, "percent": 37.5},
+        "tier_4_sonnet_adjudicated": {"count": 302, "percent": 16.3},
+        "fallback": {"count": 3, "percent": 0.2}
+      }
+    },
+    "stage4_per_claim_extraction": {
+      "label": "Per-Claim Structured Extraction",
+      "model": "Anthropic Haiku 4.5",
+      "openrouter_slug": "anthropic/claude-haiku-4.5",
+      "api": "Anthropic Batch API",
+      "temperature": 0.1,
+      "records_processed": 3193,
+      "claims_produced": {"total": 6718, "fha": 4464, "non_fha": 2254},
+      "cost_usd": 17.58,
+      "input_tokens_millions": 26.4,
+      "output_tokens_millions": 1.7,
+      "schema_file": "method/pipeline/per_claim_extraction_schema.json"
+    },
+    "stage5_reproducibility_audit": {
+      "label": "Reproducibility Audit (independent re-classification)",
+      "model": "Anthropic Opus 4.6",
+      "openrouter_slug": "anthropic/claude-opus-4.6",
+      "api": "Anthropic Batch API",
+      "max_output_tokens": 16000,
+      "cases_audited": 50,
+      "stratification": "stratified random sample across Tier 0-4 buckets from T1 (FHA-screened) corpus",
+      "cost_usd": 4.56,
+      "input_tokens": 490833,
+      "output_tokens": 23373,
+      "match_rate_aggregate": 0.815,
+      "produces": "method/validation_three_model/opus_resolver_report.md"
+    }
+  },
+  "layer2_mechanism_ensemble": {
+    "label": "Three-Model Majority-Vote Ensemble (mechanism-family classification on T4 pleading-loss universe)",
+    "scope": "676-case T4 universe; 668 cases produced parseable output from all three coders",
+    "models": [
+      {
+        "label": "Kimi K2.6",
+        "openrouter_slug": "moonshotai/kimi-k2.6",
+        "role": "Base coder"
+      },
+      {
+        "label": "GLM-5.1",
+        "openrouter_slug": "z-ai/glm-5.1",
+        "role": "Base coder"
+      },
+      {
+        "label": "DeepSeek V3.2",
+        "openrouter_slug": "deepseek/deepseek-v3.2",
+        "role": "Base coder"
+      }
+    ],
+    "ensemble_resolution": {
+      "unanimous_3of3": {"count": 424, "rule": "adopt unanimous label"},
+      "majority_2of3": {"count": 235, "rule": "adopt 2-of-3 label"},
+      "three_way_split_1_1_1": {"count": 9, "rule": "coerce to OTHER (no adjudicator)"}
+    },
+    "fleiss_kappa_three_coder": 0.6292,
+    "produces": [
+      "method/validation_three_model/ensemble_results.json",
+      "method/validation_three_model/ensemble_report.md"
+    ]
+  },
+  "layer3_kimi_k2_6_single_re_read": {
+    "label": "Kimi K2.6 stratified single-model re-read",
+    "model": "Kimi K2.6 (moonshotai/kimi-k2.6)",
+    "scope": "150-case stratified sample from T4 (representation status × original family bucket)",
+    "cohen_kappa_vs_earlier_k2_5_glm_coding": 0.6264,
+    "produces": "method/validation_kimi_k2_6/"
+  },
+  "layer4_opus_4_7_fourth_coder": {
+    "label": "Opus 4.7 blind fourth-coder full-universe re-read",
+    "model": "Anthropic Opus 4.7 (anthropic/claude-opus-4.7)",
+    "scope": "all 668 mechanism-coded cases",
+    "cohen_kappa_vs_primary_ensemble": 0.6024,
+    "translation_gap_pp_under_opus_4_7_alone": 29.24,
+    "produces": "method/validation_four_coder_full/"
+  },
+  "supplementary_classification_layer1_supplemental": {
+    "label": "Supplementary classification for H1/H2/H7 supplemental schema (NOT Layer 1 primary)",
+    "purpose": "Adds derived fields (pleading_failure_family, tier1_tier2_fixability, etc.) on top of the canonical Layer 1 classification",
+    "primary_model": {
+      "label": "Kimi K2.5",
+      "openrouter_slug": "moonshotai/kimi-k2.5",
+      "role": "Primary classification (supplemental schema)"
+    },
+    "escalation_model": {
+      "label": "GLM-5.1",
+      "openrouter_slug": "z-ai/glm-5.1",
+      "role": "Escalation when primary returns low-confidence or unparseable output"
+    },
+    "script": "scripts/unified_overnight_openrouter.py",
+    "note": "This is a downstream supplemental analysis, not the Layer 1 production pipeline that built data/FHA_Unified_Database.json."
+  }
+}

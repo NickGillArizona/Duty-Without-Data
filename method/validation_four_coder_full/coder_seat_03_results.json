@@ -1,0 +1,219 @@
+[
+  {
+    "source_file": "10164688_2024_Dunn v. Manuel_alnd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "high",
+    "reasoning": "Plaintiff's alleged condition (hoarding) was not tied to a qualifying FHA handicap, and the complaint failed to link defendants' conduct to disability-based discrimination. Court found no cognizable disability nexus to support § 3604(f) claim."
+  },
+  {
+    "source_file": "10195352_2024_Hall v. Crestwood Lake Section 8 Holding Corporation_nysd",
+    "pleading_failure_family": "MIXED",
+    "pleading_failure_mechanism": "MIXED",
+    "confidence": "medium",
+    "reasoning": "Complaint blended race-based and other protected-class theories; disability allegations were undeveloped. Multiple pleading defects spanning protected-class identification and element-to-fact linkage."
+  },
+  {
+    "source_file": "10221400_2020_Banks v. Gates Hudson _ Associates, Inc._vaed",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "high",
+    "reasoning": "Accommodation was actually granted; plaintiff could not causally tie any adverse housing action to disability or to a refusal to accommodate. Causal chain between disability and adverse outcome failed."
+  },
+  {
+    "source_file": "10277742_2024_Evans-Williams v. Sunstates Management Corporation_mssd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "high",
+    "reasoning": "Plaintiff did not allege a qualifying disability or any disability-based theory under the FHA; complaint failed to translate grievances into a cognizable FHA disability claim."
+  },
+  {
+    "source_file": "10308231_2025_Washington v. DHS Department of Homeless Services_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "medium",
+    "reasoning": "Complaint concerned shelter operations and public-accommodation-type grievances; plaintiff did not articulate a cognizable § 3604 housing-discrimination theory tied to disability."
+  },
+  {
+    "source_file": "10366099_2025_Resources for Human Development, Inc. v. Lower Providence Township_paed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "medium",
+    "reasoning": "Zoning-based claim where protected-class/disability theory and cognizable FHA hook were not adequately developed in the pleading."
+  },
+  {
+    "source_file": "10582796_2025_Cole v. Faulkner_ilnd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "high",
+    "reasoning": "Rooker-Feldman and related jurisdictional doctrines barred review; FHA substance never reached because of the jurisdictional gateway."
+  },
+  {
+    "source_file": "10631949_2025_MAY v. ERIE COUNTY_pawd",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "high",
+    "reasoning": "Pro se complaint pleaded conclusory allegations; specific facts were not tied to FHA elements, and disability-based housing discrimination was not plausibly pleaded."
+  },
+  {
+    "source_file": "10651009_2025_Bjurling v. Johnson_wawd",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "high",
+    "reasoning": "Section 1915 screening: plaintiff identified autism but failed to plead specific facts linking defendant conduct to disability-based discrimination or denial of accommodation."
+  },
+  {
+    "source_file": "10679704_2025_Walker v. U.S. Department of Agriculture Rural Development_dcd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "high",
+    "reasoning": "Article III standing (traceability/redressability) defeated claim; court never reached FHA merits because of the jurisdictional gateway."
+  },
+  {
+    "source_file": "10716560_2025_Felice Lazae Martin, et al. v. Michael Castillo, et al._caed",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "medium",
+    "reasoning": "Cursory FHA references with no factual allegations tying defendants' conduct to the elements of a disability-based housing claim."
+  },
+  {
+    "source_file": "10757487_2025_Sehra Waheed v. MLMIC Insurance Company; Sonia Kim; Michael Terrani; Garden OBGYN of East 67th Street; Bethpage Medical, PLLC, d_b_a Garden OBGYN_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "high",
+    "reasoning": "Medical-malpractice insurer and doctors are not housing providers; demand for 'interim rent payments' as an FHA accommodation is not a cognizable housing-discrimination theory. Court held complaint did not concern housing discrimination."
+  },
+  {
+    "source_file": "10785877_2026_Linda C. Chase v. Arbor Properties Development Inc., et al._flnd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "medium",
+    "reasoning": "FHA retaliation/discrimination theory failed on causation; plaintiff did not plausibly link adverse housing actions to protected activity or disability."
+  },
+  {
+    "source_file": "11267585 - BJURLING v. Johnson",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "medium",
+    "reasoning": "Multiple theories failed on defendant-specific elements (service, supervisor/tenant liability, vicarious-liability predicates); element-to-defendant fit was missing."
+  },
+  {
+    "source_file": "11267639 - Faruki v. HOUSING AUTHORITY FOR THE COUNTY OF SACRAMENTO",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "COMPARATOR_OR_INTENT_GAP",
+    "confidence": "medium",
+    "reasoning": "Section 1915 screening; allegations of disability discrimination were speculative and lacked comparator or intent facts needed to state a plausible FHA claim."
+  },
+  {
+    "source_file": "9458353_2024_Adeyinka v. Project Home_dcd",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "high",
+    "reasoning": "Rule 8 shotgun pleading; plaintiff failed to tie specific factual allegations to FHA elements or to particular defendants."
+  },
+  {
+    "source_file": "9558121_2021_Courtney v. Housing Authority of the County of Kings_caed",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "medium",
+    "reasoning": "Shotgun-style pleading with generalized disability references; specific facts not matched to FHA elements or to named defendants."
+  },
+  {
+    "source_file": "9614541_2020_Eulitt v. City of San Diego_casd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "medium",
+    "reasoning": "No specific disability detail and no concrete accommodation request alleged; reasonable-accommodation claim failed at a core element."
+  },
+  {
+    "source_file": "9656058_2023_Webb v. Miami-Dade County Government_flsd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "medium",
+    "reasoning": "Shotgun pleading dismissal; court could not discern which allegations supported FHA elements or against which defendants."
+  },
+  {
+    "source_file": "9704146_2024_ROYAL v. PEDCOR MANAGEMENT CORP._insd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "medium",
+    "reasoning": "Alleged retaliation was not grounded in FHA-protected activity or disability discrimination; theory did not fit the FHA framework."
+  },
+  {
+    "source_file": "9740593_2022_Tall v. Commissioner of the Howard County Housing Authority_mdd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "high",
+    "reasoning": "Identity-theft grievance is not a qualifying disability; FHA disability claim failed at the threshold handicap element."
+  },
+  {
+    "source_file": "9766529_2020_Jordan v. Sugartree Homes Association of St. Louis County_moed",
+    "pleading_failure_family": "NO_FAILURE_DISMISSED_OTHER_GROUNDS",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "high",
+    "reasoning": "Motion to dismiss FHA claim was denied on the merits; case sent to arbitration. No pleading-stage failure on the disability FHA claim."
+  },
+  {
+    "source_file": "9803908_2021_D'ANTONIO v. BOROUGH OF ALLENDALE_njd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "high",
+    "reasoning": "Dismissal rested on standing, Rooker-Feldman, preclusion, and statute-of-limitations threshold defects; court did not resolve FHA elements on their substantive merits."
+  },
+  {
+    "source_file": "9842866_2023_Levy v. Lawrence Gardens Apartments Del, LLC_nyed",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "high",
+    "reasoning": "Reasonable-accommodation claim failed because plaintiff did not plead a specific accommodation request; hostile-environment theory lacked severity allegations."
+  },
+  {
+    "source_file": "9862537_2021_Mercer v. New York City Housing Authority_nysd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "high",
+    "reasoning": "Mild asthma not pleaded as a qualifying handicap and no facts that defendant knew of any disability; threshold disability element missing."
+  },
+  {
+    "source_file": "9882276_2023_Avila v. Acacia Network Inc._nysd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "high",
+    "reasoning": "Court held complaint failed to plead the elements of FHA/ADA disability claims; leave to amend granted. Element-to-fact fit was missing."
+  },
+  {
+    "source_file": "9900160_2024_Moore v. Capital Realty Group, Inc._nywd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "medium",
+    "reasoning": "Adjudicated claim: HUD Secretary dismissed for lack of Article III standing and sovereign immunity; FHA claims against landlord defendants were not addressed in this order."
+  },
+  {
+    "source_file": "9928364_2022_Bondick v. Cambridge Real Estate Services, Inc._ord",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "LIMITATIONS_OR_TIMELINESS",
+    "confidence": "high",
+    "reasoning": "FHA discrimination, retaliation, and interference claims dismissed as time-barred under § 3613(a)(1)(A)'s two-year statute of limitations (also issue/claim preclusion)."
+  },
+  {
+    "source_file": "9938217_2023_LEWIS v. DMH INVESTMENTS LLC_paed",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "medium",
+    "reasoning": "FHA was merely listed among statutes invoked; complaint contained no factual allegations tying disability-based housing discrimination to the City or to FHA elements."
+  },
+  {
+    "source_file": "9972972_2019_Alexander v. Lexington Associates II, L.P._tnwd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "high",
+    "reasoning": "FHA claim against property-owner Lexington dismissed because plaintiff failed to plead a principal-agent relationship needed for vicarious liability; element-level proof gap specific to this defendant."
+  },
+  {
+    "source_file": "Ortiz v. Mull (1)",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "high",
+    "reasoning": "Section 1915 screening; court liberally construed FHA theory and found no facts showing defendants knew of a handicap, no similarly-situated comparator, and no pleaded refusal to accommodate. Elements not tied to facts."
+  }
+]

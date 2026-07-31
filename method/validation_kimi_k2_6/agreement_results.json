@@ -1,0 +1,496 @@
+{
+  "n_sample": 150,
+  "overall": {
+    "family_exact_match_n": 104,
+    "family_exact_match_pct": 69.33,
+    "family_kappa": 0.5751,
+    "bucket_match_n": 111,
+    "bucket_match_pct": 74.0,
+    "bucket_kappa": 0.6264,
+    "mechanism_match_n": 62,
+    "mechanism_match_pct": 41.33,
+    "mechanism_kappa": 0.3508
+  },
+  "by_original_model": {
+    "moonshotai/kimi-k2.5": {
+      "n": 112,
+      "family_exact_match_pct": 71.43,
+      "bucket_match_pct": 74.11,
+      "family_kappa": 0.6026,
+      "bucket_kappa": 0.6285
+    },
+    "z-ai/glm-5.1": {
+      "n": 38,
+      "family_exact_match_pct": 63.16,
+      "bucket_match_pct": 73.68,
+      "family_kappa": 0.4914,
+      "bucket_kappa": 0.6122
+    }
+  },
+  "by_representation": {
+    "pro_se": {
+      "n": 101,
+      "orig_translation_n": 51,
+      "orig_translation_pct": 50.5,
+      "kimi_translation_n": 47,
+      "kimi_translation_pct": 46.53,
+      "delta_pp": -3.96
+    },
+    "represented": {
+      "n": 49,
+      "orig_translation_n": 14,
+      "orig_translation_pct": 28.57,
+      "kimi_translation_n": 9,
+      "kimi_translation_pct": 18.37,
+      "delta_pp": -10.2
+    }
+  },
+  "replay_translation_gap": {
+    "n_pro_se": 101,
+    "n_represented": 49,
+    "orig": {
+      "pro_se_translation_pct": 50.5,
+      "represented_translation_pct": 28.57,
+      "chi2_1df": 5.5961,
+      "p": 0.018000663097019216,
+      "gap_pp": 21.93,
+      "diff_ci": {
+        "diff": 0.2192,
+        "ci95_low": 0.0595,
+        "ci95_high": 0.3789,
+        "se": 0.0815
+      }
+    },
+    "kimi": {
+      "pro_se_translation_pct": 46.53,
+      "represented_translation_pct": 18.37,
+      "chi2_1df": 10.0172,
+      "p": 0.0015508278210324316,
+      "gap_pp": 28.16,
+      "diff_ci": {
+        "diff": 0.2817,
+        "ci95_low": 0.136,
+        "ci95_high": 0.4273,
+        "se": 0.0743
+      }
+    }
+  },
+  "bucket_confusion_matrix": {
+    "TRANSLATION": {
+      "TRANSLATION": 44,
+      "PROCEDURAL_GATEWAY": 5,
+      "NO_FAILURE": 4,
+      "OTHER": 12
+    },
+    "PROCEDURAL_GATEWAY": {
+      "TRANSLATION": 3,
+      "PROCEDURAL_GATEWAY": 41,
+      "NO_FAILURE": 1,
+      "OTHER": 0
+    },
+    "NO_FAILURE": {
+      "TRANSLATION": 2,
+      "PROCEDURAL_GATEWAY": 2,
+      "NO_FAILURE": 10,
+      "OTHER": 1
+    },
+    "OTHER": {
+      "TRANSLATION": 7,
+      "PROCEDURAL_GATEWAY": 2,
+      "NO_FAILURE": 0,
+      "OTHER": 16
+    }
+  },
+  "disagreements": [
+    {
+      "source_file": "11267636 - APPELGREN v. ISLAND HOSPITALITY MANAGEMENT VII, LLC",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "CAUSAL_LINK",
+      "orig_mech": "DISABILITY_NEXUS_MISSING",
+      "kimi_mech": "TIMING_OR_NOTICE_GAP",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9665863_2024_London v. Heh_hid",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "PROCEDURAL_GATEWAY",
+      "orig_mech": "REQUEST_NOT_ALLEGED",
+      "kimi_mech": "JURISDICTION_OR_STANDING",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9939426_2023_WISSMAN v. PGM REAL ESTATE LLC, PROPERTY MANAGEMENT_paed",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "UNCLEAR",
+      "orig_mech": "STATUTORY_HOOK_UNCLEAR",
+      "kimi_mech": "UNCLEAR",
+      "kimi_confidence": "LOW"
+    },
+    {
+      "source_file": "9893379_2024_West v. The City of New York_nysd",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "PROCEDURAL_GATEWAY",
+      "orig_mech": "REQUEST_NOT_ALLEGED",
+      "kimi_mech": "EXHAUSTION_OR_PRECLUSION",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9749355_2021_Johnson v. East Tawas Housing Commission_mied",
+      "representation": "PRO_SE",
+      "original_model": "z-ai/glm-5.1",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "ELEMENT_MISMATCH",
+      "orig_mech": "DISABILITY_NEXUS_MISSING",
+      "kimi_mech": "TECHNICAL_PROOF_GAP",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9933567_2020_DAVIS v. RUBIN_paed",
+      "representation": "PRO_SE",
+      "original_model": "z-ai/glm-5.1",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "FACTUAL_DETAIL",
+      "orig_mech": "ELEMENTS_NOT_TIED_TO_FACTS",
+      "kimi_mech": "ELEMENTS_NOT_TIED_TO_FACTS",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9940117_2024_EWIDEH v. HOMESITE INSURANCE COMPANY OF THE MIDWEST_paed",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "PROCEDURAL_GATEWAY",
+      "orig_mech": "NO_COGNIZABLE_FHA_THEORY",
+      "kimi_mech": "JURISDICTION_OR_STANDING",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "10195167_2024_Goldstein v. The Bowery_nysd",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "ELEMENT_MISMATCH",
+      "orig_mech": "NO_COGNIZABLE_FHA_THEORY",
+      "kimi_mech": "TECHNICAL_PROOF_GAP",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "10805317_2026_Jameerah Ware, Amira Ware, and Cheryl Vaughn v. A and K Properties of SC, Inc. and Sheriff Phillip E. Thompson_scd",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "PROCEDURAL_GATEWAY",
+      "orig_mech": "REQUEST_NOT_ALLEGED",
+      "kimi_mech": "JURISDICTION_OR_STANDING",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9873146_2022_Sykes v. New York City Housing Authority_nysd",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "CAUSAL_LINK",
+      "orig_mech": "DISABILITY_NEXUS_MISSING",
+      "kimi_mech": "TIMING_OR_NOTICE_GAP",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9785178_2021_Swanson v. King_nced",
+      "representation": "PRO_SE",
+      "original_model": "z-ai/glm-5.1",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "FACTUAL_DETAIL",
+      "orig_mech": "STATUTORY_HOOK_UNCLEAR",
+      "kimi_mech": "ELEMENTS_NOT_TIED_TO_FACTS",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9551341_2020_Scoggin v. Turning Point Central California_caed",
+      "representation": "PRO_SE",
+      "original_model": "z-ai/glm-5.1",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "FACTUAL_DETAIL",
+      "orig_mech": "REQUEST_NOT_ALLEGED",
+      "kimi_mech": "MIXED",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "10320153_2025_Hatcher v. Yang_okwd",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "PROCEDURAL_GATEWAY",
+      "kimi_family": "TRANSLATION",
+      "orig_mech": "MIXED",
+      "kimi_mech": "NO_COGNIZABLE_FHA_THEORY",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9803908_2021_D'ANTONIO v. BOROUGH OF ALLENDALE_njd",
+      "representation": "PRO_SE",
+      "original_model": "z-ai/glm-5.1",
+      "orig_family": "PROCEDURAL_GATEWAY",
+      "kimi_family": "TRANSLATION",
+      "orig_mech": "MIXED",
+      "kimi_mech": "NO_COGNIZABLE_FHA_THEORY",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9717329_2023_Uribe v. Ramser_kywd",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "PROCEDURAL_GATEWAY",
+      "kimi_family": "TRANSLATION",
+      "orig_mech": "JURISDICTION_OR_STANDING",
+      "kimi_mech": "NO_COGNIZABLE_FHA_THEORY",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "10199481_2024_Blackburn v. Webb_okwd",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "PROCEDURAL_GATEWAY",
+      "kimi_family": "NO_FAILURE_DEFENDANT_WIN",
+      "orig_mech": "UNCLEAR",
+      "kimi_mech": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9741235_2022_Emrit v. Queen Anne's Housing Authority_mdd",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "ELEMENT_MISMATCH",
+      "kimi_family": "TRANSLATION",
+      "orig_mech": "NO_COGNIZABLE_FHA_THEORY",
+      "kimi_mech": "NO_COGNIZABLE_FHA_THEORY",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9915430_2023_Chappel v. Adams County Children's Services_ohsd",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "ELEMENT_MISMATCH",
+      "kimi_family": "TRANSLATION",
+      "orig_mech": "ELEMENTS_NOT_TIED_TO_FACTS",
+      "kimi_mech": "NO_COGNIZABLE_FHA_THEORY",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9589037_2023_Goodwin v. City Attorney's Office_caed",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "FACTUAL_DETAIL",
+      "kimi_family": "TRANSLATION",
+      "orig_mech": "ELEMENTS_NOT_TIED_TO_FACTS",
+      "kimi_mech": "NO_COGNIZABLE_FHA_THEORY",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "10708645_2025_Thomas Joseph Goddard v. Sares-Regis Group, Inc., et al._cand",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "CAUSAL_LINK",
+      "kimi_family": "TRANSLATION",
+      "orig_mech": "ADVERSE_ACTION_NOT_CONNECTED",
+      "kimi_mech": "NO_COGNIZABLE_FHA_THEORY",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9722146_2023_Carey v. St. Charles Parish_laed",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "MIXED",
+      "kimi_family": "PROCEDURAL_GATEWAY",
+      "orig_mech": "MIXED",
+      "kimi_mech": "EXHAUSTION_OR_PRECLUSION",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9838610_2020_Ortega v. Samaritan Village Myrtle Ave. Men's Shelter_nyed",
+      "representation": "PRO_SE",
+      "original_model": "z-ai/glm-5.1",
+      "orig_family": "CAUSAL_LINK",
+      "kimi_family": "TRANSLATION",
+      "orig_mech": "DISABILITY_NEXUS_MISSING",
+      "kimi_mech": "NO_COGNIZABLE_FHA_THEORY",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "10665957_2025_Hobbs, Sr v. Goncharko_ilnd",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "MIXED",
+      "kimi_family": "TRANSLATION",
+      "orig_mech": "MIXED",
+      "kimi_mech": "REQUEST_NOT_ALLEGED",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "10766941_2025_Valery Kantsepolsky v. River Shores Association, Inc._flsd",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "NO_FAILURE_PLAINTIFF_WIN",
+      "kimi_family": "PROCEDURAL_GATEWAY",
+      "orig_mech": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+      "kimi_mech": "JURISDICTION_OR_STANDING",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9743129_2024_Morris v. Memorial Development Partners, LP_mdd",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "NO_FAILURE_PLAINTIFF_WIN",
+      "kimi_family": "TRANSLATION",
+      "orig_mech": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+      "kimi_mech": "NO_COGNIZABLE_FHA_THEORY",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9938953_2023_SAMUEL v. THE DELAWARE COUNTY HOUSING AUTHORITY_paed",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "NO_FAILURE_PLAINTIFF_WIN",
+      "kimi_family": "CAUSAL_LINK",
+      "orig_mech": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+      "kimi_mech": "TIMING_OR_NOTICE_GAP",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9655500_2023_Philippeaux v. Miami Apartments Investors, LLC_flsd",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "NO_FAILURE_DEFENDANT_WIN",
+      "kimi_family": "TRANSLATION",
+      "orig_mech": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+      "kimi_mech": "NO_COGNIZABLE_FHA_THEORY",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "10767966_2025_Angel Lopez and Kazue Koizumi v. Edward Pec, et al._njd",
+      "representation": "REPRESENTED",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "ELEMENT_MISMATCH",
+      "orig_mech": "DISABILITY_NEXUS_MISSING",
+      "kimi_mech": "COMPARATOR_OR_INTENT_GAP",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "10252595_2023_United States of America v. City of Milwaukee_wied",
+      "representation": "REPRESENTED",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "NO_FAILURE_DEFENDANT_WIN",
+      "orig_mech": "ELEMENTS_NOT_TIED_TO_FACTS",
+      "kimi_mech": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "10185180_2024_Doll v. Trellis Walnut Towers LLC_mnd",
+      "representation": "REPRESENTED",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "ELEMENT_MISMATCH",
+      "orig_mech": "MIXED",
+      "kimi_mech": "TECHNICAL_PROOF_GAP",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "10189729_2024_BORIA v. THE HERITAGE AT ALEXANDER HAMILTON_njd",
+      "representation": "REPRESENTED",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "NO_FAILURE_DEFENDANT_WIN",
+      "orig_mech": "REQUEST_NOT_ALLEGED",
+      "kimi_mech": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "10251972_2023_United States of America v. City of Milwaukee_wied",
+      "representation": "REPRESENTED",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "NO_FAILURE_PLAINTIFF_WIN",
+      "orig_mech": "STATUTORY_HOOK_UNCLEAR",
+      "kimi_mech": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "7250229_2018_S_R Dev. Estates, LLC v. Town of Greenburgh_ilsd",
+      "representation": "REPRESENTED",
+      "original_model": "z-ai/glm-5.1",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "NO_FAILURE_DEFENDANT_WIN",
+      "orig_mech": "STATUTORY_HOOK_UNCLEAR",
+      "kimi_mech": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9888149_2023_Liboy v. Russ_nysd",
+      "representation": "REPRESENTED",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "ELEMENT_MISMATCH",
+      "kimi_family": "PROCEDURAL_GATEWAY",
+      "orig_mech": "ELEMENTS_NOT_TIED_TO_FACTS",
+      "kimi_mech": "LIMITATIONS_OR_TIMELINESS",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "7232144_2015_Austin v. Town of Farmington_nywd",
+      "representation": "REPRESENTED",
+      "original_model": "z-ai/glm-5.1",
+      "orig_family": "CAUSAL_LINK",
+      "kimi_family": "TRANSLATION",
+      "orig_mech": "ADVERSE_ACTION_NOT_CONNECTED",
+      "kimi_mech": "NO_COGNIZABLE_FHA_THEORY",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "9845340_2019_UMH Properties, Inc. v. Village of Coxsackie_nynd",
+      "representation": "REPRESENTED",
+      "original_model": "z-ai/glm-5.1",
+      "orig_family": "NO_FAILURE_PLAINTIFF_WIN",
+      "kimi_family": "PROCEDURAL_GATEWAY",
+      "orig_mech": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+      "kimi_mech": "JURISDICTION_OR_STANDING",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "11267568 - Baker v. THE EMERALD CONDOS",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "FACTUAL_DETAIL",
+      "orig_mech": "DISABILITY_NEXUS_MISSING",
+      "kimi_mech": "MIXED",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "11267541 - HERBOZO v. Fernandez",
+      "representation": "PRO_SE",
+      "original_model": "moonshotai/kimi-k2.5",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "PROCEDURAL_GATEWAY",
+      "orig_mech": "REQUEST_NOT_ALLEGED",
+      "kimi_mech": "JURISDICTION_OR_STANDING",
+      "kimi_confidence": "HIGH"
+    },
+    {
+      "source_file": "10221400_2020_Banks v. Gates Hudson _ Associates, Inc._vaed",
+      "representation": "PRO_SE",
+      "original_model": "z-ai/glm-5.1",
+      "orig_family": "TRANSLATION",
+      "kimi_family": "ELEMENT_MISMATCH",
+      "orig_mech": "MIXED",
+      "kimi_mech": "ADVERSE_ACTION_NOT_CONNECTED",
+      "kimi_confidence": "HIGH"
+    }
+  ]
+}

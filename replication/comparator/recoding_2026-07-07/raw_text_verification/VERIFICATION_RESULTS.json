@@ -1,0 +1,114 @@
+{
+  "r1": {
+    "rows_audited": 96,
+    "panel_agrees_masked": 68,
+    "adjudicated": 28,
+    "adjudicator_failed_fallback": 0,
+    "A_rows_total": 26,
+    "A_rows_sustained": 19,
+    "A_sustain_rate": 0.7308,
+    "control_n": 36,
+    "control_flips_to_A": 1,
+    "error_matrix_by_role": {
+      "A_row": {
+        "A->UNCLEAR": 1,
+        "A->A": 19,
+        "A->B": 6
+      },
+      "no_consensus": {
+        "None->UNCLEAR": 2,
+        "None->B": 2,
+        "None->MISFILTER": 2
+      },
+      "misfilter": {
+        "MISFILTER->MISFILTER": 4
+      },
+      "queue_bc": {
+        "C->C": 11,
+        "B->B": 12,
+        "C->B": 1
+      },
+      "control_bc": {
+        "B->A": 1,
+        "C->B": 4,
+        "B->B": 17,
+        "C->C": 14
+      }
+    }
+  },
+  "primary_estimator_verified": {
+    "RD-PURE": {
+      "n": 118,
+      "family_A": 0.13559322033898305,
+      "ci": [
+        0.07627118644067797,
+        0.2033898305084746
+      ]
+    },
+    "DT-PURE": {
+      "n": 132,
+      "family_A": 0.007575757575757576,
+      "ci": [
+        0.0,
+        0.022727272727272728
+      ]
+    },
+    "RACE-DT": {
+      "n": 158,
+      "family_A": 0.006329113924050633,
+      "ci": [
+        0.0,
+        0.0189873417721519
+      ]
+    }
+  },
+  "r2_raw_text_lane": {
+    "RD-PURE": {
+      "n": 115,
+      "family_A": 0.12173913043478261,
+      "ci": [
+        0.06086956521739131,
+        0.1826086956521739
+      ]
+    },
+    "DT-PURE": {
+      "n": 129,
+      "family_A": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ]
+    },
+    "RACE-DT": {
+      "n": 158,
+      "family_A": 0.0189873417721519,
+      "ci": [
+        0.0,
+        0.04430379746835443
+      ]
+    }
+  },
+  "r2_fleiss_kappa": 0.6871200258929117,
+  "r2_full_triple_reads": 475,
+  "crosslane_row_agreement_masked_vs_raw": 0.86,
+  "r2_misfilter_count": 9,
+  "quote_integrity": {
+    "r1": {
+      "ok_reads": 288,
+      "quote_verified": 251,
+      "rate": 0.8715
+    },
+    "r2": {
+      "ok_reads": 1427,
+      "quote_verified": 1148,
+      "rate": 0.8045
+    }
+  },
+  "triggers": {
+    "t1_verified_rd_ge_8pct_ci_separated": true,
+    "t2_r2_ordering_2x": true,
+    "t3_control_stability_le_20pct": true,
+    "ordering_inverted": false
+  },
+  "VARIANT_SELECTED": "A"
+}

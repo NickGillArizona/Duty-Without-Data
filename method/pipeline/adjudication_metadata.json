@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "generated_from": ["method/pipeline/consensus_resolution.md", "method/pipeline/model_configuration.md"],
+  "last_updated": "2026-05-02",
+  "purpose": "Machine-readable summary of the tiered consensus-resolution algorithm applied to the three-model Layer 1 base classifications.",
+  "tiers": [
+    {
+      "tier": 0,
+      "label": "Full Consensus",
+      "rule": "All three base models return identical values for every categorical field.",
+      "action": "Adopt as canonical (no API call).",
+      "adjudicator": null,
+      "applies_to_field_class": "all"
+    },
+    {
+      "tier": 1,
+      "label": "Majority Agreement, Non-Critical Fields",
+      "rule": "Two of three models agree on all fields; dissent is limited to non-critical fields.",
+      "action": "Adopt majority value (no API call).",
+      "adjudicator": null,
+      "applies_to_field_class": "non_critical"
+    },
+    {
+      "tier": 2,
+      "label": "Majority Agreement, Critical Fields",
+      "rule": "Two of three models agree on outcome / primary_claim_type / claim_types but one model dissents.",
+      "action": "Adopt 2-of-3 consensus (no API call).",
+      "adjudicator": null,
+      "applies_to_field_class": "critical"
+    },
+    {
+      "tier": 3,
+      "label": "Three-Way Split, Non-Critical → Haiku 4.5",
+      "rule": "All three models return different values for non-critical fields with no majority.",
+      "action": "Submit to Anthropic Haiku 4.5 (Batch API) with original case text and each model's answer for disputed fields.",
+      "adjudicator": "anthropic/claude-haiku-4.5",
+      "applies_to_field_class": "non_critical"
+    },
+    {
+      "tier": 4,
+      "label": "Three-Way Split, Critical → Sonnet 4.6",
+      "rule": "All three models return different values for outcome / primary_claim_type / claim_types.",
+      "action": "Submit to Anthropic Sonnet 4.6 (Batch API) with original case text and each model's answer; Sonnet also re-extracts four free-text narrative fields fresh from source.",
+      "adjudicator": "anthropic/claude-sonnet-4.6",
+      "applies_to_field_class": "critical"
+    }
+  ],
+  "field_classification": {
+    "critical_fields": ["outcome", "primary_claim_type", "claim_types"],
+    "non_critical_fields_examples": [
+      "accommodation_type",
+      "defendant_type",
+      "disability_category",
+      "plaintiff_type",
+      "housing_type",
+      "procedural_posture",
+      "court",
+      "year"
+    ],
+    "free_text_fields": [
+      "key_holding",
+      "brief_summary",
+      "accommodation_description",
+      "key_cases_cited"
+    ]
+  },
+  "free_text_resolution_rules": {
+    "tier_4_records": "Sonnet 4.6 re-extracts free-text fields from source.",
+    "all_other_records": "MiniMax M2.7 free-text version is adopted (most detailed extractions among the three base classifiers)."
+  },
+  "tier_distribution_ra_database": {
+    "n_records": 1857,
+    "tier_0_unanimous": {"count": 12, "percent": 0.6},
+    "tier_1_majority_noncritical": {"count": 278, "percent": 15.0},
+    "tier_2_majority_critical": {"count": 565, "percent": 30.4},
+    "tier_3_haiku_adjudicated": {"count": 697, "percent": 37.5},
+    "tier_4_sonnet_adjudicated": {"count": 302, "percent": 16.3},
+    "fallback": {"count": 3, "percent": 0.2}
+  },
+  "tier_distribution_2015_fha_database": {
+    "n_records": 1496,
+    "tier_0_unanimous": {"count": 48, "percent": 3.2},
+    "tier_1_majority_noncritical": {"count": 271, "percent": 18.1},
+    "tier_2_majority_critical": {"count": 435, "percent": 29.1},
+    "tier_3_minimax_tiebreaker_noncritical": {"count": 171, "percent": 11.4, "note": "earlier-pipeline tier-3 used MiniMax tiebreaker; later switched to Haiku 4.5 for the unified RA database"},
+    "tier_4_minimax_tiebreaker_critical": {"count": 571, "percent": 38.2, "note": "earlier-pipeline tier-4 used MiniMax tiebreaker; later switched to Sonnet 4.6 for the unified RA database"}
+  },
+  "implementation": {
+    "language": "Java",
+    "published_copy": "method/pipeline/java/mfh/gfo/ (credential-redacted as-run copies; provenance in method/pipeline/java/README.md)",
+    "origin_repository": "MFH-Java-Work (author's private working repository; copied at commit e5c6d60, 2026-04-28)",
+    "key_files": [
+      "method/pipeline/java/mfh/gfo/OpenRouterConfirmationClient.java",
+      "method/pipeline/java/mfh/gfo/OpusDisagreementResolver.java"
+    ],
+    "note": "Class names follow the published method/pipeline/java/ sources; the naming note in method/pipeline/java/README.md resolves documentation references to these files. Merge/consensus into the unified database: scripts/build_unified_db.py."
+  },
+  "scope_note": "This adjudication algorithm governs the general-pipeline categorical fields. Mechanism-family classification (TRANSLATION / PROCEDURAL_GATEWAY / NO_FAILURE / OTHER on the 676-case T4 pleading-loss universe) is produced by a separate three-model majority-vote ensemble (Kimi K2.6 + GLM-5.1 + DeepSeek V3.2) without Haiku/Sonnet adjudication; see Layer 2 in method/pipeline/model_metadata.json."
+}

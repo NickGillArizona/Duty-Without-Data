@@ -1,0 +1,212 @@
+[
+  {
+    "source_file": "10193115_2024_Mills Pond Group LLC v. Town of Smithtown, New York_nyed",
+    "family_code": "PROCEDURAL_GATEWAY",
+    "mechanism_code": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "notes": "FHA claim dismissed on ripeness/standing grounds; court did not reach merits of disability-discrimination theory."
+  },
+  {
+    "source_file": "10214345_2022_Ricks v. DMA Companies_txwd",
+    "family_code": "NO_FAILURE_PLAINTIFF_WIN",
+    "mechanism_code": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "HIGH",
+    "notes": "Complaint survived Section 1915 screening; court found plausible FHA disability claim plead."
+  },
+  {
+    "source_file": "10256265_2022_Kummerow, Andrew v. Ohawcha.org_wiwd",
+    "family_code": "TRANSLATION",
+    "mechanism_code": "DISABILITY_NEXUS_MISSING",
+    "confidence": "MEDIUM",
+    "notes": "FHA claim failed because plaintiff did not tie alleged mistreatment to disability as opposed to other characteristics."
+  },
+  {
+    "source_file": "10302454_2024_Avila v. ACACIA Network, Inc._nysd",
+    "family_code": "CAUSAL_LINK",
+    "mechanism_code": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "notes": "Court found no facts suggesting disability was motivating factor for adverse action."
+  },
+  {
+    "source_file": "10352961_2025_BANKS v. ROSS_ncmd",
+    "family_code": "TRANSLATION",
+    "mechanism_code": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "notes": "Complaint did not tie conduct to disability; failed to connect alleged harm to protected class."
+  },
+  {
+    "source_file": "10434033_2025_Fox v. Kovacs_nvd",
+    "family_code": "TRANSLATION",
+    "mechanism_code": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "notes": "Court found disability not properly alleged with facts showing substantial limitation of major life activity."
+  },
+  {
+    "source_file": "10614918_2025_Scoggins v. Falcon Court_caed",
+    "family_code": "ELEMENT_MISMATCH",
+    "mechanism_code": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "HIGH",
+    "notes": "FHA retaliation claim failed because plaintiff did not adequately plead causation between protected activity and adverse action."
+  },
+  {
+    "source_file": "10646007_2025_FEINGOLD v. ERIE INSURANCE EXCHANGE_paed",
+    "family_code": "PROCEDURAL_GATEWAY",
+    "mechanism_code": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "notes": "Court lacked subject matter jurisdiction; McCarran-Ferguson Act reverse-preemption of FHA insurance claim."
+  },
+  {
+    "source_file": "10670447_2025_Olley v. TodmanThe clerks office is ORDERED to not accept any further filings in this matter until the motions to dismiss are ruled on.._txsd",
+    "family_code": "PROCEDURAL_GATEWAY",
+    "mechanism_code": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "notes": "Multiple procedural defects including sovereign immunity and Monell deficiencies; court did not reach merits."
+  },
+  {
+    "source_file": "10708675_2025_J. F. and on behalf of her adolescents and mother v. LUIS VENTURA_txnd",
+    "family_code": "MIXED",
+    "mechanism_code": "MIXED",
+    "confidence": "MEDIUM",
+    "notes": "Multiple independent defects analyzed including standing, disability not adequately pleaded, and element gaps."
+  },
+  {
+    "source_file": "10745833_2025_Mekal Faruki v. Housing Authority for the County of Sacramento, et al._caed",
+    "family_code": "ELEMENT_MISMATCH",
+    "mechanism_code": "COMPARATOR_OR_INTENT_GAP",
+    "confidence": "HIGH",
+    "notes": "Court found comparator (friend) was also disabled, so differential treatment did not plausibly suggest disability discrimination."
+  },
+  {
+    "source_file": "10776210_2026_Bolima Tafah et al. v. Lake Village Townhomes et al._mdd",
+    "family_code": "FACTUAL_DETAIL",
+    "mechanism_code": "MIXED",
+    "confidence": "MEDIUM",
+    "notes": "Conclusory allegations without supporting factual detail; pleading insufficient under Iqbal/Twombly."
+  },
+  {
+    "source_file": "11267550 - Pella v. ATLANTIC COUNTY DEPARTMENT OF FAMILY AND COMMUNITY DEVELOPMENT",
+    "family_code": "TRANSLATION",
+    "mechanism_code": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "notes": "Court found EA benefits administration is not conduct covered by FHA's rental/sale provisions."
+  },
+  {
+    "source_file": "11267625 - Jones v. FEATHERSTONE CONDOMINIUM HOMEOWNERS ASSOCIATION INC.",
+    "family_code": "MIXED",
+    "mechanism_code": "MIXED",
+    "confidence": "HIGH",
+    "notes": "Retaliation claim failed for lack of adverse action; failure-to-accommodate claim failed because plaintiff did not identify disability or explain necessity."
+  },
+  {
+    "source_file": "7235405_2016_Louis ex rel. G.A.H. v. New York City Housing Authority_nysd",
+    "family_code": "TRANSLATION",
+    "mechanism_code": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "notes": "Court found Section 8 program benefits do not include housing provision or modifications; requested accommodations would substantively alter benefits."
+  },
+  {
+    "source_file": "9533953_2024_Robinson v. District of Columbia_dcd",
+    "family_code": "MIXED",
+    "mechanism_code": "MIXED",
+    "confidence": "HIGH",
+    "notes": "Court found disability not adequately pleaded as substantial limitation on major life activity AND plaintiff did not allege requested accommodation."
+  },
+  {
+    "source_file": "9602094_2021_Wolf v. City of Millbrae_cand",
+    "family_code": "ELEMENT_MISMATCH",
+    "mechanism_code": "UNREASONABLE_ACCOMMODATION",
+    "confidence": "HIGH",
+    "notes": "Court found requested accommodation (turn off cell tower) was not reasonable; T-Mobile not subject to FHA for non-rental/sale conduct."
+  },
+  {
+    "source_file": "9639620_2020_Cobb v. Citrus Falls at Westchase Apartments, LLC_flmd",
+    "family_code": "TRANSLATION",
+    "mechanism_code": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "notes": "Court found structural improvements and defective-construction claims do not fit within Section 3604(f)(3)(B) reasonable accommodation framework."
+  },
+  {
+    "source_file": "9695934_2022_Johnson v. South Bend Housing Authority_innd",
+    "family_code": "TRANSLATION",
+    "mechanism_code": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "notes": "Plaintiff alleged habitability issues (mold/heat) but did not plead protected-class discrimination; no cognizable FHA theory."
+  },
+  {
+    "source_file": "9725785_2022_Discovery Real Estate and Development, LLC v. Town of St. Francisville_lamd",
+    "family_code": "PROCEDURAL_GATEWAY",
+    "mechanism_code": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "notes": "FHA claim dismissed for lack of standing and ripeness; sewer moratorium made harm non-traceable and non-redressable."
+  },
+  {
+    "source_file": "9750789_2021_McCree v. KMG Prestiege Company_mied",
+    "family_code": "TRANSLATION",
+    "mechanism_code": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "notes": "Plaintiff failed to identify disability or factually tie alleged adverse actions to any protected characteristic."
+  },
+  {
+    "source_file": "9796832_2021_Knight v. Chatelain_ned",
+    "family_code": "PROCEDURAL_GATEWAY",
+    "mechanism_code": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "notes": "Dismissed under Rooker-Feldman doctrine for lack of subject-matter jurisdiction over challenge to state-court eviction."
+  },
+  {
+    "source_file": "9833039_2023_Kandell v. SUR 702_nvd",
+    "family_code": "UNCLEAR",
+    "mechanism_code": "UNCLEAR",
+    "confidence": "LOW",
+    "notes": "District court order accepting R&R dismissed FHA disability claim without prejudice with leave to amend; underlying R&R reasoning not in opinion text."
+  },
+  {
+    "source_file": "9857659_2020_Davis v. Port Jervis Community Development_nysd",
+    "family_code": "TRANSLATION",
+    "mechanism_code": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "notes": "Court found no facts suggesting FHA-protected discrimination or retaliation; Section 8 termination claim does not state FHA claim without protected-class nexus."
+  },
+  {
+    "source_file": "9876248_2022_Sykes v. New York City Housing Authority_nysd",
+    "family_code": "CAUSAL_LINK",
+    "mechanism_code": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "notes": "Court found no facts showing disability was motivating factor for failure to repair; also lack of notice/request for accommodation."
+  },
+  {
+    "source_file": "9891794_2024_Levine v. Project Renewal_nysd",
+    "family_code": "ELEMENT_MISMATCH",
+    "mechanism_code": "NOTICE_OR_REQUEST_MISSING",
+    "confidence": "HIGH",
+    "notes": "Court found plaintiff failed to plead that defendants knew of his disability or that he requested an accommodation tied to the disability."
+  },
+  {
+    "source_file": "9920331_2022_Backus v. I.Q. Data International, Inc._oknd",
+    "family_code": "PROCEDURAL_GATEWAY",
+    "mechanism_code": "STATUTE_OF_LIMITATIONS",
+    "confidence": "HIGH",
+    "notes": "Court found plaintiff stated prima facie FHA failure-to-accommodate claim but dismissed as time-barred by 2-year FHA statute of limitations."
+  },
+  {
+    "source_file": "9936025_2022_HONKALA v. U.S. DEPARTMENT OF HOUSING _ URBAN DEVELOPMENT_paed",
+    "family_code": "TRANSLATION",
+    "mechanism_code": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "notes": "Court found plaintiffs not 'buyers or renters' within meaning of FHA; squatters occupying PHA property without consideration have no FHA claim."
+  },
+  {
+    "source_file": "9954334_2023_Rivera-De-Davila v. Mora Development Corporation_prd",
+    "family_code": "MIXED",
+    "mechanism_code": "MIXED",
+    "confidence": "MEDIUM",
+    "notes": "Court found sale of handicap parking spaces not itself FHA violation absent alternative access, plus plaintiff never requested accommodation and defendant had no knowledge of her disability."
+  },
+  {
+    "source_file": "Hartley v. UNITED STUDENT RENTALS",
+    "family_code": "CAUSAL_LINK",
+    "mechanism_code": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "notes": "Court found complaint 'makes no connection between any act of defendants and plaintiff's impairments'; no disability nexus to broken-door grievance."
+  }
+]

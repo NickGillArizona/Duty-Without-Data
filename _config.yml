@@ -1,0 +1,26 @@
+theme: jekyll-theme-minimal
+title: "Duty Without Data"
+description: "Why disability fair-housing rights fail without records — and the ready-to-adapt Section 553(e) petition asking HUD to fix it."
+logo: false
+show_downloads: false
+comment_window_deadline: "2026-08-11"
+comment_window_active: true
+# The Pages site is a single landing page (index.md); repository documents are
+# linked by absolute GitHub URLs. The directories below are outside that page's
+# scope and are excluded from the Jekyll build.
+exclude:
+  - action/
+  - article/appendices/
+  - data/
+  - manuscript/
+  - record/hud-27061/
+  - method/pipeline/
+  - method/preregistration/
+  - replication/
+  - method/prompts/
+  - results/
+  - scripts/
+  - supplementary/
+  - method/validation_three_model/
+  - method/validation_four_coder_full/
+  - method/validation_kimi_k2_6/

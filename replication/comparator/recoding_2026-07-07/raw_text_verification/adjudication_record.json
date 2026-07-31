@@ -1,0 +1,1038 @@
+[
+ {
+  "row_id": "RACE-DT|9632673_2023_Clark v. Santander Bank, N.A._ctd",
+  "arm": "RACE-DT",
+  "r1_role": "A_row",
+  "case_name": "Gordon Clark v. Santander Bank N.A.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9632673_2023_Clark v. Santander Bank, N.A._ctd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "UNCLEAR",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "UNCLEAR",
+    "subcode": "none",
+    "confidence": "LOW",
+    "evidence_quote": "Next, Plaintiffs allege violations of the Fair Housing Act, claiming that Santander Bank and its executives—Defendants Powell, Wennes, Habis, and O’Neill—committed age discrimination against Lillian by denying her requested increases of credit on her home equity line of credit and denying her a personal loan when she was 92 years old, Am. Compl. at",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "UNCLEAR",
+    "subcode": "none",
+    "confidence": "LOW",
+    "evidence_quote": "Next, Plaintiffs allege violations of the Fair Housing Act, claiming that Santander Bank and  its  executives—Defendants  Powell,  Wennes,  Habis,  and  O’Neill—committed  age",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "UNCLEAR",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "The Court therefore examines first whether Plaintiffs have alleged plausible claims under any of these statutes.  It concludes Plaintiffs have not.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|9936396_2022_PAYNE v. THE GALMAN GROUP_paed",
+  "arm": "RACE-DT",
+  "r1_role": "A_row",
+  "case_name": "Edward Haywood Payne, Jr. v. The Galman Group and Sedgwick Station Apartments",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9936396_2022_PAYNE v. THE GALMAN GROUP_paed.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Payne does not allege he requested a dog and was denied one. Nor does Payne assert he had a dog and received repercussions for keeping it on the premises. Payne does not even allege the terms of his and Andrew S.’s lease are different.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Payne  merely  makes  general,  conclusory  allegations  regarding  possible  racial \ndiscrimination, which are insufficient to state a claim under the FHA.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Payne does not allege he requested a dog and was denied one. Nor does Payne assert he had a dog and received repercussions for keeping it on the premises.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|10251972_2023_United States of America v. City of Milwaukee_wied",
+  "arm": "DT-PURE",
+  "r1_role": "A_row",
+  "case_name": "United States of America ex rel. James Dieter and Karen Schwenke v. City of Milwaukee, City of Milwaukee Community Development Grants Administration, Housing Authority of the City of Milwaukee, Milwaukee County, and Milwaukee County Health and Human Services Housing Division",
+  "pro_se": "False",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\10251972_2023_United States of America v. City of Milwaukee_wied.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "C",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "MEDIUM",
+    "evidence_quote": "Relators have failed to cite both (1) the specific statutory regulations and provisions that require certification of compliance, when those provisions were in place and to which programs they apply, as well as (2) with which specific statutory regulations and provisions (for example, federal anti-discrimination statutes) the City falsely certified compliance.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "MEDIUM",
+    "evidence_quote": "Relators have failed to cite both (1) the specific statutory regulations and provisions that require certification of compliance, when those provisions were in place and to which programs they apply, as well as (2) with which specific statutory regulations  and  provisions  (for example,  federal  anti-discrimination statutes) the City falsely certified compliance.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "Relators have failed to cite both (1) the specific statutory regulations and provisions that require certification of compliance, when those provisions were in place and to which programs they apply, as well as (2) with which specific statutory regulations and provisions (for example, federal anti-discrimination statutes) the City falsely certified compliance.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|10310926_2025_Cymbalsky v. 522 Shore Road Owners Inc_nyed",
+  "arm": "DT-PURE",
+  "r1_role": "A_row",
+  "case_name": "Gerald Cymbalsky v. 522 Shore Road Owners, Inc.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10310926_2025_Cymbalsky v. 522 Shore Road Owners Inc_nyed.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "B",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "He does not allege that he applied for and was denied the opportunity to rent or purchase housing or that he was denied access to his own property. Nor does he allege that he requested and was denied any accommodation to facilitate his alleged disabilities.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "He does not allege that he applied for and was denied the opportunity to rent or purchase housing or that he was denied access to his own property.  Nor does he allege that he requested and was denied any accommodation to facilitate his alleged disabilities.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "As Plaintiff’s allegations demonstrate that he continues to reside in his apartment and has not suffered any adverse action, he fails to allege that Defendants discriminated against him under the FHA.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|CYMBALSKY v. 522 SHORE ROAD OWNERS, INC.",
+  "arm": "DT-PURE",
+  "r1_role": "A_row",
+  "case_name": "Gerald Cymbalsky v. 522 Shore Road Owners, Inc.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\CYMBALSKY v. 522 SHORE ROAD OWNERS, INC..txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "B",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "He does not allege that he applied for and was denied the opportunity to rent or purchase housing or that he was denied access to his own property. Nor does he allege that he requested and was denied any accommodation to facilitate his alleged disabilities.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "He does not allege that he applied for and was denied the opportunity to rent or purchase housing or that he was denied access to his own property. Nor does he allege that he requested and was denied any accommodation to facilitate his alleged disabilities.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "As Plaintiff's allegations demonstrate that he continues to reside in his apartment and has not suffered any adverse action, he fails to allege that Defendants discriminated against him under the FHA.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9922307_2021_Melton v. University of Oklahoma_okwd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Sarah Melton v. State of Oklahoma ex rel. University of Oklahoma",
+  "pro_se": "False",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9922307_2021_Melton v. University of Oklahoma_okwd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "C",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "the Court determines that Plaintiff has not demonstrated that  the University has waived its  Eleventh Amendment immunity in this matter.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff has not demonstrated that the University has waived its Eleventh Amendment immunity in this matter.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "The Court agrees with Defendants that the element of refusal has not been plausibly pled. The failure to fully test and remediate mold within at most two or three days of such a request does not, by itself, constitute a refusal to do so.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9940740_2024_STEVENS-NUNEZ v. BRISTOL BOROUGH MUNICIPAL ADMINISTRATION_paed",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Karen Marie Stevens-Nunez v. Bristol Borough Municipal Administration, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9940740_2024_STEVENS-NUNEZ v. BRISTOL BOROUGH MUNICIPAL ADMINISTRATION_paed.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "B",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "it is unclear whether she intends to claim any of the Defendants discriminated against her based on race, color, religion, sex, familial status, national origin, or disability, because she has not pled her membership in any of these protected classes.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "However, it is unclear whether she intends to claim any of the Defendants discriminated against her based on race, color, religion, sex, familial status, national origin, or disability, because she has not pled her membership in any of these protected classes.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "Even if she intended to lodge a disability-based claim related to her mental health treatment, she has not indicated whether she requested a reasonable accommodation that was ultimately refused.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|PRJ CAPITAL, LLC v. Moran",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "PRJ Capital, LLC v. Moran",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\PRJ CAPITAL, LLC v. Moran.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "She provided only a generic description of the condition without specifying how the condition affected her personally or how it substantially limited any major life activity.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "She provided only a generic description of the condition without specifying how the condition affected her personally or how it substantially limited any major life activity.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "She provided only a generic description of the condition without specifying how the condition affected her personally or how it substantially limited any major life activity.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10797202_2026_Leonor E Canales v. Phoenix Housing Authority, et al._azd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Leonor E Canales v. Phoenix Housing Authority, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10797202_2026_Leonor E Canales v. Phoenix Housing Authority, et al._azd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "B",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "Canales offers few facts, however, about what accommodation she requested, and no facts stating how the requested accommodation may be necessary to afford her an equal opportunity to enjoy and use her home, or that it was reasonable.",
+    "quote_verified": false
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "Canales offers few facts, however, about what accommodation she requested, and no facts stating how the requested accommodation may be necessary to afford her an equal opportunity to enjoy and use her home, or that it was reasonable.",
+    "quote_verified": false
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "Canales offers few facts, however, about what accommodation she requested, and no facts stating how the requested accommodation may be necessary to afford her an equal opportunity to enjoy and use her home, or that it was reasonable.",
+    "quote_verified": false
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|10741255_2025_Jimmy Keels Williamson v. Christian Recovery Centers, Inc._nced",
+  "arm": "RACE-DT",
+  "r1_role": "no_consensus",
+  "case_name": "Jimmy Keels Williamson v. Christian Recovery Centers, Inc.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\10741255_2025_Jimmy Keels Williamson v. Christian Recovery Centers, Inc._nced.txt",
+  "masked_consensus_family": null,
+  "panel_majority": "UNCLEAR",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "UNCLEAR",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "Upon careful review of the M&R, the court finds the magistrate judge's analysis to be thorough, and there is no clear error.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "UNCLEAR",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "The magistrate judge recommends dismissal of plaintiff’s race discrimination and hostile work environment claim pursuant to Title VII of the Civil Rights Act of 1964 (“Title VII”); plaintiff's disability discrimination claim pursuant to the Americans with Disabilities Act of 1990 (“ADA”); and plaintiff's housing discrimination claim on the basis of disability pursuant to the Fair  Housing  Act  (“FHA”).",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "UNCLEAR",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "plaintiffs Title VU, ADA, and FHA disability discrimination claims are DISMISSED WITHOUT PREJUDICE for failure to state a claim upon which relief can be granted, pursuant to 28 U.S.C. § 1915(e)(2)(B).",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|10741255_2025_Jimmy Keels Williamson v. Christian Recovery Centers, Inc._nced",
+  "arm": "DT-PURE",
+  "r1_role": "no_consensus",
+  "case_name": "Jimmy Keels Williamson v. Christian Recovery Centers, Inc.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\10741255_2025_Jimmy Keels Williamson v. Christian Recovery Centers, Inc._nced.txt",
+  "masked_consensus_family": null,
+  "panel_majority": "UNCLEAR",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "UNCLEAR",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "Upon careful review of the M&R, the court finds the magistrate judge's analysis to be thorough, and there is no clear error.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "UNCLEAR",
+    "subcode": "none",
+    "confidence": "LOW",
+    "evidence_quote": "plaintiffs Title VU, ADA, and FHA disability discrimination claims are DISMISSED WITHOUT PREJUDICE for failure to state a claim upon which relief can be granted, pursuant to 28 U.S.C. § 1915(e)(2)(B).",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "UNCLEAR",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "plaintiffs Title VU, ADA, and FHA disability discrimination claims are DISMISSED WITHOUT PREJUDICE for failure to state a claim upon which relief can be granted, pursuant to 28 U.S.C. § 1915(e)(2)(B).",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|11267623 - Watts v. THE IRVINE COMPANY LLC",
+  "arm": "RD-PURE",
+  "r1_role": "no_consensus",
+  "case_name": "Watts v. The Irvine Company LLC",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\11267623 - Watts v. THE IRVINE COMPANY LLC.txt",
+  "masked_consensus_family": null,
+  "panel_majority": "B",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "In her Third Amended Complaint, Plaintiff alleges she is disabled but she does not elaborate on the nature of her disability.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "Like Plaintiff's ADA claims, the Third Amended Complaint does not plausibly allege that Plaintiff is \"handicapped\" within the meaning of § 3602(h).",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "the Third Amended Complaint does not specify the accommodation requested or why they were denied.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10755145_2025_Desiree Knight v. Macon Housing Authority_gamd",
+  "arm": "RD-PURE",
+  "r1_role": "no_consensus",
+  "case_name": "Desiree Knight v. Macon Housing Authority",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\10755145_2025_Desiree Knight v. Macon Housing Authority_gamd.txt",
+  "masked_consensus_family": null,
+  "panel_majority": "UNCLEAR",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "UNCLEAR",
+    "subcode": "none",
+    "confidence": "LOW",
+    "evidence_quote": "On November 21, 2025, the Court dismissed the Fair Housing Act (“FHA”) and Rehabilitation Act claims in Knight’s amended complaint but allowed her due process claim against Macon Housing Authority (“MHA”) to go forward.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "Accordingly, Knight’s motion for a TRO fails to establish a substantial likelihood of success on the merits and her motion for a TRO (ECF 1) is DENIED.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "UNCLEAR",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "The Court has already screened Knight’s amended complaint and dismissed her FHA and Rehabilitation Act claims, which were based on more detailed and current versions of the facts alleged in her motion for a TRO.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10666542_2025_Legge v. Clarke County Zoning Department_vawd",
+  "arm": "RD-PURE",
+  "r1_role": "no_consensus",
+  "case_name": "Brian K. Legge v. Clarke County Zoning Department et al.",
+  "pro_se": "False",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10666542_2025_Legge v. Clarke County Zoning Department_vawd.txt",
+  "masked_consensus_family": null,
+  "panel_majority": "MISFILTER",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "For the reasons outlined above, Legge has not made a clear showing that he is likely to succeed on the merits of any claim.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "The court will DENY Legge’s motion for a preliminary injunction (Dkt. 16).",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "This matter is before the court on Legge’s motion for a preliminary injunction  (Dkt. 16).  Legge asks the court to enjoin Defendants from proceeding with a demolition of the garage while this action is pending.  For the reasons that follow, the court will deny Legge’s motion.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10361834_2025_QUEWON v. PHILADELPHIA HOUSING AUTHORITY_paed",
+  "arm": "RD-PURE",
+  "r1_role": "no_consensus",
+  "case_name": "Yolanda E. Quewon v. Philadelphia Housing Authority",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10361834_2025_QUEWON v. PHILADELPHIA HOUSING AUTHORITY_paed.txt",
+  "masked_consensus_family": null,
+  "panel_majority": "B",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "she does not allege whether and to whom she requested the accommodation or whether it was necessary for her to use and enjoy her home.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "MEDIUM",
+    "evidence_quote": "She does not describe her disability and whether it is related to her alleged knee and hip pain.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "To the extent she requested a handicap-accessible ramp outside her home as a reasonable accommodation, she does not allege whether and to whom she requested the accommodation or whether it was necessary for her to use and enjoy her home.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|10252125_2023_Huzjak v. Ellis_wied",
+  "arm": "DT-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Debrra Lee Huzjak v. Kim Ellis, Caitlin Sexton, Aurora St. Lukes Southshore, Aurora Zilber Family Hospice, Aurora Health, Eastshore Properties, Brenda Matheson, Steven Peters, Kathy Berlin, William Berlin and Chai Franciscan Villa Nursing Home",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10252125_2023_Huzjak v. Ellis_wied.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "B",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "the amended complaint does not allege that the neighbors treated her in the ways she describes because of her race, ethnicity or disability",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "the amended complaint does not allege that the neighbors treated her in the ways she describes because of her race, ethnicity or disability.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Judge Duffin also stated that to the extent there is any claim, that claim belongs to the mother’s estate and the plaintiff has not shown that she is authorized to pursue that claim.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|10708675_2025_J. F. and on behalf of her adolescents and mother v. LUIS VENTURA_txnd",
+  "arm": "DT-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "J. F. and on behalf of her adolescents and mother v. LUIS VENTURA",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\10708675_2025_J. F. and on behalf of her adolescents and mother v. LUIS VENTURA_txnd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "J.F. has not pleaded facts to show that Ventura’s actions had a disparate impact on her as a person with a disability as compared to persons without a disability. She also did not provide facts showing that Ventura had a discriminatory intent when evicting her.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "However, J.F. has not pleaded facts to show that Ventura’s actions had a disparate impact on her as a person with a disability as compared to persons without a disability. She also did not provide facts showing that Ventura had a discriminatory intent when evicting her.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "J.F. has not pleaded facts to show that Ventura’s actions had a disparate impact on her as a person with a disability as compared to persons without a disability. She also did not provide facts showing that Ventura had a discriminatory intent when evicting her.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10434033_2025_Fox v. Kovacs_nvd",
+  "arm": "RD-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Fox v. Kovacs",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\10434033_2025_Fox v. Kovacs_nvd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "Fox does not however allege specifically what her disability is, how it affects her, or how she is qualified as a person in a protected class.",
+    "quote_verified": false
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "timing_or_delay",
+    "confidence": "HIGH",
+    "evidence_quote": "But Fox provides no information about where or whom she submitted the repair requests, nor any identification of who issued the “false warning notices,” or how close in time said notices were issued in relation to the repair requests.",
+    "quote_verified": false
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "But Fox provides no information about where or whom she submitted the repair requests, nor any identification of who issued the “false warning notices,” or how close in time said notices were issued in relation to the repair requests.",
+    "quote_verified": false
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|10242837_2023_Martinez v. Pierce County_wawd",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Karen Martinez v. Pierce County",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\10242837_2023_Martinez v. Pierce County_wawd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": null,
+  "panel_majority_type": "split",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff simply alleges in a conclusory fashion that defendants only provided her with notice \"three business days\" before the auction. Dkt. # 11 at 11. This assertion, standing alone, is insufficient to meet the plausibility standard required to survive a motion to dismiss.",
+    "quote_verified": false
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "timing_or_delay",
+    "confidence": "MEDIUM",
+    "evidence_quote": "Plaintiff simply alleges in a conclusory fashion that defendants only provided her with notice “three business days” before the auction. Dkt. # 11 at 11. This assertion, standing alone, is insufficient to meet the plausibility standard required to survive a motion to dismiss.",
+    "quote_verified": false
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "Accordingly, plaintiff’s due process and Fair Housing Act claims arising from the alleged conversion of her Chapter 13 bankruptcy proceedings from standard to non-standard are dismissed under 12(b)(6). Because there is no federally recognized right to a “standard” Chapter 13 bankruptcy, amendment would be futile and the Court denies leave to amend.",
+    "quote_verified": false
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|9714620_2024_Miller v. Alco Management, Inc_kyed",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Miller v. Alco Management, Inc.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9714620_2024_Miller v. Alco Management, Inc_kyed.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "B",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Regardless of the plausibility of Miller’s claim, his claim is time barred under the FHA.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "At bottom, Mr. Miller’s claim against Officer Crump is premised on numerous conclusory statements, none of which are supported by proof of discriminatory animus or proof of disparate impact.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "At bottom, Mr. Miller’s claim against Officer Crump is premised on numerous conclusory statements, none of which are supported by proof of discriminatory animus or proof of disparate impact.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|9786613_2024_Jett v. The Country Acres Association of Columbus County LTD_nced",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Jett v. The Country Acres Association of Columbus County LTD",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9786613_2024_Jett v. The Country Acres Association of Columbus County LTD_nced.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "they have not sufficiently alleged that the failure to sell the lots was due to a discriminatory purpose, i.e., race, color, religion, sex, familial status, handicap, or national origin discrimination",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "they have not sufficiently alleged that the failure to sell the lots was due to a discriminatory purpose,\ni.e., race, color, religion, sex, familial status, handicap, or national origin discrimination, see 42\nU.S.C. §§ 3604, 3605.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "they have not sufficiently alleged that the failure to sell the lots was due to a discriminatory purpose, i.e., race, color, religion, sex, familial status, handicap, or national origin discrimination",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9869240_2021_Currin v. Glenwood Management Corp._nysd",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Charlie G. Currin v. Glenwood Management Corp.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9869240_2021_Currin v. Glenwood Management Corp._nysd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "he has failed to allege that these alleged deficiencies have deprived him of an equal opportunity to use and enjoy his dwelling at Crystal Green",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "He has alleged that he requested an accommodation from Glenwood, but he has failed to plausibly allege that Glenwood acted inappropriately in response to that request.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "He has alleged that he requested an accommodation from Glenwood, but he has failed to plausibly allege that Glenwood acted inappropriately in response to that request.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10870437_2026_Aaron Albert Mitchell, Jr. v. Township of Willingboro, et al._njd",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Aaron Albert Mitchell, Jr. v. Township of Willingboro, et al.",
+  "pro_se": "False",
+  "text_path": "<WORKING_REPO>\\results\\v128\\p3_extension_2026-07-03\\opinions\\10870437.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "B",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "Because Mitchell has not shown the required nexus between his requested accommodations and their necessity to provide him equal opportunity to use and enjoy his dwelling, the Motion will be granted as to the First and Second Counts of the Complaint.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "Because Mitchell has not shown the required nexus between his requested accommodations and their necessity to provide him equal opportunity to use and enjoy his dwelling, the Motion will be granted as to the First and Second Counts of the Complaint.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "Because Mitchell has not shown the required nexus between his requested accommodations and their necessity to provide him equal opportunity to use and enjoy his dwelling, the Motion will be granted as to the First and Second Counts of the Complaint.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|9836005_2024_Perkins Jr. v. Panorama Towers Condo Unit Owners, Dennis Kariger_nvd",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Preston D. Perkins, Jr. v. Panorama Towers Condominium Complex, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9836005_2024_Perkins Jr. v. Panorama Towers Condo Unit Owners, Dennis Kariger_nvd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "B",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Perkins, Jr. fails to meet his burden showing the existence of subject matter jurisdiction over this action.",
+    "quote_verified": false
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "But the FAC lacks any allegations that (1) his rights were protected under the FHA, (2) that he was discriminated against based on his protected status (i.e., race, color, religion, age, etc.), or (3) that the injuries he allegedly suffered were the result of discriminatory conduct.",
+    "quote_verified": false
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "But the FAC lacks any allegations that (1) his rights were protected under the FHA, (2) that he was discriminated against based on his protected status (i.e., race, color, religion, age, etc.), or (3) that the injuries he allegedly suffered were the result of discriminatory conduct.",
+    "quote_verified": false
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|10678137_2025_Ogando v. Napolitano_nyed",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Luis E. Ogando v. John J. Napolitano, Esq.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10678137_2025_Ogando v. Napolitano_nyed.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "B",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "However, Plaintiff has not alleged that Defendants discriminated against him on the basis of any of these characteristics, and therefore these statutes cannot provide the relief Plaintiff seeks.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "However, Plaintiff has not alleged that Defendants discriminated against him on the basis of any of these characteristics, and therefore these statutes cannot provide the relief Plaintiff seeks.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff has not alleged that Defendants discriminated against him on the basis of any of these characteristics, and therefore these statutes cannot provide the relief Plaintiff seeks.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10666591_2025_Watkins v. Chau_mad",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Watkins v. Chau",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10666591_2025_Watkins v. Chau_mad.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "wrong_defendant_or_not_covered",
+    "confidence": "HIGH",
+    "evidence_quote": "the ADA does not provide for suits against the federal government",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "The complaint does not allege that Flacks refused any request from Watkins for a reasonable accommodation or otherwise discriminated against Watkins in the provision of services or facilities because of Watkins’ disability.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "The complaint does not allege that Flacks refused any request from Watkins for a reasonable accommodation or otherwise discriminated against Watkins in the provision of services or facilities because of Watkins’ disability.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|Tanner v. Rochdale Village, Inc.",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Walter Tanner v. Rochdale Village, Inc.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\Tanner v. Rochdale Village, Inc..txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "plaintiff does not allege any facts to support that vague and speculative claim beyond stating that the allegation is \"based on information from confidential source.\" Am. Compl. ¶ 32. Nowhere in the complaint does plaintiff explain, for example, why he believes that the management staff perceived him as being a sexual offender or HIV positive",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Nowhere in the complaint does plaintiff explain, for example, why he believes that the management staff perceived him as being a sexual offender or HIV positive, or why he believes that the staff interfered with his maintenance request on that basis.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Nowhere in the complaint does plaintiff explain, for example, why he believes that the management staff perceived him as being a sexual offender or HIV positive, or why he believes that the staff interfered with his maintenance request on that basis. Nor does he allege that other individuals were treated differently than he was.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|EWIDEH v. HOMESITE INS. CO. OF THE MIDWEST",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "case_name": "EWIDEH v. HOMESITE INS. CO. OF THE MIDWEST",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\EWIDEH v. HOMESITE INS. CO. OF THE MIDWEST.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "Ewideh and Geaith's current pleadings, which simply allege discrimination based upon the otherwise unidentified \"health conditions of plaintiff,\" and complain that a claims adjuster used a slur regarding the sexuality of the plaintiff, are insufficient to state a claim.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "In the instant case, because of the paucity of the plaintiffs' pleadings, we cannot discern whether they are pursuing an intentional discrimination claim, a disparate impact claim, or both. We also cannot divine whether their claim rests upon allegations of disability discrimination, discrimination grounded upon sexuality, or both.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "Further, to the extent that the plaintiffs are alleging disability discrimination they have failed to clearly state what that disability might be.",
+    "quote_verified": true
+   }
+  ]
+ }
+]

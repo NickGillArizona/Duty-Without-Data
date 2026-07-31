@@ -1,0 +1,256 @@
+
+                     Paperwork Reduction Act Submission
+Please read the instruction before completing  this  form.   For  additional
+forms  or  assistance  in  completing  this  forms,  contact  your  agency's
+Paperwork Reduction Officer. Send two copies of this  form,  the  collection
+instrument to be reviewed, the  Supporting  Statement,  and  any  additional
+documentation to: Office of Information and Regulatory  Affairs,  Office  of
+Management and Budget, Docket Library, Room 10102, 725 Seventeenth  St.  NW,
+Washington, DC  20503.
+
+|1. Agency/Subagency Originating Request:                 |2. OMB       |b.  None     |
+|U.S. Department of Housing and Urban Development         |Control      |             |
+|Office of Administration                                 |Number:      |             |
+|                                                         |a. 2535-0113 |             |
+|3. Type of information collection: (check |4. Type of review requested: (check one)  |
+|one)                                      |Regular                                   |
+|New Collection                            |Emergency - Approval requested by         |
+|Revision of a currently approved          |Delegated                                 |
+|collection                                |5. Small entities: Will this information  |
+|Extension of a currently approved         |collection have a significant economic    |
+|collection                                |impact on a substantial number of small   |
+|Reinstatement, without change, of         |entities?                                 |
+|previously approved                       |Yes    No                                 |
+|collection for which approval has expired |6. Requested expiration date:             |
+|Reinstatement, with change, of previously |a.   Three years from approval date   b.  |
+|approved collection                       |Other (specify)                           |
+|for which approval has expired            |                                          |
+|Existing collection in use without an OMB |                                          |
+|control number                            |                                          |
+|For b-f, note item A2 of Supporting       |                                          |
+|Statement instructions.                   |                                          |
+
+
+7. Title:
+ Standardized form for "Race and Ethnic Data Collection"
+
+
+8. Agency form number(s):  (if applicable)
+ HUD-27061
+
+
+9. Keywords:
+ Housing, Racial and Ethnic Data, Grants
+
+
+10. Abstract:
+ All HUD program offices use this form when collecting information
+ concerning the race and ethnicity of the populations intended to benefit
+ from HUD funding as required by Title VI of the Civil Rights Act of 1964.
+
+
+ |11. Affected public:  (mark primary with   |12. Obligation to respond:  (mark primary|
+|"P" and all others that apply with "X")    |with "P" and all others that apply with  |
+|a. X Individuals or households e.   Farms  |"X")                                     |
+|b. X Business or other for-profit f.       |a.   Voluntary                           |
+|Federal Government                         |b. P Required to obtain or retain        |
+|c. X Not-for-profit institutions g. P      |benefils                                 |
+|State, Local or Tribal Government          |c.   Mandatory                           |
+|13. Annual reporting and recordkeeping hour|14. Annual reporting and recordkeeping   |
+|burden:                                    |cost burden: (in thousands of dollars)   |
+|a. Number of respondents 1                 |Do not include costs based on the hours  |
+|b. Total annual responses 1                |in item 13.                              |
+|Percentage of these responses collected    |a. Total annualized capital/startup costs|
+|electronically  100                        |0                                        |
+|c. Total annual hours requested 1          |b. Total annual costs (O&M) 0            |
+|d. Current OMB inventory 1                 |c. Total annualized cost requested 0     |
+|e. Difference (+,-) 0                      |d. Current OMB inventory 0               |
+|f. Explanation of difference:              |e. Difference                            |
+|1. Program change:                         |f. Explanation of difference:            |
+|2. Adjustment:                             |1. Program change:                       |
+|                                           |2. Adjustment:                           |
+|15. Purpose of Information collection:     |16. Frequency of recordkeeping or        |
+|(mark primary with "P" and all others that |reporting:  (check all that apply)       |
+|apply with "X")                            |a.   Recordkeeping b.   Third party      |
+|a. X  Application for benefits e.          |disclosure                               |
+|Program planning or management             |c.   Reporting:                          |
+|b.    Program evaluation f.  X  Research   |1.   On occasion 2.   Weekly 3.   Monthly|
+|c.    General purpose statistics g. P      |                                         |
+|Requlatory or compliance                   |4.   Quarterly 5.  Semi-annually 6.      |
+|d.    Audit                                |Annually                                 |
+|                                           |7.   Biennually 8.   Other (describe)    |
+|                                           |                                         |
+|17. Statistical methods:             |18. Agency contact: (person who can best answer|
+|Does this information collection     |questions regarding the content of this        |
+|employ statistical methods?          |submission)                                    |
+|Yes      No                          |Name: Eric Gauff                               |
+|                                     |Phone: 202-708-0614  x3376                     |
+
+          19. Certification for Paperwork Reduction Act Submissions
+On behalf of the U.S. Department of Housing and Urban Development, I
+certify that the collection of information encompassed by this request
+complies with 5 CFR 1320.9.
+Note: The text of 5 CFR 1320.9, and the related provisions of 5 CFR
+1320/8(b)(3). appear at the end of the instructions.  The certification is
+to be made with reference to those regulatory provisions as set forth in
+the instructions.
+
+The following is a summary of the topics, regarding the proposed
+collections of information, that the certification covers:
+   a) It is necessary for the proper performance of agency functions;
+   b) It avoids unnecessary duplication;
+   c) It reduces burden on small entities;
+   d) It uses plain, coherent, and unambiguous terminology that is
+      understandable to respondents;
+   e) Its implementation will be consistent and compatible with current
+      reporting and recordkeeping practices;
+   f) It indicates the retention periods for recordkeeping requirements;
+   g) It informs respondents of the information called for under 5 CFR
+      1320.8(b)(3):
+     i) Why the information is being collected;
+    ii) Use of the information;
+   iii) Burden estimate;
+    iv) Nature of response (voluntary, required for a benefit, or
+        mandatory);
+     v) Nature and extent of confidentiality; and
+    vi) Need to display currently valid OMB control number;
+   h) It was developed by an  office that has planned and allocated
+      resources for the efficient and effective management and use of the
+      information to collected (see note in item 19 of the instructions);
+   h) It uses effective and efficient statistical survey methodology; and
+   i) It makes appropriate use of information technology.
+
+If you are unable to certify compliance with any of these provisions,
+identify the item below and explain the reason in item 18 of the Supporting
+Statement.
+
+
+
+|Signature of Program Official:                                   |Date:               |
+|                                                                 |                    |
+|                                                                 |                    |
+|                                                                 |                    |
+|X                                                                |                    |
+
+         Supporting Statement for Paperwork Reduction Act Submission
+       Standardized Form HUD-27061 for Race and Ethnic Data Collection
+
+
+
+
+      Justification
+
+
+
+
+1.    Authority:  HUD Regulations 24 CFR 1.6 - Nondiscrimination in
+   Federally Assisted Programs of the Department of Housing and Urban
+   Development -Effectuation of Title VI of the Civil Right Act of 1964;
+   Federal Register Notice (62 FR 58782-58790) published on October 30,
+   1997; and Office of Management and Budget (OMB) Bulletin No. 00-02
+   -Provisional Guidance on Aggregation and Allocation of Data on Race for
+   Use in Civil Rights Monitoring and Enforcement.
+
+
+   Based on the Department of Housing and Urban Development's (HUD) Title VI
+   Regulations (24 CFR 1.6), HUD requires all recipients of funding to
+   maintain and submit racial and ethnic data so HUD may determine whether
+   federally assisted programs are in compliance with Title VI data
+   collection requirements.  HUD must offer individuals, who are responding
+   to agency data requests for race, the option of selecting one or more of
+   five racial categories.  HUD must also treat ethnicity as a category
+   separate from race, and change the terminology for certain racial and
+   ethnic groups.
+
+
+2. Under Title VI of the Civil Right Act of 1964, no person in the United
+   States shall, on the grounds of race, color, or national origin, be
+   excluded from participation in, be denied the benefits of, or be
+   otherwise subjected to discrimination under any program or activity
+   receiving Federal financial assistance from the Department of Housing and
+   Urban Development.  Title VI requires all recipients of HUD funding to
+   maintain and submit this data during program monitoring and compliance
+   reviews to ensure compliance with nondiscrimination requirements of Title
+   VI.
+
+
+   This collection of information provides that all HUD programs comply with
+   OMB guidelines on reporting aggregating data on race and ethnicity.
+
+3. HUD's automated systems have been modified to conform to the latest
+   requirements.  The E-Grants system is in place and serves, as the primary
+   system for collection of this sort of information.
+
+4.  This collection of information is not being duplicated.
+
+5. This collection of information does not have an impact on small
+   businesses or other small entities.
+
+6. The racial and ethnic data of HUD funded recipients must be available to
+   the Department to show:
+   (1)  the actual beneficiaries of HUD's programs and activities;
+   (2)  the extent to which members of minority groups are beneficiaries of
+      HUD's federally assisted programs.
+
+7. There are no special circumstances that require this collection of
+   information to be conducted in a manner that is inconsistent with the
+   guidelines in 5 CFR 1320.6.
+
+8. Notice of this collection of information was published in the Federal
+   Register on July12, 2006 page 39331.  Comments may be received until
+   September 11.
+
+
+9. There are no payments or gifts provided to respondents in this
+   collection of information.
+
+10. There are no assurances of confidentiality provided in this collection
+   of information.
+
+11.   There are no questions of a sensitive nature asked in this collection
+   of information.
+
+12.   Estimate of the hour burden of the collection of information.
+
+   The number of responses is potentially well over four millions accounting
+   for all submissions to the Department which are provide racial / ethnic
+   information.
+
+
+   The resulting public burden is reported under submissions by each program
+   information collection.
+
+   Number of      Frequency of    Estimated Additional   Estimated Annual
+   Respondents    Responses  Burden p/Rspns.     Burden (Hours)
+
+   1  1     1 hour        1
+
+
+   TOTAL REPORTING BURDEN            1
+
+
+13.   There is no additional cost burden to respondents.
+
+14.   There is no additional cost to the Federal Government.
+
+15.   This is an extension of a currently approved collection.  No changes
+   or adjustments have been made.
+
+16.   The results of this collection of information will not be published.
+
+17.   The OMB approval number and expiration date will be displayed on the
+   form.
+
+18.   There are no exceptions to the certification statement identified in
+   Item 19 of OMB 83-I.
+
+A. Collections of Information Employing Statistical Methods
+
+   The collection of information will not be used for statistical purposes.
+
+
+
+
+
+
+

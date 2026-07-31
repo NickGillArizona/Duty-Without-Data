@@ -1,0 +1,13 @@
+{
+  "n_rows": 476,
+  "by_arm": {
+    "RD-PURE": 145,
+    "DT-PURE": 145,
+    "RACE-DT": 186
+  },
+  "inputs_sha256": "5f3a1ed73744565a309ab8ee5a76bddef2c1580cf4d52a8ff3b2c1a08dd97e84",
+  "prompt_sha256": "64102c4c833ed7b7655387fc23ea0a2c0242f0862a416f2aa3b4a14c5f0ab61e",
+  "lexicon_leak_rows": 292,
+  "lexicon_leak_rate": 0.6134,
+  "undetermined_sensitivity_rows": 187
+}

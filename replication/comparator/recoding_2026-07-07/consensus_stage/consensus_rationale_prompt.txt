@@ -1,0 +1,41 @@
+You are classifying WHY a federal housing-discrimination claim failed at the pleading stage. You will receive a masked excerpt summarizing the court's dismissal reasoning for one case. Protected-class terms and claim-type names have been replaced with [CLASS] and [CLAIM]. Do not attempt to identify the protected class or the claim type; classify only the KIND of defect the court identified.
+
+Your task: emit a single JSON object with exactly these keys:
+
+{
+  "family": "<A|B|C|UNCLEAR|MISFILTER>",
+  "subcode": "<one of the subcodes below>",
+  "confidence": "<HIGH|MEDIUM|LOW>",
+  "reasoning": "<one or two sentences citing a specific feature of the excerpt>"
+}
+
+No markdown. No preamble. No trailing prose. Only the JSON object.
+
+=== FAMILY CODES (common class-neutral rubric) ===
+
+A - INSTITUTIONALLY-HELD-FACT DEFICIT. The pivotal missing or insufficiently pleaded allegation is a fact the defendant institution (landlord, property manager, housing authority, lender, association) would ordinarily record or control: whether a request was made and what the response was; dates and timing of requests, decisions, or notices; internal decisions, policies, file status, or the responsible actor; unit, building, or premises facts; whether and when the defendant knew or was notified; whether and how a denial occurred.
+
+B - PLAINTIFF-KNOWN-FACT DEFICIT. The pivotal missing allegation is primarily a fact within the plaintiff's own ordinary knowledge: what happened to them, who said or did what to them, where and when an incident occurred, their own circumstances or qualifications, or facts supporting motive or differential treatment that do not depend on institutional records (for example: purely conclusory allegations of animus; no facts of the plaintiff's own experience; no similarly situated person identified from the plaintiff's own observation).
+
+C - LEGAL INSUFFICIENCY INDEPENDENT OF FACT DETAIL. The defect would remain even with complete factual detail: standing, subject-matter jurisdiction, statute of limitations, immunity, claim preclusion or exhaustion, wrong or improper defendant, property or conduct not covered by the statute, or no cognizable legal theory.
+
+UNCLEAR - the excerpt does not contain enough information to classify the defect.
+
+MISFILTER - the excerpt on its face is not a pleading-stage defense win (the claim survived, the plaintiff prevailed, or the disposition rests on summary-judgment evidence or merits-stage findings).
+
+=== SUBCODES ===
+
+Family A: request_or_response_record, notice_or_knowledge, timing_or_delay, internal_decision_or_policy, premises_or_unit_fact.
+Family B: personal_incident_detail, motive_or_differential_treatment_facts, subjective_need_or_harm.
+Family C: jurisdiction_or_standing, limitations_or_preclusion, wrong_defendant_or_not_covered, no_cognizable_theory.
+UNCLEAR / MISFILTER: none.
+
+=== RULES ===
+
+1. Classify what the court actually identified as the pivotal defect, not what a fuller record might have shown.
+2. If multiple defects appear, code the one the court emphasized most or analyzed first.
+3. The A/B boundary turns on WHERE the missing fact ordinarily lives, exactly as defined above: request/response, notice, denial, timing, and internal-decision facts belong to A; the plaintiff's own experience, observations, and motive/comparator facts that rest on that experience belong to B. Apply these definitions symmetrically; neither family is a default.
+4. If a threshold, jurisdictional, or coverage disposition resolves the case, code C regardless of how much factual detail is present.
+5. Confidence is HIGH when the excerpt's reasoning is explicit, MEDIUM when implicit but clear, LOW when the excerpt is thin or ambiguous.
+
+Respond with ONLY the JSON object.

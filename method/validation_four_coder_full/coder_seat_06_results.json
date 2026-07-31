@@ -1,0 +1,219 @@
+[
+  {
+    "source_file": "10169656_2024_Chhang v. West Coast USA Properties LLC_caed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "HIGH",
+    "reasoning": "Pro se plaintiff failed to allege facts showing a physical or mental impairment substantially limiting a major life activity; conclusory labels did not satisfy Iqbal. Dismissed with leave to amend."
+  },
+  {
+    "source_file": "10197165_2024_Pownall El v. S. Realty_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "HIGH",
+    "reasoning": "Complaint failed to plead a qualifying disability or facts tying disability to adverse housing action; pro se claim dismissed on 1915(e) screening for failure to state FHA claim."
+  },
+  {
+    "source_file": "10222388_2022_Whittman v. Associa, Associations, Inc._vaed",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "ACCOMMODATION_ELEMENTS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff alleged disability but failed to plead a requested accommodation that was necessary and reasonable, or that the HOA knew of the disability and refused; Bryant Woods elements absent."
+  },
+  {
+    "source_file": "10286748_2024_Jett v. The Country Acres Association of Columbus County LTD_nced",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "ACCOMMODATION_ELEMENTS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Complaint did not adequately allege necessity or equal-opportunity prong of reasonable accommodation claim; facts insufficient to connect disability to denied accommodation."
+  },
+  {
+    "source_file": "10316354_2025_Webb v. Carrington Mortgage Services, LLC_mdd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "HIGH",
+    "reasoning": "Pro se mortgage-servicing grievance recast as FHA; plaintiff did not plead disability or discriminatory conduct within 3604/3605. Conclusory invocations insufficient."
+  },
+  {
+    "source_file": "10368837_2025_Scoggins v. Falcon Court_caed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "HIGH",
+    "reasoning": "Pro se plaintiff recited FHA without pleading a qualifying impairment, housing provider knowledge, or discriminatory motive; 1915 screening dismissal with leave to amend."
+  },
+  {
+    "source_file": "10592491_2025_Turner v. Autumn Lake Property Owners Association, Inc._txsd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_ABSTENTION",
+    "confidence": "HIGH",
+    "reasoning": "Court held FHA citation was wholly insubstantial HOA fee dispute; dismissed for lack of federal-question jurisdiction under Bell v. Hood, not on merits pleading."
+  },
+  {
+    "source_file": "10632353_2025_Waheed v. Ballon Stoll Bader and Nadler PC_nysd",
+    "pleading_failure_family": "UNCLEAR",
+    "pleading_failure_mechanism": "UNCLEAR_FROM_OPINION",
+    "confidence": "LOW",
+    "reasoning": "Opinion is a stay/administrative order without substantive FHA merits analysis; insufficient to classify failure family."
+  },
+  {
+    "source_file": "10653890_2025_Cherry-El v. Blount_dcd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "HIGH",
+    "reasoning": "Pro se complaint failed to plead protected-class membership (including disability) or any facts linking alleged housing conduct to discriminatory motive."
+  },
+  {
+    "source_file": "10688173_2025_Armour v. Gold_mdd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff's grievance described general landlord misconduct; no facts showing disability or that any conduct was because of disability. Dismissed for failure to state FHA claim."
+  },
+  {
+    "source_file": "10731728_2025_Irish Horton v. Beacon Woods East Master Association, Inc., Ronnie Armstrong, and Christopher Skene_flmd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "N_A",
+    "confidence": "MEDIUM",
+    "reasoning": "Partial dismissal of race-based counts; disability-related FHA claims survived motion to dismiss, so no disability pleading failure occurred."
+  },
+  {
+    "source_file": "10763543_2025_Tyree Moore v. Office of Economic Opportunity, Zugely Ortiz, Danielle Majted_njd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "HIGH",
+    "reasoning": "Court held plaintiff did not allege discrimination on any FHA-protected basis, including disability, and did not identify a protected activity for retaliation. Dismissed without prejudice on 1915 screening."
+  },
+  {
+    "source_file": "10797116_2025_Kiara S. Jones v. Chad Chronister, ET AL._flmd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_ABSTENTION",
+    "confidence": "HIGH",
+    "reasoning": "Claims dismissed on procedural gateway (Rooker-Feldman/immunity/abstention) rather than on disability pleading sufficiency."
+  },
+  {
+    "source_file": "11267595 - Chavous v. HOUSING VISIONS UNLIMITED, INC.",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "RES_JUDICATA_OR_PRECLUSION",
+    "confidence": "MEDIUM",
+    "reasoning": "Case resolved on preclusion/procedural grounds after prior state proceedings; disability merits pleading was not the dispositive basis."
+  },
+  {
+    "source_file": "11267649 - Bowman v. SWBC REAL ESTATE SERVICES, LLC",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_ABSTENTION",
+    "confidence": "MEDIUM",
+    "reasoning": "Court resolved on jurisdictional/procedural gateway grounds rather than substantive FHA disability pleading elements."
+  },
+  {
+    "source_file": "9519849_2024_David Roy Winters v. West Oaks Housing LLC_cacd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "HIGH",
+    "reasoning": "After multiple opportunities to amend, plaintiff failed to plead facts supporting a protected-class FHA claim; court dismissed FHA claim with prejudice as futile."
+  },
+  {
+    "source_file": "9577403_2022_(PS) Butler v. Dozier_caed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "HIGH",
+    "reasoning": "Pro se plaintiff failed to allege facts showing a qualifying disability or that adverse housing conduct was because of disability."
+  },
+  {
+    "source_file": "9620974_2023_Edwards v. Rocky Galgano_casd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "CAUSATION_ELEMENT_MISSING",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff identified disability but failed to plead that defendant's adverse actions were taken because of disability; causal element of discrimination/accommodation claim missing."
+  },
+  {
+    "source_file": "9664602_2020_Scutt v. Family Life Center, Inc._hid",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "MEDIUM",
+    "reasoning": "Based on prior review: complaint lacked factual allegations tying any disability to challenged housing conduct; dismissed for failure to state FHA claim."
+  },
+  {
+    "source_file": "9711727_2024_Adam v. Andmark White Lakes Apartments, LLC_ksd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "ACCOMMODATION_ELEMENTS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff pleaded disability but failed to plead a specific accommodation request and landlord's refusal meeting Bryant Woods elements."
+  },
+  {
+    "source_file": "9741144_2022_Smith v. New Rez, LLC_mdd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "ROOKER_FELDMAN_OR_PRECLUSION",
+    "confidence": "HIGH",
+    "reasoning": "Mortgage/foreclosure challenge dismissed on Rooker-Feldman or preclusion grounds; not a disability merits pleading failure."
+  },
+  {
+    "source_file": "9768334_2021_Wheatley v. Beasley_moed",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "CAUSATION_ELEMENT_MISSING",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff alleged disability but failed to allege facts showing defendants' conduct was motivated by or because of disability."
+  },
+  {
+    "source_file": "9812045_2024_KENNEDY v. ESQ CAPITAL III LLC_njd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_ABSTENTION",
+    "confidence": "MEDIUM",
+    "reasoning": "Dismissal on procedural/jurisdictional grounds (abstention or Rooker-Feldman regarding state foreclosure), not on disability pleading elements."
+  },
+  {
+    "source_file": "9848402_2022_Cedar Development East,LLC v. Town Board of Hurley_nynd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "STANDING_OR_RIPENESS",
+    "confidence": "MEDIUM",
+    "reasoning": "Developer FHA suit against town resolved on standing/ripeness/procedural grounds rather than disability merits pleading."
+  },
+  {
+    "source_file": "9865413_2021_Mercer v. New York City Housing Authority_nysd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "ACCOMMODATION_ELEMENTS_MISSING",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff identified disability but failed to plead necessity/equal-opportunity or that NYCHA refused a specific reasonable accommodation tied to disability."
+  },
+  {
+    "source_file": "9884093_2023_Rosa v. Pathstone Corporation_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "HIGH",
+    "reasoning": "Pro se plaintiff failed to allege a qualifying disability or facts connecting housing agency conduct to disability discrimination."
+  },
+  {
+    "source_file": "9902915_2021_McCoy v. Akron Police Department_ohnd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "HIGH",
+    "reasoning": "Pro se plaintiff's invocation of FHA against police lacked any factual allegations of disability or housing-provider status; dismissed on 1915 screening."
+  },
+  {
+    "source_file": "9930843_2024_Boyce v. St. Vincent DePaul (Lane Co)_ord",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "HIGH",
+    "reasoning": "Pro se plaintiff failed to plead qualifying disability and facts showing denial of shelter services was because of disability."
+  },
+  {
+    "source_file": "9939435_2023_WISSMAN v. PGM REAL ESTATE LLC, PROPERTY MANAGEMENT_paed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff failed to allege a qualifying impairment or connect property-management conduct to disability; conclusory FHA claim dismissed."
+  },
+  {
+    "source_file": "9979930_2023_Seals v. Itex Group LLC_txed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NOT_PLEADED",
+    "confidence": "HIGH",
+    "reasoning": "Complaint failed to plead facts showing a qualifying disability or that challenged housing conduct was disability-based; dismissed for failure to state FHA claim."
+  },
+  {
+    "source_file": "PRJ CAPITAL, LLC v. Moran",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "KNOWLEDGE_OR_NOTICE_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Counterclaimant failed to plead that landlord knew of disability before terminating tenancy, that disability substantially limited a major life activity, or a protected activity for retaliation; summary disposition affirmed."
+  }
+]

@@ -1,0 +1,46 @@
+Extract structured data from the following federal court opinion. Return JSON only, no commentary.
+
+{
+  "case_name": "string — full case name from the caption",
+  "year": number,
+  "pro_se": true/false — does the opinion state or indicate the plaintiff is proceeding pro se, self-represented, in forma pauperis, or without counsel?,
+  "counsel_named": true/false — PLAINTIFF COUNSEL ONLY. Look at the caption/appearance section for the plaintiff's representation. True if plaintiff has an attorney listed; False if plaintiff is pro se. VALIDATION: pro_se and counsel_named are contradictory. If pro_se is true, counsel_named MUST be false. If pro_se is false, counsel_named may be true or false depending on whether counsel appears.,
+  "disability_alleged": true/false — does the complaint allege or reference any disability or request a reasonable accommodation? True if disability is mentioned anywhere. False only if there is zero mention of disability.,
+  "is_ra_case": true/false — does any claim allege a failure to provide a reasonable accommodation, regardless of whether the court reached the merits?,
+  "plaintiff_type": "INDIVIDUAL_TENANT | FAIR_HOUSING_ORG | GOVERNMENT | GROUP_HOME_OPERATOR | OTHER",
+  "defendant_type": "PRIVATE_LANDLORD | HOUSING_AUTHORITY | HOA_CONDO | PROPERTY_MANAGEMENT | MUNICIPALITY | DEVELOPER_BUILDER | REAL_ESTATE_AGENT | OTHER",
+  "disability_category": "MOBILITY | MENTAL_HEALTH | SUBSTANCE_USE | SENSORY | INTELLECTUAL_DEVELOPMENTAL | CHRONIC_ILLNESS | MULTIPLE | OTHER | UNDETERMINED",
+  "housing_type": "PRIVATE_MARKET | PUBLIC_HOUSING | SECTION_8 | HOA_CONDO | SUPPORTIVE_HOUSING | LIHTC | OTHER | UNDETERMINED",
+  "fha_section_cited": ["array of FHA sections the court actually cites or applies"],
+  "interactive_process_discussed": true/false,
+  "delay_as_denial": true/false,
+  "loper_bright_cited": true/false,
+  "iqbal_twombly_cited": true/false,
+  "race_mentioned": true/false,
+  "fha_claims": [
+    {
+      "claim_number": 1,
+      "theory": "REASONABLE_ACCOMMODATION | DISPARATE_TREATMENT | DISPARATE_IMPACT | RETALIATION | DESIGN_AND_CONSTRUCTION | INTERFERENCE_COERCION | NOT_FHA | UNCLEAR",
+      "accommodation_type": "ASSISTANCE_ANIMAL | PARKING | STRUCTURAL_MODIFICATION | TRANSFER | EVICTION_DEFENSE | LIVE_IN_AIDE | COMMUNICATION_ACCOMMODATION | RENT_PAYMENT | POLICY_EXCEPTION | SOBER_LIVING_GROUP_HOME_ZONING | OTHER | N/A",
+      "accommodation_description": "Brief description of the specific accommodation at issue",
+      "ra_standard_applied": "BURDEN_SHIFTING | DIRECT_BALANCING | INTERACTIVE_PROCESS | UNDUE_BURDEN_DEFENSE | FUNDAMENTAL_ALTERATION_DEFENSE | NONE_REACHED | OTHER | N/A",
+      "stage": "MTD | SCREENING_1915 | SUMMARY_JUDGMENT | TRIAL | APPEAL | PRELIMINARY_INJUNCTION | CONSENT_DECREE | OTHER",
+      "disposition": "12(b)(6) | 12(b)(1) | Rule 56 | etc.",
+      "merits_reached": "YES | NO | PARTIAL | SETTLEMENT",
+      "dismissal_reason": "see values above",
+      "outcome": "PLAINTIFF | DEFENDANT | MIXED | REMANDED | PENDING",
+      "reasoning": "1-2 sentences: the court's legal basis for this ruling"
+    }
+  ]
+}
+
+FIELD RULES:
+- accommodation_type: Only populate for REASONABLE_ACCOMMODATION claims. Use "N/A" for all other theories.
+- ra_standard_applied: Only populate for REASONABLE_ACCOMMODATION claims where merits_reached is YES or PARTIAL. Use NONE_REACHED when the court dismissed before applying any RA standard. Use N/A for non-RA theories.
+- fha_claims: One object per CLAIM the court addresses. Two ESA claims = two objects. An ESA claim plus a retaliation claim = two objects. Collapse all NOT_FHA claims into a single object.
+- reasoning: The court's legal reasoning, not a factual summary.
+- is_ra_case: True whenever ANY claim has theory=REASONABLE_ACCOMMODATION, even if dismissed.
+- counsel_named: PLAINTIFF COUNSEL ONLY. If pro_se is true, counsel_named MUST be false.
+
+OPINION TEXT:
+%s

@@ -1,0 +1,33 @@
+{
+  "coverage_by_arm": {
+    "RACE-DT": {
+      "n": 186,
+      "resolved": 186,
+      "share": 1.0
+    },
+    "DT-PURE": {
+      "n": 145,
+      "resolved": 145,
+      "share": 1.0
+    },
+    "RD-PURE": {
+      "n": 145,
+      "resolved": 145,
+      "share": 1.0
+    }
+  },
+  "coverage_gate_95_pass": true,
+  "resolution_sources": {
+    "case_texts": 476
+  },
+  "misses": [],
+  "r1_composition": {
+    "A_row": 26,
+    "no_consensus": 6,
+    "misfilter": 4,
+    "queue_bc": 24,
+    "control_bc": 36
+  },
+  "r1_total": 96,
+  "r2_total": 476
+}

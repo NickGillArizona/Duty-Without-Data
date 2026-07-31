@@ -1,0 +1,37 @@
+PASS canonical sha256_lf: observed='bc6c4b1091401d82216266b89152a7bb2c4aa72c70c0686f3cff01a0a0bff95a' expected='bc6c4b1091401d82216266b89152a7bb2c4aa72c70c0686f3cff01a0a0bff95a'
+PASS canonical record count: observed=3366 expected=3366
+PASS dis_inst_p1_den: observed=383 expected=383
+PASS dis_inst_p1_n: observed=74 expected=74
+PASS dis_inst_p1_share: observed=0.193211 expected=0.193211
+PASS dis_inst_p3_den: observed=314 expected=314
+PASS dis_inst_p3_n: observed=30 expected=30
+PASS dis_inst_p3_share: observed=0.095541 expected=0.095541
+PASS disany_inst_p1_den: observed=476 expected=476
+PASS disany_inst_p1_n: observed=77 expected=77
+PASS disany_inst_p1_share: observed=0.161765 expected=0.161765
+PASS disany_inst_p3_den: observed=399 expected=399
+PASS disany_inst_p3_n: observed=33 expected=33
+PASS disany_inst_p3_share: observed=0.082707 expected=0.082707
+PASS dt_p1a_n: observed=32 expected=32
+PASS dt_p1b_n: observed=46 expected=46
+PASS fhip_match_status: observed='CONDITIONAL-UNRESOLVED' expected='CONDITIONAL-UNRESOLVED'
+PASS org_continuing: observed=7 expected=7
+PASS org_p1_exit: observed=49 expected=49
+PASS org_p2_only: observed=6 expected=6
+PASS org_p3_entry: observed=24 expected=24
+PASS org_total: observed=86 expected=86
+PASS pretrend_dt_pro_se_change: observed=0.085598 expected=0.085598
+PASS pretrend_dt_strict_change: observed=0.014946 expected=0.014946
+PASS pretrend_outcome: observed='DIVERGING' expected='DIVERGING'
+PASS pretrend_pro_se_difference: observed=-0.166716 expected=-0.166716
+PASS pretrend_rd_pro_se_change: observed=-0.081118 expected=-0.081118
+PASS pretrend_rd_strict_change: observed=-0.206811 expected=-0.206811
+PASS pretrend_strict_difference: observed=-0.221756 expected=-0.221756
+PASS rd_p1a_n: observed=84 expected=84
+PASS rd_p1b_n: observed=86 expected=86
+PASS selection_max_abs_shift: observed=0.086279 expected=0.086279
+PASS selection_max_category: observed='MUNICIPALITY' expected='MUNICIPALITY'
+PASS selection_max_dimension: observed='defendant_type_mix' expected='defendant_type_mix'
+PASS selection_outcome: observed='SUPPORTS-BOUNDING' expected='SUPPORTS-BOUNDING'
+PASS selection shift table has no duplicate dimension/category rows: observed=45 expected=45
+RESULT: PASS

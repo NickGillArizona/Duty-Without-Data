@@ -1,0 +1,1114 @@
+{
+  "composition": {
+    "filter": "T2-narrow robustness",
+    "filter_expression": "screened-in AND \"disability\" in protected_classes",
+    "all_screened": 2690,
+    "disability": 1849,
+    "dated": 1320,
+    "P1": 630,
+    "P2": 159,
+    "P3": 531,
+    "P1_decided": 465,
+    "P2_decided": 116,
+    "P3_decided": 391
+  },
+  "win_rates": {
+    "P1": {
+      "n_decided": 465,
+      "pw": 83,
+      "dw": 326,
+      "mixed": 56,
+      "strict_pct": 17.8,
+      "broad_pct": 29.9
+    },
+    "P2": {
+      "n_decided": 116,
+      "pw": 9,
+      "dw": 92,
+      "mixed": 15,
+      "strict_pct": 7.8,
+      "broad_pct": 20.7
+    },
+    "P3": {
+      "n_decided": 391,
+      "pw": 36,
+      "dw": 323,
+      "mixed": 32,
+      "strict_pct": 9.2,
+      "broad_pct": 17.4
+    },
+    "P2+P3": {
+      "n_decided": 507,
+      "pw": 45,
+      "dw": 415,
+      "mixed": 47,
+      "strict_pct": 8.9,
+      "broad_pct": 18.1
+    },
+    "All": {
+      "n_decided": 972,
+      "pw": 128,
+      "dw": 741,
+      "mixed": 103,
+      "strict_pct": 13.2,
+      "broad_pct": 23.8
+    },
+    "pre (<=2023)": {
+      "n_decided": 714,
+      "pw": 150,
+      "dw": 470,
+      "mixed": 94,
+      "strict_pct": 21.0,
+      "broad_pct": 34.2
+    },
+    "post (>=2024)": {
+      "n_decided": 715,
+      "pw": 76,
+      "dw": 561,
+      "mixed": 78,
+      "strict_pct": 10.6,
+      "broad_pct": 21.5
+    }
+  },
+  "year_by_year": {
+    "2018": {
+      "n_decided": 22,
+      "pw": 5,
+      "dw": 15,
+      "mixed": 2,
+      "strict_pct": 22.7,
+      "broad_pct": 31.8
+    },
+    "2019": {
+      "n_decided": 51,
+      "pw": 12,
+      "dw": 23,
+      "mixed": 16,
+      "strict_pct": 23.5,
+      "broad_pct": 54.9
+    },
+    "2020": {
+      "n_decided": 80,
+      "pw": 16,
+      "dw": 50,
+      "mixed": 14,
+      "strict_pct": 20.0,
+      "broad_pct": 37.5
+    },
+    "2021": {
+      "n_decided": 149,
+      "pw": 20,
+      "dw": 109,
+      "mixed": 20,
+      "strict_pct": 13.4,
+      "broad_pct": 26.8
+    },
+    "2022": {
+      "n_decided": 172,
+      "pw": 40,
+      "dw": 120,
+      "mixed": 12,
+      "strict_pct": 23.3,
+      "broad_pct": 30.2
+    },
+    "2023": {
+      "n_decided": 166,
+      "pw": 33,
+      "dw": 115,
+      "mixed": 18,
+      "strict_pct": 19.9,
+      "broad_pct": 30.7
+    },
+    "2024": {
+      "n_decided": 232,
+      "pw": 19,
+      "dw": 176,
+      "mixed": 37,
+      "strict_pct": 8.2,
+      "broad_pct": 24.1
+    },
+    "2025": {
+      "n_decided": 345,
+      "pw": 37,
+      "dw": 280,
+      "mixed": 28,
+      "strict_pct": 10.7,
+      "broad_pct": 18.8
+    },
+    "2026": {
+      "n_decided": 138,
+      "pw": 20,
+      "dw": 105,
+      "mixed": 13,
+      "strict_pct": 14.5,
+      "broad_pct": 23.9
+    }
+  },
+  "plaintiff_type": {
+    "INDIVIDUAL_TENANT": {
+      "n_decided": 815,
+      "pw": 83,
+      "dw": 660,
+      "mixed": 72,
+      "strict_pct": 10.2,
+      "broad_pct": 19.0
+    },
+    "GOVERNMENT": {
+      "n_decided": 11,
+      "pw": 6,
+      "dw": 2,
+      "mixed": 3,
+      "strict_pct": 54.5,
+      "broad_pct": 81.8
+    },
+    "FAIR_HOUSING_ORG": {
+      "n_decided": 31,
+      "pw": 16,
+      "dw": 10,
+      "mixed": 5,
+      "strict_pct": 51.6,
+      "broad_pct": 67.7
+    },
+    "GROUP_HOME_OPERATOR": {
+      "n_decided": 84,
+      "pw": 21,
+      "dw": 48,
+      "mixed": 15,
+      "strict_pct": 25.0,
+      "broad_pct": 42.9
+    },
+    "OTHER": {
+      "n_decided": 30,
+      "pw": 2,
+      "dw": 21,
+      "mixed": 7,
+      "strict_pct": 6.7,
+      "broad_pct": 30.0
+    },
+    "INDIVIDUAL_TENANT_P1": {
+      "n_decided": 371,
+      "pw": 56,
+      "dw": 275,
+      "mixed": 40,
+      "strict_pct": 15.1,
+      "broad_pct": 25.9
+    },
+    "GOVERNMENT_P1": {
+      "n_decided": 5,
+      "pw": 3,
+      "dw": 1,
+      "mixed": 1,
+      "strict_pct": 60.0,
+      "broad_pct": 80.0
+    },
+    "FAIR_HOUSING_ORG_P1": {
+      "n_decided": 21,
+      "pw": 10,
+      "dw": 8,
+      "mixed": 3,
+      "strict_pct": 47.6,
+      "broad_pct": 61.9
+    },
+    "GROUP_HOME_OPERATOR_P1": {
+      "n_decided": 50,
+      "pw": 12,
+      "dw": 30,
+      "mixed": 8,
+      "strict_pct": 24.0,
+      "broad_pct": 40.0
+    },
+    "OTHER_P1": {
+      "n_decided": 17,
+      "pw": 2,
+      "dw": 12,
+      "mixed": 3,
+      "strict_pct": 11.8,
+      "broad_pct": 29.4
+    },
+    "INDIVIDUAL_TENANT_P2": {
+      "n_decided": 97,
+      "pw": 2,
+      "dw": 85,
+      "mixed": 10,
+      "strict_pct": 2.1,
+      "broad_pct": 12.4
+    },
+    "GOVERNMENT_P2": {
+      "n_decided": 2,
+      "pw": 0,
+      "dw": 0,
+      "mixed": 2,
+      "strict_pct": 0.0,
+      "broad_pct": 100.0
+    },
+    "FAIR_HOUSING_ORG_P2": {
+      "n_decided": 4,
+      "pw": 3,
+      "dw": 1,
+      "mixed": 0,
+      "strict_pct": 75.0,
+      "broad_pct": 75.0
+    },
+    "GROUP_HOME_OPERATOR_P2": {
+      "n_decided": 11,
+      "pw": 4,
+      "dw": 5,
+      "mixed": 2,
+      "strict_pct": 36.4,
+      "broad_pct": 54.5
+    },
+    "OTHER_P2": {
+      "n_decided": 2,
+      "pw": 0,
+      "dw": 1,
+      "mixed": 1,
+      "strict_pct": 0.0,
+      "broad_pct": 50.0
+    },
+    "INDIVIDUAL_TENANT_P3": {
+      "n_decided": 347,
+      "pw": 25,
+      "dw": 300,
+      "mixed": 22,
+      "strict_pct": 7.2,
+      "broad_pct": 13.5
+    },
+    "GOVERNMENT_P3": {
+      "n_decided": 4,
+      "pw": 3,
+      "dw": 1,
+      "mixed": 0,
+      "strict_pct": 75.0,
+      "broad_pct": 75.0
+    },
+    "FAIR_HOUSING_ORG_P3": {
+      "n_decided": 6,
+      "pw": 3,
+      "dw": 1,
+      "mixed": 2,
+      "strict_pct": 50.0,
+      "broad_pct": 83.3
+    },
+    "GROUP_HOME_OPERATOR_P3": {
+      "n_decided": 23,
+      "pw": 5,
+      "dw": 13,
+      "mixed": 5,
+      "strict_pct": 21.7,
+      "broad_pct": 43.5
+    },
+    "OTHER_P3": {
+      "n_decided": 11,
+      "pw": 0,
+      "dw": 8,
+      "mixed": 3,
+      "strict_pct": 0.0,
+      "broad_pct": 27.3
+    }
+  },
+  "defendant_type": {
+    "DEVELOPER": {
+      "n_decided": 7,
+      "pw": 2,
+      "dw": 3,
+      "mixed": 2,
+      "strict_pct": 28.6,
+      "broad_pct": 57.1
+    },
+    "HOA_CONDO_ASSN": {
+      "n_decided": 83,
+      "pw": 19,
+      "dw": 52,
+      "mixed": 12,
+      "strict_pct": 22.9,
+      "broad_pct": 37.3
+    },
+    "PRIVATE_LANDLORD": {
+      "n_decided": 259,
+      "pw": 43,
+      "dw": 188,
+      "mixed": 28,
+      "strict_pct": 16.6,
+      "broad_pct": 27.4
+    },
+    "MUNICIPALITY": {
+      "n_decided": 150,
+      "pw": 24,
+      "dw": 103,
+      "mixed": 23,
+      "strict_pct": 16.0,
+      "broad_pct": 31.3
+    },
+    "PROPERTY_MANAGEMENT": {
+      "n_decided": 174,
+      "pw": 23,
+      "dw": 134,
+      "mixed": 17,
+      "strict_pct": 13.2,
+      "broad_pct": 23.0
+    },
+    "OTHER": {
+      "n_decided": 98,
+      "pw": 7,
+      "dw": 85,
+      "mixed": 6,
+      "strict_pct": 7.1,
+      "broad_pct": 13.3
+    },
+    "HOUSING_AUTHORITY": {
+      "n_decided": 138,
+      "pw": 6,
+      "dw": 121,
+      "mixed": 11,
+      "strict_pct": 4.3,
+      "broad_pct": 12.3
+    },
+    "GOVERNMENT": {
+      "n_decided": 39,
+      "pw": 0,
+      "dw": 38,
+      "mixed": 1,
+      "strict_pct": 0.0,
+      "broad_pct": 2.6
+    },
+    "DEVELOPER_full": {
+      "n_decided": 17,
+      "pw": 7,
+      "dw": 6,
+      "mixed": 4,
+      "strict_pct": 41.2,
+      "broad_pct": 64.7
+    },
+    "HOA_CONDO_ASSN_full": {
+      "n_decided": 137,
+      "pw": 34,
+      "dw": 83,
+      "mixed": 20,
+      "strict_pct": 24.8,
+      "broad_pct": 39.4
+    },
+    "PRIVATE_LANDLORD_full": {
+      "n_decided": 394,
+      "pw": 76,
+      "dw": 272,
+      "mixed": 46,
+      "strict_pct": 19.3,
+      "broad_pct": 31.0
+    },
+    "MUNICIPALITY_full": {
+      "n_decided": 225,
+      "pw": 37,
+      "dw": 152,
+      "mixed": 36,
+      "strict_pct": 16.4,
+      "broad_pct": 32.4
+    },
+    "PROPERTY_MANAGEMENT_full": {
+      "n_decided": 235,
+      "pw": 38,
+      "dw": 169,
+      "mixed": 28,
+      "strict_pct": 16.2,
+      "broad_pct": 28.1
+    },
+    "OTHER_full": {
+      "n_decided": 139,
+      "pw": 10,
+      "dw": 118,
+      "mixed": 11,
+      "strict_pct": 7.2,
+      "broad_pct": 15.1
+    },
+    "HOUSING_AUTHORITY_full": {
+      "n_decided": 199,
+      "pw": 14,
+      "dw": 162,
+      "mixed": 23,
+      "strict_pct": 7.0,
+      "broad_pct": 18.6
+    },
+    "GOVERNMENT_full": {
+      "n_decided": 55,
+      "pw": 5,
+      "dw": 49,
+      "mixed": 1,
+      "strict_pct": 9.1,
+      "broad_pct": 10.9
+    },
+    "DEVELOPER_P1": {
+      "n_decided": 4,
+      "pw": 1,
+      "dw": 2,
+      "mixed": 1,
+      "strict_pct": 25.0,
+      "broad_pct": 50.0
+    },
+    "HOA_CONDO_ASSN_P1": {
+      "n_decided": 43,
+      "pw": 14,
+      "dw": 23,
+      "mixed": 6,
+      "strict_pct": 32.6,
+      "broad_pct": 46.5
+    },
+    "PRIVATE_LANDLORD_P1": {
+      "n_decided": 124,
+      "pw": 25,
+      "dw": 79,
+      "mixed": 20,
+      "strict_pct": 20.2,
+      "broad_pct": 36.3
+    },
+    "MUNICIPALITY_P1": {
+      "n_decided": 76,
+      "pw": 14,
+      "dw": 52,
+      "mixed": 10,
+      "strict_pct": 18.4,
+      "broad_pct": 31.6
+    },
+    "PROPERTY_MANAGEMENT_P1": {
+      "n_decided": 82,
+      "pw": 15,
+      "dw": 59,
+      "mixed": 8,
+      "strict_pct": 18.3,
+      "broad_pct": 28.0
+    },
+    "OTHER_P1": {
+      "n_decided": 39,
+      "pw": 6,
+      "dw": 30,
+      "mixed": 3,
+      "strict_pct": 15.4,
+      "broad_pct": 23.1
+    },
+    "HOUSING_AUTHORITY_P1": {
+      "n_decided": 67,
+      "pw": 5,
+      "dw": 57,
+      "mixed": 5,
+      "strict_pct": 7.5,
+      "broad_pct": 14.9
+    },
+    "GOVERNMENT_P1": {
+      "n_decided": 18,
+      "pw": 0,
+      "dw": 18,
+      "mixed": 0,
+      "strict_pct": 0.0,
+      "broad_pct": 0.0
+    },
+    "DEVELOPER_P2": {
+      "n_decided": 1,
+      "pw": 0,
+      "dw": 1,
+      "mixed": 0,
+      "strict_pct": 0.0,
+      "broad_pct": 0.0
+    },
+    "HOA_CONDO_ASSN_P2": {
+      "n_decided": 15,
+      "pw": 1,
+      "dw": 9,
+      "mixed": 5,
+      "strict_pct": 6.7,
+      "broad_pct": 40.0
+    },
+    "PRIVATE_LANDLORD_P2": {
+      "n_decided": 33,
+      "pw": 0,
+      "dw": 30,
+      "mixed": 3,
+      "strict_pct": 0.0,
+      "broad_pct": 9.1
+    },
+    "MUNICIPALITY_P2": {
+      "n_decided": 21,
+      "pw": 6,
+      "dw": 10,
+      "mixed": 5,
+      "strict_pct": 28.6,
+      "broad_pct": 52.4
+    },
+    "PROPERTY_MANAGEMENT_P2": {
+      "n_decided": 13,
+      "pw": 2,
+      "dw": 10,
+      "mixed": 1,
+      "strict_pct": 15.4,
+      "broad_pct": 23.1
+    },
+    "OTHER_P2": {
+      "n_decided": 11,
+      "pw": 0,
+      "dw": 11,
+      "mixed": 0,
+      "strict_pct": 0.0,
+      "broad_pct": 0.0
+    },
+    "HOUSING_AUTHORITY_P2": {
+      "n_decided": 15,
+      "pw": 0,
+      "dw": 14,
+      "mixed": 1,
+      "strict_pct": 0.0,
+      "broad_pct": 6.7
+    },
+    "GOVERNMENT_P2": {
+      "n_decided": 4,
+      "pw": 0,
+      "dw": 4,
+      "mixed": 0,
+      "strict_pct": 0.0,
+      "broad_pct": 0.0
+    },
+    "DEVELOPER_P3": {
+      "n_decided": 2,
+      "pw": 1,
+      "dw": 0,
+      "mixed": 1,
+      "strict_pct": 50.0,
+      "broad_pct": 100.0
+    },
+    "HOA_CONDO_ASSN_P3": {
+      "n_decided": 25,
+      "pw": 4,
+      "dw": 20,
+      "mixed": 1,
+      "strict_pct": 16.0,
+      "broad_pct": 20.0
+    },
+    "PRIVATE_LANDLORD_P3": {
+      "n_decided": 102,
+      "pw": 18,
+      "dw": 79,
+      "mixed": 5,
+      "strict_pct": 17.6,
+      "broad_pct": 22.5
+    },
+    "MUNICIPALITY_P3": {
+      "n_decided": 53,
+      "pw": 4,
+      "dw": 41,
+      "mixed": 8,
+      "strict_pct": 7.5,
+      "broad_pct": 22.6
+    },
+    "PROPERTY_MANAGEMENT_P3": {
+      "n_decided": 79,
+      "pw": 6,
+      "dw": 65,
+      "mixed": 8,
+      "strict_pct": 7.6,
+      "broad_pct": 17.7
+    },
+    "OTHER_P3": {
+      "n_decided": 48,
+      "pw": 1,
+      "dw": 44,
+      "mixed": 3,
+      "strict_pct": 2.1,
+      "broad_pct": 8.3
+    },
+    "HOUSING_AUTHORITY_P3": {
+      "n_decided": 56,
+      "pw": 1,
+      "dw": 50,
+      "mixed": 5,
+      "strict_pct": 1.8,
+      "broad_pct": 10.7
+    },
+    "GOVERNMENT_P3": {
+      "n_decided": 17,
+      "pw": 0,
+      "dw": 16,
+      "mixed": 1,
+      "strict_pct": 0.0,
+      "broad_pct": 5.9
+    }
+  },
+  "pro_se": {
+    "overall": {
+      "known": 1320,
+      "pro_se": 874,
+      "pro_se_pct": 66.2,
+      "pro_se_win": {
+        "n_decided": 664,
+        "pw": 32,
+        "dw": 591,
+        "mixed": 41,
+        "strict_pct": 4.8,
+        "broad_pct": 11.0
+      },
+      "rep_win": {
+        "n_decided": 308,
+        "pw": 96,
+        "dw": 150,
+        "mixed": 62,
+        "strict_pct": 31.2,
+        "broad_pct": 51.3
+      }
+    },
+    "P1": {
+      "pro_se_pct": 59.2,
+      "n_ps": 373,
+      "n_rep": 257,
+      "ps_win": {
+        "n_decided": 282,
+        "pw": 20,
+        "dw": 241,
+        "mixed": 21,
+        "strict_pct": 7.1,
+        "broad_pct": 14.5
+      },
+      "rep_win": {
+        "n_decided": 183,
+        "pw": 63,
+        "dw": 85,
+        "mixed": 35,
+        "strict_pct": 34.4,
+        "broad_pct": 53.6
+      }
+    },
+    "P2": {
+      "pro_se_pct": 56.6,
+      "n_ps": 90,
+      "n_rep": 69,
+      "ps_win": {
+        "n_decided": 74,
+        "pw": 1,
+        "dw": 68,
+        "mixed": 5,
+        "strict_pct": 1.4,
+        "broad_pct": 8.1
+      },
+      "rep_win": {
+        "n_decided": 42,
+        "pw": 8,
+        "dw": 24,
+        "mixed": 10,
+        "strict_pct": 19.0,
+        "broad_pct": 42.9
+      }
+    },
+    "P3": {
+      "pro_se_pct": 77.4,
+      "n_ps": 411,
+      "n_rep": 120,
+      "ps_win": {
+        "n_decided": 308,
+        "pw": 11,
+        "dw": 282,
+        "mixed": 15,
+        "strict_pct": 3.6,
+        "broad_pct": 8.4
+      },
+      "rep_win": {
+        "n_decided": 83,
+        "pw": 25,
+        "dw": 41,
+        "mixed": 17,
+        "strict_pct": 30.1,
+        "broad_pct": 50.6
+      }
+    }
+  },
+  "mtd": {
+    "All": {
+      "n_decided": 972,
+      "n_mtd": 594,
+      "mtd_share": 61.1,
+      "mtd_strict": 9.6,
+      "mtd_broad": 19.5
+    },
+    "P1": {
+      "n_decided": 465,
+      "n_mtd": 281,
+      "mtd_share": 60.4,
+      "mtd_strict": 13.9,
+      "mtd_broad": 25.3
+    },
+    "P2": {
+      "n_decided": 116,
+      "n_mtd": 70,
+      "mtd_share": 60.3,
+      "mtd_strict": 2.9,
+      "mtd_broad": 18.6
+    },
+    "P3": {
+      "n_decided": 391,
+      "n_mtd": 243,
+      "mtd_share": 62.1,
+      "mtd_strict": 6.6,
+      "mtd_broad": 13.2
+    },
+    "accom_PARKING": {
+      "n_decided": 25,
+      "pw": 11,
+      "dw": 10,
+      "mixed": 4,
+      "strict_pct": 44.0,
+      "broad_pct": 60.0
+    },
+    "accom_ASSISTANCE_ANIMAL": {
+      "n_decided": 45,
+      "pw": 12,
+      "dw": 26,
+      "mixed": 7,
+      "strict_pct": 26.7,
+      "broad_pct": 42.2
+    },
+    "accom_SOBER_LIVING_GROUP_HOME_ZONING": {
+      "n_decided": 30,
+      "pw": 9,
+      "dw": 15,
+      "mixed": 6,
+      "strict_pct": 30.0,
+      "broad_pct": 50.0
+    },
+    "accom_COMMUNICATION_ACCOMMODATION": {
+      "n_decided": 15,
+      "pw": 3,
+      "dw": 10,
+      "mixed": 2,
+      "strict_pct": 20.0,
+      "broad_pct": 33.3
+    },
+    "accom_EVICTION_DEFENSE": {
+      "n_decided": 30,
+      "pw": 2,
+      "dw": 26,
+      "mixed": 2,
+      "strict_pct": 6.7,
+      "broad_pct": 13.3
+    },
+    "accom_POLICY_EXCEPTION": {
+      "n_decided": 111,
+      "pw": 14,
+      "dw": 82,
+      "mixed": 15,
+      "strict_pct": 12.6,
+      "broad_pct": 26.1
+    },
+    "accom_STRUCTURAL_MODIFICATION": {
+      "n_decided": 49,
+      "pw": 7,
+      "dw": 34,
+      "mixed": 8,
+      "strict_pct": 14.3,
+      "broad_pct": 30.6
+    },
+    "accom_DISCRIMINATION_PRIMARY": {
+      "n_decided": 209,
+      "pw": 13,
+      "dw": 179,
+      "mixed": 17,
+      "strict_pct": 6.2,
+      "broad_pct": 14.4
+    },
+    "accom_TRANSFER": {
+      "n_decided": 47,
+      "pw": 4,
+      "dw": 38,
+      "mixed": 5,
+      "strict_pct": 8.5,
+      "broad_pct": 19.1
+    },
+    "circuit_1st Circuit": {
+      "n_decided": 26,
+      "pw": 9,
+      "dw": 15,
+      "mixed": 2,
+      "strict_pct": 34.6,
+      "broad_pct": 42.3
+    },
+    "circuit_2nd Circuit": {
+      "n_decided": 135,
+      "pw": 11,
+      "dw": 115,
+      "mixed": 9,
+      "strict_pct": 8.1,
+      "broad_pct": 14.8
+    },
+    "circuit_3rd Circuit": {
+      "n_decided": 104,
+      "pw": 8,
+      "dw": 84,
+      "mixed": 12,
+      "strict_pct": 7.7,
+      "broad_pct": 19.2
+    },
+    "circuit_4th Circuit": {
+      "n_decided": 71,
+      "pw": 3,
+      "dw": 60,
+      "mixed": 8,
+      "strict_pct": 4.2,
+      "broad_pct": 15.5
+    },
+    "circuit_5th Circuit": {
+      "n_decided": 53,
+      "pw": 10,
+      "dw": 37,
+      "mixed": 6,
+      "strict_pct": 18.9,
+      "broad_pct": 30.2
+    },
+    "circuit_6th Circuit": {
+      "n_decided": 63,
+      "pw": 10,
+      "dw": 46,
+      "mixed": 7,
+      "strict_pct": 15.9,
+      "broad_pct": 27.0
+    },
+    "circuit_7th Circuit": {
+      "n_decided": 63,
+      "pw": 13,
+      "dw": 42,
+      "mixed": 8,
+      "strict_pct": 20.6,
+      "broad_pct": 33.3
+    },
+    "circuit_8th Circuit": {
+      "n_decided": 33,
+      "pw": 3,
+      "dw": 28,
+      "mixed": 2,
+      "strict_pct": 9.1,
+      "broad_pct": 15.2
+    },
+    "circuit_9th Circuit": {
+      "n_decided": 155,
+      "pw": 12,
+      "dw": 122,
+      "mixed": 21,
+      "strict_pct": 7.7,
+      "broad_pct": 21.3
+    },
+    "circuit_10th Circuit": {
+      "n_decided": 43,
+      "pw": 5,
+      "dw": 30,
+      "mixed": 8,
+      "strict_pct": 11.6,
+      "broad_pct": 30.2
+    },
+    "circuit_11th Circuit": {
+      "n_decided": 45,
+      "pw": 6,
+      "dw": 36,
+      "mixed": 3,
+      "strict_pct": 13.3,
+      "broad_pct": 20.0
+    }
+  },
+  "interactive_process": {
+    "All": {
+      "total": 1849,
+      "ip_discussed": 200,
+      "ip_pct": 10.8,
+      "ip_yes_win": {
+        "n_decided": 185,
+        "pw": 52,
+        "dw": 94,
+        "mixed": 39,
+        "strict_pct": 28.1,
+        "broad_pct": 49.2
+      },
+      "ip_no_win": {
+        "n_decided": 1242,
+        "pw": 173,
+        "dw": 936,
+        "mixed": 133,
+        "strict_pct": 13.9,
+        "broad_pct": 24.6
+      }
+    },
+    "P1": {
+      "total": 630,
+      "ip_discussed": 57,
+      "ip_pct": 9.0,
+      "ip_yes_win": {
+        "n_decided": 55,
+        "pw": 15,
+        "dw": 32,
+        "mixed": 8,
+        "strict_pct": 27.3,
+        "broad_pct": 41.8
+      },
+      "ip_no_win": {
+        "n_decided": 409,
+        "pw": 68,
+        "dw": 293,
+        "mixed": 48,
+        "strict_pct": 16.6,
+        "broad_pct": 28.4
+      }
+    },
+    "P2": {
+      "total": 159,
+      "ip_discussed": 11,
+      "ip_pct": 6.9,
+      "ip_yes_win": {
+        "n_decided": 9,
+        "pw": 3,
+        "dw": 2,
+        "mixed": 4,
+        "strict_pct": 33.3,
+        "broad_pct": 77.8
+      },
+      "ip_no_win": {
+        "n_decided": 107,
+        "pw": 6,
+        "dw": 90,
+        "mixed": 11,
+        "strict_pct": 5.6,
+        "broad_pct": 15.9
+      }
+    },
+    "P3": {
+      "total": 531,
+      "ip_discussed": 41,
+      "ip_pct": 7.7,
+      "ip_yes_win": {
+        "n_decided": 32,
+        "pw": 4,
+        "dw": 19,
+        "mixed": 9,
+        "strict_pct": 12.5,
+        "broad_pct": 40.6
+      },
+      "ip_no_win": {
+        "n_decided": 359,
+        "pw": 32,
+        "dw": 304,
+        "mixed": 23,
+        "strict_pct": 8.9,
+        "broad_pct": 15.3
+      }
+    }
+  },
+  "design_construction": {
+    "All": {
+      "dc_count": 59,
+      "dc_decided": 36,
+      "dc_win": {
+        "n_decided": 36,
+        "pw": 15,
+        "dw": 9,
+        "mixed": 12,
+        "strict_pct": 41.7,
+        "broad_pct": 75.0
+      },
+      "dc_share": 3.2
+    },
+    "P1": {
+      "dc_count": 23,
+      "dc_decided": 13,
+      "dc_win": {
+        "n_decided": 13,
+        "pw": 4,
+        "dw": 5,
+        "mixed": 4,
+        "strict_pct": 30.8,
+        "broad_pct": 61.5
+      },
+      "dc_share": 3.7
+    },
+    "P2": {
+      "dc_count": 3,
+      "dc_decided": 1,
+      "dc_win": {
+        "n_decided": 1,
+        "pw": 1,
+        "dw": 0,
+        "mixed": 0,
+        "strict_pct": 100.0,
+        "broad_pct": 100.0
+      },
+      "dc_share": 1.9
+    },
+    "P3": {
+      "dc_count": 9,
+      "dc_decided": 7,
+      "dc_win": {
+        "n_decided": 7,
+        "pw": 4,
+        "dw": 1,
+        "mixed": 2,
+        "strict_pct": 57.1,
+        "broad_pct": 85.7
+      },
+      "dc_share": 1.7
+    }
+  },
+  "iqbal": {
+    "mtd_citation_rate": 81.5,
+    "All_yes": {
+      "n_decided": 751,
+      "pw": 97,
+      "dw": 565,
+      "mixed": 89,
+      "strict_pct": 12.9,
+      "broad_pct": 24.8
+    },
+    "All_no": {
+      "n_decided": 677,
+      "pw": 129,
+      "dw": 465,
+      "mixed": 83,
+      "strict_pct": 19.1,
+      "broad_pct": 31.3
+    },
+    "P1_yes": {
+      "n_decided": 246,
+      "pw": 38,
+      "dw": 176,
+      "mixed": 32,
+      "strict_pct": 15.4,
+      "broad_pct": 28.5
+    },
+    "P1_no": {
+      "n_decided": 219,
+      "pw": 45,
+      "dw": 150,
+      "mixed": 24,
+      "strict_pct": 20.5,
+      "broad_pct": 31.5
+    },
+    "P2_yes": {
+      "n_decided": 63,
+      "pw": 2,
+      "dw": 52,
+      "mixed": 9,
+      "strict_pct": 3.2,
+      "broad_pct": 17.5
+    },
+    "P2_no": {
+      "n_decided": 53,
+      "pw": 7,
+      "dw": 40,
+      "mixed": 6,
+      "strict_pct": 13.2,
+      "broad_pct": 24.5
+    },
+    "P3_yes": {
+      "n_decided": 210,
+      "pw": 16,
+      "dw": 181,
+      "mixed": 13,
+      "strict_pct": 7.6,
+      "broad_pct": 13.8
+    },
+    "P3_no": {
+      "n_decided": 181,
+      "pw": 20,
+      "dw": 142,
+      "mixed": 19,
+      "strict_pct": 11.0,
+      "broad_pct": 21.5
+    }
+  }
+}

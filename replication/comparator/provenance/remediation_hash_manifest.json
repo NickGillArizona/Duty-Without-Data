@@ -1,0 +1,145 @@
+{
+  "generated_utc": "2026-07-07T23:44:57+00:00",
+  "files": [
+    {
+      "file": "replication/comparator/RATIONALE_CODED_ROWS_CONSENSUS.csv",
+      "sha256": "055415a0c48d63c9628971c0fa0ad1ecb44369e4a34f9f3daa356c33274031b4",
+      "bytes": 705517
+    },
+    {
+      "file": "replication/comparator/RATIONALE_SUMMARY_CONSENSUS.csv",
+      "sha256": "0489be282f7763c1963b4800796676b0d69d776045cf9d1be4c7e27cca023038",
+      "bytes": 1608
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/audit/AUDIT_RECOMPUTE.json",
+      "sha256": "bdb951e959d91561d3b660f18d141413995965dac78679cfcfe5dfb4b90e5d37",
+      "bytes": 11411
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/courtlistener_recall/anchor_fha_all_page1_raw.json",
+      "sha256": "e2b765ec925c62d1bffcc0fa9e133a107b0e867377dd91c76faa0b686fd6c5d4",
+      "bytes": 50374
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/courtlistener_recall/disability_arm_page1_raw.json",
+      "sha256": "6b005b36cfbfdad6b1614e68e42caa55715d36d0093a83efd45cf45013dd8dd5",
+      "bytes": 47101
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/courtlistener_recall/race_arm_narrow_page1_raw.json",
+      "sha256": "1d8859fc24460ad5995b8993e79e41bfecd214f373d83137ea0a9af7d15b9896",
+      "bytes": 44341
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/courtlistener_recall/race_arm_page1_raw.json",
+      "sha256": "cb12cf7bbf8b182701de20ce548df945de03067aecc99bae3e4f3d7d44c0639f",
+      "bytes": 45177
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/courtlistener_recall/recall_results.json",
+      "sha256": "a989e5759f51ee3c1f5f21a547d4a4052449577a3acc6de901347081d199b475",
+      "bytes": 3128
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/courtlistener_recall/RECALL_RESULTS.md",
+      "sha256": "c7b238dc8716fcd9f8c7c28279536daf55d74e26602931f7e96addb2744f61a3",
+      "bytes": 4001
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/consensus_stage/classguess_flash_raw_results.json",
+      "sha256": "80391c4ef09e5eca48096c4f0704da68664b0ec293460162b902add8e50536ee",
+      "bytes": 599906
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/consensus_stage/deepseek_raw_results.json",
+      "sha256": "719556a368b3b51c99d603a20ee836e93dc3a9a862fe5cbf2fb2887c0e36ee77",
+      "bytes": 781840
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/consensus_stage/glm_raw_results.json",
+      "sha256": "6ad0f6165ca1058af2575c16a0d84433c8f9767620e14c6d7e8d5b82c900e85c",
+      "bytes": 812770
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/consensus_stage/kimi_raw_results.json",
+      "sha256": "ced85028edc638b2f4b962229d143a01049ebc834f114d80d98aefc07ce10796",
+      "bytes": 942062
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/consensus_stage/consensus_stats.json",
+      "sha256": "4f2d20d33616fc8670ee7af67bc9e92a2e9f2c725cbb6fc07fc7128148509fef",
+      "bytes": 1748
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/consensus_stage/consensus_inputs.json",
+      "sha256": "5f3a1ed73744565a309ab8ee5a76bddef2c1580cf4d52a8ff3b2c1a08dd97e84",
+      "bytes": 1067713
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/consensus_stage/consensus_inputs_summary.json",
+      "sha256": "fa3f0bf776f0c0f0f07b93b2eabd59f34cd91bd2b4935372540b7351a2f09059",
+      "bytes": 370
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/consensus_stage/consensus_rationale_prompt.txt",
+      "sha256": "64102c4c833ed7b7655387fc23ea0a2c0242f0862a416f2aa3b4a14c5f0ab61e",
+      "bytes": 3754
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/consensus_stage/reread_minimax_raw_results.json",
+      "sha256": "3d8f9d07e85dcf8d076d3c415d5d4ebfd872550500f36edbc1f70dedbb9ea7ab",
+      "bytes": 271916
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/consensus_stage/undetermined_consensus.json",
+      "sha256": "968428db3222adf70317ca49f71fb74ce8c92c36058503c3c11c15b44f1049cf",
+      "bytes": 52812
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/consensus_stage/undetermined_deepseek_raw_results.json",
+      "sha256": "1aa0686bc6c5e1d73800ceed4faaad65d696e4968fd2ed8204f011fd9db20f13",
+      "bytes": 271872
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/consensus_stage/undetermined_glm_raw_results.json",
+      "sha256": "8f17396afdbf6c7c6f6669342d53e0fca1c58c8dc5e2b212b96af350ccb97541",
+      "bytes": 256887
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/consensus_stage/undetermined_inputs.json",
+      "sha256": "c474c8caf54bff2e45bc67c95b332c4a7b5fa13be73f30dbee9339c379672d71",
+      "bytes": 286505
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/consensus_stage/undetermined_kimi_raw_results.json",
+      "sha256": "47f831d24b1d4cd516db246b56d8d26ee1d8412bdf2ce29284ee6acdba83d55a",
+      "bytes": 289310
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/scripts/audit_recompute.py",
+      "sha256": "eafffcf37d8762f84221ab7a9ed21ba862d6c4941b6380cefa02d98341ac3ae4",
+      "bytes": 17356
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/scripts/consensus_build_inputs.py",
+      "sha256": "b5f56a238d9a79905a3870959f549dd60514433c288a9a561ad7dc83c4d362c7",
+      "bytes": 6335
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/scripts/compute_consensus.py",
+      "sha256": "7aa2b67e7e5730bdd86c76eb43c390ee3c8218305fb126e475e8fe4db2033181",
+      "bytes": 13255
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/scripts/consensus_run_models.py",
+      "sha256": "10be361f38e3c63c70c011a2a43179dbf3b76630b4eb09e31e7547abaeeb2b09",
+      "bytes": 10823
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/scripts/recall_courtlistener.py",
+      "sha256": "2e55955b79040157544391336d2d042dfe489a5a53389f6f2276b2e42029234a",
+      "bytes": 5170
+    }
+  ]
+}

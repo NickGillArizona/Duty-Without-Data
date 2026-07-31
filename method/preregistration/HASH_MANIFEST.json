@@ -1,0 +1,129 @@
+{
+  "excluded": [
+    {
+      "path": "method/preregistration/HASH_MANIFEST.json",
+      "reason": "self"
+    }
+  ],
+  "file_count": 23,
+  "files": [
+    {
+      "bytes": 12500,
+      "path": "results/supporting/registered_analysis_results.json",
+      "sha256": "f00bc385fd9a1d0f8583888f40f3913a81a347bc17c81f56197138c9386ffa96"
+    },
+    {
+      "bytes": 2281,
+      "path": "results/supporting/institutional_participation.csv",
+      "sha256": "6da6692a35fc8feb416e9d8cfa9140f2e99458e6a401d3ee9f6d19c24a395521"
+    },
+    {
+      "bytes": 1342,
+      "path": "results/supporting/institutional_participation.md",
+      "sha256": "97400adf3e64b77eb30d842d5309a0af39bfe91419fd0687406c2b65eb90915b"
+    },
+    {
+      "bytes": 180,
+      "path": "results/supporting/org_churn_summary.csv",
+      "sha256": "f5526a3bf00d420c2f0d388c11c136435887bbd008228f2c1fda9d7ef029b103"
+    },
+    {
+      "bytes": 20967,
+      "path": "results/supporting/org_roster.csv",
+      "sha256": "c9e749d84a8fc6067635b1cad7f08ccb074375904cee929ed393a133f26b7de8"
+    },
+    {
+      "bytes": 4471,
+      "path": "results/supporting/baseline_verification.json",
+      "sha256": "6e39e2137241e50d656648a4e9c9edef25284d5ade419e41e2065c1403b17592"
+    },
+    {
+      "bytes": 909,
+      "path": "results/supporting/baseline_verification.md",
+      "sha256": "29f061f56dcb7961dc551e09434dd77196f8ce7ea47caa0d5e25648c477579ba"
+    },
+    {
+      "bytes": 52,
+      "path": "results/supporting/baseline_comparator_anchors.csv",
+      "sha256": "685b2966f1a914345956068036142442fe54d3e3e0da49f632a8429a7cd8957c"
+    },
+    {
+      "bytes": 1579,
+      "path": "results/supporting/baseline_institutional.csv",
+      "sha256": "e4af1dbc6e249c103a0875dac667c980a1b08c795caf0fd0c50238b2ac2c9824"
+    },
+    {
+      "bytes": 254,
+      "path": "results/supporting/baseline_represented.csv",
+      "sha256": "6e17ebb92b0f7204c7c4c95c65078699ef0a0fdae7b13254ff4120023e667617"
+    },
+    {
+      "bytes": 216,
+      "path": "results/supporting/pretrend_decision_rule.csv",
+      "sha256": "8a6fc59bd8ce5568d7d024bc9b5abedfd6293122b26180c80d82a60bbf9b2f6d"
+    },
+    {
+      "bytes": 1033,
+      "path": "results/supporting/pretrend_p1_split.csv",
+      "sha256": "93f739a4dc202fee74f73bb80a213cafb9aad6bbbbe6b0cf718018f3d438067e"
+    },
+    {
+      "bytes": 681,
+      "path": "results/supporting/pretrend_p1_split.md",
+      "sha256": "b93981a01e0991f2de5460a512f51d4b0dcdfa3f8f435604b0259224be313d72"
+    },
+    {
+      "bytes": 3041,
+      "path": "method/preregistration/PROVENANCE_FHIP.md",
+      "sha256": "67e5e80bc160c323d4b785c4a174dc7c17aaa9bf07c4cea7dd984c462b190b19"
+    },
+    {
+      "bytes": 5268,
+      "path": "method/preregistration/REGISTRATION.md",
+      "sha256": "54e6d3b906287c0378ddae5285b30b4cb88fb741e2085ee71a460891103e35ae"
+    },
+    {
+      "bytes": 15224,
+      "path": "scripts/compute_registered_baselines.py",
+      "sha256": "df95a551e47bb1d685690c08bf0cfa05d6ecefb95d6db44b5475010785e50dc5"
+    },
+    {
+      "bytes": 10837,
+      "path": "scripts/recompute_verification.py",
+      "sha256": "c16b75e482df41f6d2ca365e5529405e15bcc2a03c129d55c238c1a5a1dd6500"
+    },
+    {
+      "bytes": 49337,
+      "path": "scripts/strengthening_analysis.py",
+      "sha256": "99d557f0487ec4a66fde0e64a67f452b0f466cb95c2c0846bd9a18f08ce2a45c"
+    },
+    {
+      "bytes": 33093,
+      "path": "results/supporting/selection_audit.csv",
+      "sha256": "02375dfad7ab2f41bec0e34248bc05365c2e9a996f8063fefaf4650645c28e15"
+    },
+    {
+      "bytes": 1413,
+      "path": "results/supporting/selection_audit.md",
+      "sha256": "e31d5f33992a183dd81d03a8532a8aaf950c1b686865a0410b2731534aba8b3c"
+    },
+    {
+      "bytes": 2955,
+      "path": "results/supporting/selection_audit_shifts.csv",
+      "sha256": "c0d77c6b15f91a2b3dd16bb6e5108dadf9ab4e78e0686359d557292ac62421f5"
+    },
+    {
+      "bytes": 629,
+      "path": "method/preregistration/session_baseline.json",
+      "sha256": "0c84dc8c2f59b6eae0478ebc54e763a7bfc4561053fdd3259228a9c9ed0e0964"
+    },
+    {
+      "bytes": 2255,
+      "path": "results/supporting/registered_verification_results.txt",
+      "sha256": "63d8929f80710ab4fcabf6263bebb363c47fe199fb35d136eb01072410c708b6"
+    }
+  ],
+  "generated_at": "2026-07-08T09:59:07-07:00",
+  "root": ".",
+  "path_convention": "repository-relative; the registered cohort no longer shares one directory (registration and session baseline under method/preregistration/, registered outputs under results/supporting/, runners under scripts/)"
+}

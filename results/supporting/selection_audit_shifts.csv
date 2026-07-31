@@ -1,0 +1,46 @@
+dimension,category,p1_share,p3_share,shift_pp,abs_shift_pp
+bucket_mix,DT-PURE,0.102273,0.172840,7.057,7.057
+bucket_mix,MIXED,0.301136,0.320988,1.985,1.985
+bucket_mix,OTHER,0.062500,0.037037,-2.546,2.546
+bucket_mix,RD-PURE,0.534091,0.469136,-6.495,6.495
+court_circuit_mix,10th Circuit,0.045455,0.098765,5.331,5.331
+court_circuit_mix,11th Circuit,0.096591,0.098765,0.217,0.217
+court_circuit_mix,1st Circuit,0.005682,0.024691,1.901,1.901
+court_circuit_mix,2nd Circuit,0.085227,0.123457,3.823,3.823
+court_circuit_mix,3rd Circuit,0.147727,0.135802,-1.192,1.192
+court_circuit_mix,4th Circuit,0.045455,0.061728,1.627,1.627
+court_circuit_mix,5th Circuit,0.113636,0.098765,-1.487,1.487
+court_circuit_mix,6th Circuit,0.107955,0.086420,-2.153,2.153
+court_circuit_mix,7th Circuit,0.085227,0.061728,-2.350,2.350
+court_circuit_mix,8th Circuit,0.005682,0.074074,6.839,6.839
+court_circuit_mix,9th Circuit,0.210227,0.135802,-7.442,7.442
+court_circuit_mix,D.C. Circuit,0.011364,0.000000,-1.136,1.136
+court_circuit_mix,MISSING,0.039773,0.000000,-3.977,3.977
+defendant_type_mix,DEVELOPER,0.022727,0.024691,0.196,0.196
+defendant_type_mix,GOVERNMENT,0.011364,0.024691,1.333,1.333
+defendant_type_mix,GROUP_HOME_OPERATOR,0.005682,0.000000,-0.568,0.568
+defendant_type_mix,HOA_CONDO_ASSN,0.119318,0.123457,0.414,0.414
+defendant_type_mix,HOUSING_AUTHORITY,0.085227,0.074074,-1.115,1.115
+defendant_type_mix,INDIVIDUAL_TENANT,0.005682,0.000000,-0.568,0.568
+defendant_type_mix,LANDLORD,0.011364,0.012346,0.098,0.098
+defendant_type_mix,MUNICIPALITY,0.284091,0.370370,8.628,8.628
+defendant_type_mix,OTHER,0.056818,0.037037,-1.978,1.978
+defendant_type_mix,PRIVATE_LANDLORD,0.255682,0.197531,-5.815,5.815
+defendant_type_mix,PROPERTY_MANAGEMENT,0.130682,0.135802,0.512,0.512
+defendant_type_mix,PROPERTY_MANAGER,0.005682,0.000000,-0.568,0.568
+defendant_type_mix,REAL_ESTATE_AGENT,0.005682,0.000000,-0.568,0.568
+institutional_share,institutional,0.414773,0.370370,-4.440,4.440
+institutional_share,noninstitutional,0.585227,0.629630,4.440,4.440
+procedural_posture_mix,ADMINISTRATIVE_REVIEW,0.011364,0.000000,-1.136,1.136
+procedural_posture_mix,APPEAL,0.164773,0.185185,2.041,2.041
+procedural_posture_mix,DEFAULT_JUDGMENT,0.005682,0.024691,1.901,1.901
+procedural_posture_mix,DISCOVERY,0.005682,0.012346,0.666,0.666
+procedural_posture_mix,MOTION_TO_DISMISS,0.392045,0.308642,-8.340,8.340
+procedural_posture_mix,OTHER,0.017045,0.024691,0.765,0.765
+procedural_posture_mix,OTHER_PROCEDURAL,0.039773,0.086420,4.665,4.665
+procedural_posture_mix,PRELIMINARY_INJUNCTION,0.068182,0.061728,-0.645,0.645
+procedural_posture_mix,SETTLEMENT_CONSENT,0.005682,0.000000,-0.568,0.568
+procedural_posture_mix,SUMMARY_JUDGMENT,0.232955,0.283951,5.100,5.100
+procedural_posture_mix,TRIAL,0.056818,0.012346,-4.447,4.447
+section_504_ra_overlay_share,is_ra_case_false,0.255682,0.308642,5.296,5.296
+section_504_ra_overlay_share,is_ra_case_true,0.744318,0.691358,-5.296,5.296

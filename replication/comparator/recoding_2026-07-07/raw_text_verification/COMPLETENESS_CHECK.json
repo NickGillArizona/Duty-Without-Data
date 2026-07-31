@@ -1,0 +1,137 @@
+[
+  {
+    "check": "r1_input_composition",
+    "status": "PASS",
+    "detail": "{'A_row': 26, 'no_consensus': 6, 'misfilter': 4, 'queue_bc': 24, 'control_bc': 36}"
+  },
+  {
+    "check": "r2_input_count",
+    "status": "PASS",
+    "detail": "476 rows"
+  },
+  {
+    "check": "text_paths_exist",
+    "status": "PASS",
+    "detail": "0 missing"
+  },
+  {
+    "check": "r1_sonnet5_read_coverage",
+    "status": "PASS",
+    "detail": "96/96 ok (100.0%); missing_rows=0"
+  },
+  {
+    "check": "r1_sonnet5_schema",
+    "status": "PASS",
+    "detail": "0 invalid ok-reads"
+  },
+  {
+    "check": "r1_sonnet5_quote_match_rate",
+    "status": "PASS",
+    "detail": "84/96 verbatim-verified (87.5%)"
+  },
+  {
+    "check": "r1_gpt55_read_coverage",
+    "status": "PASS",
+    "detail": "96/96 ok (100.0%); missing_rows=0"
+  },
+  {
+    "check": "r1_gpt55_schema",
+    "status": "PASS",
+    "detail": "0 invalid ok-reads"
+  },
+  {
+    "check": "r1_gpt55_quote_match_rate",
+    "status": "PASS",
+    "detail": "84/96 verbatim-verified (87.5%)"
+  },
+  {
+    "check": "r1_gemini31pro_read_coverage",
+    "status": "PASS",
+    "detail": "96/96 ok (100.0%); missing_rows=0"
+  },
+  {
+    "check": "r1_gemini31pro_schema",
+    "status": "PASS",
+    "detail": "0 invalid ok-reads"
+  },
+  {
+    "check": "r1_gemini31pro_quote_match_rate",
+    "status": "PASS",
+    "detail": "83/96 verbatim-verified (86.5%)"
+  },
+  {
+    "check": "r1_rows_with_2plus_reads",
+    "status": "PASS",
+    "detail": "96/96 rows have >=2 ok reads"
+  },
+  {
+    "check": "r2_kimi_read_coverage",
+    "status": "PASS",
+    "detail": "476/476 ok (100.0%); missing_rows=0"
+  },
+  {
+    "check": "r2_kimi_schema",
+    "status": "PASS",
+    "detail": "0 invalid ok-reads"
+  },
+  {
+    "check": "r2_kimi_quote_match_rate",
+    "status": "PASS",
+    "detail": "366/476 verbatim-verified (76.9%)"
+  },
+  {
+    "check": "r2_glm_read_coverage",
+    "status": "PASS",
+    "detail": "475/476 ok (99.8%); missing_rows=0"
+  },
+  {
+    "check": "r2_glm_schema",
+    "status": "PASS",
+    "detail": "0 invalid ok-reads"
+  },
+  {
+    "check": "r2_glm_quote_match_rate",
+    "status": "PASS",
+    "detail": "396/475 verbatim-verified (83.4%)"
+  },
+  {
+    "check": "r2_deepseek_read_coverage",
+    "status": "PASS",
+    "detail": "476/476 ok (100.0%); missing_rows=0"
+  },
+  {
+    "check": "r2_deepseek_schema",
+    "status": "PASS",
+    "detail": "0 invalid ok-reads"
+  },
+  {
+    "check": "r2_deepseek_quote_match_rate",
+    "status": "PASS",
+    "detail": "386/476 verbatim-verified (81.1%)"
+  },
+  {
+    "check": "r2_rows_with_2plus_reads",
+    "status": "PASS",
+    "detail": "476/476 rows have >=2 ok reads"
+  },
+  {
+    "check": "adjudication_closure",
+    "status": "PASS",
+    "detail": "28/28 adjudicated; unresolved=[]"
+  },
+  {
+    "check": "prompt_hash_registered_verification_recode_prompt.txt",
+    "status": "PASS",
+    "detail": "1cace1c4c74ac519"
+  },
+  {
+    "check": "prompt_hash_registered_verification_adjudicator_prompt.txt",
+    "status": "PASS",
+    "detail": "08db3ec3ec000d4c"
+  },
+  {
+    "check": "manifest_written",
+    "status": "PASS",
+    "detail": "15 files hashed"
+  }
+]

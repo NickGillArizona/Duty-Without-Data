@@ -1,0 +1,2837 @@
+[
+  {
+    "source_file": "10166992_2024_Harvey v. Maxwell _ Morgan P.C._azd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10169656_2024_Chhang v. West Coast USA Properties LLC_caed",
+    "representation": "REPRESENTED",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10178074_2024_Hauanio v. The Michaels Organization_hid",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10178312_2024_Doe v. University Of Idaho_idd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10185180_2024_Doll v. Trellis Walnut Towers LLC_mnd",
+    "representation": "REPRESENTED",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10193512_2024_Hendricks v. Urban _ Economic Development_nynd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "NO_FAILURE_DEFENDANT_WIN",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10193828_2024_Williams v. Settle Homes_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10194816_2024_Moore v. City of New York_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10195167_2024_Goldstein v. The Bowery_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10195352_2024_Hall v. Crestwood Lake Section 8 Holding Corporation_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "FACTUAL_DETAIL",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10196929_2024_Cavallo v. HPD Section 8_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10197106_2024_Avila v. New York City Housing Authority_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10198385_2024_Chapman v. Davis_ohsd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10198762_2024_Leonard v. Hocking Metropolitan Housing Authority_ohsd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10199481_2024_Blackburn v. Webb_okwd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "NO_FAILURE_DEFENDANT_WIN",
+      "glm": "NO_FAILURE_DEFENDANT_WIN",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "NO_FAILURE_DEFENDANT_WIN",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "NO_FAILURE",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10213380_2021_Payne v. City of San Antonio, Texas_txwd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10221400_2020_Banks v. Gates Hudson _ Associates, Inc._vaed",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10221540_2020_Fedynich v. Boulder Housing Partners_vaed",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10228861_2023_Allen v. Virgin Islands Housing Authority_vid",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "CAUSAL_LINK",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "CAUSAL_LINK",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10243211_2023_Martinez v. Pierce County_wawd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "PROCEDURAL_GATEWAY",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10252595_2023_United States of America v. City of Milwaukee_wied",
+    "representation": "REPRESENTED",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10256265_2022_Kummerow, Andrew v. Ohawcha.org_wiwd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10286748_2024_Jett v. The Country Acres Association of Columbus County LTD_nced",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "CAUSAL_LINK"
+    },
+    "ensemble_family": "CAUSAL_LINK",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10299118_2024_Ryall v. Normandy Village Apts. Inc._lamd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10302454_2024_Avila v. ACACIA Network, Inc._nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "CAUSAL_LINK",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "CAUSAL_LINK"
+    },
+    "ensemble_family": "CAUSAL_LINK",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10314935_2025_Feliciano v. Aguirre_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10316354_2025_Webb v. Carrington Mortgage Services, LLC_mdd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10320153_2025_Hatcher v. Yang_okwd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10338845_2025_Lee v. Omaha Housing Authority Foundation Inc._ned",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10352961_2025_BANKS v. ROSS_ncmd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10352962_2025_BANKS v. ROSS_ncmd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10365173_2025_Dave's Driving School LLC v. Utah Department of Public Safety_utd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10366099_2025_Resources for Human Development, Inc. v. Lower Providence Township_paed",
+    "representation": "REPRESENTED",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10368714_2025_Eldridge v. City of Alton, Illinois_ilsd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10368837_2025_Scoggins v. Falcon Court_caed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "FACTUAL_DETAIL",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10377601_2025_TWYMAN v. RECAP PA HOLDINGS, LLC_paed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10380212_2025_Fontaine v. CGI_nyed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10397674_2025_TWYMAN v. RECAP PA HOLDINGS, LLC_paed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10397848_2025_(PS) Faruki v. Housing Authority for the County of Sacramento_caed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "CAUSAL_LINK",
+      "glm": "MIXED",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10587034_2025_APPELGREN v. ISLAND HOSPITALITY MANAGEMENT VII, LLC_njd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "CAUSAL_LINK",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "CAUSAL_LINK",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10592491_2025_Turner v. Autumn Lake Property Owners Association, Inc._txsd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10620529_2025_Craven, Amanda v. Knaak, Karyn_wiwd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10631726_2025_Ballentine v. Cares for the Homeless_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "NO_FAILURE_PLAINTIFF_WIN",
+      "deepseek": "NO_FAILURE_PLAINTIFF_WIN"
+    },
+    "ensemble_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "NO_FAILURE",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10631949_2025_MAY v. ERIE COUNTY_pawd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10632353_2025_Waheed v. Ballon Stoll Bader and Nadler PC_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "UNCLEAR",
+      "deepseek": "NO_FAILURE_PLAINTIFF_WIN"
+    },
+    "ensemble_family": null,
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "split"
+  },
+  {
+    "source_file": "10634768_2025_Thompson v. PennyMac Loan Services LLC_mad",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10643981_2025_Fussell v. Sun Vista RV Resort LLC_azd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "UNCLEAR",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10651009_2025_Bjurling v. Johnson_wawd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10656302_2025_Hall-Johnson v. City and County of San Francisco_cand",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10659648_2025_Ndimbie v. Southwest Hammocks, lllp._flsd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10665957_2025_Hobbs, Sr v. Goncharko_ilnd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10666591_2025_Watkins v. Chau_mad",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "TRANSLATION",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10672101_2025_Prendergast v. Wode Cooper Companies Atcheson Place Lofts_ohsd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10678137_2025_Ogando v. Napolitano_nyed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10690845_2025_Gokhberg v. 200 Corbin Owners Corp._nyed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10705497_2025_Abraham Shitrai Israel and Sarah Iris Israel v. Barbara Guinn, et al._nynd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10708675_2025_J. F. and on behalf of her adolescents and mother v. LUIS VENTURA_txnd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "FACTUAL_DETAIL",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10710808_2025_Dillion M. Forrest v. State of Indiana, APS, BDDS, Margaret Timmel, T.A. Enterprise, New Hope Services, Comm. Integration _ Habilitation, Katie Huff, K_W, Todd Paxton, John Wernert, Rescare Community Living",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10716332_2025_Damia Bjurling v. Alec Johnson, et al._wawd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10731021_2025_Asya Weston, et al. v. WIP 800 J Lofts, et al._caed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "MIXED",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10731728_2025_Irish Horton v. Beacon Woods East Master Association, Inc., Ronnie Armstrong, and Christopher Skene_flmd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "NO_FAILURE_PLAINTIFF_WIN",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10740678_2025_John R. Fouts v. United States of America et al._kywd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10754452_2025_Michael S. McLain and Rosalee Janette McLain v. Board of County Commissioners of Sedgwick County, Kansas, et al._ksd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10755962_2025_Bernard T. Anderson Bey v. Roc Nation LLC, et al._nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "PROCEDURAL_GATEWAY",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10757487_2025_Sehra Waheed v. MLMIC Insurance Company; Sonia Kim; Michael Terrani; Garden OBGYN of East 67th Street; Bethpage Medical, PLLC, d_b_a Garden OBGYN_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10765288_2025_Johnny Moffett v. Columbia Manor et al._wawd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "FACTUAL_DETAIL",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10766941_2025_Valery Kantsepolsky v. River Shores Association, Inc._flsd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "NO_FAILURE_PLAINTIFF_WIN",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "NO_FAILURE",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10767966_2025_Angel Lopez and Kazue Koizumi v. Edward Pec, et al._njd",
+    "representation": "REPRESENTED",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "MIXED",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10772814_2026_Karen Sam _ Robert Sam v. Dekalb Housing Authority, et al._ilnd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10776210_2026_Bolima Tafah et al. v. Lake Village Townhomes et al._mdd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10776617_2026_Daniel T. Doria v. Happy Jack Lodge LLC, et al._azd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10785621_2026_Vladik Uchikura, et al. v. Clark County Properties LP, et al._azd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10787023_2026_United States of America v. Douglas S. Waterbury, Carol A. Waterbury, E_A Management Co., and Ontario Realty, Inc._nynd",
+    "representation": "REPRESENTED",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "NO_FAILURE_DEFENDANT_WIN",
+      "glm": "NO_FAILURE_DEFENDANT_WIN",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "NO_FAILURE_DEFENDANT_WIN",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "NO_FAILURE",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10795873_2026_Bianca Bates v. Amin Habeeb, Marisol Bassit, and Iron Valley Real Estate_pamd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "10804889_2026_Perry v. Encore At Blvd One_ca10",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "UNCLEAR",
+      "glm": "UNCLEAR",
+      "deepseek": "UNCLEAR"
+    },
+    "ensemble_family": "UNCLEAR",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10805317_2026_Jameerah Ware, Amira Ware, and Cheryl Vaughn v. A and K Properties of SC, Inc. and Sheriff Phillip E. Thompson_scd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "PROCEDURAL_GATEWAY",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "10805479_2026_Jlyn Bryant et al. v. Tinker Federal Credit Union_okwd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "11267541 - HERBOZO v. Fernandez",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "TRANSLATION",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "11267545 - Taylor v. Royal",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "11267550 - Pella v. ATLANTIC COUNTY DEPARTMENT OF FAMILY AND COMMUNITY DEVELOPMENT",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "11267568 - Baker v. THE EMERALD CONDOS",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "11267578 - Knight v. MACON HOUSING AUTHORITY",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "11267595 - Chavous v. HOUSING VISIONS UNLIMITED, INC.",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "PROCEDURAL_GATEWAY",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "11267610 - HALL-JOHNSON v. City and County of San Francisco",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "11267626 - Lepp v. Mallet",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "CAUSAL_LINK",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "CAUSAL_LINK",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "11267636 - APPELGREN v. ISLAND HOSPITALITY MANAGEMENT VII, LLC",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "CAUSAL_LINK",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "CAUSAL_LINK"
+    },
+    "ensemble_family": "CAUSAL_LINK",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "11267648 - Resources for Human Development, Inc. v. LOWER PROVIDENCE TOWNSHIP",
+    "representation": "REPRESENTED",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "4110396_2016_Abdus-Sabur v. Corrections Corporation of America_dcd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "6499202_2022_Staton v. Vesta Corporation_dcd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "7230859_2015_Hoostein v. Mental Health Ass'n_mad",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "7230918_2015_Holy Ghost Revival Ministries v. City of Marysville_wawd",
+    "representation": "REPRESENTED",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "7237363_2016_Logan v. Matveevskii_nysd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "split"
+  },
+  {
+    "source_file": "7250229_2018_S_R Dev. Estates, LLC v. Town of Greenburgh_ilsd",
+    "representation": "REPRESENTED",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "NO_FAILURE_DEFENDANT_WIN",
+      "glm": "NO_FAILURE_PLAINTIFF_WIN",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "NO_FAILURE",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9486151_2024_Briggs v. Campbell_dcd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9525403_2024_Dunn v. Manuel_alnd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "NO_FAILURE_PLAINTIFF_WIN",
+      "glm": "NO_FAILURE_PLAINTIFF_WIN",
+      "deepseek": "NO_FAILURE_PLAINTIFF_WIN"
+    },
+    "ensemble_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "NO_FAILURE",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9531932_2021_Petramala v. Phoenix, City of_azd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9531969_2021_Arthur v. Windsor Shadows Homeowner's Association_azd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9533633_2022_Petramala v. Phoenix, City of_azd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "FACTUAL_DETAIL",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9541809_2024_Screeton v. Lindsey Management Co_ared",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9551341_2020_Scoggin v. Turning Point Central California_caed",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9557693_2020_Decheri Hafer v. Unknown_caed",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9565491_2021_Hamilton v. Madera County_caed",
+    "representation": "REPRESENTED",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9576362_2022_(PS)Shultz v. Kern County_caed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9589037_2023_Goodwin v. City Attorney's Office_caed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "FACTUAL_DETAIL",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9606994_2022_Christian v. Rancho Grande Manufactured Home Community_cand",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9621223_2023_Moore v. Pacific View Apartments Carlsbad LLC_casd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9623848_2020_Hall v. Hilderbrand_cod",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9631438_2022_McArthur v. Nino's Market_ctd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9632673_2023_Clark v. Santander Bank, N.A._ctd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "FACTUAL_DETAIL",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9635704_2022_Webb v. State of Delaware_ded",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9639620_2020_Cobb v. Citrus Falls at Westchase Apartments, LLC_flmd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9655500_2023_Philippeaux v. Miami Apartments Investors, LLC_flsd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "NO_FAILURE_DEFENDANT_WIN",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "UNCLEAR",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "NO_FAILURE",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9665863_2024_London v. Heh_hid",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "NO_FAILURE_DEFENDANT_WIN",
+      "glm": "PROCEDURAL_GATEWAY",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "split"
+  },
+  {
+    "source_file": "9680054_2022_Jackson v. Chicago Housing Authority_ilnd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9686868_2021_Karnes v. Bank of Whittington_ilsd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9696473_2022_Graham v. Herron Management Property_innd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "CAUSAL_LINK"
+    },
+    "ensemble_family": "CAUSAL_LINK",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9704146_2024_ROYAL v. PEDCOR MANAGEMENT CORP._insd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9717329_2023_Uribe v. Ramser_kywd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9717400_2023_Nance v. Mayfield Plaza Apartments Management_kywd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9720727_2021_Winston v. Housing Authority of Jefferson Parish_laed",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "NO_FAILURE_PLAINTIFF_WIN",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "split"
+  },
+  {
+    "source_file": "9722146_2023_Carey v. St. Charles Parish_laed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9724267_2024_Hughes v. Bouchon Properties LLC_laed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "MIXED",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9740593_2022_Tall v. Commissioner of the Howard County Housing Authority_mdd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9741235_2022_Emrit v. Queen Anne's Housing Authority_mdd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9742828_2023_Bailey v. The Queen's Landing Council of Unit Owners, Inc._mdd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9743129_2024_Morris v. Memorial Development Partners, LP_mdd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "NO_FAILURE_PLAINTIFF_WIN",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "NO_FAILURE",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9749355_2021_Johnson v. East Tawas Housing Commission_mied",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9766092_2020_Stroud v. Farr Rentals, LLC_moed",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "CAUSAL_LINK",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9785178_2021_Swanson v. King_nced",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9785636_2022_Young v. Lake Royale Association_nced",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "UNCLEAR",
+      "glm": "UNCLEAR",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "UNCLEAR",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9796501_2021_Franklin v. Omaha Housing Authority_ned",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "TRANSLATION",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9797025_2022_Franklin v. Omaha Housing Authority_ned",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "TRANSLATION",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9803908_2021_D'ANTONIO v. BOROUGH OF ALLENDALE_njd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "PROCEDURAL_GATEWAY",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9804772_2021_LIVINGSTONE v. HUGO BOSS STORE, ATLANTIC CITY, NJ_njd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9812045_2024_KENNEDY v. ESQ CAPITAL III LLC_njd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "PROCEDURAL_GATEWAY",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9831553_2023_Bloodgood-Loper v. Loper_nvd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9832482_2023_Kandell v. SUR 702_nvd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9833039_2023_Kandell v. SUR 702_nvd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "UNCLEAR",
+      "glm": "UNCLEAR",
+      "deepseek": "UNCLEAR"
+    },
+    "ensemble_family": "UNCLEAR",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9833369_2023_Brown v. American Homes 4 Rent_nvd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "MIXED",
+      "deepseek": "MIXED"
+    },
+    "ensemble_family": "MIXED",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9836005_2024_Perkins Jr. v. Panorama Towers Condo Unit Owners, Dennis Kariger_nvd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9836268_2019_Koso v. St. Josephs Senior Housing Village_nyed",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9838610_2020_Ortega v. Samaritan Village Myrtle Ave. Men's Shelter_nyed",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9845340_2019_UMH Properties, Inc. v. Village of Coxsackie_nynd",
+    "representation": "REPRESENTED",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "NO_FAILURE_PLAINTIFF_WIN",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "NO_FAILURE",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9850873_2019_Lopez v. New York City Dept. Homeless Services_nysd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "PROCEDURAL_GATEWAY",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9855309_2020_Stone v. 23rd Chelsea Associates, LLC_nysd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "PROCEDURAL_GATEWAY",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9865413_2021_Mercer v. New York City Housing Authority_nysd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "MIXED",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9868530_2021_Wood v. Mutual Redevelopment Houses, Inc._nysd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9870218_2021_Higgins v. 120 Riverside Boulevard at Trump Place Condominium_nysd",
+    "representation": "REPRESENTED",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9872863_2022_Jones v. Thomas_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9873146_2022_Sykes v. New York City Housing Authority_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "CAUSAL_LINK",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "CAUSAL_LINK"
+    },
+    "ensemble_family": "CAUSAL_LINK",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9878218_2022_Dickerson v. BPP PCV Owners LLC_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9878433_2022_Perez v. Carrion_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9884412_2023_Avila v. Acacia Network Inc._nysd",
+    "representation": "PRO_SE",
+    "original_model": "manual_salvage_from_partial_and_case_text",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "UNCLEAR",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": null,
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "split"
+  },
+  {
+    "source_file": "9889710_2023_Syville v. City of New York_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9891340_2024_Ball v. Hope East of Fifth HDFC Inc._nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "CAUSAL_LINK",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "CAUSAL_LINK"
+    },
+    "ensemble_family": "CAUSAL_LINK",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9891794_2024_Levine v. Project Renewal_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "CAUSAL_LINK",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "CAUSAL_LINK"
+    },
+    "ensemble_family": "CAUSAL_LINK",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9893379_2024_West v. The City of New York_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "TRANSLATION",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9893874_2024_Noe v. Ray Realty_nysd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "NO_FAILURE_PLAINTIFF_WIN",
+      "glm": "NO_FAILURE_DEFENDANT_WIN",
+      "deepseek": "UNCLEAR"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "NO_FAILURE",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9902915_2021_McCoy v. Akron Police Department_ohnd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": null,
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "split"
+  },
+  {
+    "source_file": "9903260_2021_Alghusain v. Nemeth_ohnd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9906570_2024_Mindale Farms Co. v. City of Tallmadge, Ohio_ohnd",
+    "representation": "REPRESENTED",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9912582_2021_Price v. Oxley_ohsd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9913950_2022_Chapman v. Franklin County Sheriff_ohsd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9915100_2023_Brown v. Dominion Management Services LLC_ohsd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "FACTUAL_DETAIL",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9916064_2023_Rudolph v. Green_ohsd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9920331_2022_Backus v. I.Q. Data International, Inc._oknd",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "PROCEDURAL_GATEWAY",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9926959_2021_Macon v. Parker_ord",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "CAUSAL_LINK",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "CAUSAL_LINK"
+    },
+    "ensemble_family": "CAUSAL_LINK",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9927324_2021_Kononen v. City of Salem Housing Authority_ord",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9930843_2024_Boyce v. St. Vincent DePaul (Lane Co)_ord",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "PROCEDURAL_GATEWAY",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9932283_2020_COYNE v. HOLY FAMILY APARTMENTS_paed",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9933567_2020_DAVIS v. RUBIN_paed",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "FACTUAL_DETAIL",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9934255_2021_DEJESUS v. VICKY_paed",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "ELEMENT_MISMATCH",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9935410_2021_HEIMBACH v. HILL_paed",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9935831_2022_DEJESUS v. LUCEY_paed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "UNCLEAR",
+      "glm": "UNCLEAR",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "UNCLEAR",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9936025_2022_HONKALA v. U.S. DEPARTMENT OF HOUSING _ URBAN DEVELOPMENT_paed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9936028_2022_HONKALA v. U.S. DEPARTMENT OF HOUSING _ URBAN DEVELOPMENT_paed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9936771_2022_United States v. ONE BOYERTOWN PROPERTIES LP_paed",
+    "representation": "REPRESENTED",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "PROCEDURAL_GATEWAY",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "NO_FAILURE",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9938953_2023_SAMUEL v. THE DELAWARE COUNTY HOUSING AUTHORITY_paed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "per_model_family": {
+      "kimi": "CAUSAL_LINK",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "CAUSAL_LINK"
+    },
+    "ensemble_family": "CAUSAL_LINK",
+    "original_bucket": "NO_FAILURE",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9939426_2023_WISSMAN v. PGM REAL ESTATE LLC, PROPERTY MANAGEMENT_paed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "UNCLEAR",
+      "glm": "UNCLEAR",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "UNCLEAR",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9939435_2023_WISSMAN v. PGM REAL ESTATE LLC, PROPERTY MANAGEMENT_paed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9940117_2024_EWIDEH v. HOMESITE INSURANCE COMPANY OF THE MIDWEST_paed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "PROCEDURAL_GATEWAY",
+      "glm": "PROCEDURAL_GATEWAY",
+      "deepseek": "PROCEDURAL_GATEWAY"
+    },
+    "ensemble_family": "PROCEDURAL_GATEWAY",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "PROCEDURAL_GATEWAY",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9940178_2024_LLOYD v. MANBEL DEVCO I LP_paed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "MIXED",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9950171_2021_FUNYAK v. PENNROSE MANAGEMENT COMPANY_pawd",
+    "representation": "PRO_SE",
+    "original_model": "z-ai/glm-5.1",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "9955146_2022_Jeffreys v. Carson_rid",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "PROCEDURAL_GATEWAY",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "PROCEDURAL_GATEWAY",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "9979014_2022_Thompson v. Gainesville Housing Authority_txed",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "FACTUAL_DETAIL",
+      "deepseek": "FACTUAL_DETAIL"
+    },
+    "ensemble_family": "FACTUAL_DETAIL",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "Banks v. Ross",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "majority"
+  },
+  {
+    "source_file": "CYMBALSKY v. 522 SHORE ROAD OWNERS, INC.",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "CAUSAL_LINK",
+      "glm": "CAUSAL_LINK",
+      "deepseek": "CAUSAL_LINK"
+    },
+    "ensemble_family": "CAUSAL_LINK",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "Chapman v. Davis",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "TRANSLATION",
+    "per_model_family": {
+      "kimi": "ELEMENT_MISMATCH",
+      "glm": "ELEMENT_MISMATCH",
+      "deepseek": "ELEMENT_MISMATCH"
+    },
+    "ensemble_family": "ELEMENT_MISMATCH",
+    "original_bucket": "TRANSLATION",
+    "ensemble_bucket": "OTHER",
+    "bucket_resolution": "unanimous"
+  },
+  {
+    "source_file": "Hartley v. UNITED STUDENT RENTALS",
+    "representation": "PRO_SE",
+    "original_model": "moonshotai/kimi-k2.5",
+    "original_family": "CAUSAL_LINK",
+    "per_model_family": {
+      "kimi": "TRANSLATION",
+      "glm": "TRANSLATION",
+      "deepseek": "TRANSLATION"
+    },
+    "ensemble_family": "TRANSLATION",
+    "original_bucket": "OTHER",
+    "ensemble_bucket": "TRANSLATION",
+    "bucket_resolution": "unanimous"
+  }
+]

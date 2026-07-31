@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "source": "HUD Picture of Subsidized Households 2024",
+    "url": "https://www.huduser.gov/portal/datasets/assthsg.html",
+    "data_dictionary": "https://www.huduser.gov/portal/datasets/pictures/dictionary_2024.pdf",
+    "snapshot_date": "2024-12-31",
+    "analysis_date": "2026-04-12"
+  },
+  "national_summary": {
+    "total_subsidized_units": 0,
+    "total_reported_households": 0,
+    "disability_rates": {
+      "pct_disabled_head_spouse_cohead_under_62": 0,
+      "pct_disabled_head_spouse_cohead_62_plus": 0,
+      "pct_all_persons_with_disability": 0,
+      "weighted_household_disability_rate": 0
+    },
+    "estimated_disabled_households": {
+      "total": 0
+    }
+  },
+  "by_program": {
+    "U.S. Total": {
+      "total_units": 33664,
+      "number_reported": 31155,
+      "pct_disabled_lt62": 98.0,
+      "pct_disabled_ge62": 97.0,
+      "pct_disabled_all": 92.0,
+      "pct_age62plus": 32.0,
+      "est_disabled_hh": 30432,
+      "weighted_disability_rate": 97.7
+    }
+  },
+  "state_count": 1
+}

@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "period_boundaries": {
+      "P1": [
+        "2022-01-01",
+        "2024-06-27"
+      ],
+      "P2": [
+        "2024-06-28",
+        "2025-02-04"
+      ],
+      "P3": [
+        "2025-02-05",
+        "endpoint"
+      ]
+    },
+    "excluded_outcomes": [
+      "PROCEDURAL",
+      "SETTLEMENT",
+      "UNDETERMINED"
+    ],
+    "stratification_variable": "pro_se",
+    "unified_db_path": "data/FHA_Unified_Database.json"
+  },
+  "decompositions": {
+    "P1_to_P3": {
+      "outcome": "strict_win",
+      "kitagawa": {
+        "period_a_mean": 0.17857142857142858,
+        "period_b_mean": 0.09774436090225563,
+        "total_delta": -0.08082706766917294,
+        "subgroup_rates": {
+          "a_pro_se": 0.06993006993006994,
+          "a_represented": 0.34210526315789475,
+          "b_pro_se": 0.03536977491961415,
+          "b_represented": 0.3181818181818182
+        },
+        "subgroup_weights": {
+          "a_pro_se_share": 0.6008403361344538,
+          "b_pro_se_share": 0.7794486215538847
+        },
+        "composition_first": {
+          "composition_component": -0.04861274459612411,
+          "rate_component": -0.03221432307304884,
+          "composition_share": 0.6014413982590238,
+          "rate_share": 0.3985586017409763
+        },
+        "rate_first": {
+          "composition_component": -0.0505125741430282,
+          "rate_component": -0.030314493526144754,
+          "composition_share": 0.6249462661416512,
+          "rate_share": 0.375053733858349
+        },
+        "average": {
+          "composition_component": -0.049562659369576156,
+          "rate_component": -0.0312644082995968,
+          "composition_share": 0.6131938322003375,
+          "rate_share": 0.3868061677996627
+        }
+      },
+      "oaxaca_blinder": {
+        "endowments_effect_a_coef": -0.04861274459612411,
+        "coefficients_effect_b_endow": -0.03221432307304884,
+        "interaction_term": -0.0018998295469040876,
+        "total_delta": -0.08082706766917294,
+        "composition_share_a_coef": 0.6014413982590238,
+        "rate_share_b_endow": 0.3985586017409763
+      }
+    },
+    "P1_to_P2": {
+      "outcome": "strict_win",
+      "kitagawa": {
+        "period_a_mean": 0.17857142857142858,
+        "period_b_mean": 0.08333333333333333,
+        "total_delta": -0.09523809523809525,
+        "subgroup_rates": {
+          "a_pro_se": 0.06993006993006994,
+          "a_represented": 0.34210526315789475,
+          "b_pro_se": 0.02564102564102564,
+          "b_represented": 0.19047619047619047
+        },
+        "subgroup_weights": {
+          "a_pro_se_share": 0.6008403361344538,
+          "b_pro_se_share": 0.65
+        },
+        "composition_first": {
+          "composition_component": -0.013380041011619971,
+          "rate_component": -0.0818580542264753,
+          "composition_share": 0.1404904306220097,
+          "rate_share": 0.8595095693779905
+        },
+        "rate_first": {
+          "composition_component": -0.008103241296518616,
+          "rate_component": -0.08713485394157665,
+          "composition_share": 0.08508403361344546,
+          "rate_share": 0.9149159663865547
+        },
+        "average": {
+          "composition_component": -0.010741641154069293,
+          "rate_component": -0.08449645408402598,
+          "composition_share": 0.11278723211772756,
+          "rate_share": 0.8872127678822727
+        }
+      },
+      "oaxaca_blinder": {
+        "endowments_effect_a_coef": -0.013380041011619973,
+        "coefficients_effect_b_endow": -0.0818580542264753,
+        "interaction_term": 0.005276799715101357,
+        "total_delta": -0.09523809523809525,
+        "composition_share_a_coef": 0.1404904306220097,
+        "rate_share_b_endow": 0.8595095693779905
+      }
+    },
+    "P2_to_P3": {
+      "outcome": "strict_win",
+      "kitagawa": {
+        "period_a_mean": 0.08333333333333333,
+        "period_b_mean": 0.09774436090225563,
+        "total_delta": 0.014411027568922305,
+        "subgroup_rates": {
+          "a_pro_se": 0.02564102564102564,
+          "a_represented": 0.19047619047619047,
+          "b_pro_se": 0.03536977491961415,
+          "b_represented": 0.3181818181818182
+        },
+        "subgroup_weights": {
+          "a_pro_se_share": 0.65,
+          "b_pro_se_share": 0.7794486215538847
+        },
+        "composition_first": {
+          "composition_component": -0.021337684871519456,
+          "rate_component": 0.03574871244044177,
+          "composition_share": -1.480649784997611,
+          "rate_share": 2.4806497849976115
+        },
+        "rate_first": {
+          "composition_component": -0.03660962915912992,
+          "rate_component": 0.05102065672805223,
+          "composition_share": -2.540389919042233,
+          "rate_share": 3.540389919042233
+        },
+        "average": {
+          "composition_component": -0.02897365701532469,
+          "rate_component": 0.043384684584247,
+          "composition_share": -2.010519852019922,
+          "rate_share": 3.010519852019922
+        }
+      },
+      "oaxaca_blinder": {
+        "endowments_effect_a_coef": -0.021337684871519453,
+        "coefficients_effect_b_endow": 0.03574871244044177,
+        "interaction_term": -0.015271944287610462,
+        "total_delta": 0.014411027568922305,
+        "composition_share_a_coef": -1.4806497849976108,
+        "rate_share_b_endow": 2.4806497849976115
+      }
+    },
+    "P1_to_P3_broad": {
+      "outcome": "broad_win",
+      "kitagawa": {
+        "period_a_mean": 0.3025210084033613,
+        "period_b_mean": 0.18295739348370926,
+        "total_delta": -0.11956361491965206,
+        "subgroup_rates": {
+          "a_pro_se": 0.14685314685314685,
+          "a_represented": 0.5368421052631579,
+          "b_pro_se": 0.08360128617363344,
+          "b_represented": 0.5340909090909091
+        },
+        "subgroup_weights": {
+          "a_pro_se_share": 0.6008403361344538,
+          "b_pro_se_share": 0.7794486215538847
+        },
+        "composition_first": {
+          "composition_component": -0.06965525919412184,
+          "rate_component": -0.04990835572553025,
+          "composition_share": 0.5825790667246961,
+          "rate_share": 0.4174209332753042
+        },
+        "rate_first": {
+          "composition_component": -0.0804611791485006,
+          "rate_component": -0.0391024357711515,
+          "composition_share": 0.6729570630878909,
+          "rate_share": 0.32704293691210934
+        },
+        "average": {
+          "composition_component": -0.07505821917131122,
+          "rate_component": -0.04450539574834088,
+          "composition_share": 0.6277680649062936,
+          "rate_share": 0.3722319350937068
+        }
+      }
+    }
+  }
+}

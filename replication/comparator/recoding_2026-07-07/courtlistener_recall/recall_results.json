@@ -1,0 +1,52 @@
+{
+  "run_utc": "2026-07-07T23:08:38+00:00",
+  "api": "courtlistener /api/rest/v4/search/ (Token auth via header; token held in env only)",
+  "queries": [
+    {
+      "label": "anchor_fha_all",
+      "query": "\"fair housing act\"",
+      "url": "https://www.courtlistener.com/api/rest/v4/search/?q=%22fair+housing+act%22&type=o&filed_after=01%2F01%2F2022&filed_before=07%2F01%2F2026&stat_Published=on&stat_Unpublished=on&stat_Errata=on&stat_Separate=on&stat_In-chambers=on&stat_Relating-to=on&stat_Unknown=on",
+      "count": 2522
+    },
+    {
+      "label": "disability_arm",
+      "query": "\"fair housing act\" AND (disability OR handicap)",
+      "url": "https://www.courtlistener.com/api/rest/v4/search/?q=%22fair+housing+act%22+AND+%28disability+OR+handicap%29&type=o&filed_after=01%2F01%2F2022&filed_before=07%2F01%2F2026&stat_Published=on&stat_Unpublished=on&stat_Errata=on&stat_Separate=on&stat_In-chambers=on&stat_Relating-to=on&stat_Unknown=on",
+      "count": 1400
+    },
+    {
+      "label": "race_arm",
+      "query": "\"fair housing act\" AND (race OR racial)",
+      "url": "https://www.courtlistener.com/api/rest/v4/search/?q=%22fair+housing+act%22+AND+%28race+OR+racial%29&type=o&filed_after=01%2F01%2F2022&filed_before=07%2F01%2F2026&stat_Published=on&stat_Unpublished=on&stat_Errata=on&stat_Separate=on&stat_In-chambers=on&stat_Relating-to=on&stat_Unknown=on",
+      "count": 1027
+    },
+    {
+      "label": "race_arm_narrow",
+      "query": "\"fair housing act\" AND race AND discrimination",
+      "url": "https://www.courtlistener.com/api/rest/v4/search/?q=%22fair+housing+act%22+AND+race+AND+discrimination&type=o&filed_after=01%2F01%2F2022&filed_before=07%2F01%2F2026&stat_Published=on&stat_Unpublished=on&stat_Errata=on&stat_Separate=on&stat_In-chambers=on&stat_Relating-to=on&stat_Unknown=on",
+      "count": 872
+    }
+  ],
+  "corpus_yields_dated_screened": {
+    "screened_dated_total": 1856,
+    "race_primary_dated": 380,
+    "disability_alleged_dated": 1021,
+    "nondisability_dated": 834
+  },
+  "capture_ratio_disability": 0.7292857142857143,
+  "capture_ratio_race": 0.37000973709834467,
+  "race_vs_disability_capture_differential": 0.5073590910261337,
+  "interpretation_limits": [
+    "CL counts include all jurisdictions (the corpus pull filtered federal client-side), so ratios are capture proxies, not recall.",
+    "CL keyword counts are over-inclusive (a mention is not a claim); the informative quantity is the RATIO of ratios, under the assumption that over-inclusiveness and state-court mix are broadly similar across arms.",
+    "Corpus yields are screened-in classified labels; CL counts are raw keyword hits."
+  ],
+  "any_basis_variant": {
+    "note": "Fairer numerator symmetry: race = primary race OR race in protected_classes; disability = DIS_ANY (disability_alleged, protected_classes, or is_ra_case). Same CL denominators.",
+    "race_any_dated_screened": 552,
+    "dis_any_dated_screened": 1347,
+    "capture_ratio_race_any": 0.5374878286270691,
+    "capture_ratio_dis_any": 0.9621428571428572,
+    "race_vs_disability_capture_differential_any_basis": 0.558636199018483
+  }
+}

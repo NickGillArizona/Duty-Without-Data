@@ -1,0 +1,76 @@
+{
+  "n_rows": 476,
+  "n_full_triple_reads": 475,
+  "n_dropped_lt3_reads": 1,
+  "consensus_breakdown": {
+    "unanimous": 367,
+    "majority": 103,
+    "NO_CONSENSUS": 6
+  },
+  "consensus_family_distribution": {
+    "B": 226,
+    "C": 214,
+    "None": 6,
+    "A": 26,
+    "MISFILTER": 4
+  },
+  "fleiss_kappa_all5cats": 0.7288574690436462,
+  "fleiss_kappa_by_arm": {
+    "RD-PURE": 0.6108508776445153,
+    "DT-PURE": 0.7448496573298482,
+    "RACE-DT": 0.7986963752873846
+  },
+  "per_family_unanimity": {
+    "A": 0.2453,
+    "B": 0.6929,
+    "C": 0.6693,
+    "UNCLEAR": 0.0,
+    "MISFILTER": 0.0833
+  },
+  "proxy_vs_consensus_rowlevel_agreement": 0.382,
+  "masking_lexicon_leak_rate": 0.6134,
+  "fleiss_kappa_abc_only": 0.7515801291046871,
+  "n_abc_only_rows": 461,
+  "proxy_vs_consensus_cohen_kappa": 0.1328888199720887,
+  "family_A_pro_se": {
+    "RD-PURE": [
+      0.16379310344827586,
+      0.10344827586206896,
+      0.23275862068965517,
+      116
+    ],
+    "DT-PURE": [
+      0.015151515151515152,
+      0.0,
+      0.03787878787878788,
+      132
+    ],
+    "RACE-DT": [
+      0.018867924528301886,
+      0.0,
+      0.0440251572327044,
+      159
+    ]
+  },
+  "prediction4_point_estimate_confirmed": true,
+  "proxy_family_A_pro_se_first_pass": {
+    "RD-PURE": 0.496,
+    "DT-PURE": 0.47,
+    "RACE-DT": 0.369
+  },
+  "classguess_leakage": {
+    "n": 476,
+    "correct_rate": 0.708,
+    "cannot_tell_rate": 0.187,
+    "correct_rate_by_arm": {
+      "RD-PURE": 0.9655,
+      "DT-PURE": 0.5586,
+      "RACE-DT": 0.6237
+    },
+    "chance_baseline": "3 substantive classes; majority-class guessing would score the disability-arm share (0.61)"
+  },
+  "reread_minimax_vs_consensus": {
+    "cohen_kappa": 0.6084467308330569,
+    "n_compared": 143
+  }
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "source_file": "10190730_2024_Smith v. Supportive Housing Coalition_nmd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed FHA claim because plaintiff pleaded disability and adverse conditions but failed to allege a causal link between the mental health condition and Defendants' actions or to tie any requested accommodation to the disability; court emphasized that unsafe living conditions generally do not give rise to FHA liability absent disability nexus."
+  },
+  {
+    "source_file": "10213380_2021_Payne v. City of San Antonio, Texas_txwd",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiffs identified correct FHA disability-discrimination / failure-to-accommodate theory but provided no details regarding the alleged disability or the requested accommodations, making the pleading conclusory under Iqbal/Twombly."
+  },
+  {
+    "source_file": "10254272_2019_Manzke, Sara v. Jefferson County_wiwd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed the Town of Ixonia because it lacked authority over zoning decisions delegated to the county; the FHA theory was correctly identified but the Town was not the proper defendant because it could not grant the requested accommodation."
+  },
+  {
+    "source_file": "10302146_2024_Tanner v. Rochdale Village Inc._nyed",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Court ruled Rooker-Feldman did not apply but dismissed FHA disparate-treatment claim under 12(b)(6) because plaintiff offered only vague and speculative allegations 'based on information from confidential source' that did not give rise to inference of discrimination."
+  },
+  {
+    "source_file": "10350993_2025_Deitch v. Medstar Medical Group Southern Maryland LLC_mdd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA claim dismissed because plaintiff alleged retaliation for tenant advocacy rather than disability-based motivation; the alleged false bomb report was tied to lease disputes and helping neighbors, not to plaintiff's disability status."
+  },
+  {
+    "source_file": "10433979_2025_Earle v. Manchester Village Owners Association Inc_wied",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "HIGH",
+    "reasoning": "Court DENIED defendants' motion to dismiss as moot because plaintiff filed an amended complaint as of right under Rule 15(a)(1)(B); no pleading defect adjudicated and claim survives."
+  },
+  {
+    "source_file": "10609279_2025_CLARK v. PNC BANK_paed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Section 1915 screening dismissal; court found FHA inapplicable because business trust account denial has no connection to a dwelling or protected-class discrimination, and plaintiff alleged no dwelling-related conduct."
+  },
+  {
+    "source_file": "10645920_2025_Gonzalez v. Mongo_txsd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Pro se plaintiff's FHA and related claims dismissed because complaint was devoid of facts ascribing any specific conduct to any named defendant; the court found no allegation of wrongful conduct tied to any defendant."
+  },
+  {
+    "source_file": "10667251_2025_Watkins, Lateesha v. Fond du Lac District Attorney Office_wiwd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Section 1915 screening; FHA retaliation/disability claim dismissed for lack of causal link between protected activity and adverse action, with generic ESA-discrimination allegation insufficient to tie disability to housing decisions."
+  },
+  {
+    "source_file": "10708645_2025_Thomas Joseph Goddard v. Sares-Regis Group, Inc., et al._cand",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "ADVERSE_ACTION_NOT_CONNECTED",
+    "confidence": "HIGH",
+    "reasoning": "Motion to dismiss granted because defendants had already granted plaintiff's accommodation, and the pay-or-quit notice followed plaintiff's admitted failure to pay rent for two months, a clear non-retaliatory basis; claim failed on the merits of the FHA theory."
+  },
+  {
+    "source_file": "10744240_2025_Irvin G. Murray v. U.S. Treasury, et al._paed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Section 1915 screening dismissal as factually baseless/frivolous; allegations about a purported $43 million stolen inheritance and conspiracy to deny housing were deemed wholly incredulous and lacked any cognizable FHA theory."
+  },
+  {
+    "source_file": "10773145_2025_Valery Kantsepolsky v. River Shores Association, Inc._flsd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Court recommended Colorado River abstention and stay of federal FHA claims pending resolution of parallel state court proceeding involving same parties and overlapping facts; disposition on threshold abstention basis, not FHA merits."
+  },
+  {
+    "source_file": "11267549 - BITTENBENDER v. FAMILY SERVICES ASSOCIATION OF BUCKS COUNTY",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "HIGH",
+    "reasoning": "FHA claim dismissed with prejudice because Extended Stay America hotel room was not a 'dwelling' under § 3602(b)/Columbus Country Club test, and FSABC/Stewart were not providers of a rental dwelling; correct theory but technical element fails."
+  },
+  {
+    "source_file": "11267623 - Watts v. THE IRVINE COMPANY LLC",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Third Amended Complaint dismissed under Rule 8 and Iqbal for failing to allege disability details, specify the reasonable accommodations requested, or connect the utility allowance reduction to disability-based retaliation rather than the fraudulent income documentation."
+  },
+  {
+    "source_file": "7232144_2015_Austin v. Town of Farmington_nywd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "COMPARATOR_OR_INTENT_GAP",
+    "confidence": "HIGH",
+    "reasoning": "Court found no facts alleging discriminatory intent in the restoration condition and no showing the restoration requirement applied differently to non-disabled individuals; the reasonable-modification theory was correctly identified but the facts did not support disparate treatment, disparate impact, or refusal-to-accommodate elements."
+  },
+  {
+    "source_file": "9533652_2022_Beram v. Sedona, City of_azd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "MEDIUM",
+    "reasoning": "FHA reasonable-modification claim challenged anti-camping ordinance as applied to sleeping in vehicle; court found plaintiff could not satisfy the but-for necessity element because the ordinance did not prevent her from enjoying housing of her choice — sleeping in a car on private property was a non-housing choice."
+  },
+  {
+    "source_file": "9602085_2021_Vargas v. Facebook, Inc._cand",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed FHA/disability claims on Article III standing and CDA § 230 immunity grounds before reaching merits; disposition was on threshold jurisdictional basis."
+  },
+  {
+    "source_file": "9636368_2023_Lewis v. Greenville on 141 Apartments and Townhomes - Westover Companies_ded",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "STATUTORY_HOOK_UNCLEAR",
+    "confidence": "HIGH",
+    "reasoning": "Section 1915 screening; plaintiff cited inapplicable District of Columbia fair housing laws and could not identify applicable FHA provisions or tie allegations to any cognizable federal statutory hook."
+  },
+  {
+    "source_file": "9695162_2021_Graham v. City of Elkhart_innd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff conceded FHA claim against non-party UMH and did not plead a Monell policy/custom against the City of Elkhart; no cognizable FHA theory remained against the named defendant."
+  },
+  {
+    "source_file": "9724267_2024_Hughes v. Bouchon Properties LLC_laed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "HIGH",
+    "reasoning": "FHA § 3604(f) disability-discrimination claim dismissed because plaintiff did not allege any request for reasonable accommodation of her disability; court identified the failure-to-request as the specific pleading defect."
+  },
+  {
+    "source_file": "9749355_2021_Johnson v. East Tawas Housing Commission_mied",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Section 1915 screening; plaintiff failed to identify any disability or tie FHA elements to pleaded facts; the court found elements of an FHA disability claim were not pleaded with supporting facts."
+  },
+  {
+    "source_file": "9796501_2021_Franklin v. Omaha Housing Authority_ned",
+    "pleading_failure_family": "MIXED",
+    "pleading_failure_mechanism": "MIXED",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed on multiple grounds including Rooker-Feldman, res judicata/claim preclusion, and failure to allege protected-class membership or discriminatory nexus; no single family dominates."
+  },
+  {
+    "source_file": "9832531_2023_Brown v. American Homes 4 Rent_nvd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "LIMITATIONS_OR_TIMELINESS",
+    "confidence": "HIGH",
+    "reasoning": "FHA reasonable-accommodation claim dismissed as time-barred under the two-year statute of limitations of 42 U.S.C. § 3613(a); disposition on threshold timeliness basis."
+  },
+  {
+    "source_file": "9857640_2020_Dames v. De Blasio_nysd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "LIMITATIONS_OR_TIMELINESS",
+    "confidence": "HIGH",
+    "reasoning": "FHA claims dismissed as barred by 2-year statute of limitations (events occurred roughly 18 years before filing), and alternatively for lack of disability nexus to alleged conduct; timeliness was the court's primary analytic framework."
+  },
+  {
+    "source_file": "9875593_2022_Belmar v. G_M Realty I LLC_nysd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed for lack of subject matter jurisdiction and for failure to plead any plausible facts supporting an FHA cause of action; threshold jurisdictional disposition."
+  },
+  {
+    "source_file": "9891404_2024_Cullum v. Wyndham Hotels _ Resorts Corp._nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Timeshare/hotel-dispute case; court compelled arbitration and dismissed FHA claim as merely listed in the complaint caption without any factual basis tying the alleged conduct to FHA coverage of a dwelling."
+  },
+  {
+    "source_file": "9920067_2021_Backus v. I.Q. Data International, Inc._oknd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "HIGH",
+    "reasoning": "FHA accommodation claim against debt collector failed because plaintiff did not adequately allege making a request for reasonable accommodation to the defendant; the request element was the specific pleading defect."
+  },
+  {
+    "source_file": "9936019_2022_CHICK v. DOMINIC_paed",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "HIGH",
+    "reasoning": "FHA § 3604(f) claim failed on a technical element because plaintiffs were neither buyers nor renters as required by the statute — a technical proof gap distinct from failure to plead facts."
+  },
+  {
+    "source_file": "9953732_2021_Erazo-Santana v. Constructora Del Rio, Inc._prd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Court abstained/stayed under Colorado River doctrine given parallel state-court proceedings involving substantially the same parties and issues; disposition on threshold abstention basis."
+  },
+  {
+    "source_file": "EWIDEH v. HOMESITE INS. CO. OF THE MIDWEST",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "MEDIUM",
+    "reasoning": "Insurance-dispute case where FHA was mentioned but the allegations concerned a homeowners' insurance claim with no clear disability basis or housing-access nexus; enigmatic FHA invocation failed to map to any recognized FHA cause of action."
+  }
+]

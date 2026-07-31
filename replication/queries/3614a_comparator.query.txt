@@ -1,0 +1,12 @@
+# Subscription federal-opinion-database query — § 3614a comparator
+
+Query string: "42 U.S.C. § 3614a"
+Run date: 2026-04-03
+Comparator role: baseline citation count for 42 U.S.C. § 3614a (HUD's express FHA rulemaking-and-data authority), used in the Note's Part 121 citation-pattern discussion (fn 141) to contextualize the Part 121 query's eight-document as-run yield and to identify the cases that quote § 3614a's "rules for the collection, maintenance, and analysis of appropriate data" parenthetical. (July 7, 2026 verification: Westlaw KeyCite Citing References = 37 cases; the 42 is this query's as-run yield.)
+
+Reported result count: 42 federal opinions
+Database scope: all federal courts (Supreme Court, Circuit Courts of Appeals, District Courts), all dates available
+
+Subscription-database TOS prohibits redistribution of opinion text pulled through the seat. The query string and result count are factual and public; the underlying opinions are freely accessible through CourtListener, PACER, or other public services.
+
+Result memo: results/supporting/doctrinal_case_audits.md (subscription-database sweep section)

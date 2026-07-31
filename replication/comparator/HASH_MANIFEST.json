@@ -1,0 +1,72 @@
+[
+  {
+    "bytes": 1206,
+    "file": "CLAIM_TYPE_NORMALIZATION_MAP.json",
+    "sha256": "b5a4f844d85e3b5d6b6155224770b3ab13f60bc46a2773ea270cc401c3b5fbc5"
+  },
+  {
+    "bytes": 68799,
+    "file": "comparator_analysis.py",
+    "sha256": "1936f4fe31249283fe8da5756a6d82f2eab190b0ee91052de507851294009be5"
+  },
+  {
+    "bytes": 218,
+    "file": "EXCLUSIVE_BASIS_SENSITIVITY.csv",
+    "sha256": "f294ddfa19957f1e74737bf1558c4e6ff40a7a49befaab92c4f8848d004a6de3"
+  },
+  {
+    "bytes": 1509,
+    "file": "KITAGAWA_DECOMPOSITION.csv",
+    "sha256": "ebea2de5ec55e2973a0fc22e567ad08f2dcf978dd3e23db870dfc2d2f2761824"
+  },
+  {
+    "bytes": 24176,
+    "file": "MODEL_RESULTS.json",
+    "sha256": "14ed16bdef7666ee7f40abf690f1235b9e15ca816dcec42281df1b6d6418517b"
+  },
+  {
+    "bytes": 6460,
+    "file": "MODELS.md",
+    "sha256": "60590e1eba569c029467e5ac8b115470abd5503d43c4fb1fca170356c3f07a9f"
+  },
+  {
+    "bytes": 534,
+    "file": "missingness_by_cohort.csv",
+    "sha256": "1c91b50d4697045f494638b9df4fed81583cbb33e009c88df3f89bdae5af2b35"
+  },
+  {
+    "bytes": 568,
+    "file": "missingness_proxy_tests.csv",
+    "sha256": "526171744de92ced35cce28e51ff853d24c202165d1d0101f033888dfe61beb8"
+  },
+  {
+    "bytes": 2257,
+    "file": "PREDICTIONS.md",
+    "sha256": "bcd5598eca6c70b51cd1f665f1203f89895a4e5dc935bc9b1cbbb2269a1a4774"
+  },
+  {
+    "bytes": 1872,
+    "file": "RATIONALE_RUBRIC.md",
+    "sha256": "614a329d19f3f8f7eadcfcddde73280f74daccf608b209e59891c5c17057bbd0"
+  },
+  {
+    "bytes": 1372,
+    "file": "REGISTERED_PREDICTION_RESULTS.json",
+    "sha256": "c0d937aa4406d5f1766e8056c795780a11929fade5bf8535bb6c4665453b8fc4"
+  },
+  {
+    "bytes": 3136,
+    "file": "SAMPLE_TABLE.csv",
+    "sha256": "5ec276600e21e0c0d92cf65fb20f7737179cd6d9794d12d543db40985273cda1"
+  },
+  {
+    "bytes": 10045,
+    "file": "TABLE1_COMPARATOR.csv",
+    "sha256": "20c28b69f84ffc4890903d0beec6331f6b0ae5e274d23cd5fa3ae36dbd531eef"
+  },
+  {
+    "bytes": 2571,
+    "file": "TABLE1_COMPARATOR.md",
+    "sha256": "f57ffbb9f5dc90710ff456d4807e6ac5c796c527056849bc48252c04575578dd"
+  }
+]

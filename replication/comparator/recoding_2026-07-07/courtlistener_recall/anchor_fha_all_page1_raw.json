@@ -1,0 +1,1500 @@
+{
+ "count": 2522,
+ "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yNC45OTI4NiZzPTk0NzkyODQmdD1vJmQ9MjAyNi0wNy0wNyZwPTI%3D&filed_after=01%2F01%2F2022&filed_before=07%2F01%2F2026&q=%22fair+housing+act%22&stat_Errata=on&stat_In-chambers=on&stat_Published=on&stat_Relating-to=on&stat_Separate=on&stat_Unknown=on&stat_Unpublished=on&type=o",
+ "previous": null,
+ "results": [
+  {
+   "absolute_url": "/opinion/8245169/epcon-community-franchising-llc-v-wilcox-dev-group-llc/",
+   "attorney": "",
+   "caseName": "Epcon Community Franchising, L.L.C. v. Wilcox Dev. Group, L.L.C.",
+   "caseNameFull": "",
+   "citation": [
+    "201 N.E.3d 936",
+    "2022 Ohio 3442"
+   ],
+   "citeCount": 2,
+   "cluster_id": 8245169,
+   "court": "Ohio Court of Appeals",
+   "court_citation_string": "Ohio Ct. App.",
+   "court_id": "ohioctapp",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2022-09-29",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "21AP-674",
+   "docket_id": 65387274,
+   "judge": "Beatty Blunt",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-11-26T18:08:08.042721Z",
+    "date_created": "2022-09-29T20:08:17.834047Z",
+    "score": {
+     "bm25": 59.439236
+    }
+   },
+   "neutralCite": "2022 Ohio 3442",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      2008,
+      103438,
+      104425,
+      106700,
+      109826,
+      112446,
+      118055,
+      118379,
+      803270,
+      2690118,
+      2702170,
+      2959750,
+      4462964,
+      7228221,
+      7250229
+     ],
+     "download_url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/10/2022/2022-Ohio-3442.pdf",
+     "id": 8210432,
+     "joined_by_ids": [],
+     "local_path": "pdf/2022/09/29/epcon_community_franchising_l.l.c._v._wilcox_dev._group_l.l.c..pdf",
+     "meta": {
+      "timestamp": "2025-11-26T18:08:08.018123Z",
+      "date_created": "2022-09-29T20:08:17.838575Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "1e353bf6eb3e234afce9e086281c7303c28bf412",
+     "snippet": "[Cite as Epcon Community Franchising, L.L.C. v. Wilcox Dev. Group, L.L.C., 2022-Ohio-3442.]\n\n\n                            IN THE COURT OF APPEALS OF OHIO\n\n                                 TENTH APPELLATE DISTRICT\n\nEpcon Community Franchising, LLC,                  :\n\n                Plaintiff-Appellant,               :\n                                                                              No. 21AP-674\nv.                                                 :                       (C.P.C. No. 2",
+     "type": "combined-opinion"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    8210432
+   ],
+   "source": "C",
+   "status": "Published",
+   "suitNature": "",
+   "syllabus": "The Fair Housing Act (\"FHA\") preempts state law claims for contribution brought pursuant to R.C. 2307.25 because such claims stand \" 'as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress' \", in this case the FHA. English v. Gen. Elec. Co., 496 U.S. 72, 79 (1990), quoting Hines v. Davidowitz, 312 U.S. 52, 67 (1941). Thus, the trial court did not err in dismissing Epcon's contribution claim as preempted by the FHA, appellant's sole assignment of error is overruled and the judgment is affirmed."
+  },
+  {
+   "absolute_url": "/opinion/10025589/new-jersey-realtors-v-township-of-berkeley/",
+   "attorney": "",
+   "caseName": "New Jersey Realtors v. Township of Berkeley",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10025589,
+   "court": "New Jersey Superior Court Appellate Division",
+   "court_citation_string": "N.J. Super. Ct. App. Div.",
+   "court_id": "njsuperctappdiv",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-07-31",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "A-1384-22",
+   "docket_id": 68998714,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-07-31T14:08:50.330691Z",
+    "date_created": "2024-07-31T14:08:50.284118Z",
+    "score": {
+     "bm25": 44.772472
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      623101,
+      1436553,
+      1469127,
+      1481443,
+      1505593,
+      1544333,
+      1683995,
+      1927196,
+      1931082,
+      1934360,
+      1961853,
+      1962760,
+      2090841,
+      2093190,
+      2293908,
+      2325341,
+      2333691,
+      2381317,
+      2393483,
+      2400288,
+      2400696,
+      2400756,
+      2763431,
+      2765228,
+      2825269,
+      3007689,
+      3176687,
+      4015270,
+      4027437,
+      4861518,
+      6357544,
+      6359069,
+      7320594,
+      7323880,
+      7328837
+     ],
+     "download_url": "https://www.njcourts.gov/system/files/court-opinions/2024/a1384-22.pdf",
+     "id": 10492190,
+     "joined_by_ids": [],
+     "local_path": "pdf/2024/07/31/new_jersey_realtors_v._township_of_berkeley.pdf",
+     "meta": {
+      "timestamp": "2025-10-24T01:19:42.777529Z",
+      "date_created": "2024-07-31T14:08:50.285977Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "62e6a66f89d59f03263e95319097230461fec1ad",
+     "snippet": "               NOT FOR PUBLICATION WITHOUT THE\n              APPROVAL OF THE APPELLATE DIVISION\n\n                                   SUPERIOR COURT OF NEW JERSEY\n                                   APPELLATE DIVISION\n                                   DOCKET NO. A-1384-22\n\nNEW JERSEY REALTORS,                    APPROVED FOR PUBLICATION\n                                                 July 31, 2024\n\n     Plaintiff-Respondent,                 APPELLATE DIVISION\n\n\nv.\n\nTOWNSHIP OF BERKELEY,\n\n     Def",
+     "type": "combined-opinion"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10492190
+   ],
+   "source": "C",
+   "status": "Published",
+   "suitNature": "",
+   "syllabus": "This appeal requires the court to determine whether an ordinance limiting property ownership in certain senior housing communities to persons aged fifty-five or older is valid. Both the Fair Housing Act (FHA), 42 U.S.C. § 3604(a), and the New Jersey Law Against Discrimination (NJLAD), N.J.S.A. 10:5-12(h), prohibit housing discrimination based on familial status, but provide an exemption for qualified housing for older persons, 42 USC § 3607(b)(1) N.J.S.A. 10:5-5(n). However, the exemption in both statutes permit restrictions on occupancy, not ownership, to persons aged fifty-five and older. Relying on the text and the underlying purpose of the statutes, the court determined that because the exemptions do not expressly permit the restriction on ownership, and the ordinance's restriction discriminates on the basis of familial status, the ordinance violates the FHA and the NJLAD. As a result, the court affirmed the trial judge's decision invalidating the ordinance. Alternatively, the court invalidated the ordinance on the ground that its enactment exceeded the scope of the Township's authority because the ordinance unreasonably infringed upon the well-established and constitutionally protected right to own and sell property, and the restriction unreasonably and irrationally exceeded the public need. The court therefore concluded the ordinance was arbitrary and unreasonable, and required the Legislature's approval as a precondition to such a radical regulatory development."
+  },
+  {
+   "absolute_url": "/opinion/6478728/curtis-w-andrade-v-westlo-management-llc/",
+   "attorney": "",
+   "caseName": "Curtis W. Andrade v. Westlo Management LLC",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 6478728,
+   "court": "Supreme Court of Rhode Island",
+   "court_citation_string": "R.I.",
+   "court_id": "ri",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2022-06-17",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "20-112",
+   "docket_id": 63392844,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-22T09:49:58.061551Z",
+    "date_created": "2022-06-17T15:09:37.703455Z",
+    "score": {
+     "bm25": 38.599636
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      118241,
+      175460,
+      196845,
+      736943,
+      794937,
+      1440005,
+      1469088,
+      1963785,
+      2334418,
+      2356460,
+      2556702
+     ],
+     "download_url": "https://www.courts.ri.gov/Courts/SupremeCourt/SupremeOpinions/20-112.pdf",
+     "id": 6350839,
+     "joined_by_ids": [],
+     "local_path": "pdf/2022/06/17/curtis_w._andrade_v._westlo_management_llc.pdf",
+     "meta": {
+      "timestamp": "2025-10-23T06:35:47.141142Z",
+      "date_created": "2022-06-17T15:09:37.704559Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "32c34760b801d332fa8bf3c44816ce2b2d73c369",
+     "snippet": "June 17, 2022\n\n\n                                                           Supreme Court\n\n                                                           No. 2020-112-M.P.\n                                                           (PC 12-6638)\n\n          Curtis W. Andrade et al.          :\n\n                       v.                   :\n\n      Westlo Management LLC et al.          :\n\n\n\n\n                NOTICE: This opinion is subject to formal revision\n                before publication in the Rhode I",
+     "type": "combined-opinion"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    6350839
+   ],
+   "source": "C",
+   "status": "Published",
+   "suitNature": "",
+   "syllabus": "The defendants, Westlo Management LLC, Smith/Keen Limited Partners, and Lindsey Hahn, filed a petition for certiorari to challenge an order granting partial summary judgment on counts one, two, three, and seven of the plaintiffs' third amended complaint against Westlo in favor of the plaintiffs, Curtis W. Andrade and The Rhode Island Commission for Human Rights. On appeal, the defendants asserted that the existence of genuine issues of material fact precluded partial summary judgment, namely, on the issue of whether an accommodation of a pet policy was reasonable under the Rhode Island Fair Housing Practices Act and the federal Fair Housing Act. Additionally, the defendants contended that the commission did not have standing to intervene in this matter. <br><br>The Supreme Court held that the hearing justice erred in granting the plaintiffs' motion for partial summary judgment as to the issue of the liability of Westlo, concluding that, due to the highly fact-specific nature of the assessment of an assistance animal, the issue was not within the purview of summary judgment, and thus genuine issues of material fact existed. The Supreme Court further held that it could not address the issue of the commission's intervention because Westlo failed to provide the Court with a proper transcript of the hearing on the commission's motion to intervene or the subsequent hearings conducted on Westlo's motion to vacate and motion to reconsider the respective orders granting the commission's intervention.<br> <br>Accordingly, the Supreme Court quashed that portion of the order on review granting the plaintiffs' motion for summary judgment as to the issue of the liability of Westlo on counts one, two, three, and seven of the plaintiffs' third-amended complaint."
+  },
+  {
+   "absolute_url": "/opinion/10665347/carlton-condominium-association-inc-v-dominique-miniaci/",
+   "attorney": "",
+   "caseName": "Carlton Condominium Association, Inc. v. Dominique Miniaci",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10665347,
+   "court": "District Court of Appeal of Florida",
+   "court_citation_string": "Fla. Dist. Ct. App.",
+   "court_id": "fladistctapp",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-09-03",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "4D2025-1458",
+   "docket_id": 71259169,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-09-03T15:06:35.784596Z",
+    "date_created": "2025-09-03T15:06:35.625589Z",
+    "score": {
+     "bm25": 26.598194
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      1138495
+     ],
+     "download_url": "https://4dca.flcourts.gov/pre_opinion_content_download/2456807",
+     "id": 11131934,
+     "joined_by_ids": [],
+     "local_path": "pdf/2025/09/03/carlton_condominium_association_inc._v._dominique_miniaci.pdf",
+     "meta": {
+      "timestamp": "2025-10-24T04:16:14.395632Z",
+      "date_created": "2025-09-03T15:06:35.628209Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "985cdf2149bc2387334aa4d475c1c7c611da9265",
+     "snippet": "       DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA\n                            FOURTH DISTRICT\n\n           CARLTON CONDOMINIUM ASSOCIATION, INC.,\n                        Petitioner,\n\n                                    v.\n\n            DOMINIQUE MINIACI and ROBERT STETSON,\n                         Respondents.\n\n                            No. 4D2025-1458\n\n                          [September 3, 2025]\n\n  Petition for writ of certiorari to the County Court for the Seventeenth\nJudicial Circuit,",
+     "type": "combined-opinion"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    11131934
+   ],
+   "source": "C",
+   "status": "Published",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10377601/twyman-v-recap-pa-holdings-llc/",
+   "attorney": "",
+   "caseName": "TWYMAN v. RECAP PA HOLDINGS, LLC",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10377601,
+   "court": "District Court, E.D. Pennsylvania",
+   "court_citation_string": "E.D. Pa.",
+   "court_id": "paed",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-03-12",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:24-cv-06204",
+   "docket_id": 69393956,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-04-12T09:00:44.350919Z",
+    "date_created": "2025-04-12T09:00:44.244786Z",
+    "score": {
+     "bm25": 26.441866
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      104808,
+      218768,
+      596541,
+      611569,
+      741725,
+      788352,
+      791672,
+      2415521,
+      3012797,
+      3168517,
+      4098400,
+      4309890,
+      4341321,
+      4574498,
+      4668248,
+      4693760,
+      8415395,
+      8976438,
+      9425065,
+      9435068,
+      9435339,
+      9489843,
+      9835864,
+      10780777
+     ],
+     "download_url": null,
+     "id": 10844189,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.paed.630239/gov.uscourts.paed.630239.35.0.pdf",
+     "meta": {
+      "timestamp": "2025-12-07T08:00:29.175232Z",
+      "date_created": "2025-04-12T09:00:44.255458Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "cc6ab4271cc62f72bddecf359d703f3d6e82c0ca",
+     "snippet": "              IN THE UNITED STATES DISTRICT COURT                        \n           FOR THE EASTERN DISTRICT OF PENNSYLVANIA                      \n\nMEREDITH TWYMAN               :  CIVIL ACTION                            \n                              :                                          \n             v.               :  NO. 24-6204                             \n                              :                                          \nRECAP PA HOLDINGS, LLC        :                        ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10844189
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10672794/collins-v-team-management-llc/",
+   "attorney": "",
+   "caseName": "Collins v. Team Management LLC",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10672794,
+   "court": "District Court, E.D. Wisconsin",
+   "court_citation_string": "E.D. Wis.",
+   "court_id": "wied",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-09-16",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:23-cv-01313",
+   "docket_id": 67859629,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-09-17T08:57:17.819046Z",
+    "date_created": "2025-09-17T08:57:11.947632Z",
+    "score": {
+     "bm25": 26.416864
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      771230,
+      781762,
+      794178,
+      857442,
+      932061,
+      1345471,
+      3165930,
+      4545712,
+      4653768,
+      4698691,
+      6952281,
+      8205763,
+      9423704,
+      9430403,
+      9430599,
+      9430607,
+      9432577,
+      9433528,
+      9435153,
+      9463975,
+      9554332
+     ],
+     "download_url": null,
+     "id": 11139381,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.wied.105195/gov.uscourts.wied.105195.174.0.pdf",
+     "meta": {
+      "timestamp": "2025-12-08T04:01:32.674414Z",
+      "date_created": "2025-09-17T08:57:11.953720Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "6988cf8f5a09616d6a1415a4d702c2ba2be248b6",
+     "snippet": "                UNITED STATES DISTRICT COURT                           \n               EASTERN DISTRICT OF WISCONSIN                           \n\n\nSHAWANDA V. COLLINS,                                                      \n\n            Plaintiff,                                                 \n                                     Case No. 23-cv-1313-bhl           \n  v.                                                                   \n\nTEAM MANAGEMENT LLC, et al.,                                 ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    11139381
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9656744/gorman-v-breeze-condominium-association-inc/",
+   "attorney": "",
+   "caseName": "Gorman v. Breeze Condominium Association, Inc",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9656744,
+   "court": "District Court, S.D. Florida",
+   "court_citation_string": "S.D. Fla.",
+   "court_id": "flsd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-06-03",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:23-cv-24513",
+   "docket_id": 68046044,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T02:10:11.441416Z",
+    "date_created": "2024-06-21T07:29:24.561635Z",
+    "score": {
+     "bm25": 26.359129
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      76329,
+      76633,
+      78174,
+      1557705,
+      1658018,
+      1980495,
+      2815299,
+      9427522,
+      9435068,
+      9435339
+     ],
+     "download_url": null,
+     "id": 10123357,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.flsd.658434/gov.uscourts.flsd.658434.27.0_1.pdf",
+     "meta": {
+      "timestamp": "2025-11-01T17:41:44.838221Z",
+      "date_created": "2024-06-21T07:29:24.568189Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "820cccd8d8aa2a9bc2ba8246534e3386a1ce5b5f",
+     "snippet": "                 UNITED STATES DISTRICT COURT FOR THE \n                      SOUTHERN DISTRICT OF FLORIDA \n                              _  Miami Division \n                    Case Number: 23-24513-CIV-MORENO \nHANNAH GORMAN, individually and on \nbehalf of her minor child L.T.G., \n            Plaintiff, \nvs. \n BREEZE CONDOMINIUM ASSOCIATION, \nINC., NAUTICA MANAGEMENT, LCC, and \nRICHARD MULLER, \n          .  Defendants.                                                           \n                   ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10123357
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10397674/twyman-v-recap-pa-holdings-llc/",
+   "attorney": "",
+   "caseName": "TWYMAN v. RECAP PA HOLDINGS, LLC",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10397674,
+   "court": "District Court, E.D. Pennsylvania",
+   "court_citation_string": "E.D. Pa.",
+   "court_id": "paed",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-04-28",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:24-cv-06204",
+   "docket_id": 69393956,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-04-29T08:50:30.193414Z",
+    "date_created": "2025-04-29T08:49:11.695008Z",
+    "score": {
+     "bm25": 26.332022
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      218768,
+      534206,
+      611569,
+      741725,
+      776991,
+      791672,
+      2415521,
+      3012797,
+      3168517,
+      4098400,
+      4309890,
+      4341321,
+      8415395,
+      9435068,
+      9435339,
+      9489843
+     ],
+     "download_url": null,
+     "id": 10864262,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.paed.630239/gov.uscourts.paed.630239.47.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-24T03:00:06.188219Z",
+      "date_created": "2025-04-29T08:49:11.698240Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "1eb00581ffa65de03af2f6beeb24a9499b1c5bcb",
+     "snippet": "              IN THE UNITED STATES DISTRICT COURT                        \n           FOR THE EASTERN DISTRICT OF PENNSYLVANIA                      \n\nMEREDITH TWYMAN               :  CIVIL ACTION                            \n                              :                                          \n             v.               :  NO. 24-6204                             \n                              :                                          \nRECAP PA HOLDINGS, LLC, 963   :                        ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10864262
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10336135/gonzalez-v-2009-houston-scott-street-lp/",
+   "attorney": "",
+   "caseName": "Gonzalez v. 2009 Houston Scott Street LP",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10336135,
+   "court": "District Court, S.D. Texas",
+   "court_citation_string": "S.D. Tex.",
+   "court_id": "txsd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-02-19",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "4:24-cv-05143",
+   "docket_id": 69511993,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-02-20T09:51:44.561171Z",
+    "date_created": "2025-02-20T09:50:25.628240Z",
+    "score": {
+     "bm25": 25.91801
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      346680,
+      409668,
+      544279,
+      902614,
+      2567833,
+      9433947
+     ],
+     "download_url": null,
+     "id": 10802723,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.txsd.1986697/gov.uscourts.txsd.1986697.10.0.pdf",
+     "meta": {
+      "timestamp": "2025-11-02T18:46:08.439313Z",
+      "date_created": "2025-02-20T09:50:25.631260Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "b665df5470418dee9a39c897b0d980c5c6cada41",
+     "snippet": "            IN THE UNITED STATES DISTRICT COURT         February 19, 2025\n            FOR THE SOUTHERN DISTRICT OF TEXAS          Nathan Ochsner, Clerk\n                      HOUSTON DIVISION                                   \n\n                               §                                         \nLillian Gonzalez,              §                                         \n                               §                                         \n         Plaintiff,            §                   ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10802723
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10190572/smith-v-supportive-housing-coalition/",
+   "attorney": "",
+   "caseName": "Smith v. Supportive Housing Coalition",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10190572,
+   "court": "District Court, D. New Mexico",
+   "court_citation_string": "D.N.M.",
+   "court_id": "nmd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-08-16",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:24-cv-00776",
+   "docket_id": 69014833,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-11-02T06:03:07.013197Z",
+    "date_created": "2024-11-02T06:01:52.886186Z",
+    "score": {
+     "bm25": 25.804106
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [],
+     "download_url": null,
+     "id": 10657166,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.nmd.505016/gov.uscourts.nmd.505016.15.0.pdf",
+     "meta": {
+      "timestamp": "2025-11-02T18:36:50.014733Z",
+      "date_created": "2024-11-02T06:01:52.893422Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "bba15b16b14ff21a673aa693cd1f633c4deadbd9",
+     "snippet": "          IN THE UNITED STATES DISTRICT COURT                        \n            FOR THE DISTRICT OF NEW MEXICO                           \n\nJERRY SMITH,                                                              \n\n     Plaintiff,                                                      \n\nv.                                      Civ. No. 24-776 SCY/LF       \n\nSUPPORTIVE HOUSING COALITION, a New                                       \nMexico Corporation, CITY OF ALBUQUERQUE,                          ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10657166
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10648071/de-human-and-civil-rights-commission-cahill-v-welch-yu/",
+   "attorney": "",
+   "caseName": "DE Human and Civil Rights Commission & Cahill v. Welch & Yu",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10648071,
+   "court": "Superior Court of Delaware",
+   "court_citation_string": "Del. Super. Ct.",
+   "court_id": "delsuperct",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-08-05",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "N24C-12-088 KMM",
+   "docket_id": 71030810,
+   "judge": "Miller J.",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-08-05T19:03:47.295851Z",
+    "date_created": "2025-08-05T19:03:40.143499Z",
+    "score": {
+     "bm25": 25.686363
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      106167,
+      501718,
+      781889,
+      2279777,
+      2319183,
+      2539629,
+      3212673,
+      5179249,
+      9423079,
+      9423536,
+      9424728,
+      9431335,
+      9432797,
+      9434298,
+      9478232
+     ],
+     "download_url": "http://courts.delaware.gov/Opinions/Download.aspx?id=383230",
+     "id": 11114658,
+     "joined_by_ids": [],
+     "local_path": "pdf/2025/08/05/de_human_and_civil_rights_commission__cahill_v._welch__yu.pdf",
+     "meta": {
+      "timestamp": "2025-11-01T18:02:16.736146Z",
+      "date_created": "2025-08-05T19:03:40.154812Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "77736b0f5aa04d849a94cb45dc60fa397214d6ba",
+     "snippet": "      IN THE SUPERIOR COURT OF THE STATE OF DELAWARE\n\n\nDELAWARE HUMAN AND           CIVIL )\nRIGHTS COMMISSION,                 )\n                                   )\n         Plaintiff ex. rel.,       )\n                                   )\nELAINE CAHILL,                     ) C.A. No. N24C-12-088 KMM\n                                   )\n         Relator,                  )\n                                   )\n    v.                             )\n                                   )\nCHRISTINE WEL",
+     "type": "combined-opinion"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    11114658
+   ],
+   "source": "C",
+   "status": "Published",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10368837/scoggins-v-falcon-court/",
+   "attorney": "",
+   "caseName": "Scoggins v. Falcon Court",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10368837,
+   "court": "District Court, E.D. California",
+   "court_citation_string": "E.D. Cal.",
+   "court_id": "caed",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-03-28",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:24-cv-00188",
+   "docket_id": 68241129,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-03-31T09:22:58.241569Z",
+    "date_created": "2025-03-31T09:14:44.916205Z",
+    "score": {
+     "bm25": 25.67146
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      108786,
+      775731,
+      787361,
+      791705,
+      8699718,
+      9501261
+     ],
+     "download_url": null,
+     "id": 10835425,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.caed.441366/gov.uscourts.caed.441366.13.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-28T21:34:40.880822Z",
+      "date_created": "2025-03-31T09:14:44.921667Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "b5a49be94ebba65501c0b89a384036c04c8eadc5",
+     "snippet": "1                                                                        \n\n2                                                                        \n\n3                                                                        \n\n4                                                                        \n\n5                                                                        \n6                                                                        \n7                      UNITED STATES DISTRICT COURT ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10835425
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10652715/wanaque-realty-v-borough-of-wanaque/",
+   "attorney": "",
+   "caseName": "WANAQUE REALTY v. BOROUGH OF WANAQUE",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10652715,
+   "court": "District Court, D. New Jersey",
+   "court_citation_string": "D.N.J.",
+   "court_id": "njd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-08-12",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:18-cv-14817",
+   "docket_id": 16186504,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-08-13T08:57:41.559102Z",
+    "date_created": "2025-08-13T08:57:40.824746Z",
+    "score": {
+     "bm25": 25.622175
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      111883,
+      588177,
+      598982,
+      722381,
+      752434,
+      791672,
+      1556997,
+      2183819,
+      2269327,
+      2288479,
+      2365847,
+      2499787,
+      6658151,
+      7801014,
+      8913120,
+      8976438,
+      9418495,
+      9423804,
+      9425065,
+      9426633,
+      9427319,
+      9427522,
+      9428673,
+      9428911,
+      9430403,
+      9430599,
+      9430607,
+      9432149,
+      9432685,
+      9434149,
+      9480097,
+      9486446,
+      9876891
+     ],
+     "download_url": null,
+     "id": 11119302,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.njd.385303/gov.uscourts.njd.385303.137.0.pdf",
+     "meta": {
+      "timestamp": "2025-12-08T01:26:16.263586Z",
+      "date_created": "2025-08-13T08:57:40.853693Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "b3b5e9c7273660b47c211ed634eb6a860bbf4d98",
+     "snippet": "NOT FOR PUBLICATION                                                       \n\n\n                UNITED STATES DISTRICT COURT                            \n                   DISTRICT OF NEW JERSEY                               \n\n\n\nJ&S GROUP INC., WANAQUE REALTY                                            \nCORP., and MOUNTAIN LAKES ESTATES,       Civil Action No. 18-14817        \nINC.,                                                                     \n\n                   Plaintiffs,              OPIN",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    11119302
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10333275/bodner-v-johnson/",
+   "attorney": "",
+   "caseName": "Bodner v. Johnson",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10333275,
+   "court": "District Court, W.D. Louisiana",
+   "court_citation_string": "W.D. La.",
+   "court_id": "lawd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-01-14",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "5:24-cv-01716",
+   "docket_id": 69457347,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-02-14T10:33:27.126254Z",
+    "date_created": "2025-02-14T10:33:27.082147Z",
+    "score": {
+     "bm25": 25.507769
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      14258,
+      28189,
+      715650,
+      9435068,
+      9435339,
+      9491176
+     ],
+     "download_url": null,
+     "id": 10799863,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.lawd.208923/gov.uscourts.lawd.208923.9.0.pdf",
+     "meta": {
+      "timestamp": "2025-11-01T21:19:59.160260Z",
+      "date_created": "2025-02-14T10:33:27.086241Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "d66dc29ca3335aa85f515d4f2002ecc46f3e9ea6",
+     "snippet": "                  UNITED STATES DISTRICT COURT                            \n                 WESTERN DISTRICT OF LOUISIANA                            \n                      SHREVEPORT DIVISION                                 \n\nBODNER                               CIVIL ACTION NO. 24-cv-1716           \n\nVERSUS                               JUDGE TERRY A. DOUGHTY                \n\nKAREN P JOHNSON ET AL                MAGISTRATE JUDGE HORNSBY              \n\n\n                 REPORT AND RECOMMENDATION",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10799863
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10691671/crawford-v-oguleye/",
+   "attorney": "",
+   "caseName": "Crawford v. Oguleye",
+   "caseNameFull": "Demetrius L. Crawford v. Bosed Oguleye, et al.",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10691671,
+   "court": "District Court, N.D. Alabama",
+   "court_citation_string": "N.D. Ala.",
+   "court_id": "alnd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-10-06",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:25-cv-00100",
+   "docket_id": 69807859,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-10-07T08:48:10.537560Z",
+    "date_created": "2025-10-07T08:47:24.700176Z",
+    "score": {
+     "bm25": 25.481852
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      77594,
+      552261
+     ],
+     "download_url": null,
+     "id": 11158259,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.alnd.192943/gov.uscourts.alnd.192943.20.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-24T04:35:39.433488Z",
+      "date_created": "2025-10-07T08:47:24.706750Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "effb5e78e181de9727b465b2625d2ec4f5e2224d",
+     "snippet": "       IN THE UNITED STATES DISTRICT COURT                           \n     FOR THE NORTHERN DISTRICT OF ALABAMA                            \n                 SOUTHERN DIVISION                                   \n\nDEMETRIUS L CRAWFORD,              ]                                      \n                              ]                                      \nPlaintiff,                    ]                                      \n                              ]                                      \nv.  ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    11158259
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9906705/culver-v-churchill/",
+   "attorney": "",
+   "caseName": "Culver v. Churchill",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9906705,
+   "court": "District Court, N.D. Ohio",
+   "court_citation_string": "N.D. Ohio",
+   "court_id": "ohnd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-04-10",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "3:23-cv-02454",
+   "docket_id": 68117427,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-27T07:19:59.091627Z",
+    "date_created": "2024-06-27T06:37:00.038570Z",
+    "score": {
+     "bm25": 25.421
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      111915,
+      112254,
+      765119,
+      792450,
+      1353908,
+      9489720
+     ],
+     "download_url": null,
+     "id": 10373315,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.ohnd.302811/gov.uscourts.ohnd.302811.7.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-27T17:11:53.007433Z",
+      "date_created": "2024-06-27T06:37:00.047345Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "489b43ee8db643754337ec8e20b4a4628b8de191",
+     "snippet": "              UNITED STATES DISTRICT COURT                           \n               NORTHERN DISTRICT OF OHIO                             \n                   WESTERN DIVISION                                  \n\n\nChelsea Culver, and                Case No. 3:23-CV-2454                  \nBen Smith,                                                                \n\n     Plaintiffs,              Judge James G. Carr                    \n\n  v.                                                              ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10373315
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10632921/lee-v-hud-housing-attorney/",
+   "attorney": "",
+   "caseName": "Lee v. HUD Housing Attorney",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10632921,
+   "court": "District Court, E.D. Wisconsin",
+   "court_citation_string": "E.D. Wis.",
+   "court_id": "wied",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-07-14",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:25-cv-00029",
+   "docket_id": 69524202,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-07-15T08:47:01.040079Z",
+    "date_created": "2025-07-15T08:43:27.025610Z",
+    "score": {
+     "bm25": 25.373993
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      105573,
+      118093,
+      145753,
+      406474,
+      784680,
+      821081,
+      2801434,
+      4299723,
+      4413055,
+      6944322,
+      8983988,
+      9429754,
+      9430591,
+      9432577,
+      9434951,
+      9435053,
+      9435068,
+      9435339,
+      10012738
+     ],
+     "download_url": null,
+     "id": 11099508,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.wied.110366/gov.uscourts.wied.110366.7.0.pdf",
+     "meta": {
+      "timestamp": "2025-12-07T22:53:09.427583Z",
+      "date_created": "2025-07-15T08:43:27.031225Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "9256b63632b6da8f77a7bdc83bd54586ce43e40f",
+     "snippet": "               UNITED STATES DISTRICT COURT                            \n              EASTERN DISTRICT OF WISCONSIN                            \n\n\nOLIVER A. LEE,                                                            \n\n            Plaintiff,                                                 \n                                     Case No. 25-cv-29-pp              \n  v.                                                                   \n\nHUD HOUSING ATTORNEY,1                                       ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    11099508
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9411770/eagle-run-holdings-llc-v-zhb-of-the-city-of-reading/",
+   "attorney": "",
+   "caseName": "Eagle Run Holdings, LLC v. ZHB of the City of Reading",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9411770,
+   "court": "Commonwealth Court of Pennsylvania",
+   "court_citation_string": "Pa. Commw. Ct.",
+   "court_id": "pacommwct",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2023-07-06",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "222 C.D. 2022",
+   "docket_id": 67561557,
+   "judge": "Fizzano Cannon, J.",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-12-14T06:17:40.831100Z",
+    "date_created": "2023-07-06T14:06:45.962365Z",
+    "score": {
+     "bm25": 25.168655
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      722381,
+      776991,
+      1486797,
+      1954649,
+      2248585,
+      2396174,
+      2472119,
+      4014603,
+      4402371,
+      4574498,
+      4967865,
+      7224473,
+      7243412,
+      9433139
+     ],
+     "download_url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/222CD22_7-6-23.pdf",
+     "id": 9407246,
+     "joined_by_ids": [],
+     "local_path": "pdf/2023/07/06/eagle_run_holdings_llc_v._zhb_of_the_city_of_reading.pdf",
+     "meta": {
+      "timestamp": "2025-12-05T08:02:03.302974Z",
+      "date_created": "2023-07-06T14:06:45.969139Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "603cccf6b5c70ad1074e4ff9534f557373e6114b",
+     "snippet": "          IN THE COMMONWEALTH COURT OF PENNSYLVANIA\n\n\nEagle Run Holdings, LLC,                  :\n                 Appellant                :\n                                          :\n             v.                           :\n                                          :\nThe Zoning Hearing Board                  :     No. 222 C.D. 2022\nof the City of Reading                    :     Argued: June 5, 2023\n\n\n\nBEFORE:      HONORABLE ANNE E. COVEY, Judge\n             HONORABLE MICHAEL H. WOJCIK, Ju",
+     "type": "combined-opinion"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    9407246
+   ],
+   "source": "C",
+   "status": "Unpublished",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9759789/servis-v-jang/",
+   "attorney": "",
+   "caseName": "Servis v. Jang",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9759789,
+   "court": "District Court, W.D. Michigan",
+   "court_citation_string": "W.D. Mich.",
+   "court_id": "miwd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-03-04",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:22-cv-00745",
+   "docket_id": 64907187,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-11-14T18:28:52.280108Z",
+    "date_created": "2024-06-23T19:04:03.226832Z",
+    "score": {
+     "bm25": 25.075638
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      176236,
+      709215,
+      2775061,
+      2982831,
+      9002659,
+      9423198,
+      9428409,
+      9435068,
+      9435339
+     ],
+     "download_url": null,
+     "id": 10226401,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.miwd.105672/gov.uscourts.miwd.105672.34.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-27T16:47:54.488081Z",
+      "date_created": "2024-06-23T19:04:03.238071Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "81b3986be1bee431d41bc2bab88a75146e13c553",
+     "snippet": "            UNITED STATES DISTRICT COURT                             \n            WESTERN DISTRICT OF MICHIGAN                             \n                  SOUTHERN DIVISION                                  \n\nROBERT SERVIS, JR., et al.,                                               \n\n     Plaintiffs and                                                  \n     Counter-Defendants,           Hon. Phillip J. Green             \n\nv.                                      Case No. 1:22-cv-745            ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10226401
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9479284/amia-bryant-v-darrell-steinburg/",
+   "attorney": "",
+   "caseName": "Amia Bryant v. Darrell Steinburg",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9479284,
+   "court": "Court of Appeals for the Ninth Circuit",
+   "court_citation_string": "9th Cir.",
+   "court_id": "ca9",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-02-28",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "23-15287",
+   "docket_id": 68291463,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T01:26:20.259532Z",
+    "date_created": "2024-02-28T19:01:42.372990Z",
+    "score": {
+     "bm25": 24.99286
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      553259,
+      3188956
+     ],
+     "download_url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2024/02/28/23-15287.pdf",
+     "id": 9945897,
+     "joined_by_ids": [],
+     "local_path": "pdf/2024/02/28/amia_bryant_v._darrell_steinburg.pdf",
+     "meta": {
+      "timestamp": "2025-10-27T08:30:16.244308Z",
+      "date_created": "2024-02-28T19:01:42.375570Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "c1de8696f269cafb6ba8ec7f47c702bc834d0424",
+     "snippet": "                           NOT FOR PUBLICATION                           FILED\n                    UNITED STATES COURT OF APPEALS                        FEB 28 2024\n                                                                      MOLLY C. DWYER, CLERK\n                                                                       U.S. COURT OF APPEALS\n                           FOR THE NINTH CIRCUIT\n\nAMIA L. BRYANT,                                 No. 23-15287\n\n                Plaintiff-Appellant,  ",
+     "type": "combined-opinion"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    9945897
+   ],
+   "source": "C",
+   "status": "Unpublished",
+   "suitNature": "",
+   "syllabus": ""
+  }
+ ]
+}

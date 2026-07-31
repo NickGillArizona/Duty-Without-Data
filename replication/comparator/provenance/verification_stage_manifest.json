@@ -1,0 +1,101 @@
+{
+  "generated_utc": "2026-07-08T04:41:19+00:00",
+  "note": "Verification-stage hashes; companion to remediation_hash_manifest.json.",
+  "files": [
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/adjudication_opus48_raw_results.json",
+      "sha256": "267fdb55da0501c8a83c13542017e990e3d59372726fae60f8cc73af0ba6a607",
+      "bytes": 79815
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/adjudication_record.json",
+      "sha256": "94e06cf8e52680146b52a3808d14bc0ce78b367a2d7d15a941dd93c22a5b460a",
+      "bytes": 47975
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/COMPLETENESS_CHECK.json",
+      "sha256": "9beed7bd242a1555573e159a542d302611ce6ba71648dded012ea2933ad5a272",
+      "bytes": 3137
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/coverage_report.json",
+      "sha256": "1e5f7ed216ffdd15f1b9fe833a16465c848f7ab233dfb8e69d595b5709e01001",
+      "bytes": 560
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/MODELS_USED.json",
+      "sha256": "d6a86855ec3615bdeb127c5ef744042830a3df3abd0a388f8a44f5324f2baa28",
+      "bytes": 578
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/r1_gemini31pro_raw_results.json",
+      "sha256": "077530f22e8769c290b9e5e095cc2128093b62e2665fe887cea06107cdb2691a",
+      "bytes": 202337
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/r1_gpt55_raw_results.json",
+      "sha256": "2d149cc33452c9169d0551cfe908dd5df19fa45a403e2d7011a78490de96f75a",
+      "bytes": 205185
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/r1_panel_agreements.json",
+      "sha256": "0e859167cc1cd2a23a018667370220c1596390287958825005b97b80e8bb90d3",
+      "bytes": 112300
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/r1_sonnet5_raw_results.json",
+      "sha256": "c8bdc3b9d6844f39b851fc609e688421366864f89d5d8134ec45feb14753df93",
+      "bytes": 206059
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/R1_VERIFIED_CODES.csv",
+      "sha256": "467125e6d408c765177e6f7cd371a0f0b4258f65f5e0ca0cd55a750b185f4f93",
+      "bytes": 10540
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/r2_deepseek_raw_results.json",
+      "sha256": "12868656da28fc0e07b7500f4d3efafe5ff70789c1ce1364f3d1c471b7964b1e",
+      "bytes": 1116644
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/r2_glm_raw_results.json",
+      "sha256": "2668c2cf50800d82cba84423fbc4e3afb40ef8fd75ce5854e6f953368f667617",
+      "bytes": 1102927
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/r2_kimi_raw_results.json",
+      "sha256": "b3c0b2f7c98e0c8f207867ecf3b6490309cbd7e189e670d369c476e63558d319",
+      "bytes": 1309016
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/verification_adjudicator_prompt.txt",
+      "sha256": "08db3ec3ec000d4c416525f7464f6339d94f84ddd5c15791b8b25d415d7c74eb",
+      "bytes": 2194
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/verification_inputs_r1.json",
+      "sha256": "3b2b32e9b8e436b05ec9ac016ea23e5190ce5a6add4acb58efad593ac80bfabd",
+      "bytes": 55879
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/verification_inputs_r2.json",
+      "sha256": "e0fb1862be67e999cd521c3018f522ca49ddd7e5ae93077b9ef2cd735bf6edfb",
+      "bytes": 269886
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/VERIFICATION_MANIFEST.json",
+      "sha256": "d18eedeaebe57f9dea698d2a5e14e8f90f00009b03b821381b0b4ad7816dae08",
+      "bytes": 2293
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/verification_recode_prompt.txt",
+      "sha256": "1cace1c4c74ac519553cdeb716a0e0ca7e03b3d9b660c442af890a545cd6f258",
+      "bytes": 4401
+    },
+    {
+      "file": "replication/comparator/recoding_2026-07-07/raw_text_verification/VERIFICATION_RESULTS.json",
+      "sha256": "260940d74973db4769322756ffdec54edffac635357b675de5468983a92b76fc",
+      "bytes": 2240
+    }
+  ]
+}

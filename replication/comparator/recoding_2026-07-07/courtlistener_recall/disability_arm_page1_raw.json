@@ -1,0 +1,1522 @@
+{
+ "count": 1400,
+ "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0zNS40NTM0ODQmcz05Njk1OTg0JnQ9byZkPTIwMjYtMDctMDcmcD0y&filed_after=01%2F01%2F2022&filed_before=07%2F01%2F2026&q=%22fair+housing+act%22+AND+%28disability+OR+handicap%29&stat_Errata=on&stat_In-chambers=on&stat_Published=on&stat_Relating-to=on&stat_Separate=on&stat_Unknown=on&stat_Unpublished=on&type=o",
+ "previous": null,
+ "results": [
+  {
+   "absolute_url": "/opinion/10220068/disability-law-center-v-sg-boulevard-multifamily/",
+   "attorney": "",
+   "caseName": "Disability Law Center v. SG Boulevard Multifamily",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10220068,
+   "court": "District Court, D. Utah",
+   "court_citation_string": "D. Utah",
+   "court_id": "utd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2023-11-07",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:23-cv-00146",
+   "docket_id": 66924294,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-11-13T07:05:38.717134Z",
+    "date_created": "2024-11-04T05:43:22.903234Z",
+    "score": {
+     "bm25": 78.618904
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      179120,
+      536509,
+      673802,
+      759175,
+      2714897,
+      4698691,
+      6928494,
+      8415513,
+      9428673,
+      9432577,
+      9491078,
+      9803736
+     ],
+     "download_url": null,
+     "id": 10686658,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.utd.138146/gov.uscourts.utd.138146.44.0.pdf",
+     "meta": {
+      "timestamp": "2025-11-01T21:11:50.385200Z",
+      "date_created": "2024-11-04T05:43:22.909510Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "8f5b19ae82a56d19da423dc05c99d2a563df0ca0",
+     "snippet": "   IN THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF UTAH          \n\n                       CENTRAL DIVISION                                  \n\n\nDISABILITY LAW CENTER,          MEMORANDUM DECISION AND                  \n                                ORDER GRANTING DEFENDANTS’               \n               Plaintiff,       MOTION TO DISMISS                        \nv.                                                                       \n\nSG BOULEVARD MULTIFAMILY LLC,   Case No. 2:23-cv-001",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10686658
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9841793/ortega-v-new-york-state-temporary-disability-assistance/",
+   "attorney": "",
+   "caseName": "Ortega v. New York State Temporary Disability Assistance",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9841793,
+   "court": "District Court, E.D. New York",
+   "court_citation_string": "E.D.N.Y",
+   "court_id": "nyed",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2022-09-06",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:18-cv-07293",
+   "docket_id": 8447841,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-11-14T21:48:00.138101Z",
+    "date_created": "2024-06-25T22:56:27.032691Z",
+    "score": {
+     "bm25": 77.73503
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      106383,
+      516914,
+      708056,
+      1386179,
+      2459576
+     ],
+     "download_url": null,
+     "id": 10308405,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.nyed.427136/gov.uscourts.nyed.427136.16.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-27T17:04:07.570117Z",
+      "date_created": "2024-06-25T22:56:27.042384Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "31e4e576cd844e9eec76ae46e08deec6b53d541c",
+     "snippet": "UNITED STATES DISTRICT COURT                                              \nEASTERN DISTRICT OF NEW YORK                                              \n--------------------------------------x                                   \nIVAN FERNANDO ORTEGA,                                                     \n\n          Plaintiff,                                                 \n                                   MEMORANDUM AND ORDER              \n-against-                          18-CV-5995 (KAM)(RER)   ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10308405
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10368942/baez-v-new-york-state-office-of-temporary-and-disability-assistance/",
+   "attorney": "",
+   "caseName": "Baez v. New York State Office of Temporary and Disability Assistance",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10368942,
+   "court": "District Court, S.D. New York",
+   "court_citation_string": "S.D.N.Y.",
+   "court_id": "nysd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-03-28",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:24-cv-03282",
+   "docket_id": 68484607,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-03-31T09:26:35.979738Z",
+    "date_created": "2025-03-31T09:26:35.906666Z",
+    "score": {
+     "bm25": 71.27362
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      2463,
+      109703,
+      176780,
+      215346,
+      216284,
+      437461,
+      536983,
+      697258,
+      759227,
+      763761,
+      767339,
+      777313,
+      786491,
+      788063,
+      803466,
+      806776,
+      809589,
+      1226239,
+      1236186,
+      2293118,
+      2819925,
+      6949355,
+      6975871,
+      7227545,
+      7249823,
+      8408306,
+      8409836,
+      8412823,
+      8413053,
+      8413651,
+      8702298,
+      8702412,
+      8707040,
+      9426170,
+      9428515,
+      9428673,
+      9428863,
+      9429162,
+      9430106,
+      9430157,
+      9431119,
+      9431732,
+      9431866,
+      9432577,
+      9434267,
+      9434951,
+      9435068,
+      9435178,
+      9435339,
+      9435821,
+      9500600,
+      9501853,
+      9795084,
+      9795100,
+      10778259
+     ],
+     "download_url": null,
+     "id": 10835530,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.nysd.620509/gov.uscourts.nysd.620509.62.0.pdf",
+     "meta": {
+      "timestamp": "2025-12-08T00:32:41.908813Z",
+      "date_created": "2025-03-31T09:26:35.915711Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "7ee60a13b28786ea9c8dc16ca345f1f2b029127f",
+     "snippet": "UNITED STATES DISTRICT COURT                                            \nSOUTHERN DISTRICT OF NEW YORK                                           \nWANDA BAEZ, SIIDE GIL-                                                  \nFREDERICK, DANIELLE JOHNSON,                                            \nand RESIDENTS TO PRESERVE                                               \nPUBLIC HOUSING,                                                         \n              Plaintiff,                                      ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10835530
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9844374/disability-rights-new-york-v-the-state-of-new-york/",
+   "attorney": "",
+   "caseName": "Disability Rights New York v. The State of New York",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9844374,
+   "court": "District Court, E.D. New York",
+   "court_citation_string": "E.D.N.Y",
+   "court_id": "nyed",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-01-02",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:17-cv-06965",
+   "docket_id": 7072495,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-26T05:58:26.004906Z",
+    "date_created": "2024-06-25T23:25:59.111393Z",
+    "score": {
+     "bm25": 67.162445
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      109703,
+      118025,
+      145677,
+      538783,
+      600353,
+      619120,
+      770253,
+      1362337,
+      1476570,
+      1687572,
+      1875781,
+      1879498,
+      2469236,
+      2540490,
+      2672209,
+      3201953,
+      7261903,
+      7797347,
+      8409836,
+      8412297,
+      8751033,
+      8794483,
+      8983988,
+      9415477,
+      9423763,
+      9426170,
+      9426552,
+      9426633,
+      9427522,
+      9428284,
+      9428574,
+      9428673,
+      9429754,
+      9431960,
+      9432149,
+      9432245,
+      9432577,
+      9433860,
+      9434632,
+      9500764,
+      9515913
+     ],
+     "download_url": null,
+     "id": 10310986,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.nyed.410041/gov.uscourts.nyed.410041.148.0_2.pdf",
+     "meta": {
+      "timestamp": "2025-12-06T02:15:33.373578Z",
+      "date_created": "2024-06-25T23:25:59.127961Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "aa8d4447e0f0e864b1bedad96e2a3c658385f87c",
+     "snippet": "UNITED STATES DISTRICT COURT                                              \nEASTERN DISTRICT OF NEW YORK                                              \n----------------------------------------------------------x               \nDISABILITY RIGHTS NEW YORK, et al.,                                       \n\n                  Plaintiffs,         MEMORANDUM AND ORDER              \n        -against-                           17-CV-6965 (RRM) (MMH)      \n\nNEW YORK STATE, et al.,                             ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10310986
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9449451/friedman-v-ebner-properties/",
+   "attorney": "",
+   "caseName": "Friedman v. Ebner Properties",
+   "caseNameFull": "",
+   "citation": [
+    "2023 Ohio 4398"
+   ],
+   "citeCount": 3,
+   "cluster_id": 9449451,
+   "court": "Ohio Court of Appeals",
+   "court_citation_string": "Ohio Ct. App.",
+   "court_id": "ohioctapp",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2023-12-05",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "23AP-179",
+   "docket_id": 68064609,
+   "judge": "Jamison",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T01:19:17.692059Z",
+    "date_created": "2023-12-06T00:06:59.617432Z",
+    "score": {
+     "bm25": 44.24664
+    }
+   },
+   "neutralCite": "2023 Ohio 4398",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      108786,
+      164001,
+      626376,
+      721336,
+      855796,
+      2706943,
+      2981397,
+      3728147,
+      3738445,
+      4638743,
+      6698881,
+      6702141,
+      6758147,
+      6773631,
+      6791216,
+      8412483,
+      9801847,
+      9882881
+     ],
+     "download_url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/10/2023/2023-Ohio-4398.pdf",
+     "id": 9907276,
+     "joined_by_ids": [],
+     "local_path": "pdf/2023/12/05/friedman_v._ebner_properties.pdf",
+     "meta": {
+      "timestamp": "2025-11-29T07:34:18.835197Z",
+      "date_created": "2023-12-06T00:06:59.632195Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "bc42b781506e7027418710f0eb2ba624e6e7f56f",
+     "snippet": "[Cite as Friedman v. Ebner Properties, 2023-Ohio-4398.]\n\n\n                             IN THE COURT OF APPEALS OF OHIO\n\n                                  TENTH APPELLATE DISTRICT\n\n\nRobert Friedman,                                      :\n\n                Plaintiff-Appellant,                  :         No. 23AP-179\n                                                             (C.P.C. No. 21CV-6720 )\nv.                                                    :\n                                            ",
+     "type": "combined-opinion"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    9907276
+   ],
+   "source": "C",
+   "status": "Published",
+   "suitNature": "",
+   "syllabus": "The trial court did not err in granting defendants summary judgment on plaintiff's claims for intentional infliction of emotional distress and violation of federal and state statutes prohibiting housing discrimination against the disabled."
+  },
+  {
+   "absolute_url": "/opinion/9490768/dwight-smith-v-amh-2014-1-borrower-llc/",
+   "attorney": "",
+   "caseName": "Dwight Smith v. AMH 2014-1 Borrower, LLC",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9490768,
+   "court": "Court of Appeals for the Eleventh Circuit",
+   "court_citation_string": "11th Cir.",
+   "court_id": "ca11",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-04-04",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "23-13273",
+   "docket_id": 68407490,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T01:29:08.442135Z",
+    "date_created": "2024-04-04T15:01:40.157730Z",
+    "score": {
+     "bm25": 40.210636
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      73150,
+      76538,
+      78174,
+      146547,
+      515821,
+      618437,
+      2721426,
+      4256726
+     ],
+     "download_url": "http://media.ca11.uscourts.gov/opinions/unpub/files/23-13273.pdf",
+     "id": 9957381,
+     "joined_by_ids": [],
+     "local_path": "pdf/2024/04/04/dwight_smith_v._amh_2014-1_borrower_llc.pdf",
+     "meta": {
+      "timestamp": "2025-10-23T23:25:46.045587Z",
+      "date_created": "2024-04-04T15:01:40.159966Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "c6edf83ad52f3f865b8b2fa49665dba6e3192c99",
+     "snippet": "USCA11 Case: 23-13273   Document: 12-1    Date Filed: 04/04/2024   Page: 1 of 7\n\n\n\n\n                                                [DO NOT PUBLISH]\n                                 In the\n                United States Court of Appeals\n                        For the Eleventh Circuit\n\n                         ____________________\n\n                              No. 23-13273\n                         Non-Argument Calendar\n                         ____________________\n\n       DWIGHT SMITH,\n       CA",
+     "type": "combined-opinion"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    9957381
+   ],
+   "source": "C",
+   "status": "Unpublished",
+   "suitNature": "NEW",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9656744/gorman-v-breeze-condominium-association-inc/",
+   "attorney": "",
+   "caseName": "Gorman v. Breeze Condominium Association, Inc",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9656744,
+   "court": "District Court, S.D. Florida",
+   "court_citation_string": "S.D. Fla.",
+   "court_id": "flsd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-06-03",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:23-cv-24513",
+   "docket_id": 68046044,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T02:10:11.441416Z",
+    "date_created": "2024-06-21T07:29:24.561635Z",
+    "score": {
+     "bm25": 38.422985
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      76329,
+      76633,
+      78174,
+      1557705,
+      1658018,
+      1980495,
+      2815299,
+      9427522,
+      9435068,
+      9435339
+     ],
+     "download_url": null,
+     "id": 10123357,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.flsd.658434/gov.uscourts.flsd.658434.27.0_1.pdf",
+     "meta": {
+      "timestamp": "2025-11-01T17:41:44.838221Z",
+      "date_created": "2024-06-21T07:29:24.568189Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "820cccd8d8aa2a9bc2ba8246534e3386a1ce5b5f",
+     "snippet": "                 UNITED STATES DISTRICT COURT FOR THE \n                      SOUTHERN DISTRICT OF FLORIDA \n                              _  Miami Division \n                    Case Number: 23-24513-CIV-MORENO \nHANNAH GORMAN, individually and on \nbehalf of her minor child L.T.G., \n            Plaintiff, \nvs. \n BREEZE CONDOMINIUM ASSOCIATION, \nINC., NAUTICA MANAGEMENT, LCC, and \nRICHARD MULLER, \n          .  Defendants.                                                           \n                   ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10123357
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/8241798/jamal-akbar-v-interstate-realty-management-company/",
+   "attorney": "",
+   "caseName": "Jamal Akbar v. Interstate Realty Management Company",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 8241798,
+   "court": "Court of Appeals for the Seventh Circuit",
+   "court_citation_string": "7th Cir.",
+   "court_id": "ca7",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2022-09-16",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "22-1598",
+   "docket_id": 65355195,
+   "judge": "Per Curiam",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-22T17:50:17.411212Z",
+    "date_created": "2022-09-16T20:00:24.486826Z",
+    "score": {
+     "bm25": 38.251865
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      108654,
+      1264804,
+      4652364,
+      8414585
+     ],
+     "download_url": "http://media.ca7.uscourts.gov/cgi-bin/rssExec.pl?Submit=Display&Path=Y2022/D09-16/C:22-1598:J:PerCuriam:aut:T:npDp:N:2933131:S:0",
+     "id": 8207061,
+     "joined_by_ids": [],
+     "local_path": "pdf/2022/09/16/jamal_akbar_v._interstate_realty_management_company.pdf",
+     "meta": {
+      "timestamp": "2025-11-28T02:45:35.435426Z",
+      "date_created": "2022-09-16T20:00:24.605085Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "539763e757278256fc6dcb7f18796414ebc84252",
+     "snippet": "                       NONPRECEDENTIAL DISPOSITION\n                To be cited only in accordance with FED. R. APP. P. 32.1\n\n\n                United States Court of Appeals\n                                For the Seventh Circuit\n                                Chicago, Illinois 60604\n\n                             Submitted September 15, 2022 *\n                              Decided September 16, 2022\n\n                                         Before\n\n                    FRANK H. EASTERBROOK, Circu",
+     "type": "combined-opinion"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    8207061
+   ],
+   "source": "C",
+   "status": "Unpublished",
+   "suitNature": "civil",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10377601/twyman-v-recap-pa-holdings-llc/",
+   "attorney": "",
+   "caseName": "TWYMAN v. RECAP PA HOLDINGS, LLC",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10377601,
+   "court": "District Court, E.D. Pennsylvania",
+   "court_citation_string": "E.D. Pa.",
+   "court_id": "paed",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-03-12",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:24-cv-06204",
+   "docket_id": 69393956,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-04-12T09:00:44.350919Z",
+    "date_created": "2025-04-12T09:00:44.244786Z",
+    "score": {
+     "bm25": 37.44452
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      104808,
+      218768,
+      596541,
+      611569,
+      741725,
+      788352,
+      791672,
+      2415521,
+      3012797,
+      3168517,
+      4098400,
+      4309890,
+      4341321,
+      4574498,
+      4668248,
+      4693760,
+      8415395,
+      8976438,
+      9425065,
+      9435068,
+      9435339,
+      9489843,
+      9835864,
+      10780777
+     ],
+     "download_url": null,
+     "id": 10844189,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.paed.630239/gov.uscourts.paed.630239.35.0.pdf",
+     "meta": {
+      "timestamp": "2025-12-07T08:00:29.175232Z",
+      "date_created": "2025-04-12T09:00:44.255458Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "cc6ab4271cc62f72bddecf359d703f3d6e82c0ca",
+     "snippet": "              IN THE UNITED STATES DISTRICT COURT                        \n           FOR THE EASTERN DISTRICT OF PENNSYLVANIA                      \n\nMEREDITH TWYMAN               :  CIVIL ACTION                            \n                              :                                          \n             v.               :  NO. 24-6204                             \n                              :                                          \nRECAP PA HOLDINGS, LLC        :                        ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10844189
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10205156/bowman-v-swbc-real-estate-services-llc/",
+   "attorney": "",
+   "caseName": "Bowman v. SWBC Real Estate Services LLC",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10205156,
+   "court": "District Court, N.D. Texas",
+   "court_citation_string": "N.D. Tex.",
+   "court_id": "txnd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-03-14",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "3:23-cv-00970",
+   "docket_id": 67320014,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-11-04T01:40:47.489931Z",
+    "date_created": "2024-11-04T01:31:58.975162Z",
+    "score": {
+     "bm25": 36.932377
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      48981,
+      776641,
+      4403305,
+      4682008,
+      4698691,
+      9428673,
+      9432577,
+      9435068,
+      9435339
+     ],
+     "download_url": null,
+     "id": 10671746,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.txnd.376354/gov.uscourts.txnd.376354.46.0.pdf",
+     "meta": {
+      "timestamp": "2025-12-04T16:57:25.143551Z",
+      "date_created": "2024-11-04T01:31:58.980600Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "aa5fe86eb60e13d784dd1f52b2b2d79b5168fd5e",
+     "snippet": "               UNITED STATES DISTRICT COURT                             \n                NORTHERN DISTRICT OF TEXAS                              \n                      DALLAS DIVISION                                   \n\nDANA BOWMAN,                   §                                        \n                               §                                        \n     Plaintiff,                §                                        \n                               §                             ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10671746
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10397674/twyman-v-recap-pa-holdings-llc/",
+   "attorney": "",
+   "caseName": "TWYMAN v. RECAP PA HOLDINGS, LLC",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10397674,
+   "court": "District Court, E.D. Pennsylvania",
+   "court_citation_string": "E.D. Pa.",
+   "court_id": "paed",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-04-28",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:24-cv-06204",
+   "docket_id": 69393956,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-04-29T08:50:30.193414Z",
+    "date_created": "2025-04-29T08:49:11.695008Z",
+    "score": {
+     "bm25": 36.755627
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      218768,
+      534206,
+      611569,
+      741725,
+      776991,
+      791672,
+      2415521,
+      3012797,
+      3168517,
+      4098400,
+      4309890,
+      4341321,
+      8415395,
+      9435068,
+      9435339,
+      9489843
+     ],
+     "download_url": null,
+     "id": 10864262,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.paed.630239/gov.uscourts.paed.630239.47.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-24T03:00:06.188219Z",
+      "date_created": "2025-04-29T08:49:11.698240Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "1eb00581ffa65de03af2f6beeb24a9499b1c5bcb",
+     "snippet": "              IN THE UNITED STATES DISTRICT COURT                        \n           FOR THE EASTERN DISTRICT OF PENNSYLVANIA                      \n\nMEREDITH TWYMAN               :  CIVIL ACTION                            \n                              :                                          \n             v.               :  NO. 24-6204                             \n                              :                                          \nRECAP PA HOLDINGS, LLC, 963   :                        ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10864262
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9526612/allfrey-v-fairhope-motorcoach-resort-condominium-owners-association-inc/",
+   "attorney": "",
+   "caseName": "Allfrey v. Fairhope Motorcoach Resort Condominium Owners Association, Inc.",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9526612,
+   "court": "District Court, S.D. Alabama",
+   "court_citation_string": "S.D. Ala.",
+   "court_id": "alsd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2023-07-25",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:22-cv-00499",
+   "docket_id": 66670046,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T01:38:06.229752Z",
+    "date_created": "2024-06-11T01:57:56.664057Z",
+    "score": {
+     "bm25": 36.512886
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      44606,
+      73504,
+      75718,
+      77311,
+      77944,
+      548483,
+      770340,
+      799061,
+      811034,
+      2474694,
+      2770244,
+      8679230,
+      9423198,
+      9431164,
+      9431604,
+      9432243,
+      9435068,
+      9435339
+     ],
+     "download_url": null,
+     "id": 9993225,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.alsd.71060/gov.uscourts.alsd.71060.17.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-27T08:41:59.170012Z",
+      "date_created": "2024-06-11T01:57:56.670391Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "59ca4eaa0f838c0fca9bc03582a661e1c73a016c",
+     "snippet": "             IN THE UNITED STATES DISTRICT COURT                        \n            FOR THE SOUTHERN DISTRICT OF ALABAMA                        \n                      SOUTHERN DIVISION                                 \n\nKRIS ALLFREY,                   )                                         \n                              )                                         \n   Plaintiffs,                )                                         \n                              )                            ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    9993225
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9695710/pinnacle-treatment-centers-inc-v-crown-point-indiana-city-of/",
+   "attorney": "",
+   "caseName": "Pinnacle Treatment Centers, Inc. v. Crown Point, Indiana City of",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9695710,
+   "court": "District Court, N.D. Indiana",
+   "court_citation_string": "N.D. Ind.",
+   "court_id": "innd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2022-04-11",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:20-cv-00336",
+   "docket_id": 18452385,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T02:20:02.640474Z",
+    "date_created": "2024-06-21T19:29:19.138931Z",
+    "score": {
+     "bm25": 36.454594
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [],
+     "download_url": null,
+     "id": 10162322,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.innd.104631/gov.uscourts.innd.104631.55.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-27T16:30:10.176415Z",
+      "date_created": "2024-06-21T19:29:19.143556Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "eb60b5ade75c9a5847315dbf593e1b864bea1337",
+     "snippet": "             UNITED STATES DISTRICT COURT                            \n            NORTHERN DISTRICT OF INDIANA                             \n                  HAMMOND DIVISION                                   \n\nPINNACLE TREATMENT CENTERS,     )                                         \nINC.,                           )                                         \n                           )                                         \nPlaintiff,                 )                                         ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10162322
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9645190/parisi-v-sabal-springs-homeowners-association-inc/",
+   "attorney": "",
+   "caseName": "Parisi v. Sabal Springs Homeowners Association Inc.",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9645190,
+   "court": "District Court, M.D. Florida",
+   "court_citation_string": "M.D. Fla.",
+   "court_id": "flmd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2023-01-11",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:22-cv-00504",
+   "docket_id": 64905086,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T02:07:13.438755Z",
+    "date_created": "2024-06-21T05:02:47.500414Z",
+    "score": {
+     "bm25": 36.065704
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      68925,
+      76013,
+      78174,
+      503163,
+      2770182,
+      3178598,
+      8708129,
+      9477640
+     ],
+     "download_url": null,
+     "id": 10111803,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.flmd.404805/gov.uscourts.flmd.404805.26.0.pdf",
+     "meta": {
+      "timestamp": "2025-11-01T17:39:45.997121Z",
+      "date_created": "2024-06-21T05:02:47.504041Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "c3112b179df0686a647ed460e211cad1a00b9809",
+     "snippet": "             UNITED STATES DISTRICT COURT                            \n              MIDDLE DISTRICT OF FLORIDA                             \n                  FORT MYERS DIVISION                                \n\nJOSEPH  PARISI,  and  TERRY                                               \nCLARK                                                                     \n\n     Plaintiffs,                                                     \n\nv.                            Case No:  2:22-cv-504-JES-KCD        ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10111803
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9818012/burnside-v-monarch-real-estate-crop/",
+   "attorney": "",
+   "caseName": "Burnside v. Monarch Real Estate Crop",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9818012,
+   "court": "District Court, D. New Mexico",
+   "court_citation_string": "D.N.M.",
+   "court_id": "nmd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2023-07-06",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:23-cv-00167",
+   "docket_id": 66864549,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-11-15T03:50:38.736410Z",
+    "date_created": "2024-06-25T12:43:31.452656Z",
+    "score": {
+     "bm25": 35.972927
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      3177858,
+      3181935
+     ],
+     "download_url": null,
+     "id": 10284624,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.nmd.484675/gov.uscourts.nmd.484675.9.0.pdf",
+     "meta": {
+      "timestamp": "2025-11-01T17:00:02.286539Z",
+      "date_created": "2024-06-25T12:43:31.459443Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "8a5cc444a726f22c39b2fb4797d54b3659a4e903",
+     "snippet": "          IN THE UNITED STATES DISTRICT COURT                        \n            FOR THE DISTRICT OF NEW MEXICO                           \nJOHNNY LEVELT BURNSIDE,                                                   \n\n          Plaintiff,                                                 \n\nv.                                      No. 2:23-cv-00167-DHU-GBW         \n\nMONARCH REAL ESTATE CORP.,                                                \nBRADLEY BERGLUND, and                                         ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10284624
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9735370/abdelrasoul-v-trustees-of-boston-university/",
+   "attorney": "",
+   "caseName": "Abdelrasoul v. Trustees of Boston University",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9735370,
+   "court": "District Court, D. Massachusetts",
+   "court_citation_string": "D. Mass.",
+   "court_id": "mad",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2024-05-10",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:24-cv-10988",
+   "docket_id": 68440472,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-25T06:07:29.016475Z",
+    "date_created": "2024-06-22T19:37:33.235395Z",
+    "score": {
+     "bm25": 35.82714
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      1041701,
+      4445152,
+      6335604,
+      6941792,
+      8708261,
+      9225758,
+      9435422
+     ],
+     "download_url": null,
+     "id": 10201982,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.mad.269395/gov.uscourts.mad.269395.42.0_2.pdf",
+     "meta": {
+      "timestamp": "2025-11-30T18:41:06.872979Z",
+      "date_created": "2024-06-22T19:37:33.245255Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "6e45774dacda4c066f02815c2912d888cd788e68",
+     "snippet": "             United States District Court                            \n               District of Massachusetts                             \n\n                           )                                         \nIslam Faisal Muhammad Ibrahim   )                                         \nAbdelrasoul,                    )                                         \n                           )                                         \n     Plaintiff,            )                                         ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10201982
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9969114/united-states-v-city-of-chattanooga-tennessee/",
+   "attorney": "",
+   "caseName": "United States v. City of Chattanooga, Tennessee",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9969114,
+   "court": "District Court, E.D. Tennessee",
+   "court_citation_string": "E.D. Tenn.",
+   "court_id": "tned",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2023-12-08",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:23-cv-00258",
+   "docket_id": 67981512,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-27T21:09:03.510581Z",
+    "date_created": "2024-06-27T21:06:22.632590Z",
+    "score": {
+     "bm25": 35.75817
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      9433704
+     ],
+     "download_url": null,
+     "id": 10435723,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.tned.111802/gov.uscourts.tned.111802.12.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-27T17:28:57.016720Z",
+      "date_created": "2024-06-27T21:06:22.656379Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "1d6fd420c4d64a2fc0d7e5c3cb508c021c2393d4",
+     "snippet": "                 UNITED STATES DISTRICT COURT                            \n                EASTERN DISTRICT OF TENNESSEE                            \n\nUNITED STATES OF AMERICA,       )                                         \n                               )                                         \n         Plaintiff,            )                                         \n                               )                                         \nv.                              )    No.:  1:23-CV-258",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10435723
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10636459/derby-v-pleasant-beach-mobile-home-resort-llc/",
+   "attorney": "",
+   "caseName": "Derby v. Pleasant Beach Mobile Home Resort, LLC",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10636459,
+   "court": "District Court, E.D. Michigan",
+   "court_citation_string": "E.D. Mich.",
+   "court_id": "mied",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-07-17",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:25-cv-11324",
+   "docket_id": 70215769,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-07-18T19:06:43.532294Z",
+    "date_created": "2025-07-18T17:48:12.219788Z",
+    "score": {
+     "bm25": 35.71326
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      108432,
+      110353,
+      179438,
+      183498,
+      460183,
+      560516,
+      721510,
+      780523,
+      788576,
+      792380,
+      1464717,
+      2980089,
+      6982448,
+      7088244,
+      7209662,
+      7249750,
+      8976025,
+      9423804,
+      9424435,
+      9428872,
+      9429115,
+      9430905,
+      9433757,
+      9435339,
+      9435689,
+      9634034
+     ],
+     "download_url": null,
+     "id": 11103046,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.mied.385000/gov.uscourts.mied.385000.89.0.pdf",
+     "meta": {
+      "timestamp": "2025-11-01T17:20:20.897708Z",
+      "date_created": "2025-07-18T17:48:12.228357Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "78cf450e25e49bb19fea13f052ef9c6c878391e5",
+     "snippet": "              UNITED STATES DISTRICT COURT                               \n              EASTERN DISTRICT OF MICHIGAN                               \n                    SOUTHERN DIVISION                                    \nJOSHUA DERBY, ALYSSIA                1:25-CV-11324-TGB-PTM               \nWARREN, and Z.D., a minor,                                               \n                                    HON. TERRENCE G. BERG                \n               Plaintiffs,                              ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    11103046
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/10334200/porter-v-services-for-the-underserved/",
+   "attorney": "",
+   "caseName": "Porter v. Services for the Underserved",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 10334200,
+   "court": "District Court, E.D. New York",
+   "court_citation_string": "E.D.N.Y",
+   "court_id": "nyed",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2025-02-15",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "1:23-cv-07774",
+   "docket_id": 67898418,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2025-02-18T09:49:06.658902Z",
+    "date_created": "2025-02-18T09:46:48.613459Z",
+    "score": {
+     "bm25": 35.518757
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [
+      100763,
+      174290,
+      661461,
+      725001,
+      752996,
+      1450313,
+      9426610,
+      9435053,
+      9435068,
+      9435339,
+      9438897
+     ],
+     "download_url": null,
+     "id": 10800788,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.nyed.504685/gov.uscourts.nyed.504685.4.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-24T02:41:40.462317Z",
+      "date_created": "2025-02-18T09:46:48.616535Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "de20e6c46b7087c2db23e53f583d1cacaf2cd710",
+     "snippet": "UNITED STATES DISTRICT COURT                                              \nEASTERN DISTRICT OF NEW YORK                                              \n\nANTONIO PORTER,                                                           \n                    Plaintiff,                                       \n                                    NOT FOR PUBLICATION              \n         -against-                                                   \n                                  MEMORANDUM AND ORDER          ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10800788
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  },
+  {
+   "absolute_url": "/opinion/9695984/northern-v-pedcor-management-corp/",
+   "attorney": "",
+   "caseName": "Northern v. Pedcor Management Corp.",
+   "caseNameFull": "",
+   "citation": [],
+   "citeCount": 0,
+   "cluster_id": 9695984,
+   "court": "District Court, N.D. Indiana",
+   "court_citation_string": "N.D. Ind.",
+   "court_id": "innd",
+   "court_jurisdiction": null,
+   "dateArgued": null,
+   "dateFiled": "2022-05-09",
+   "dateReargued": null,
+   "dateReargumentDenied": null,
+   "docketNumber": "2:22-cv-00120",
+   "docket_id": 63290840,
+   "judge": "",
+   "lexisCite": "",
+   "meta": {
+    "timestamp": "2024-06-23T02:20:07.345466Z",
+    "date_created": "2024-06-21T19:30:31.686570Z",
+    "score": {
+     "bm25": 35.453484
+    }
+   },
+   "neutralCite": "",
+   "non_participating_judge_ids": [],
+   "opinions": [
+    {
+     "author_id": null,
+     "cites": [],
+     "download_url": null,
+     "id": 10162596,
+     "joined_by_ids": [],
+     "local_path": "recap/gov.uscourts.innd.110956/gov.uscourts.innd.110956.8.0.pdf",
+     "meta": {
+      "timestamp": "2025-10-27T16:30:18.475925Z",
+      "date_created": "2024-06-21T19:30:31.702152Z"
+     },
+     "ordering_key": null,
+     "per_curiam": false,
+     "sha1": "2c25b1d17012aaf62a88fcba87bf7e5b6f5e2413",
+     "snippet": "             UNITED STATES DISTRICT COURT                            \n            NORTHERN DISTRICT OF INDIANA                             \n                  HAMMOND DIVISION                                   \nSHEDRICK NORTHERN,                 )                                      \n                              )                                      \n          Plaintiff,          )                                      \n                              )                                      \nvs.  ",
+     "type": "trial-court-document"
+    }
+   ],
+   "panel_ids": [],
+   "panel_names": [],
+   "posture": "",
+   "procedural_history": "",
+   "scdb_id": "",
+   "sibling_ids": [
+    10162596
+   ],
+   "source": "G",
+   "status": "Unknown",
+   "suitNature": "",
+   "syllabus": ""
+  }
+ ]
+}

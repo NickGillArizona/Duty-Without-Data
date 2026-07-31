@@ -1,0 +1,212 @@
+[
+  {
+    "source_file": "10183158_2024_Cooper v. Parham-Greene_mdd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Pro se complaint described chemical-bomb and government-conspiracy allegations that the court found delusional and without arguable basis in law; no facts mapped to any FHA cause of action, and the court noted res judicata as an alternative ground only for one sub-claim."
+  },
+  {
+    "source_file": "10202876_2024_Murphy v. Brixworth Homeowners Association, Inc._tned",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Court held the FHA does not cover the political-speech and neighbor-dispute grievances pleaded; plaintiff identified no protected-class basis for the HOA's actions and no FHA theory was cognizable on the facts."
+  },
+  {
+    "source_file": "10245076_2024_Slaughter v. Valley View I LLP_wawd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff used the label 'denial of reasonable accommodation' but pleaded no facts identifying the accommodation requested, the disability-related need, or defendant's refusal; court found no factual content tied to the FHA elements."
+  },
+  {
+    "source_file": "10299118_2024_Ryall v. Normandy Village Apts. Inc._lamd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff identified himself as a white male and alleged no disability or other protected-class membership, so the court held he failed to plead the nexus between adverse action and any FHA-protected characteristic."
+  },
+  {
+    "source_file": "10333275_2025_Bodner v. Johnson_lawd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "STATUTORY_HOOK_UNCLEAR",
+    "confidence": "MEDIUM",
+    "reasoning": "Court concluded the plaintiff did not identify a specific FHA provision or basis of discrimination, reciting FHA generally but failing to articulate which subsection applied or what protected class was at issue."
+  },
+  {
+    "source_file": "10378598_2025_West v. Landau_mied",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff pleaded disability and an adverse eviction, but her own allegations tied the eviction to her police reporting rather than disability; the court found no factual allegation connecting the adverse action to disability."
+  },
+  {
+    "source_file": "10598089_2025_(PS) Moore v. C.F.Y. Development Inc._caed",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "COMPARATOR_OR_INTENT_GAP",
+    "confidence": "HIGH",
+    "reasoning": "Court found plaintiff alleged she was treated poorly 'similarly to the way other tenants were treated' — the disparate-treatment element failed because she pleaded no comparator showing different treatment because of protected-class status."
+  },
+  {
+    "source_file": "10641808_2025_Kelly v. Max Federal Credit Union (MAG+)_almd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "MEDIUM",
+    "reasoning": "Shotgun pleading listing numerous statutes without tying factual allegations to FHA elements; court could not discern which facts supported which FHA theory."
+  },
+  {
+    "source_file": "10657915_2025_Doria v. Yavapai College District Governing Board_azd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "EXHAUSTION_OR_PRECLUSION",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed on res judicata grounds because the identical housing-related FHA claims had been fully litigated in prior state-court proceedings between the same parties."
+  },
+  {
+    "source_file": "10700725_2025_Richmond v. Assessors Office_wied",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Pro se § 1915 screening dismissal; the complaint was incoherent and cited FHA without alleging any housing transaction, protected-class discrimination, or facts mapping to a cognizable FHA theory."
+  },
+  {
+    "source_file": "10741156_2025_Jessica Berk v. Ritz Condominium Association, et al._njd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "EXHAUSTION_OR_PRECLUSION",
+    "confidence": "MEDIUM",
+    "reasoning": "Dismissal under Rule 41(b) for failure to prosecute/comply with court orders after prior opportunities to amend; not a classic pleading failure but a threshold procedural bar to reaching the merits."
+  },
+  {
+    "source_file": "10767808_2025_James E. Jacobson, Jr. v. AH Gresham Park, LLC; AH Albion House, LLC; TMG Property Management Services NW, LLC; and Atlas Property Management_ord",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "EXHAUSTION_OR_PRECLUSION",
+    "confidence": "HIGH",
+    "reasoning": "Court applied Oregon claim-preclusion doctrine: plaintiff's FHA claims arose from the same transaction as a prior state-court judgment and were barred by res judicata."
+  },
+  {
+    "source_file": "10806943_2026_Gabriella Collette, for herself and on behalf of Channin Collette, an incapacitated person v. Utah State Developmental Center; Utah State Department of Human Services; State of Utah; Jarod Squire_utd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "HIGH",
+    "reasoning": "Court held Eleventh Amendment sovereign immunity barred FHA claims against Utah state agencies because Congress did not unambiguously abrogate state immunity under the FHA."
+  },
+  {
+    "source_file": "11267610 - HALL-JOHNSON v. City and County of San Francisco",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff invoked the FHA but alleged no disability or other protected-class membership; court found no pleaded nexus between any adverse housing action and an FHA-protected characteristic."
+  },
+  {
+    "source_file": "4865538_2021_MacKenzie v. Carson_dcd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "EXHAUSTION_OR_PRECLUSION",
+    "confidence": "HIGH",
+    "reasoning": "Claim preclusion barred the FHA claims because an identical prior federal action had been finally adjudicated on the merits involving the same parties and housing transaction."
+  },
+  {
+    "source_file": "9529383_2020_Harden v. CPLC Estancia LLC_azd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "TECHNICAL_PROOF_GAP",
+    "confidence": "MEDIUM",
+    "reasoning": "Plaintiff correctly invoked a reasonable-accommodation theory but did not plead facts satisfying the necessity/reasonableness element — specifically, no facts showing a requested unit was available or that the requested accommodation was reasonable."
+  },
+  {
+    "source_file": "9590670_2023_(PS) Peters v. Ervin_caed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "MEDIUM",
+    "reasoning": "Pro se screening order; allegations of a neighbor dispute were too conclusory to connect any adverse action to disability or any other protected class, and the court found no FHA discriminatory-rental allegation."
+  },
+  {
+    "source_file": "9631964_2023_Poteat v. Hartford Housing_ctd",
+    "pleading_failure_family": "MIXED",
+    "pleading_failure_mechanism": "MIXED",
+    "confidence": "MEDIUM",
+    "reasoning": "Multiple defendants dismissed on different grounds — Eleventh Amendment for state agency (CHRO), sovereign immunity for HUD, and thin factual allegations for discrimination claims against private defendants; retaliation claim survived for some defendants, so no single mechanism dominates."
+  },
+  {
+    "source_file": "9681431_2022_Talley v. The Housing Authority of Cook County_ilnd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff's voucher-related accommodation request was already granted by the housing authority; she alleged no separate accommodation request to the HA for the home repairs she complained about, and the court found no unmet accommodation request tied to FHA."
+  },
+  {
+    "source_file": "9719669_2021_Briley v. Barreca_laed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Court found the complaint pleaded no facts supporting any FHA theory and cited inapplicable FHA provisions; the grievance was a private dispute not cognizable under the Act."
+  },
+  {
+    "source_file": "9743129_2024_Morris v. Memorial Development Partners, LP_mdd",
+    "pleading_failure_family": "NO_FAILURE_DEFENDANT_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "HIGH",
+    "reasoning": "Defendants' motion to dismiss was DENIED; only the alternative Rule 12(e) motion for a more definite statement was granted. The FHA claim survived the MTD, making this a misfiltered defendant-loss at the pleading stage."
+  },
+  {
+    "source_file": "9785584_2022_May v. Martin Fein Interest Ltd._nced",
+    "pleading_failure_family": "NO_FAILURE_DEFENDANT_WIN",
+    "pleading_failure_mechanism": "CLAIM_SURVIVES_OR_PLAINTIFF_PREVAILS",
+    "confidence": "HIGH",
+    "reasoning": "All defendants' motions to dismiss were DENIED AS MOOT; court granted plaintiff's motions to extend service time, amend summonses, and use alternative service. FHA disability claim survived — this is a misfiltered case, not a pleading failure."
+  },
+  {
+    "source_file": "9824801_2021_Godwin v. Senior Garden Apartments_nvd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "JURISDICTION_OR_STANDING",
+    "confidence": "LOW",
+    "reasoning": "Dismissal was granted solely under Local Rule 7-2(d) because plaintiff filed no responses to five motions to dismiss, treating non-response as consent; the court did not analyze the FHA merits, making this a procedural default rather than a substantive pleading failure."
+  },
+  {
+    "source_file": "9853907_2020_Ochei v. Lapes_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Court held that although plaintiff alleged discrimination, she pleaded no facts suggesting any defendant acted against her 'on the basis of an impermissible factor' — the FHA protected-class nexus was missing (Anti-Injunction Act and Younger were alternative grounds)."
+  },
+  {
+    "source_file": "9870218_2021_Higgins v. 120 Riverside Boulevard at Trump Place Condominium_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "HIGH",
+    "reasoning": "Court held that, though plaintiff had a disability and made requests, she did not allege that she told the Condominium defendants the requests were needed as a disability-based accommodation — no cognizable accommodation request was alleged as required for a failure-to-accommodate claim."
+  },
+  {
+    "source_file": "9890495_2024_Warren v. 111 Tenants Corp._nysd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "LIMITATIONS_OR_TIMELINESS",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed FHA claim as untimely because the alleged discriminatory conduct occurred in the 1980s — roughly 40 years outside the FHA's two-year limitations period; plaintiff failed to respond to orders to show cause."
+  },
+  {
+    "source_file": "9914876_2022_Epps v. United States of America_ohsd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "EXHAUSTION_OR_PRECLUSION",
+    "confidence": "HIGH",
+    "reasoning": "Court dismissed as duplicative/malicious under § 1915(e)(2)(B)(i) because the FHA claims merely re-alleged the same claims as a prior dismissed federal action; sovereign immunity was an alternative ground against the United States."
+  },
+  {
+    "source_file": "9934255_2021_DEJESUS v. VICKY_paed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "HIGH",
+    "reasoning": "Plaintiff alleged discrimination based solely on Section 8 voucher status, which is not a protected class under the FHA — the court held no cognizable FHA theory could be stated on these facts and denied leave to amend."
+  },
+  {
+    "source_file": "9943863_2021_Mountainside Manor Real Estate Associates LLC v. Dallas Township_pamd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "COMPARATOR_OR_INTENT_GAP",
+    "confidence": "HIGH",
+    "reasoning": "Court held plaintiffs' FHA disparate-treatment and disparate-impact theories failed because no facts suggested the township used residents' handicaps as a factor in the zoning denial; indeed, the township had previously granted a Certificate of Non-Conformity for a similar facility."
+  },
+  {
+    "source_file": "Banks v. Ross (1)",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "HIGH",
+    "reasoning": "Court found that although plaintiff listed multiple medical conditions, the complaint did not draw a sufficient nexus between any alleged handicap and the defendants' actions, and did not explain how he was excluded from housing because of disability."
+  }
+]

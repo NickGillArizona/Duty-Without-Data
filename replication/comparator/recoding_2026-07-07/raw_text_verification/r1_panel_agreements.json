@@ -1,0 +1,2518 @@
+[
+ {
+  "row_id": "RACE-DT|9708781_2022_Ngiendo v. University Partners, LLC._ksd",
+  "arm": "RACE-DT",
+  "r1_role": "A_row",
+  "case_name": "Quinn Ngiendo v. University Partners, LLC",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9708781_2022_Ngiendo v. University Partners, LLC._ksd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "A",
+    "subcode": "notice_or_knowledge",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff fails to plausibly allege that Waypoint knew she was subjected to harassment due to her race or national origin. Plaintiff’s complaint cannot retroactively put Waypoint on notice that she was being harassed.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "notice_or_knowledge",
+    "confidence": "HIGH",
+    "evidence_quote": "Here, Plaintiff fails to plausibly allege that Waypoint knew she was subjected to harassment due to her race or national origin. Plaintiff’s complaint cannot retroactively put Waypoint on notice that she was being harassed.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "notice_or_knowledge",
+    "confidence": "HIGH",
+    "evidence_quote": "Here, Plaintiff fails to plausibly allege that Waypoint knew she was subjected to harassment due to her race or national origin.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10347396_2025_Leonard v. Hocking Metropolitan Housing Authority_ohsd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Ronald D. Leonard v. Hocking Metropolitan Housing Authority",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\10347396_2025_Leonard v. Hocking Metropolitan Housing Authority_ohsd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "There is no evidence that the Defendants harbored discriminatory sentiment toward persons with disabilities or that the HMHA letters were sent to Leonard because of his status as a disabled individual.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "Leonard has failed to plead sufficient facts to plausibly support that his requested accommodation was refused by HMHA.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "Leonard has failed to plead sufficient facts to plausibly support that his requested accommodation was refused by HMHA.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10804696_2026_Karen DeMoor v. Freeman Webb Company, Realtors, et al._tnmd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Karen DeMoor v. Freeman Webb Company, Realtors, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10804696_2026_Karen DeMoor v. Freeman Webb Company, Realtors, et al._tnmd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "The plaintiff does not, however, allege that she requested a reasonable accommodation related to her disability.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "The plaintiff does not, however, allege that she requested a reasonable accommodation related to her disability.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "The plaintiff does not, however, allege that she requested a reasonable accommodation related to her disability.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9799020_2022_Kris v. Dusseault Family Revocable Trust of 2017_nhd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Margaret Kris v. Dusseault Family Revocable Trust of 2017",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9799020_2022_Kris v. Dusseault Family Revocable Trust of 2017_nhd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "Kris has not alleged facts, which, taken as true, would demonstrate that her requested accommodation was unreasonably delayed or denied by the MHRA before that request became moot because of her eviction.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "timing_or_delay",
+    "confidence": "HIGH",
+    "evidence_quote": "In sum, Kris has not alleged facts, which, taken as true, would demonstrate that her requested accommodation was unreasonably delayed or denied by the MHRA before that request became moot because of her eviction.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "timing_or_delay",
+    "confidence": "HIGH",
+    "evidence_quote": "Kris has not alleged facts, which, taken as true, would demonstrate that her requested accommodation was unreasonably delayed or denied by the MHRA before that request became moot because of her eviction.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9892631_2024_Monterroso v. City of New York_nysd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Cynthia Monterroso v. City of New York",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9892631_2024_Monterroso v. City of New York_nysd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "The SAC does not describe each requested accommodation, state when those requests were made or offer facts showing that each accommodation is reasonable.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "The SAC does not describe each requested accommodation, state when those requests were made or offer facts showing that each accommodation is reasonable.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "The SAC does not describe each requested accommodation, state when those requests were made or offer facts showing that each accommodation is reasonable.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9614541_2020_Eulitt v. City of San Diego_casd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Sandy A. Eulitt v. City of San Diego",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9614541_2020_Eulitt v. City of San Diego_casd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff fails to allege that she requested a reasonable accommodation from Defendant, accordingly she cannot state a claim against Defendant for denial of reasonable accommodation.",
+    "quote_verified": false
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "First, Plaintiff fails to allege that she requested a reasonable accommodation from Defendant, accordingly she cannot state a claim against Defendant for denial of reasonable accommodation.",
+    "quote_verified": false
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "First, Plaintiff fails to allege that she requested a reasonable accommodation from Defendant, accordingly she cannot state a claim against Defendant for denial of reasonable accommodation.",
+    "quote_verified": false
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10000566_2024_Robinson v. District of Columbia_dcd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Robinson v. District of Columbia",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\10000566_2024_Robinson v. District of Columbia_dcd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "the complaint does not specify that Robinson asked for anything beyond returning to housing. Plaintiff has not alleged, for example, that he sought a probationary return, or a return conditioned on treatment, or any alternative arrangements.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "However, the complaint does not specify that Robinson asked for anything beyond returning to housing. Plaintiff has not alleged, for example, that he sought a probationary return, or a return conditioned on treatment, or any alternative arrangements.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "The complaint does not offer even a hint of what Robinson requested to facilitate his return to Kia’s Place IV in light of his disabilities. Without allegations as to what was requested, the Court is unable to assess whether any such requested accommodations might be necessary to afford Robinson equal use and enjoyment of a shelter.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10881457_2026_Ramone Taylor, et al. v. Lisa Royal, et al._paed",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Ramone Taylor v. Lisa Royal, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\results\\v128\\p3_extension_2026-07-03\\opinions\\10881457.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "MEDIUM",
+    "evidence_quote": "Taylor simply has not alleged facts that allow the Court to draw the reasonable inference that any Defendant violated the FHAA.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "MEDIUM",
+    "evidence_quote": "Taylor alleges that he is blind and suffers from PTSD, was evicted, and “repeatedly requested medical and disability accommodation” but was denied.  (Compl. at 2.)  “A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged.”",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "Taylor simply has not alleged facts that allow the Court to draw the reasonable inference that any Defendant violated the FHAA.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|11267545 - Taylor v. Royal",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Ramone Taylor v. Lisa Royal",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\11267545 - Taylor v. Royal.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "Taylor simply has not alleged facts that allow the Court to draw the reasonable inference that any Defendant violated the FHAA.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "MEDIUM",
+    "evidence_quote": "\"Threadbare recitals of the elements of a cause of action, supported by mere conclusory statements, do not suffice.\" Id. (citing Twombly, 550 U.S. at 555). Taylor simply has not alleged facts that allow the Court to draw the reasonable inference that any Defendant violated the FHAA.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "Such allegations do not sufficiently describe the circumstances and events that occurred and do not support an inference that the City of Philadelphia discriminated against him on the basis of his disability.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9891794_2024_Levine v. Project Renewal_nysd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Morris Glen Levine v. Project Renewal",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9891794_2024_Levine v. Project Renewal_nysd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "Nothing in the complaint, however, suggests that Project Renewal staff who prohibited this were aware of his Crohn’s disease or knew that he was requesting modification of the shelter’s rules about food because of his Crohn’s disease.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "notice_or_knowledge",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff’s allegations are nevertheless insufficient to state a claim under the FHA because he does not plead facts showing that defendants were aware of his disability or handicap, and that accommodation of his disability was necessary.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "notice_or_knowledge",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff’s allegations are nevertheless insufficient to state a claim under the FHA because he does not plead facts showing that defendants were aware of his disability or handicap, and that accommodation of his disability was necessary.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|11267636 - APPELGREN v. ISLAND HOSPITALITY MANAGEMENT VII, LLC",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Mark Appelgren v. Island Hospitality Management VII, LLC, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\11267636 - APPELGREN v. ISLAND HOSPITALITY MANAGEMENT VII, LLC.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "He does not allege that he ever informed anyone at the Hotel of his disabilities. He only implies that he requested \"a quiet, stress-free environment\" (id. at ¶ 47) and \"room modifications\" (id. at ¶ 64).",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "notice_or_knowledge",
+    "confidence": "HIGH",
+    "evidence_quote": "He has not pled that Defendants were aware of his disabilities, so Defendants cannot be held liable for this failure.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "notice_or_knowledge",
+    "confidence": "HIGH",
+    "evidence_quote": "He has not pled that Defendants were aware of his disabilities, so Defendants cannot be held liable for this failure.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10178278_2024_Bock v. Brentwood Homeowners Association, Inc._idd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Les Bock and Dunnia E. Aplicano v. Brentwood Homeowners' Association, Inc.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10178278_2024_Bock v. Brentwood Homeowners Association, Inc._idd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "A",
+    "subcode": "notice_or_knowledge",
+    "confidence": "HIGH",
+    "evidence_quote": "the Amended Complaint does not allege sufficient facts to support the inference that the Association knew or should have known of the plaintiffs' disability",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "notice_or_knowledge",
+    "confidence": "HIGH",
+    "evidence_quote": "First, the Amended Complaint does not allege sufficient facts to support the inference that the Association knew or should have known of the plaintiffs’ disability.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "notice_or_knowledge",
+    "confidence": "HIGH",
+    "evidence_quote": "First, the Amended Complaint does not allege sufficient facts to support the inference that the Association knew or should have known of the plaintiffs’ disability.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|11267548 - DEMOOR v. FREEMAN WEBB COMPANY",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Karen DeMoor v. Freeman Webb Company, Realtors, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\11267548 - DEMOOR v. FREEMAN WEBB COMPANY.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "The plaintiff does not, however, allege that she requested a reasonable accommodation related to her disability.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "The plaintiff does not, however, allege that she requested a reasonable accommodation related to her disability. (See Doc. No. 1-1). Her allegations are insufficient to state a plausible claim for FHA disability discrimination.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "The plaintiff does not, however, allege that she requested a reasonable accommodation related to her disability.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10696687_2019_Scott Chandler v. Chartwell Holdings, Inc., et al._nhd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Scott Chandler v. Chartwell Holdings, Inc., et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10696687_2019_Scott Chandler v. Chartwell Holdings, Inc., et al._nhd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "There are no factual allegations in the complaint suggesting that Chandler requested a reasonable accommodation.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "There are no factual allegations in the complaint suggesting that Chandler requested a reasonable accommodation. Similarly, there are no allegations that the apartment owners and managers, to the extent they were aware of plaintiff’s disability, failed to provide him with any reasonable accommodation of his disability that he requested.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "There are no factual allegations in the complaint suggesting that Chandler requested a reasonable accommodation.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10587034_2025_APPELGREN v. ISLAND HOSPITALITY MANAGEMENT VII, LLC_njd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Mark Appelgren v. Island Hospitality Management VII, LLC, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10587034_2025_APPELGREN v. ISLAND HOSPITALITY MANAGEMENT VII, LLC_njd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "He has not pled that Defendants were aware of his disabilities, so Defendants cannot be held liable for this failure.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "notice_or_knowledge",
+    "confidence": "HIGH",
+    "evidence_quote": "He has not pled that Defendants were aware of his disabilities, so Defendants cannot be held liable for this failure.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "notice_or_knowledge",
+    "confidence": "HIGH",
+    "evidence_quote": "He has not pled that Defendants were aware of his disabilities, so Defendants cannot be held liable for this failure.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10210256_2023_El-Bey v. Berkshire Hathaway Home Service_txsd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "Prinyah El-Bey v. Berkshire Hathaway Home Services",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10210256_2023_El-Bey v. Berkshire Hathaway Home Service_txsd.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "There are no allegations or documents showing that any defendant refused any request by El-Bey for a reasonable, necessary accommodation in rules, policies, practices, or services.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "As with her ADA claim, El-Bey has not pled facts showing either that she requested a particular reasonable, necessary accommodation or that such a request was denied.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "El-Bey has not pled facts showing either that she requested a particular reasonable, necessary accommodation or that such a request was denied.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10705595_2025_RoSHIEKA CHARISMA JONES v. THOMPSON TOWERS APARTMENTS_mied",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "case_name": "RoShieka Charisma Jones v. Thompson Towers Apartments",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10705595_2025_RoSHIEKA CHARISMA JONES v. THOMPSON TOWERS APARTMENTS_mied.txt",
+  "masked_consensus_family": "A",
+  "panel_majority": "A",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "But to state such a claim, a plaintiff must allege that (1) she suffers from a disability within the meaning of FHA; (2) the defendant knew or reasonably should have known of the disability; (3) the requested accommodation may be necessary to afford “an equal opportunity to use and enjoy the dwelling;” (4) the accommodation is reasonable; and (5) the defendant refused to make the accommodation.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "MEDIUM",
+    "evidence_quote": "While the Court can infer from the fact that Jones receives SSDI (see ECF No. 5, PageID.14) that she is disabled, she makes no allegations about any of the other elements of a failure-to-accommodate claim.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "A",
+    "subcode": "request_or_response_record",
+    "confidence": "HIGH",
+    "evidence_quote": "she makes no allegations about any of the other elements of a failure-to-accommodate claim. Instead, the focus of her complaint is her lack of hot water and the defendant’s notice to quit, not any failure to accommodate a disability.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|9534448_2022_Arthur v. Windsor Shadows Homeowner's Association_azd",
+  "arm": "DT-PURE",
+  "r1_role": "misfilter",
+  "case_name": "Francine M. Arthur v. Windsor Shadows Homeowner's Association",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9534448_2022_Arthur v. Windsor Shadows Homeowner's Association_azd.txt",
+  "masked_consensus_family": "MISFILTER",
+  "panel_majority": "MISFILTER",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "The Court will grant summary judgment in Defendants favor for all of the SAC’s claims, except for Count Three, which the Court dismisses with prejudice for failing to state a claim.",
+    "quote_verified": false
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "IT IS FURTHER ORDERED that Defendant’s Motion for Summary Judgment \n2||    (Doc.  104) is granted in part as set forth in this Order.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "Because Plaintiff has not produced any evidence that she is being treated differently than others the Court will enter judgment in Defendant’s favor for Count One.",
+    "quote_verified": false
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9621470_2023_Musgrove v. Hanifin_casd",
+  "arm": "RD-PURE",
+  "r1_role": "misfilter",
+  "case_name": "Musgrove v. Hanifin",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9621470_2023_Musgrove v. Hanifin_casd.txt",
+  "masked_consensus_family": "MISFILTER",
+  "panel_majority": "MISFILTER",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "For the reasons set forth above, the Court finds that Plaintiff repeatedly has knowingly intentionally, and willfully failed to comply with Court orders, refused to respond to discovery or take any efforts to move this case toward resolution",
+    "quote_verified": false
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "Currently before the Court is Defendants’ June 8, 2023 Motion to Dismiss with Prejudice – Lack of Prosecution and Failure to Abide by Court Orders [ECF No. 223-1 (“MTD”)].",
+    "quote_verified": false
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "Currently before the Court is Defendants’ June 8, 2023 Motion to Dismiss with Prejudice – Lack of Prosecution and Failure to Abide by Court Orders [ECF No. 223-1 (“MTD”)].1  For the reasons set forth below, this Court RECOMMENDS that Defendants’ Motion for Terminating Sanctions Against Plaintiff be GRANTED.",
+    "quote_verified": false
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10193512_2024_Hendricks v. Urban _ Economic Development_nynd",
+  "arm": "RD-PURE",
+  "r1_role": "misfilter",
+  "case_name": "Hendricks v. Urban & Economic Development",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\10193512_2024_Hendricks v. Urban _ Economic Development_nynd.txt",
+  "masked_consensus_family": "MISFILTER",
+  "panel_majority": "MISFILTER",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "Defendants move to dismiss the Complaint pursuant to Rule 41(b) of the Federal Rules of Civil Procedure",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "Presently before the Court is Defendants’ motion to dismiss Plaintiff’s Complaint for failure to prosecute pursuant to Rule 41(b) of the Federal Rules of Civil Procedure, due to Plaintiff’s continued failure to comply with the Rule and numerous orders of the Court.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "UNCLEAR",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff’s Fair Housing Act (“FHA”) and Americans with Disabilities Act (“ADA”) claims be dismissed without prejudice and with leave to amend",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10300055_2024_Alonso Cano v. 245 C_C, LLC_flsd",
+  "arm": "RD-PURE",
+  "r1_role": "misfilter",
+  "case_name": "Carlos A. Alonso Cano, et al. v. 245 C and C, LLC and CFH GROUP, LLC",
+  "pro_se": "False",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10300055_2024_Alonso Cano v. 245 C_C, LLC_flsd.txt",
+  "masked_consensus_family": "MISFILTER",
+  "panel_majority": "MISFILTER",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "the undersigned respectfully RECOMMENDS that Defendants’ Verified Motion for Award of Attorney’s Fees (ECF No. 697) and Motion for Non-Taxable Costs (ECF No. 698) be DENIED.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "MEDIUM",
+    "evidence_quote": "The Court found that Count Two was not actionable under the FHA; that Count Six required the Court to speculate; that Counts Seven and Eight were conclusory assertions that did not explain why Angie’s disability required Defendants to fix the laundry facilities;",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "THIS CAUSE is before the Court on Defendants’ (245 C and C, LLC, and CFH GROUP, LLC) Verified Motion for Award of Attorney’s Fees and for Entry of Judgment (ECF No. 697), and related Motion for Non-Taxable Costs (ECF No. 698).",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|10305742_2024_Johnson-Byrd v. PennyMac Loan Services, LLC_mowd",
+  "arm": "RACE-DT",
+  "r1_role": "queue_bc",
+  "case_name": "Arlene Johnson-Byrd, et al. v. PennyMac Loan Services, LLC",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\10305742_2024_Johnson-Byrd v. PennyMac Loan Services, LLC_mowd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Because the statutes of limitation have expired, counts 2 and 3 are alternatively dismissed as being time barred.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Because all elements of res judicata are met in the instant case, the Court grants PennyMac’s motion to dismiss.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Because all elements of res judicata are met in the instant case, the Court grants PennyMac’s motion to dismiss.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|10708624_2025_CHARLESETTA MOORE, SR. v. C.F.Y. DEVELOPMENT INC., et al._caed",
+  "arm": "RACE-DT",
+  "r1_role": "queue_bc",
+  "case_name": "Charlesetta Moore, Sr. v. C.F.Y. Development Inc., et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10708624_2025_CHARLESETTA MOORE, SR. v. C.F.Y. DEVELOPMENT INC., et al._caed.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Here, there are no other allegations that suggest any difference in treatment because of plaintiff’s membership in a protected class.",
+    "quote_verified": false
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Here, there are no other allegations that suggest any difference in treatment because of plaintiff’s membership in a protected class. Isolated instances will not usually demonstrate a violation of federal antidiscrimination laws.",
+    "quote_verified": false
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff’s allegations about the poor housing conditions at GPSA do not suggest that discrimination was a motivating factor behind the defendants’ actions.",
+    "quote_verified": false
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|4867798_2021_Francis v. Kings Park Manor, Inc._ca2",
+  "arm": "RACE-DT",
+  "r1_role": "queue_bc",
+  "case_name": "Donahue Francis v. Kings Park Manor, Inc. et al.",
+  "pro_se": "False",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\4867798_2021_Francis v. Kings Park Manor, Inc._ca2.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "we think landlords typically do not, and therefore cannot be presumed to, exercise the degree of control over tenants that would be necessary to impose liability under the FHA for tenant-on-tenant harassment.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "we think landlords typically do not, and therefore cannot be presumed to, exercise the degree of control over tenants that would be necessary to impose liability under the FHA for tenant-on-tenant harassment.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "But because the Complaint does not provide enough information to compare the events of which Francis complains to the KPM Defendants’ responses to other violations, there is no factual basis to plausibly infer that the KPM Defendants’ conduct with regard to Francis was motivated by racial animus.",
+    "quote_verified": false
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|9591610_2024_(PS) James v. Metzger Mgt. Co._caed",
+  "arm": "RACE-DT",
+  "r1_role": "queue_bc",
+  "case_name": "Anthony Alexander James v. Metzger Management Company",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9591610_2024_(PS) James v. Metzger Mgt. Co._caed.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "there are no allegations in the complaint that plaintiff was subjected to different terms, conditions, or privileges because of plaintiff’s race or any other protected status.",
+    "quote_verified": false
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "However, there are no allegations in the complaint that plaintiff was subjected to different terms, conditions, or privileges because of plaintiff’s race or any other protected status.",
+    "quote_verified": false
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "However, there are no allegations in the complaint that plaintiff was subjected to different terms, conditions, or privileges because of plaintiff’s race or any other protected status.",
+    "quote_verified": false
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|9606994_2022_Christian v. Rancho Grande Manufactured Home Community_cand",
+  "arm": "RACE-DT",
+  "r1_role": "queue_bc",
+  "case_name": "Emory D. Christian v. Rancho Grande Manufactured Home Community",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9606994_2022_Christian v. Rancho Grande Manufactured Home Community_cand.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "the second through fifth causes of action fail because there are not plausible allegations that the defendants acted on the basis of Christian’s race or that the state inspectors’ actions were anything more than negligent",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "The federal claims are therefore dismissed: The first cause of action fails because there are no plausible allegations of a conspiracy, and the second through fifth causes of action fail because there are not plausible allegations that the defendants acted on the basis of Christian’s race",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "the second through fifth causes of action fail because there are not plausible allegations that the defendants acted on the basis of Christian’s race",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|9855309_2020_Stone v. 23rd Chelsea Associates, LLC_nysd",
+  "arm": "RACE-DT",
+  "r1_role": "queue_bc",
+  "case_name": "Stone v. 23rd Chelsea Associates, LLC",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9855309_2020_Stone v. 23rd Chelsea Associates, LLC_nysd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Because Plaintiff has not alleged any unlawful act that occurred during the limitations period, the continuing violations doctrine cannot apply and I need not consider his allegations dating back beyond the relevant limitations periods.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Because Plaintiff has not alleged any unlawful act that occurred during the limitations period, the continuing violations doctrine cannot apply and I need not consider his allegations dating back beyond the relevant limitations periods.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "These vague allegations at best suggest that Defendants harbored an antipathy towards Plaintiff, but fall far short of raising an inference that they acted with “discriminatory animus” based on his membership in a protected class.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|9938339_2023_LAWTON v. WELLS FARGO BANK, N.A._paed",
+  "arm": "RACE-DT",
+  "r1_role": "queue_bc",
+  "case_name": "Lawton v. Wells Fargo Bank, N.A.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9938339_2023_LAWTON v. WELLS FARGO BANK, N.A._paed.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiffs plead a protected class, I cannot discern without more factual context any (1) intentional discrimination or (2) discriminatory effect.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "It is not until now, over a decade later, that they raise claims about discriminatory conduct but without specifying the kind of differential or adverse treatment to which they were subject.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "It is not until now, over a decade later, that they raise claims about discriminatory conduct but without specifying the kind of differential or adverse treatment to which they were subject.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|10872316_2026_Ernesto Varela, et al. v. William Harold Hill, et al._moed",
+  "arm": "RACE-DT",
+  "r1_role": "queue_bc",
+  "case_name": "Ernesto Varela, et al. v. William Harold Hill, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\results\\v128\\p3_extension_2026-07-03\\opinions\\10872316.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiffs filed this action in state court on July 12, 2023, which is almost exactly five years after they moved, bringing an end to Defendant’s harassment, on July 14, 2018.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiffs’ Count III thus appears to be barred by the FHA’s statute of limitations.  On January 15, 2026, the Court ordered Plaintiffs to show cause why Count III should not be dismissed as untimely.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiffs’ Count III thus appears to be barred by the FHA’s statute of limitations.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|10197106_2024_Avila v. New York City Housing Authority_nysd",
+  "arm": "DT-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Jimmy Avila v. New York City Housing Authority",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10197106_2024_Avila v. New York City Housing Authority_nysd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "He alleges no facts, however, showing that he suffered any adverse treatment at his current apartment or that NYCHA discriminated against him because of his disability, race, or gender.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "He alleges no facts, however, showing that he suffered any adverse treatment at his current apartment or that NYCHA discriminated against him because of his disability, race, or gender.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "He alleges no facts, however, showing that he suffered any adverse treatment at his current apartment or that NYCHA discriminated against him because of his disability, race, or gender.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|11267637 - Doe v. Department of Veterans Affairs",
+  "arm": "DT-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Jane Doe v. Department of Veterans Affairs",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\11267637 - Doe v. Department of Veterans Affairs.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Doe's claims fail because she does not allege she was denied benefits or that an adverse action was taken against her because of her disability; she claims that her husband was denied disability accommodations.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Does has not alleged that her husband cannot protect his own interests. Consequently, she has not shown that she has standing to sue on his behalf. See id.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Does has not alleged that her husband cannot protect his own interests. Consequently, she has not shown that she has standing to sue on his behalf.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|3200963_2016_Dorothy Hartman v. Bank of New York Mellon_ca3",
+  "arm": "DT-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Dorothy Hartman v. Bank of New York Mellon",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\3200963_2016_Dorothy Hartman v. Bank of New York Mellon_ca3.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "her complaint does not plausibly allege that the defendants acted with a discriminatory purpose",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "her complaint does not plausibly allege that the defendants acted with a discriminatory purpose.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "her complaint does not plausibly allege that the defendants acted with a discriminatory purpose.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|9831553_2023_Bloodgood-Loper v. Loper_nvd",
+  "arm": "DT-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Bloodgood-Loper v. Loper",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9831553_2023_Bloodgood-Loper v. Loper_nvd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Katalin still fails to demonstrate how any of the actions taken against her were because of her familial status.",
+    "quote_verified": false
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "Katalin fails to point to any constitutional or federal right indicating that her spousal relationship with an authorized tenant entitles her to her own tenancy rights, and I know of no federal laws that confer such a right.",
+    "quote_verified": false
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "But Katalin fails to allege any facts showing that Lenard evicted Charles or took any other action prohibited under the FHA because he is an alcoholic or because he has any other disability.",
+    "quote_verified": false
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|9848981_2023_Byng v. Kelly_nynd",
+  "arm": "DT-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Kevin V. Byng v. Bob Kelly",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9848981_2023_Byng v. Kelly_nynd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "plaintiff has not sufficiently pled any claims under the ADA or RA because he has not alleged any facts showing the defendants' actions were taken because of plaintiff's disabilities",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Similarly to the RA and ADA claims, his FHA claims with respect to disability discrimination fail as his complaint is devoid of any facts showing that he was discriminated against because of his disability.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "his FHA claims with respect to disability discrimination fail as his complaint is devoid of any facts showing that he was discriminated against because of his disability.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|Miller v. GEORGIA DEPARTMENT OF COMMUNITY SUPERVISION",
+  "arm": "DT-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Tracy A. Miller v. Georgia Department of Community Supervision, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\Miller v. GEORGIA DEPARTMENT OF COMMUNITY SUPERVISION.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "wrong_defendant_or_not_covered",
+    "confidence": "HIGH",
+    "evidence_quote": "the Board did not \"make unavailable\" any dwelling over which it had control; rather, it attempted to accommodate Plaintiff's disability by releasing him to Bostick.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "wrong_defendant_or_not_covered",
+    "confidence": "MEDIUM",
+    "evidence_quote": "As an initial matter, Plaintiff has not pleaded any facts suggesting that he is a \"buyer\" or \"renter\" of the space he is occupying at Bostick.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "wrong_defendant_or_not_covered",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff has not pleaded any facts suggesting that he is a \"buyer\" or \"renter\" of the space he is occupying at Bostick.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9533652_2022_Beram v. Sedona, City of_azd",
+  "arm": "RD-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Beram v. City of Sedona",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9533652_2022_Beram v. Sedona, City of_azd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Accordingly, as presently alleged, the factual allegations do not adequately rise to\nthe level of actual or imminent harm and, as a result, Plaintiff has not pleaded sufficient\nfacts to demonstrate an injury on which to establish constitutional standing.",
+    "quote_verified": false
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "The Court need not determine whether Plaintiff’s Amended Complaint states a claim under the ADA or whether the Code is unconstitutional under the Eighth Amendment because Plaintiff has not established Article III’s standing requirements.",
+    "quote_verified": false
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "The Court need not determine whether Plaintiff’s Amended Complaint states a claim under the ADA or whether the Code is unconstitutional under the Eighth Amendment because Plaintiff has not established Article III’s standing requirements.",
+    "quote_verified": false
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10622451_2025_Gilbert v. Tucson Realty _ Trust Company Management Services LLC_azd",
+  "arm": "RD-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Shenoa Gilbert v. Tucson Realty & Trust Company Management Services LLC",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10622451_2025_Gilbert v. Tucson Realty _ Trust Company Management Services LLC_azd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "MEDIUM",
+    "evidence_quote": "However, Plaintiff has not alleged how her back pain and kidney disease substantially limit any major life activity.  Therefore, Plaintiff’s Complaint fails to satisfy the first element.",
+    "quote_verified": false
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "MEDIUM",
+    "evidence_quote": "However, Plaintiff has not alleged how her back pain and kidney disease substantially limit any major life activity.  Therefore, Plaintiff’s Complaint fails to satisfy the first element.",
+    "quote_verified": false
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "However, Plaintiff has not alleged how her back pain and kidney disease substantially limit any major life activity.",
+    "quote_verified": false
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10800816_2026_Brown v. Nationwide Mutual Insurance Company_dcd",
+  "arm": "RD-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Brown v. Nationwide Mutual Insurance Company",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10800816_2026_Brown v. Nationwide Mutual Insurance Company_dcd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Because all of Brown’s claims accrued in 2016, and there is no basis to toll the limitations period, the Court concludes that they are time-barred and must be dismissed with prejudice.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Thus, Brown’s FHA claims are also barred by the applicable statute of limitations.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Thus, Brown’s FHA claims are also barred by the applicable statute of limitations.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9890838_2024_Gambaro v. 1917 ACP Owner LLC_nysd",
+  "arm": "RD-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Jeanette Gambaro and Joseph Gambaro v. 1917 ACP Owner LLC, Bruce Lederman, Sharp Management Corp., and The Clearstone Group Inc.",
+  "pro_se": "False",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9890838_2024_Gambaro v. 1917 ACP Owner LLC_nysd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Where a plaintiff has failed “to obtain permission from the appointing court, the court may pursue one of three options",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Where a plaintiff has failed “to obtain permission from the appointing court, the court may pursue one of three options: (1) allow the action to continue ‘subject to the later order of the appointing court’; (2) stay the action ‘pending an application to the court for leave nunc pro tunc’; or (3) dismiss the action",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "The case is therefore DISMISSED without prejudice to recommencement if Plaintiffs obtain leave to sue Mr. Lederman.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10221825_2021_Fedynich v. Lozano_vaed",
+  "arm": "RD-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Nicole Fedynich, et al. v. Juana Lozano, Assistant Manager, Valor Apartments, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10221825_2021_Fedynich v. Lozano_vaed.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "the Fedynichs do not plausibly allege that: (1) they qualify as disabled under either statute; (2) Defendants failed to provide them with reasonable accommodations; or, (3) a sufficient nexus exists between any alleged disability and Defendants' alleged refusal to provide reasonable accommodations.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "Because the Fedynichs do not plead sufficient plausible facts to show they suffer from a “handicap” or “disability” under the FHA or the Rehabilitation Act’ or that Defendants failed to provide them with reasonable accommodations, the Court will Dismiss the FHA and Rehabilitation Act Claims.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "First, the Court will dismiss Counts I and II under the FHA and Rehabilitation Act because the Fedynichs do not plausibly allege that: (1) they qualify as disabled under either statute; (2) Defendants failed to provide them with reasonable accommodations; or, (3) a sufficient nexus exists between any alleged disability and Defendants’ alleged refusal to provide reasonable accommodations.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9721118_2022_Louisiana Fair Housing Action Center, Inc. v. Azalea Garden Properties, LLC_laed",
+  "arm": "RD-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Louisiana Fair Housing Action Center, Inc. v. Azalea Garden Properties, LLC",
+  "pro_se": "False",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9721118_2022_Louisiana Fair Housing Action Center, Inc. v. Azalea Garden Properties, LLC_laed.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "This case lacks any facts to support a causal link, much less a “robust” one as required by controlling law, to support a disparate impact claim grounded on disability.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "MEDIUM",
+    "evidence_quote": "LaFHAC’s disability claim is not supported by any statistical data that would suggest that individuals with drug convictions on their record are not only likely to be recovering from drug addiction, but suffering from an addiction that substantially limits one or more major life activities.",
+    "quote_verified": false
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "This case lacks any facts to support a causal link, much less a “robust” one as required by controlling law, to support a disparate impact claim grounded on disability.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10621722_2025_Waheed v. Park_nysd",
+  "arm": "RD-PURE",
+  "r1_role": "queue_bc",
+  "case_name": "Sehra Waheed v. Molly Wasow Park, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\10621722_2025_Waheed v. Park_nysd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "The Court dismisses these new claims as beyond the scope of the permitted amendment.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "She also attempts to assert claims of disability discrimination under the FHA against Park, French, and the City of New York, apparently arising from their alleged failure to accommodate her disability in her state court eviction proceedings. The Court dismisses these new claims as beyond the scope of the permitted amendment.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "The Court dismisses these new claims as beyond the scope of the permitted amendment.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|9868893_2021_Tasfay v. Ramos_nysd",
+  "arm": "RACE-DT",
+  "r1_role": "control_bc",
+  "case_name": "Jama M. Tasfay, et al. v. Melissa Ramos, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9868893_2021_Tasfay v. Ramos_nysd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "The amended complaint merely alleges that “the only reason [Defendant Ramos] would take such a foolish action would be to discriminate.”",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Even liberally construing the allegations in the complaint, the Court agrees that Plaintiffs have failed to plead sufficient facts to support the proposition that Defendants were motivated by discriminatory intent.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Even liberally construing the allegations in the complaint, the Court agrees that Plaintiffs have failed to plead sufficient facts to support the proposition that Defendants were motivated by discriminatory intent.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|10186453_2024_Weik v. Asby_mtd",
+  "arm": "RACE-DT",
+  "r1_role": "control_bc",
+  "case_name": "David L. Weik v. Jim Asby, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\10186453_2024_Weik v. Asby_mtd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Because all three requirements for claim preclusion are met, Counts 2, 5, 6, and 9 of the Amended Complaint are barred by res judicata and will be dismissed with prejudice.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Because all three requirements for claim preclusion are met, Counts 2, 5, 6, and 9 of the Amended Complaint are barred by res judicata and will be dismissed with prejudice.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Because all three requirements for claim preclusion are met, Counts 2, 5, 6, and 9 of the Amended Complaint are barred by res judicata and will be dismissed with prejudice.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10644107_2025_Ballentine v. Bowery Residence Committee_nyed",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Ballentine v. Bowery Residents' Committee",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10644107_2025_Ballentine v. Bowery Residence Committee_nyed.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "he pleads no specific facts describing how he was punished and denied reasonable accommodations, or by whom, or how those adverse actions were",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "However, he pleads no specific facts describing how he was punished and denied reasonable accommodations, or by whom, or how those adverse actions were “due to [his] disability” and “illnesses.”",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "he pleads no specific facts describing how he was punished and denied reasonable accommodations, or by whom, or how those adverse actions were “due to [his] disability” and “illnesses.”",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9683510_2024_Haymarket DuPage, LLC v. Village of Itasca_ilnd",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Haymarket DuPage, LLC v. Village of Itasca",
+  "pro_se": "False",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9683510_2024_Haymarket DuPage, LLC v. Village of Itasca_ilnd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "The School District and the Fire District were not the decisionmakers. The power to vote up or down resided with the Village Board, not the School District or the Fire District.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "At the end of the day, the School District and the Fire District had a voice, but they didn’t have a vote.  So there is no traceability.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "At bottom, Haymarket is suing the School District and the Fire District about decisions made by someone else (i.e., the Village Board), so the alleged injury is not fairly traceable to the conduct of the School District and the Fire District.  The lack of traceability means that Haymarket lacks standing to sue.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|9950565_2021_MIMS v. CITY OF NEW CASTLE_pawd",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "case_name": "James Mims v. City of New Castle",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9950565_2021_MIMS v. CITY OF NEW CASTLE_pawd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "the Amended Complaint fails to allege facts sufficient to raise a reasonable expectation that discovery will reveal evidence of disparate treatment—that some discriminatory purpose was a ‘motivating factor’ behind the challenged action.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Even when construing the Amended Complaint’s factual allegations in the light most favorable to Mr. Mims, the Amended Complaint fails to allege facts sufficient to raise a reasonable expectation that discovery will reveal evidence of disparate treatment—that some discriminatory purpose was a ‘motivating factor’ behind the challenged action.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Mr. Mims alleges that he “would be issued a citation for a fabricated defective condition” when “it was learned that an ‘unapproved’ or ‘undesirable’ tenant lived at one of these rental units,” ECF No. ¶ 41, without providing a single example of such instance.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|10190122_2024_NELSON v. CLAUSSEN_njd",
+  "arm": "RACE-DT",
+  "r1_role": "control_bc",
+  "case_name": "Nelson v. Claussen",
+  "pro_se": "False",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10190122_2024_NELSON v. CLAUSSEN_njd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "This is the entirety of the facts pled in the SAC relating to a violation of the Fair Housing Act. Such facts do not contain sufficient factual matter to state a claim that is",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "When looking at the facts pled in support of the Fair Housing Act claim, Plaintiffs put forth little to no facts in support of this claim.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "When looking at the facts pled in support of the Fair Housing Act claim, Plaintiffs put forth little to no facts in support of this claim.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|10665957_2025_Hobbs, Sr v. Goncharko_ilnd",
+  "arm": "RACE-DT",
+  "r1_role": "control_bc",
+  "case_name": "Steven E. Hobbs, Sr. v. Igor Goncharko, et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10665957_2025_Hobbs, Sr v. Goncharko_ilnd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "a ‘request for (re)construction or repair is more appropriately a request for a modification than an accommodation’ and therefore is not actionable under the FHA.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Hobbs doesn’t allege that Coldwell Banker “disclos[ed] ERAMP terms” to non-Black individuals, or that it charged these individuals less in rent. See [Id. ¶ 22]. Or, that it targeted him in any way because of his race.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "Hobbs alleges that Goncharko/5120 failed to accommodate his disability “through necessary repairs.” [Dkt. 8 ¶ 28]. But “a ‘request for (re)construction or repair is more appropriately a request for a modification than an accommodation’ and therefore is not actionable under the FHA.”",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|10838867_2026_Zeng v. Owner of 8020 Quartz Lane_ca5",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Houhe Zeng v. Owner of 8020 Quartz Lane; FirstKey Homes, L.L.C.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\results\\v128\\p3_extension_2026-07-03\\opinions\\10838867.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "As Zeng did not plead specific facts showing a causal link between the alleged failure to make repairs and her purported disability, she has failed to establish causality for purposes of discrimination under the FHA",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "As Zeng did not plead specific facts showing a causal link between the alleged failure to make repairs and her purported disability, she has failed to establish causality for purposes of discrimination under the FHA, as we persuasively explained in Mason v. Integra Peak Mgmt. Inc., 821 F. App’x 382, 383 (5th Cir. 2020).",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "As Zeng did not plead specific facts showing a causal link between the alleged failure to make repairs and her purported disability, she has failed to establish causality for purposes of discrimination under the FHA",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|9817781_2023_Burnside v. Monarch Real Estate Crop_nmd",
+  "arm": "RACE-DT",
+  "r1_role": "control_bc",
+  "case_name": "Johnny Levelt Burnside v. Monarch Real Estate Corp.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9817781_2023_Burnside v. Monarch Real Estate Crop_nmd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "The Complaint fails to state a claim against Defendants because there are no factual allegations that suggest Plaintiff’s race, color, religion, sex, handicap, familial status, or national origin, was a factor that motivated Defendants Monarch, Berglund, and Marrujo’s actions.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "The Complaint fails to state a claim against Defendants because there are no factual allegations that suggest Plaintiff’s race, color, religion, sex, handicap, familial status, or national origin, was a factor that motivated Defendants Monarch, Berglund, and Marrujo’s actions.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "The Complaint fails to state a claim against Defendants because there are no factual allegations that suggest Plaintiff’s race, color, religion, sex, handicap, familial status, or national origin, was a factor that motivated Defendants Monarch, Berglund, and Marrujo’s actions.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|9848402_2022_Cedar Development East,LLC v. Town Board of Hurley_nynd",
+  "arm": "RACE-DT",
+  "r1_role": "control_bc",
+  "case_name": "Cedar Development East, LLC v. Town Board of Hurley",
+  "pro_se": "False",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9848402_2022_Cedar Development East,LLC v. Town Board of Hurley_nynd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff has failed to submit an application for a variance and given Defendants' ultimate approval of the project, it is not inevitable that a variance would have been denied.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Here, Plaintiff has failed to submit an application for a variance and given Defendants' ultimate approval of the project, it is not inevitable that a variance would have been denied.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Because ripeness is a jurisdictional inquiry, landowners bringing zoning challenges must meet the high burden of proving that we can look to a final, definitive position from a local authority to assess precisely how they can use their property before this Court may entertain their claims",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9902915_2021_McCoy v. Akron Police Department_ohnd",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "case_name": "McCoy v. Akron Police Department",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9902915_2021_McCoy v. Akron Police Department_ohnd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "MEDIUM",
+    "evidence_quote": "it is impossible to determine whether and to what extent Mr. McCoy contends the Defendants have violated his federal rights.  As it is presently written, the complaint fails to set forth allegations sufficient to give the Defendants fair notice of what federal claims Mr. McCoy purports to assert against them on his own behalf and the factual basis for any such claim.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "MEDIUM",
+    "evidence_quote": "As it is presently written, the complaint fails to set forth allegations sufficient to give the Defendants fair notice of what federal claims Mr. McCoy purports to assert against them on his own behalf and the factual basis for any such claim.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "As it is presently written, the complaint fails to set forth allegations sufficient to give the Defendants fair notice of what federal claims Mr. McCoy purports to assert against them on his own behalf and the factual basis for any such claim.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9526362_2022_Yates v. Mack_alsd",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Yates v. Mack",
+  "pro_se": "False",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9526362_2022_Yates v. Mack_alsd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "wrong_defendant_or_not_covered",
+    "confidence": "HIGH",
+    "evidence_quote": "Baldwin County cannot be liable for the actions or inactions of the Probate Court, Call Center, Sheriff and/or his deputies, because they are not agents or employees of the county.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "wrong_defendant_or_not_covered",
+    "confidence": "HIGH",
+    "evidence_quote": "However, as detailed supra, Baldwin County cannot be liable for the actions or \n   inactions of the Probate Court, Call Center, Sheriff and/or his deputies, because they are \n   not agents or employees of the county.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "wrong_defendant_or_not_covered",
+    "confidence": "HIGH",
+    "evidence_quote": "Baldwin County cannot be liable for the actions or inactions of the Probate Court, Call Center, Sheriff and/or his deputies, because they are not agents or employees of the county.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|9869575_2021_Zlotnick v. Crystal Run Village, Inc._nysd",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Zlotnick v. Crystal Run Village, Inc.",
+  "pro_se": "False",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9869575_2021_Zlotnick v. Crystal Run Village, Inc._nysd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff does not allege any facts which can show that Zlotnick was, in fact, treated differently from or worse than other residents, denied benefits on the basis of his disability, or that Defendants took any action against him whatsoever on the basis of his disability.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Instead, Plaintiff merely offers conclusory statements that Zlotnick was treated worse than other residents, without explaining how.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Here, Plaintiff merely states that Zlotnick was treated worse than other residents due to his disability, but offers no facts in support.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|10699981_2025_Moore v. Model Cities_mnd",
+  "arm": "RACE-DT",
+  "r1_role": "control_bc",
+  "case_name": "Mariama Moore v. Model Cities and Safe Space Shelter",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10699981_2025_Moore v. Model Cities_mnd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Ms. Moore alleges no facts about what Model Cities, Safe Space Shelter, or any of their staff did that would support an inference that she was treated less favorably from others because of her race, color, religion, sex, or national origin.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "First, Ms. Moore alleges no facts about what Model Cities, Safe Space Shelter, or any of their staff did that would support an inference that she was treated less favorably from others because of her race, color, religion, sex, or national origin.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Ms. Moore alleges no facts about what Model Cities, Safe Space Shelter, or any of their staff did that would support an inference that she was treated less favorably from others because of her race, color, religion, sex, or national origin.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|10223773_2024_Benton v. Home Max Realty, Inc._vaed",
+  "arm": "RACE-DT",
+  "r1_role": "control_bc",
+  "case_name": "Evelyn R. Benton v. Home Max Realty, Inc.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\10223773_2024_Benton v. Home Max Realty, Inc._vaed.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Because Plaintiff has failed to establish even a prima facie case that her claims arise out of Defendants’ business transactions in Virginia, the Court need not proceed to assessing the constitutional facet of personal jurisdiction, and Defendants’ Rule 12(b)(2) Motion to Dismiss for lack of personal jurisdiction will be granted.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Because Plaintiff has failed to establish even a prima facie case that her claims arise out of Defendants’ business transactions in Virginia, the Court need not proceed to assessing the constitutional facet of personal jurisdiction, and Defendants’ Rule 12(b)(2) Motion to Dismiss for lack of personal jurisdiction will be granted.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Because Plaintiff has failed to establish even a prima facie case that her claims arise out of Defendants’ business transactions in Virginia, the Court need not proceed to assessing the constitutional facet of personal jurisdiction, and Defendants’ Rule 12(b)(2) Motion to Dismiss for lack of personal jurisdiction will be granted.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10314935_2025_Feliciano v. Aguirre_nysd",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Michael Feliciano v. Andres Aguirre",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\10314935_2025_Feliciano v. Aguirre_nysd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "he does not describe the accommodation he sought and the connection between his disability and the requested accommodation",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "Here, Plaintiff has not alleged facts in the complaint that are sufficient to show that he has a covered disability. Rather, he states only that his issues with his landlord exacerbated his medical and mental health issues. Moreover, he does not describe the accommodation he sought and the connection between his disability and the requested accommodation.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "Here, Plaintiff has not alleged facts in the complaint that are sufficient to show that he has a covered disability. Rather, he states only that his issues with his landlord exacerbated his medical and mental health issues. Moreover, he does not describe the accommodation he sought and the connection between his disability and the requested accommodation.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|10302146_2024_Tanner v. Rochdale Village Inc._nyed",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Walter Tanner v. Rochdale Village Inc.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10302146_2024_Tanner v. Rochdale Village Inc._nyed.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "plaintiff does not allege any facts to support that vague and speculative claim beyond stating that the allegation is “based on information from confidential source.”",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Nowhere in the complaint does plaintiff explain, for example, why he believes that the management staff perceived him as being a sexual offender or HIV positive, or why he believes that the staff interfered with his maintenance request on that basis.  Nor does he allege that other individuals were treated differently than he was.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Nowhere in the complaint does plaintiff explain, for example, why he believes that the management staff perceived him as being a sexual offender or HIV positive, or why he believes that the staff interfered with his maintenance request on that basis. Nor does he allege that other individuals were treated differently than he was.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|9882238_2023_Reeves v. CMP Consultants, Inc._nysd",
+  "arm": "RACE-DT",
+  "r1_role": "control_bc",
+  "case_name": "Michael Reeves v. CMP Consultants, Inc., et al.",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9882238_2023_Reeves v. CMP Consultants, Inc._nysd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff has not plead any facts suggesting that any defendant subjected him to an adverse housing action because of his race. For example, Plaintiff has not identified his own race",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "For example, Plaintiff has not identified his own race; moreover, while Plaintiff does assert that the building for which he won the lottery is predominately occupied by “white people,” he does not allege any facts suggesting that the delays concerning his leasing of the lottery apartment were caused because Defendants harbored discriminatory animus towards his unidentified race.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff has not identified his own race; moreover, while Plaintiff does assert that the building for which he won the lottery is predominately occupied by “white people,” he does not allege any facts suggesting that the delays concerning his leasing of the lottery apartment were caused because Defendants harbored discriminatory animus towards his unidentified race.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|9842777_2023_Samura v. Figueroa_nyed",
+  "arm": "RACE-DT",
+  "r1_role": "control_bc",
+  "case_name": "Mohamed Samura v. Maria Figueroa, Castleton Park Management, and Castleton Preservation LLC",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9842777_2023_Samura v. Figueroa_nyed.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "this action is untimely",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "In sum, Plaintiff commenced this action well beyond the expiration of the applicable statute of limitations period.  The Amended Complaint therefore is dismissed as time-barred.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff commenced this action well beyond the expiration of the applicable statute of limitations period. The Amended Complaint therefore is dismissed as time-barred.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9930022_2023_Adgerson v. Central City Concern Housing Administration_ord",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Robert L. Adgerson v. Central City Concern Housing Administration",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9930022_2023_Adgerson v. Central City Concern Housing Administration_ord.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "majority",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "he fails to allege that Central City Concern made any decisions because of Plaintiff's race, color, religion, sex, familial status, national origin, or disability",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "MISFILTER",
+    "subcode": "none",
+    "confidence": "HIGH",
+    "evidence_quote": "Accordingly, the Court DENIES Plaintiff’s Motion for Temporary Restraining Order. ECF 3.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff, however, fails to show a likelihood of success or even serious questions going to the merits because he fails to allege that Central City Concern made any decisions because of Plaintiff’s race, color, religion, sex, familial status, national origin, or disability.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|11267617 - MILLERBORG v. BLUE BONNET TRAIL LLC",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Millerborg v. Blue Bonnet Trail LLC",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\11267617 - MILLERBORG v. BLUE BONNET TRAIL LLC.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "However, this statement is conclusory, as the complaint is devoid of details about when, where, and how Millerborg experienced any of the barriers he describes.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Because Plaintiff Casey Millerborg has not sufficiently alleged a concrete injury in fact, the Court grants the motions to dismiss for lack of standing.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "jurisdiction_or_standing",
+    "confidence": "HIGH",
+    "evidence_quote": "Because Plaintiff Casey Millerborg has not sufficiently alleged a concrete injury in fact, the Court grants the motions to dismiss for lack of standing.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "DT-PURE|9812229_2024_OXFORD HOUSE, INC. v. TOWNSHIP OF NORTH BERGEN_njd",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Oxford House, Inc. v. Township of North Bergen",
+  "pro_se": "False",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\9812229_2024_OXFORD HOUSE, INC. v. TOWNSHIP OF NORTH BERGEN_njd.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff has failed to plead facts from which the Court could reasonably infer a discriminatory purpose behind Defendant's actions, which is fatal to Plaintiff's FHA and ADA claims.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Because the Amended Complaint fails to provide factual allegations supporting an inference of discriminatory intent, Plaintiff’s discriminatory treatment claims under the FHA and the ADA must fail.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Because the Amended Complaint fails to provide factual allegations supporting an inference of discriminatory intent, Plaintiff’s discriminatory treatment claims under the FHA and the ADA must fail.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|9768334_2021_Wheatley v. Beasley_moed",
+  "arm": "RACE-DT",
+  "r1_role": "control_bc",
+  "case_name": "Carol D. Wheatley v. Lilly Beasley",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9768334_2021_Wheatley v. Beasley_moed.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff does not allege any facts, however, to establish that defendant Beasley's discriminatory remark was linked to any discriminatory conduct.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "Plaintiff does not allege any facts, however, to establish that defendant Beasley’s discriminatory remark was linked to any discriminatory conduct.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "motive_or_differential_treatment_facts",
+    "confidence": "HIGH",
+    "evidence_quote": "She has not alleged any factual information showing that she was treated differently due to her race.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RACE-DT|9922722_2021_Miller v. Legacy Bank_okwd",
+  "arm": "RACE-DT",
+  "r1_role": "control_bc",
+  "case_name": "Miller v. Legacy Bank",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9922722_2021_Miller v. Legacy Bank_okwd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "He filed them nearly five years after his loan was denied.",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "The Court dismissed Plaintiff’s claims under the Fair Housing Act, 42 U.S.C. § 3601 et seq. (FHA) and 42 U.S.C. §§ 1981 and 1982 with prejudice because they were time-barred.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "limitations_or_preclusion",
+    "confidence": "HIGH",
+    "evidence_quote": "The Court dismissed Plaintiff’s claims under the Fair Housing Act, 42 U.S.C. § 3601 et seq. (FHA) and 42 U.S.C. §§ 1981 and 1982 with prejudice because they were time-barred.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|10223161_2023_Graves, Esq v. Foulger-Pratt Companies, LLC_vaed",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Courtney Graves v. Foulger-Pratt Companies, LLC",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\3604\\10223161_2023_Graves, Esq v. Foulger-Pratt Companies, LLC_vaed.txt",
+  "masked_consensus_family": "B",
+  "panel_majority": "B",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "B",
+    "subcode": "personal_incident_detail",
+    "confidence": "HIGH",
+    "evidence_quote": "The Complaint is devoid of facts giving rise to any inference that Foulger-Pratt denied Graves a transfer to another unit within the Thornton because of her “inability to breathe.”",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "These factual allegations are vague and abstract, leaving the Court unable to determine whether Graves qualifies as disabled under the FHA.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "B",
+    "subcode": "subjective_need_or_harm",
+    "confidence": "HIGH",
+    "evidence_quote": "These factual allegations are vague and abstract, leaving the Court unable to determine whether Graves qualifies as disabled under the FHA.",
+    "quote_verified": true
+   }
+  ]
+ },
+ {
+  "row_id": "RD-PURE|9741207_2022_Emrit v. Hagerstown Housing Authority_mdd",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "case_name": "Ronald Satish Emrit v. Hagerstown Housing Authority",
+  "pro_se": "True",
+  "text_path": "<WORKING_REPO>\\allFHAcases\\recentcases\\9741207_2022_Emrit v. Hagerstown Housing Authority_mdd.txt",
+  "masked_consensus_family": "C",
+  "panel_majority": "C",
+  "panel_majority_type": "unanimous",
+  "panel_votes": [
+   {
+    "model": "anthropic/claude-sonnet-5",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "when a PHA either fails to place an individual on a waiting list or does not accord an individual a preferential place on the waiting list, it does not give rise to a cause of action",
+    "quote_verified": true
+   },
+   {
+    "model": "openai/gpt-5.5",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "Thus, courts have concluded when a PHA either fails to place an individual on a waiting list or does not accord an individual a preferential place on the waiting list, it does not give rise to a cause of action.",
+    "quote_verified": true
+   },
+   {
+    "model": "google/gemini-3.1-pro-preview",
+    "family": "C",
+    "subcode": "no_cognizable_theory",
+    "confidence": "HIGH",
+    "evidence_quote": "Thus, courts have concluded when a PHA either fails to place an individual on a waiting list or does not accord an individual a preferential place on the waiting list, it does not give rise to a cause of action.",
+    "quote_verified": true
+   }
+  ]
+ }
+]

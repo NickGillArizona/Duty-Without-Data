@@ -1,0 +1,1236 @@
+[
+ {
+  "row_id": "DT-PURE|10310926_2025_Cymbalsky v. 522 Shore Road Owners Inc_nyed",
+  "arm": "DT-PURE",
+  "r1_role": "A_row",
+  "masked_consensus_family": "A",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 39440,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"personal_incident_detail\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"As Plaintiff’s allegations demonstrate that he continues to reside in his apartment and has not suffered any adverse action, he fails to allege that Defendants discriminated against him under the FHA.\",\n  \"reasoning\": \"The court's dispositive FHA holding is that the plaintiff suffered no adverse action and no discriminatory conduct tied to his disability—facts within his own experience and knowledge, not institutional records. Whether he applied for and was denied housing, was denied access to his own apartment, or requested and was refused an accommodation are all plaintiff-known incident facts. The A subcode (request/response record) is wrong because the court is not identifying a missing institutional record but rather the plaintiff's own concession that nothing adverse happened and no accommodation was ever sought.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "personal_incident_detail",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "As Plaintiff’s allegations demonstrate that he continues to reside in his apartment and has not suffered any adverse action, he fails to allege that Defendants discriminated against him under the FHA.",
+   "reasoning": "The court's dispositive FHA holding is that the plaintiff suffered no adverse action and no discriminatory conduct tied to his disability—facts within his own experience and knowledge, not institutional records. Whether he applied for and was denied housing, was denied access to his own apartment, or requested and was refused an accommodation are all plaintiff-known incident facts. The A subcode (request/response record) is wrong because the court is not identifying a missing institutional record but rather the plaintiff's own concession that nothing adverse happened and no accommodation was ever sought."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 17445,
+   "completion_tokens": 314,
+   "total_tokens": 17759,
+   "cost": 0.095075,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.095075,
+    "upstream_inference_prompt_cost": 0.087225,
+    "upstream_inference_completions_cost": 0.00785
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RACE-DT|9936396_2022_PAYNE v. THE GALMAN GROUP_paed",
+  "arm": "RACE-DT",
+  "r1_role": "A_row",
+  "masked_consensus_family": "A",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 8533,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"motive_or_differential_treatment_facts\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"Payne does not allege he requested a dog and was denied one. Nor does Payne assert he had a dog and received repercussions for keeping it on the premises. Payne does not even allege the terms of his and Andrew S.’s lease are different.\",\n  \"reasoning\": \"The court found the pivotal defect to be Payne's failure to allege facts of differential treatment within his own knowledge—that he was himself denied a pet or suffered adverse consequences, or that his lease terms differed. These are plaintiff-known experiential facts, not institutional records. The disparate-treatment/motive gap places this in family B, not the institutional-fact deficit of A.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "motive_or_differential_treatment_facts",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "Payne does not allege he requested a dog and was denied one. Nor does Payne assert he had a dog and received repercussions for keeping it on the premises. Payne does not even allege the terms of his and Andrew S.’s lease are different.",
+   "reasoning": "The court found the pivotal defect to be Payne's failure to allege facts of differential treatment within his own knowledge—that he was himself denied a pet or suffered adverse consequences, or that his lease terms differed. These are plaintiff-known experiential facts, not institutional records. The disparate-treatment/motive gap places this in family B, not the institutional-fact deficit of A."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 4483,
+   "completion_tokens": 275,
+   "total_tokens": 4758,
+   "cost": 0.02929,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02929,
+    "upstream_inference_prompt_cost": 0.022415,
+    "upstream_inference_completions_cost": 0.006875
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "DT-PURE|10251972_2023_United States of America v. City of Milwaukee_wied",
+  "arm": "DT-PURE",
+  "r1_role": "A_row",
+  "masked_consensus_family": "A",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 71419,
+  "truncated": true,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"A\",\n  \"final_subcode\": \"request_or_response_record\",\n  \"agrees_with\": \"masked_consensus\",\n  \"evidence_quote\": \"Relators have failed to cite both (1) the specific statutory regulations and provisions that require certification of compliance, when those provisions were in place and to which programs they apply, as well as (2) with which specific statutory regulations and provisions (for example, federal anti-discrimination statutes) the City falsely certified compliance.\",\n  \"reasoning\": \"The court found the FCA claim deficient because relators failed to plead the specific certifications/provisions HUD required as a condition of payment and which the City falsely certified—facts about the institution's certification and funding-condition records. The court expressly held these defects 'easily remediable' and granted leave to amend, confirming this is a curable factual-pleading deficit tied to institutional records, not a threshold or no-cognizable-theory bar. The panel's C code is wrong because the court rejected the City's coverage/planning-only theory and denied the jurisdictional motions, treating the claim as viable but underpleaded.\"\n}",
+  "classification": {
+   "final_family": "A",
+   "final_subcode": "request_or_response_record",
+   "agrees_with": "masked_consensus",
+   "evidence_quote": "Relators have failed to cite both (1) the specific statutory regulations and provisions that require certification of compliance, when those provisions were in place and to which programs they apply, as well as (2) with which specific statutory regulations and provisions (for example, federal anti-discrimination statutes) the City falsely certified compliance.",
+   "reasoning": "The court found the FCA claim deficient because relators failed to plead the specific certifications/provisions HUD required as a condition of payment and which the City falsely certified—facts about the institution's certification and funding-condition records. The court expressly held these defects 'easily remediable' and granted leave to amend, confirming this is a curable factual-pleading deficit tied to institutional records, not a threshold or no-cognizable-theory bar. The panel's C code is wrong because the court rejected the City's coverage/planning-only theory and denied the jurisdictional motions, treating the claim as viable but underpleaded."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 19865,
+   "completion_tokens": 365,
+   "total_tokens": 20230,
+   "cost": 0.10845,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.10845,
+    "upstream_inference_prompt_cost": 0.099325,
+    "upstream_inference_completions_cost": 0.009125
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RACE-DT|9632673_2023_Clark v. Santander Bank, N.A._ctd",
+  "arm": "RACE-DT",
+  "r1_role": "A_row",
+  "masked_consensus_family": "A",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 105175,
+  "truncated": true,
+  "ok": true,
+  "raw_text": "The FHA discussion is truncated, but the case involves multiple counts. The panel voted UNCLEAR because the FHA-specific ruling is cut off. However, I need to classify what the court analyzed regarding the FHA claims. The truncated portion cuts off exactly at the FHA analysis, so I cannot see the court's actual reasoning on why the FHA claims failed.\n\nThe visible FHA text only sets up the claim (age discrimination denial of credit) but the reasoning for dismissal is not visible in the truncation. Without the court's actual FHA disposition, I cannot determine whether the pivotal defect was institutional facts, plaintiff-known facts, or legal insufficiency.\n\n{\n  \"final_family\": \"UNCLEAR\",\n  \"final_subcode\": \"none\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"The Court therefore examines first whether Plaintiffs have alleged plausible claims under any of these statutes.  It concludes Plaintiffs have not.\",\n  \"reasoning\": \"The opinion is truncated precisely at the Fair Housing Act analysis, cutting off the court's actual reasoning for why the FHA discrimination claims failed. The visible text only sets up the age-discrimination allegation without revealing whether the pivotal defect was institutional records, plaintiff-known differential-treatment facts, or a legal/coverage insufficiency. The masked consensus of A cannot be verified because the dispositive FHA reasoning is not in the provided text, and no reliable classification is possible.\"\n}",
+  "classification": {
+   "final_family": "UNCLEAR",
+   "final_subcode": "none",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "The Court therefore examines first whether Plaintiffs have alleged plausible claims under any of these statutes.  It concludes Plaintiffs have not.",
+   "reasoning": "The opinion is truncated precisely at the Fair Housing Act analysis, cutting off the court's actual reasoning for why the FHA discrimination claims failed. The visible text only sets up the age-discrimination allegation without revealing whether the pivotal defect was institutional records, plaintiff-known differential-treatment facts, or a legal/coverage insufficiency. The masked consensus of A cannot be verified because the dispositive FHA reasoning is not in the provided text, and no reliable classification is possible."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 20700,
+   "completion_tokens": 513,
+   "total_tokens": 21213,
+   "cost": 0.116325,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.116325,
+    "upstream_inference_prompt_cost": 0.1035,
+    "upstream_inference_completions_cost": 0.012825
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RD-PURE|9940740_2024_STEVENS-NUNEZ v. BRISTOL BOROUGH MUNICIPAL ADMINISTRATION_paed",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "masked_consensus_family": "A",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 33719,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"protected_class_membership\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"it is unclear whether she intends to claim any of the Defendants discriminated against her based on race, color, religion, sex, familial status, national origin, or disability, because she has not pled her membership in any of these protected classes\",\n  \"reasoning\": \"For the FHA/FHAA claim the court identified the pivotal defect as the plaintiff's failure to plead her own membership in a protected class, a fact within her own ordinary knowledge. The Gemini panelist's reliance on the reasonable-accommodation request/refusal is a secondary, conditional 'even if' point; the primary defect the court analyzed is the protected-class allegation, placing this in family B rather than A.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "protected_class_membership",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "it is unclear whether she intends to claim any of the Defendants discriminated against her based on race, color, religion, sex, familial status, national origin, or disability, because she has not pled her membership in any of these protected classes",
+   "reasoning": "For the FHA/FHAA claim the court identified the pivotal defect as the plaintiff's failure to plead her own membership in a protected class, a fact within her own ordinary knowledge. The Gemini panelist's reliance on the reasonable-accommodation request/refusal is a secondary, conditional 'even if' point; the primary defect the court analyzed is the protected-class allegation, placing this in family B rather than A."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 14305,
+   "completion_tokens": 274,
+   "total_tokens": 14579,
+   "cost": 0.078375,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.078375,
+    "upstream_inference_prompt_cost": 0.071525,
+    "upstream_inference_completions_cost": 0.00685
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "DT-PURE|CYMBALSKY v. 522 SHORE ROAD OWNERS, INC.",
+  "arm": "DT-PURE",
+  "r1_role": "A_row",
+  "masked_consensus_family": "A",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 35428,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"personal_incident_detail\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"As Plaintiff's allegations demonstrate that he continues to reside in his apartment and has not suffered any adverse action, he fails to allege that Defendants discriminated against him under the FHA.\",\n  \"reasoning\": \"The court's pivotal FHA holding is that plaintiff failed to allege he suffered any adverse action or discriminatory treatment because of his disability — facts within his own experience and knowledge, not institutional records. The missing adverse action, differential treatment, and discriminatory motive are plaintiff-known facts, making this B. The A code misreads the 'requested and was denied any accommodation' language as an institutional record deficit, but the court's core reasoning is the absence of any adverse action and any causal nexus to disability, which are matters of plaintiff's own experience.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "personal_incident_detail",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "As Plaintiff's allegations demonstrate that he continues to reside in his apartment and has not suffered any adverse action, he fails to allege that Defendants discriminated against him under the FHA.",
+   "reasoning": "The court's pivotal FHA holding is that plaintiff failed to allege he suffered any adverse action or discriminatory treatment because of his disability — facts within his own experience and knowledge, not institutional records. The missing adverse action, differential treatment, and discriminatory motive are plaintiff-known facts, making this B. The A code misreads the 'requested and was denied any accommodation' language as an institutional record deficit, but the court's core reasoning is the absence of any adverse action and any causal nexus to disability, which are matters of plaintiff's own experience."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 15752,
+   "completion_tokens": 315,
+   "total_tokens": 16067,
+   "cost": 0.086635,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.086635,
+    "upstream_inference_prompt_cost": 0.07876,
+    "upstream_inference_completions_cost": 0.007875
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RD-PURE|9922307_2021_Melton v. University of Oklahoma_okwd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "masked_consensus_family": "A",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 50194,
+  "truncated": true,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"A\",\n  \"final_subcode\": \"request_or_response_record\",\n  \"agrees_with\": \"neither\",\n  \"evidence_quote\": \"The Court agrees with Defendants that the element of refusal has not been plausibly pled. The failure to fully test and remediate mold within at most two or three days of such a request does not, by itself, constitute a refusal to do so.\",\n  \"reasoning\": \"The Eleventh Amendment ruling (panel C majority) disposed only of claims against the University and official-capacity damages claims; the individual-capacity FHA claims survived immunity and were dismissed on the merits for failure to plausibly plead the element of refusal, an institutionally-controlled fact about the University's response to the accommodation request. Because the FHA claim (the housing-discrimination pleading loss) turned on the absence of an adequately pled refusal/denial by the institution, family A fits better than the jurisdictional C code, which addressed only the non-FHA and University claims.\",\n  \"note\": \"The masked consensus (A) is correct as to the FHA pleading loss; the panel C majority mislocated the dispositive analysis for the discrimination claim.\"\n}",
+  "classification": {
+   "final_family": "A",
+   "final_subcode": "request_or_response_record",
+   "agrees_with": "neither",
+   "evidence_quote": "The Court agrees with Defendants that the element of refusal has not been plausibly pled. The failure to fully test and remediate mold within at most two or three days of such a request does not, by itself, constitute a refusal to do so.",
+   "reasoning": "The Eleventh Amendment ruling (panel C majority) disposed only of claims against the University and official-capacity damages claims; the individual-capacity FHA claims survived immunity and were dismissed on the merits for failure to plausibly plead the element of refusal, an institutionally-controlled fact about the University's response to the accommodation request. Because the FHA claim (the housing-discrimination pleading loss) turned on the absence of an adequately pled refusal/denial by the institution, family A fits better than the jurisdictional C code, which addressed only the non-FHA and University claims.",
+   "note": "The masked consensus (A) is correct as to the FHA pleading loss; the panel C majority mislocated the dispositive analysis for the discrimination claim."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 20117,
+   "completion_tokens": 383,
+   "total_tokens": 20500,
+   "cost": 0.11016,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.11016,
+    "upstream_inference_prompt_cost": 0.100585,
+    "upstream_inference_completions_cost": 0.009575
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RD-PURE|PRJ CAPITAL, LLC v. Moran",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "masked_consensus_family": "A",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 27720,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"subjective_need_or_harm\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"She provided only a generic description of the condition without specifying how the condition affected her personally or how it substantially limited any major life activity.\",\n  \"reasoning\": \"The court's pivotal holding is that the plaintiff failed to allege a disability—specifically that she never pleaded how her condition substantially limited a major life activity, a fact within her own personal knowledge and experience, not something the landlord would record or control. Although the court's alternative knowledge/notice discussion touches institutional facts, the primary and dispositive defect is the plaintiff's own failure to describe how her condition affected her personally, making B correct over A.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "subjective_need_or_harm",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "She provided only a generic description of the condition without specifying how the condition affected her personally or how it substantially limited any major life activity.",
+   "reasoning": "The court's pivotal holding is that the plaintiff failed to allege a disability—specifically that she never pleaded how her condition substantially limited a major life activity, a fact within her own personal knowledge and experience, not something the landlord would record or control. Although the court's alternative knowledge/notice discussion touches institutional facts, the primary and dispositive defect is the plaintiff's own failure to describe how her condition affected her personally, making B correct over A."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 10751,
+   "completion_tokens": 257,
+   "total_tokens": 11008,
+   "cost": 0.06018,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.06018,
+    "upstream_inference_prompt_cost": 0.053755,
+    "upstream_inference_completions_cost": 0.006425
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RACE-DT|10741255_2025_Jimmy Keels Williamson v. Christian Recovery Centers, Inc._nced",
+  "arm": "RACE-DT",
+  "r1_role": "no_consensus",
+  "masked_consensus_family": null,
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 3568,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"UNCLEAR\",\n  \"final_subcode\": \"none\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"plaintiffs Title VU, ADA, and FHA disability discrimination claims are DISMISSED WITHOUT PREJUDICE for failure to state a claim upon which relief can be granted, pursuant to 28 U.S.C. § 1915(e)(2)(B).\",\n  \"reasoning\": \"The order adopts the magistrate's M&R for clear error without any explanation of the pivotal missing allegation, and the M&R text itself is not provided. The FHA disability claim was dismissed for failure to state a claim, but the opinion contains no analysis identifying what fact was missing, making family classification impossible on this record.\"\n}",
+  "classification": {
+   "final_family": "UNCLEAR",
+   "final_subcode": "none",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "plaintiffs Title VU, ADA, and FHA disability discrimination claims are DISMISSED WITHOUT PREJUDICE for failure to state a claim upon which relief can be granted, pursuant to 28 U.S.C. § 1915(e)(2)(B).",
+   "reasoning": "The order adopts the magistrate's M&R for clear error without any explanation of the pivotal missing allegation, and the M&R text itself is not provided. The FHA disability claim was dismissed for failure to state a claim, but the opinion contains no analysis identifying what fact was missing, making family classification impossible on this record."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 2675,
+   "completion_tokens": 264,
+   "total_tokens": 2939,
+   "cost": 0.019975,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.019975,
+    "upstream_inference_prompt_cost": 0.013375,
+    "upstream_inference_completions_cost": 0.0066
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "DT-PURE|10741255_2025_Jimmy Keels Williamson v. Christian Recovery Centers, Inc._nced",
+  "arm": "DT-PURE",
+  "r1_role": "no_consensus",
+  "masked_consensus_family": null,
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 3568,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"UNCLEAR\",\n  \"final_subcode\": \"none\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"plaintiffs Title VU, ADA, and FHA disability discrimination claims are DISMISSED WITHOUT PREJUDICE for failure to state a claim upon which relief can be granted, pursuant to 28 U.S.C. § 1915(e)(2)(B).\",\n  \"reasoning\": \"The order merely adopts the magistrate judge's M&R for clear error without objections, and the M&R itself is not in the record before us. The court identifies no specific pivotal factual defect regarding the FHA disability claim, providing no basis to distinguish an institutionally-held-fact deficit from a plaintiff-known-fact deficit or a legal insufficiency. Without the substantive analysis, the pleading defect cannot be classified.\"\n}",
+  "classification": {
+   "final_family": "UNCLEAR",
+   "final_subcode": "none",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "plaintiffs Title VU, ADA, and FHA disability discrimination claims are DISMISSED WITHOUT PREJUDICE for failure to state a claim upon which relief can be granted, pursuant to 28 U.S.C. § 1915(e)(2)(B).",
+   "reasoning": "The order merely adopts the magistrate judge's M&R for clear error without objections, and the M&R itself is not in the record before us. The court identifies no specific pivotal factual defect regarding the FHA disability claim, providing no basis to distinguish an institutionally-held-fact deficit from a plaintiff-known-fact deficit or a legal insufficiency. Without the substantive analysis, the pleading defect cannot be classified."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 2592,
+   "completion_tokens": 302,
+   "total_tokens": 2894,
+   "cost": 0.02051,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02051,
+    "upstream_inference_prompt_cost": 0.01296,
+    "upstream_inference_completions_cost": 0.00755
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RD-PURE|11267623 - Watts v. THE IRVINE COMPANY LLC",
+  "arm": "RD-PURE",
+  "r1_role": "no_consensus",
+  "masked_consensus_family": null,
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 28149,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"subjective_need_or_harm\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"In her Third Amended Complaint, Plaintiff alleges she is disabled but she does not elaborate on the nature of her disability.\",\n  \"reasoning\": \"The court's lead substantive holding on the ADA and FHA claims is that Plaintiff failed to plausibly allege she is disabled/handicapped and how her impairments substantially limit major life activities—facts within her own personal knowledge. Though Rule 8 notice was also cited, the recurring pivotal deficiency the court analyzed was the conclusory nature of her own disability and harm allegations. Gemini's 'A' (denial record) is wrong because the accommodation-request specifics were secondary; the primary failing was the plaintiff-known disability element, and the FHA state-claim dismissal for lack of jurisdiction is derivative of the failed federal merits, not the controlling defect.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "subjective_need_or_harm",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "In her Third Amended Complaint, Plaintiff alleges she is disabled but she does not elaborate on the nature of her disability.",
+   "reasoning": "The court's lead substantive holding on the ADA and FHA claims is that Plaintiff failed to plausibly allege she is disabled/handicapped and how her impairments substantially limit major life activities—facts within her own personal knowledge. Though Rule 8 notice was also cited, the recurring pivotal deficiency the court analyzed was the conclusory nature of her own disability and harm allegations. Gemini's 'A' (denial record) is wrong because the accommodation-request specifics were secondary; the primary failing was the plaintiff-known disability element, and the FHA state-claim dismissal for lack of jurisdiction is derivative of the failed federal merits, not the controlling defect."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 11792,
+   "completion_tokens": 341,
+   "total_tokens": 12133,
+   "cost": 0.067485,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.067485,
+    "upstream_inference_prompt_cost": 0.05896,
+    "upstream_inference_completions_cost": 0.008525
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RD-PURE|10666542_2025_Legge v. Clarke County Zoning Department_vawd",
+  "arm": "RD-PURE",
+  "r1_role": "no_consensus",
+  "masked_consensus_family": null,
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 43962,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"MISFILTER\",\n  \"final_subcode\": \"none\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"The court will DENY Legge’s motion for a preliminary injunction (Dkt. 16).\",\n  \"reasoning\": \"This is a ruling on a motion for a preliminary injunction under the Winter factors, not a pleading-stage defense win such as a Rule 12(b)(6) dismissal or judgment on the pleadings. The court expressly declined to resolve res judicata and accrual questions and denied injunctive relief solely because Legge failed to make a clear showing of likelihood of success. Because no claim was dismissed at the pleading stage, the case does not fit the classification family and is a MISFILTER.\"\n}",
+  "classification": {
+   "final_family": "MISFILTER",
+   "final_subcode": "none",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "The court will DENY Legge’s motion for a preliminary injunction (Dkt. 16).",
+   "reasoning": "This is a ruling on a motion for a preliminary injunction under the Winter factors, not a pleading-stage defense win such as a Rule 12(b)(6) dismissal or judgment on the pleadings. The court expressly declined to resolve res judicata and accrual questions and denied injunctive relief solely because Legge failed to make a clear showing of likelihood of success. Because no claim was dismissed at the pleading stage, the case does not fit the classification family and is a MISFILTER."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 17619,
+   "completion_tokens": 258,
+   "total_tokens": 17877,
+   "cost": 0.094545,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.094545,
+    "upstream_inference_prompt_cost": 0.088095,
+    "upstream_inference_completions_cost": 0.00645
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RD-PURE|10755145_2025_Desiree Knight v. Macon Housing Authority_gamd",
+  "arm": "RD-PURE",
+  "r1_role": "no_consensus",
+  "masked_consensus_family": null,
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 4377,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"MISFILTER\",\n  \"final_subcode\": \"none\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"Knight’s motion for a TRO fails to establish a substantial likelihood of success on the merits and her motion for a TRO (ECF 1) is DENIED.\",\n  \"reasoning\": \"This order adjudicates a motion for a temporary restraining order under the four-part injunction standard, not a pleading-stage dismissal of a claim. The FHA/Rehabilitation Act dismissals were decided in a separate earlier order (ECF 9), and this opinion only denies preliminary injunctive relief. That makes it not a pleading-stage defense win, so MISFILTER controls over the UNCLEAR codes.\"\n}",
+  "classification": {
+   "final_family": "MISFILTER",
+   "final_subcode": "none",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "Knight’s motion for a TRO fails to establish a substantial likelihood of success on the merits and her motion for a TRO (ECF 1) is DENIED.",
+   "reasoning": "This order adjudicates a motion for a temporary restraining order under the four-part injunction standard, not a pleading-stage dismissal of a claim. The FHA/Rehabilitation Act dismissals were decided in a separate earlier order (ECF 9), and this opinion only denies preliminary injunctive relief. That makes it not a pleading-stage defense win, so MISFILTER controls over the UNCLEAR codes."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 2902,
+   "completion_tokens": 261,
+   "total_tokens": 3163,
+   "cost": 0.021035,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.021035,
+    "upstream_inference_prompt_cost": 0.01451,
+    "upstream_inference_completions_cost": 0.006525
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RD-PURE|10361834_2025_QUEWON v. PHILADELPHIA HOUSING AUTHORITY_paed",
+  "arm": "RD-PURE",
+  "r1_role": "no_consensus",
+  "masked_consensus_family": null,
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 11492,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"subjective_need_or_harm\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"She does not describe her disability and whether it is related to her alleged knee and hip pain.\",\n  \"reasoning\": \"The FHA claim was dismissed because the plaintiff failed to plead facts within her own knowledge: the nature of her disability, its relation to her pain, whether she requested the accommodation and to whom, and its necessity for her use and enjoyment. These are plaintiff-known facts about her own condition and experience, not institutionally-recorded facts, so B is correct. Gemini's A reading misreads the request/response element as an institutional record, but the court faults the plaintiff for not describing her own disability and need, which she alone knows.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "subjective_need_or_harm",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "She does not describe her disability and whether it is related to her alleged knee and hip pain.",
+   "reasoning": "The FHA claim was dismissed because the plaintiff failed to plead facts within her own knowledge: the nature of her disability, its relation to her pain, whether she requested the accommodation and to whom, and its necessity for her use and enjoyment. These are plaintiff-known facts about her own condition and experience, not institutionally-recorded facts, so B is correct. Gemini's A reading misreads the request/response element as an institutional record, but the court faults the plaintiff for not describing her own disability and need, which she alone knows."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 5226,
+   "completion_tokens": 269,
+   "total_tokens": 5495,
+   "cost": 0.032855,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.032855,
+    "upstream_inference_prompt_cost": 0.02613,
+    "upstream_inference_completions_cost": 0.006725
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "DT-PURE|10252125_2023_Huzjak v. Ellis_wied",
+  "arm": "DT-PURE",
+  "r1_role": "queue_bc",
+  "masked_consensus_family": "C",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 25186,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"motive_or_differential_treatment_facts\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"the amended complaint does not allege that the neighbors treated her in the ways she describes because of her race, ethnicity or disability\",\n  \"reasoning\": \"The court's operative FHA analysis identified the pivotal defect as the plaintiff's failure to allege that the harassment was motivated by her protected characteristics—a differential-treatment/motive fact within the plaintiff's own knowledge, not an institutional record. While the opinion also mentions jurisdiction, standing to sue on the estate's behalf, and Rooker-Feldman, the core reason the FHA claim (the only conceivable federal claim) failed was the absence of discriminatory-motive allegations tied to the plaintiff herself. The C code captures a secondary rationale rather than the primary pleading defect the court analyzed.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "motive_or_differential_treatment_facts",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "the amended complaint does not allege that the neighbors treated her in the ways she describes because of her race, ethnicity or disability",
+   "reasoning": "The court's operative FHA analysis identified the pivotal defect as the plaintiff's failure to allege that the harassment was motivated by her protected characteristics—a differential-treatment/motive fact within the plaintiff's own knowledge, not an institutional record. While the opinion also mentions jurisdiction, standing to sue on the estate's behalf, and Rooker-Feldman, the core reason the FHA claim (the only conceivable federal claim) failed was the absence of discriminatory-motive allegations tied to the plaintiff herself. The C code captures a secondary rationale rather than the primary pleading defect the court analyzed."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 10454,
+   "completion_tokens": 323,
+   "total_tokens": 10777,
+   "cost": 0.060345,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.060345,
+    "upstream_inference_prompt_cost": 0.05227,
+    "upstream_inference_completions_cost": 0.008075
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "DT-PURE|10708675_2025_J. F. and on behalf of her adolescents and mother v. LUIS VENTURA_txnd",
+  "arm": "DT-PURE",
+  "r1_role": "queue_bc",
+  "masked_consensus_family": "C",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 25072,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"C\",\n  \"final_subcode\": \"no_cognizable_theory\",\n  \"agrees_with\": \"masked_consensus\",\n  \"evidence_quote\": \"The ADA contains no standalone provision that prevents eviction.\",\n  \"reasoning\": \"The court's primary and dispositive grounds are jurisdictional and procedural: dismissal under 12(b)(1) for lack of standing to represent others and under 12(b)(5) for insufficient service. The alternative 12(b)(6) analysis rests on statutory coverage failures (Title III public-accommodation requirement, FHA and Texas Property Code providing no theory preventing eviction), which are legal-insufficiency defects rather than plaintiff-known factual gaps. The panel's disparate-impact/intent quote is one component within a broader ruling that the statutes afford no cognizable eviction-prevention theory, making C the correct family.\",\n  \"final_subcode_note\": \"none\"\n}",
+  "classification": {
+   "final_family": "C",
+   "final_subcode": "no_cognizable_theory",
+   "agrees_with": "masked_consensus",
+   "evidence_quote": "The ADA contains no standalone provision that prevents eviction.",
+   "reasoning": "The court's primary and dispositive grounds are jurisdictional and procedural: dismissal under 12(b)(1) for lack of standing to represent others and under 12(b)(5) for insufficient service. The alternative 12(b)(6) analysis rests on statutory coverage failures (Title III public-accommodation requirement, FHA and Texas Property Code providing no theory preventing eviction), which are legal-insufficiency defects rather than plaintiff-known factual gaps. The panel's disparate-impact/intent quote is one component within a broader ruling that the statutes afford no cognizable eviction-prevention theory, making C the correct family.",
+   "final_subcode_note": "none"
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 11168,
+   "completion_tokens": 318,
+   "total_tokens": 11486,
+   "cost": 0.06379,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.06379,
+    "upstream_inference_prompt_cost": 0.05584,
+    "upstream_inference_completions_cost": 0.00795
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RD-PURE|10797202_2026_Leonor E Canales v. Phoenix Housing Authority, et al._azd",
+  "arm": "RD-PURE",
+  "r1_role": "A_row",
+  "masked_consensus_family": "A",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 3,
+  "text_chars": 40989,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"subjective_need_or_harm\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"Canales offers few facts, however, about what accommodation she requested, and no facts stating how the requested accommodation may be necessary to afford her an equal opportunity to enjoy and use her home, or that it was reasonable.\",\n  \"reasoning\": \"The pivotal defect the court identified for the surviving/dismissed FHA accommodation claim was Canales's failure to plead what accommodation she sought and how it was necessary to afford her equal opportunity to use her dwelling—facts within her own knowledge about her needs, not institutional records. The court expressly found the institutional facts (knowledge, refusal) adequately pled, undercutting code A. The defect concerns her own subjective need and the nature of her request.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "subjective_need_or_harm",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "Canales offers few facts, however, about what accommodation she requested, and no facts stating how the requested accommodation may be necessary to afford her an equal opportunity to enjoy and use her home, or that it was reasonable.",
+   "reasoning": "The pivotal defect the court identified for the surviving/dismissed FHA accommodation claim was Canales's failure to plead what accommodation she sought and how it was necessary to afford her equal opportunity to use her dwelling—facts within her own knowledge about her needs, not institutional records. The court expressly found the institutional facts (knowledge, refusal) adequately pled, undercutting code A. The defect concerns her own subjective need and the nature of her request."
+  },
+  "quote_verified": false,
+  "usage": {
+   "prompt_tokens": 15696,
+   "completion_tokens": 291,
+   "total_tokens": 15987,
+   "cost": 0.085755,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.085755,
+    "upstream_inference_prompt_cost": 0.07848,
+    "upstream_inference_completions_cost": 0.007275
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "DT-PURE|9714620_2024_Miller v. Alco Management, Inc_kyed",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "masked_consensus_family": "C",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 36646,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"motive_or_differential_treatment_facts\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"At bottom, Mr. Miller’s claim against Officer Crump is premised on numerous conclusory statements, none of which are supported by proof of discriminatory animus or proof of disparate impact.\",\n  \"reasoning\": \"While the FHA claim against Alco Defendants was time-barred (a C disposition), the court reached that only as an alternative and independently analyzed the § 3617 retaliation claim against Officer Crump on the merits, holding it failed because Miller pled only conclusory statements lacking facts showing discriminatory animus or disparate impact. That pivotal defect is Miller's own knowledge of differential-treatment/motive facts, making B the primary rationale across the surviving substantive claim. The limitations holding (consensus C) was expressly framed as an alternative and does not govern the Crump count that the court resolved on pleading sufficiency.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "motive_or_differential_treatment_facts",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "At bottom, Mr. Miller’s claim against Officer Crump is premised on numerous conclusory statements, none of which are supported by proof of discriminatory animus or proof of disparate impact.",
+   "reasoning": "While the FHA claim against Alco Defendants was time-barred (a C disposition), the court reached that only as an alternative and independently analyzed the § 3617 retaliation claim against Officer Crump on the merits, holding it failed because Miller pled only conclusory statements lacking facts showing discriminatory animus or disparate impact. That pivotal defect is Miller's own knowledge of differential-treatment/motive facts, making B the primary rationale across the surviving substantive claim. The limitations holding (consensus C) was expressly framed as an alternative and does not govern the Crump count that the court resolved on pleading sufficiency."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 14837,
+   "completion_tokens": 347,
+   "total_tokens": 15184,
+   "cost": 0.08286,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.08286,
+    "upstream_inference_prompt_cost": 0.074185,
+    "upstream_inference_completions_cost": 0.008675
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "DT-PURE|9786613_2024_Jett v. The Country Acres Association of Columbus County LTD_nced",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "masked_consensus_family": "C",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 28768,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"motive_or_differential_treatment_facts\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"they have not sufficiently alleged that the failure to sell the lots was due to a discriminatory purpose, i.e., race, color, religion, sex, familial status, handicap, or national origin discrimination\",\n  \"reasoning\": \"The court's FHA dismissal turned on the plaintiffs' failure to plead that the refusal to sell was motivated by discriminatory purpose; indeed, the plaintiffs' own allegations attributed the refusal to Jett exposing Powell's improper disclosures, a non-discriminatory motive within the plaintiffs' own knowledge. This is a plaintiff-known-fact deficit as to motive/differential treatment, not a coverage or threshold bar. While the FTCA and Ethnic Intimidation claims were dismissed on C grounds (no private right of action), the pivotal FHA analysis the panel focused on is a factual sufficiency defect, making C the wrong code for the housing-discrimination core.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "motive_or_differential_treatment_facts",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "they have not sufficiently alleged that the failure to sell the lots was due to a discriminatory purpose, i.e., race, color, religion, sex, familial status, handicap, or national origin discrimination",
+   "reasoning": "The court's FHA dismissal turned on the plaintiffs' failure to plead that the refusal to sell was motivated by discriminatory purpose; indeed, the plaintiffs' own allegations attributed the refusal to Jett exposing Powell's improper disclosures, a non-discriminatory motive within the plaintiffs' own knowledge. This is a plaintiff-known-fact deficit as to motive/differential treatment, not a coverage or threshold bar. While the FTCA and Ethnic Intimidation claims were dismissed on C grounds (no private right of action), the pivotal FHA analysis the panel focused on is a factual sufficiency defect, making C the wrong code for the housing-discrimination core."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 13072,
+   "completion_tokens": 377,
+   "total_tokens": 13449,
+   "cost": 0.074785,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.074785,
+    "upstream_inference_prompt_cost": 0.06536,
+    "upstream_inference_completions_cost": 0.009425
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RD-PURE|9869240_2021_Currin v. Glenwood Management Corp._nysd",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "masked_consensus_family": "B",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 19281,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"personal_incident_detail\",\n  \"agrees_with\": \"masked_consensus\",\n  \"evidence_quote\": \"he has failed to allege that these alleged deficiencies have deprived him of an equal opportunity to use and enjoy his dwelling at Crystal Green\",\n  \"reasoning\": \"The court's primary and dispositive holding is that Currin failed to allege that the building's deficiencies deprived him of equal opportunity to use and enjoy his dwelling—a fact within his own experience and knowledge, including whether his disability prevented him from using facilities. This is the pivotal defect the court analyzed first and most fully. The panel's A-code rests on a secondary, alternative rationale ('another reason') about Glenwood's response, but the court there found Glenwood's response actually adequate on the alleged facts, not that a record-fact was missing—so A misreads the primary defect.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "personal_incident_detail",
+   "agrees_with": "masked_consensus",
+   "evidence_quote": "he has failed to allege that these alleged deficiencies have deprived him of an equal opportunity to use and enjoy his dwelling at Crystal Green",
+   "reasoning": "The court's primary and dispositive holding is that Currin failed to allege that the building's deficiencies deprived him of equal opportunity to use and enjoy his dwelling—a fact within his own experience and knowledge, including whether his disability prevented him from using facilities. This is the pivotal defect the court analyzed first and most fully. The panel's A-code rests on a secondary, alternative rationale ('another reason') about Glenwood's response, but the court there found Glenwood's response actually adequate on the alleged facts, not that a record-fact was missing—so A misreads the primary defect."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 7059,
+   "completion_tokens": 310,
+   "total_tokens": 7369,
+   "cost": 0.043045,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.043045,
+    "upstream_inference_prompt_cost": 0.035295,
+    "upstream_inference_completions_cost": 0.00775
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RD-PURE|10434033_2025_Fox v. Kovacs_nvd",
+  "arm": "RD-PURE",
+  "r1_role": "queue_bc",
+  "masked_consensus_family": "B",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 3,
+  "text_chars": 38390,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"causation_or_differential_treatment\",\n  \"agrees_with\": \"masked_consensus\",\n  \"evidence_quote\": \"Fox fails to adequately allege that the alleged retaliation was caused by her repair requests.\",\n  \"reasoning\": \"The court's pivotal holding on the FHA retaliation claim is the absence of a pleaded causal link between plaintiff's own protected activity and the adverse action, plus her failure to describe her own disability and accommodation requests—facts within the plaintiff's own knowledge. Although the opinion mentions missing timing and identity of who issued notices, those are framed as supporting the plaintiff's failure to plead causation and her own experience, not as institutional records the court treated as the pivotal missing fact. The panel's A codes overweight the who/when phrasing; the court's actual deficiency is the plaintiff-known causal and disability facts, making B correct.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "causation_or_differential_treatment",
+   "agrees_with": "masked_consensus",
+   "evidence_quote": "Fox fails to adequately allege that the alleged retaliation was caused by her repair requests.",
+   "reasoning": "The court's pivotal holding on the FHA retaliation claim is the absence of a pleaded causal link between plaintiff's own protected activity and the adverse action, plus her failure to describe her own disability and accommodation requests—facts within the plaintiff's own knowledge. Although the opinion mentions missing timing and identity of who issued notices, those are framed as supporting the plaintiff's failure to plead causation and her own experience, not as institutional records the court treated as the pivotal missing fact. The panel's A codes overweight the who/when phrasing; the court's actual deficiency is the plaintiff-known causal and disability facts, making B correct."
+  },
+  "quote_verified": false,
+  "usage": {
+   "prompt_tokens": 15223,
+   "completion_tokens": 315,
+   "total_tokens": 15538,
+   "cost": 0.08399,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.08399,
+    "upstream_inference_prompt_cost": 0.076115,
+    "upstream_inference_completions_cost": 0.007875
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RD-PURE|10870437_2026_Aaron Albert Mitchell, Jr. v. Township of Willingboro, et al._njd",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "masked_consensus_family": "C",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 28959,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"C\",\n  \"final_subcode\": \"no_cognizable_theory\",\n  \"agrees_with\": \"masked_consensus\",\n  \"evidence_quote\": \"He is not asking the Township for an accommodation that would then permit him to have an equal opportunity to use and enjoy his dwelling, but rather for special treatment in constructing an additional structure to store his other items.\",\n  \"reasoning\": \"The court held that Mitchell's request was legally not a reasonable accommodation at all—it was a demand for special treatment to build a storage structure, which does not satisfy the statutory 'equal opportunity to use and enjoy housing' requirement. This is a coverage/cognizable-theory defect: no better pleading of subjective need would cure it because the requested accommodation is categorically outside FHA/ADA reach. The panel minority's B (subjective need/harm) is wrong because the court did not fault Mitchell for failing to describe his personal experience or harm; it found the theory itself insufficient as a matter of law under Lapid-Laurel and Sporn.\"\n}",
+  "classification": {
+   "final_family": "C",
+   "final_subcode": "no_cognizable_theory",
+   "agrees_with": "masked_consensus",
+   "evidence_quote": "He is not asking the Township for an accommodation that would then permit him to have an equal opportunity to use and enjoy his dwelling, but rather for special treatment in constructing an additional structure to store his other items.",
+   "reasoning": "The court held that Mitchell's request was legally not a reasonable accommodation at all—it was a demand for special treatment to build a storage structure, which does not satisfy the statutory 'equal opportunity to use and enjoy housing' requirement. This is a coverage/cognizable-theory defect: no better pleading of subjective need would cure it because the requested accommodation is categorically outside FHA/ADA reach. The panel minority's B (subjective need/harm) is wrong because the court did not fault Mitchell for failing to describe his personal experience or harm; it found the theory itself insufficient as a matter of law under Lapid-Laurel and Sporn."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 12461,
+   "completion_tokens": 351,
+   "total_tokens": 12812,
+   "cost": 0.07108,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.07108,
+    "upstream_inference_prompt_cost": 0.062305,
+    "upstream_inference_completions_cost": 0.008775
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "DT-PURE|9836005_2024_Perkins Jr. v. Panorama Towers Condo Unit Owners, Dennis Kariger_nvd",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "masked_consensus_family": "C",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 36605,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"C\",\n  \"final_subcode\": \"jurisdiction_or_standing\",\n  \"agrees_with\": \"masked_consensus\",\n  \"evidence_quote\": \"GRANTED for lack of subject-matter jurisdiction. All federal claims are dismissed with\",\n  \"reasoning\": \"The entire disposition is framed and resolved as a Rule 12(b)(1) subject-matter-jurisdiction dismissal, and the court reaches the FHA discussion only as one strand of whether any federal claim can confer federal-question jurisdiction. The FHA prima-facie shortfall the panel B-voters cite is subsumed within, and expressly deployed toward, the jurisdictional ruling ('this claim fails and cannot confer federal jurisdiction'), making the pivotal defect a threshold/coverage disposition. Under the rules, jurisdictional dispositions are C regardless of factual detail, so the B votes misread a jurisdictional analysis as a merits pleading-fact deficit.\"\n}",
+  "classification": {
+   "final_family": "C",
+   "final_subcode": "jurisdiction_or_standing",
+   "agrees_with": "masked_consensus",
+   "evidence_quote": "GRANTED for lack of subject-matter jurisdiction. All federal claims are dismissed with",
+   "reasoning": "The entire disposition is framed and resolved as a Rule 12(b)(1) subject-matter-jurisdiction dismissal, and the court reaches the FHA discussion only as one strand of whether any federal claim can confer federal-question jurisdiction. The FHA prima-facie shortfall the panel B-voters cite is subsumed within, and expressly deployed toward, the jurisdictional ruling ('this claim fails and cannot confer federal jurisdiction'), making the pivotal defect a threshold/coverage disposition. Under the rules, jurisdictional dispositions are C regardless of factual detail, so the B votes misread a jurisdictional analysis as a merits pleading-fact deficit."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 14973,
+   "completion_tokens": 340,
+   "total_tokens": 15313,
+   "cost": 0.083365,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.083365,
+    "upstream_inference_prompt_cost": 0.074865,
+    "upstream_inference_completions_cost": 0.0085
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "RD-PURE|10666591_2025_Watkins v. Chau_mad",
+  "arm": "RD-PURE",
+  "r1_role": "control_bc",
+  "masked_consensus_family": "C",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 21551,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"C\",\n  \"final_subcode\": \"wrong_defendant_or_not_covered\",\n  \"agrees_with\": \"masked_consensus\",\n  \"evidence_quote\": \"the ADA does not provide for suits against the federal government\",\n  \"reasoning\": \"The dispositive grounds are all legal-coverage/immunity defects: the Eighth Amendment claim fails because Watkins is not a convicted prisoner (Bivens/coverage), the ADA does not reach federal officials, and the retaliation claim is barred by sovereign immunity. These are statutory-coverage and jurisdictional dispositions, which are C regardless of factual detail. The panel's A quote about the Rehabilitation Act 'services' allegation is only one alternative sub-ground and rests on the fact that Flacks is a federal official not subject to these statutes, not on a missing institutional record.\"\n}",
+  "classification": {
+   "final_family": "C",
+   "final_subcode": "wrong_defendant_or_not_covered",
+   "agrees_with": "masked_consensus",
+   "evidence_quote": "the ADA does not provide for suits against the federal government",
+   "reasoning": "The dispositive grounds are all legal-coverage/immunity defects: the Eighth Amendment claim fails because Watkins is not a convicted prisoner (Bivens/coverage), the ADA does not reach federal officials, and the retaliation claim is barred by sovereign immunity. These are statutory-coverage and jurisdictional dispositions, which are C regardless of factual detail. The panel's A quote about the Rehabilitation Act 'services' allegation is only one alternative sub-ground and rests on the fact that Flacks is a federal official not subject to these statutes, not on a missing institutional record."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 9595,
+   "completion_tokens": 293,
+   "total_tokens": 9888,
+   "cost": 0.0553,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0553,
+    "upstream_inference_prompt_cost": 0.047975,
+    "upstream_inference_completions_cost": 0.007325
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "DT-PURE|Tanner v. Rochdale Village, Inc.",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "masked_consensus_family": "C",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 1,
+  "text_chars": 20572,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"motive_or_differential_treatment_facts\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"Nowhere in the complaint does plaintiff explain, for example, why he believes that the management staff perceived him as being a sexual offender or HIV positive, or why he believes that the staff interfered with his maintenance request on that basis. Nor does he allege that other individuals were treated differently than he was.\",\n  \"reasoning\": \"Although the court also disposed of the ADA claim on public-accommodation coverage grounds (a C rationale) and rejected Rooker-Feldman, the operative FHA disparate-treatment holding turned on the absence of facts giving rise to an inference of discrimination—why plaintiff believes he was perceived as disabled and whether others were treated differently. These are motive/differential-treatment facts within plaintiff's own knowledge, not institutionally-held records. The masked C code overweighs the ADA coverage sub-holding, but the pivotal defect the court analyzed for the surviving federal theory is a plaintiff-known-fact deficit.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "motive_or_differential_treatment_facts",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "Nowhere in the complaint does plaintiff explain, for example, why he believes that the management staff perceived him as being a sexual offender or HIV positive, or why he believes that the staff interfered with his maintenance request on that basis. Nor does he allege that other individuals were treated differently than he was.",
+   "reasoning": "Although the court also disposed of the ADA claim on public-accommodation coverage grounds (a C rationale) and rejected Rooker-Feldman, the operative FHA disparate-treatment holding turned on the absence of facts giving rise to an inference of discrimination—why plaintiff believes he was perceived as disabled and whether others were treated differently. These are motive/differential-treatment facts within plaintiff's own knowledge, not institutionally-held records. The masked C code overweighs the ADA coverage sub-holding, but the pivotal defect the court analyzed for the surviving federal theory is a plaintiff-known-fact deficit."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 9516,
+   "completion_tokens": 382,
+   "total_tokens": 9898,
+   "cost": 0.05713,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.05713,
+    "upstream_inference_prompt_cost": 0.04758,
+    "upstream_inference_completions_cost": 0.00955
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "DT-PURE|10242837_2023_Martinez v. Pierce County_wawd",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "masked_consensus_family": "B",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 3,
+  "text_chars": 28017,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "The court's primary/lead holding (Section A, granted with leave to amend) turns on the notice-timing defect. That is the dominant analyzed defect and the one that the panel quotes fixate on. The notice-timing fact is one plaintiff would ordinarily know from her own experience, but the pivotal defect the court identifies is whether defendants provided/timed the notice — an institutionally-controlled fact. However, the court frames it as plaintiff failing to plead facts about her own receipt of notice AND defendant responsibility.\n\n{\n  \"final_family\": \"A\",\n  \"final_subcode\": \"timing_or_delay\",\n  \"agrees_with\": \"neither\",\n  \"evidence_quote\": \"she has failed to plead any factual support for her contention that she received notice of her right to redeem only three days prior to the auction or (2) that the defendant is liable for the misconduct alleged, as plaintiff has pleaded no facts tending to show that defendant Demarco or Pierce County failed to provide notice of her right to redeem\",\n  \"reasoning\": \"The lead holding (Section A), the only claim dismissed with leave to amend and thus the true pleading-sufficiency ruling, turns on the timing of notice of the right to redeem and defendants' responsibility for providing it—facts the county institution ordinarily records and controls. B is wrong because the pivotal missing fact is not plaintiff's own experience but the institution's notice/timing conduct. C (Gemini) fixates on the bankruptcy sub-claim's no-cognizable-right basis, but that was a secondary claim dismissed without leave; the court's core sufficiency analysis is factual, not a threshold coverage bar.\"\n}",
+  "classification": {
+   "final_family": "A",
+   "final_subcode": "timing_or_delay",
+   "agrees_with": "neither",
+   "evidence_quote": "she has failed to plead any factual support for her contention that she received notice of her right to redeem only three days prior to the auction or (2) that the defendant is liable for the misconduct alleged, as plaintiff has pleaded no facts tending to show that defendant Demarco or Pierce County failed to provide notice of her right to redeem",
+   "reasoning": "The lead holding (Section A), the only claim dismissed with leave to amend and thus the true pleading-sufficiency ruling, turns on the timing of notice of the right to redeem and defendants' responsibility for providing it—facts the county institution ordinarily records and controls. B is wrong because the pivotal missing fact is not plaintiff's own experience but the institution's notice/timing conduct. C (Gemini) fixates on the bankruptcy sub-claim's no-cognizable-right basis, but that was a secondary claim dismissed without leave; the court's core sufficiency analysis is factual, not a threshold coverage bar."
+  },
+  "quote_verified": false,
+  "usage": {
+   "prompt_tokens": 10496,
+   "completion_tokens": 549,
+   "total_tokens": 11045,
+   "cost": 0.066205,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.066205,
+    "upstream_inference_prompt_cost": 0.05248,
+    "upstream_inference_completions_cost": 0.013725
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "DT-PURE|10678137_2025_Ogando v. Napolitano_nyed",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "masked_consensus_family": "C",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 3,
+  "text_chars": 23661,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"C\",\n  \"final_subcode\": \"statutory_coverage\",\n  \"agrees_with\": \"masked_consensus\",\n  \"evidence_quote\": \"However, none of these federal statutes provide a basis for federal question jurisdiction as they are inapplicable to Plaintiff’s allegations.\",\n  \"reasoning\": \"The court disposed of the case on threshold/jurisdictional and coverage grounds—Eleventh Amendment immunity, judicial immunity, Rooker-Feldman, res judicata, statute of limitations, non-borrower standing under RESPA/TILA, and lack of state action under Section 1983. The FHA/ECOA discrimination point the panel B-voters cite is one sub-part of a broader coverage/jurisdiction ruling that these statutes are simply inapplicable; the disposition is legal insufficiency independent of factual detail, not a plaintiff-known-fact pleading gap the court invited amendment on.\"\n}",
+  "classification": {
+   "final_family": "C",
+   "final_subcode": "statutory_coverage",
+   "agrees_with": "masked_consensus",
+   "evidence_quote": "However, none of these federal statutes provide a basis for federal question jurisdiction as they are inapplicable to Plaintiff’s allegations.",
+   "reasoning": "The court disposed of the case on threshold/jurisdictional and coverage grounds—Eleventh Amendment immunity, judicial immunity, Rooker-Feldman, res judicata, statute of limitations, non-borrower standing under RESPA/TILA, and lack of state action under Section 1983. The FHA/ECOA discrimination point the panel B-voters cite is one sub-part of a broader coverage/jurisdiction ruling that these statutes are simply inapplicable; the disposition is legal insufficiency independent of factual detail, not a plaintiff-known-fact pleading gap the court invited amendment on."
+  },
+  "quote_verified": false,
+  "usage": {
+   "prompt_tokens": 10097,
+   "completion_tokens": 322,
+   "total_tokens": 10419,
+   "cost": 0.058535,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.058535,
+    "upstream_inference_prompt_cost": 0.050485,
+    "upstream_inference_completions_cost": 0.00805
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ {
+  "row_id": "DT-PURE|EWIDEH v. HOMESITE INS. CO. OF THE MIDWEST",
+  "arm": "DT-PURE",
+  "r1_role": "control_bc",
+  "masked_consensus_family": "C",
+  "model_key": "opus48",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "attempts": 2,
+  "text_chars": 46333,
+  "truncated": false,
+  "ok": true,
+  "raw_text": "{\n  \"final_family\": \"B\",\n  \"final_subcode\": \"personal_incident_detail\",\n  \"agrees_with\": \"panel_majority\",\n  \"evidence_quote\": \"We also cannot divine whether their claim rests upon allegations of disability discrimination, discrimination grounded upon sexuality, or both. Further, to the extent that the plaintiffs are alleging disability discrimination they have failed to clearly state what that disability might be.\",\n  \"reasoning\": \"Although the opinion contains substantial jurisdictional (diversity) and Rule 41 dismissal discussion, the FHA claim—the operative federal claim analyzed on the merits and dismissed without prejudice with leave to amend—turned on the plaintiffs' failure to identify their own protected characteristics: what disability they claim and the nature of the discrimination they experienced. These are facts within the plaintiffs' own ordinary knowledge, not institutionally-held records, and the court invited amendment to supply them, confirming this is a curable factual deficit rather than a threshold legal bar. The masked C code fits the state-law and RICO dispositions but not the pivotal FHA pleading defect the court actually identified.\"\n}",
+  "classification": {
+   "final_family": "B",
+   "final_subcode": "personal_incident_detail",
+   "agrees_with": "panel_majority",
+   "evidence_quote": "We also cannot divine whether their claim rests upon allegations of disability discrimination, discrimination grounded upon sexuality, or both. Further, to the extent that the plaintiffs are alleging disability discrimination they have failed to clearly state what that disability might be.",
+   "reasoning": "Although the opinion contains substantial jurisdictional (diversity) and Rule 41 dismissal discussion, the FHA claim—the operative federal claim analyzed on the merits and dismissed without prejudice with leave to amend—turned on the plaintiffs' failure to identify their own protected characteristics: what disability they claim and the nature of the discrimination they experienced. These are facts within the plaintiffs' own ordinary knowledge, not institutionally-held records, and the court invited amendment to supply them, confirming this is a curable factual deficit rather than a threshold legal bar. The masked C code fits the state-law and RICO dispositions but not the pivotal FHA pleading defect the court actually identified."
+  },
+  "quote_verified": true,
+  "usage": {
+   "prompt_tokens": 18844,
+   "completion_tokens": 389,
+   "total_tokens": 19233,
+   "cost": 0.103945,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.103945,
+    "upstream_inference_prompt_cost": 0.09422,
+    "upstream_inference_completions_cost": 0.009725
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+]

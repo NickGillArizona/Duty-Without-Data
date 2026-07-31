@@ -1,0 +1,219 @@
+[
+  {
+    "source_file": "10000566_2024_Robinson v. District of Columbia_dcd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "REQUEST_NOT_ALLEGED",
+    "confidence": "high",
+    "reasoning": "Court held plaintiff failed to allege she ever made a request for reasonable accommodation to DC; complaint recited FHA elements but did not tie any specific accommodation request to defendant's conduct. Classic translation failure where lived experience was not converted into the doctrinal element of a request."
+  },
+  {
+    "source_file": "10195167_2024_Goldstein v. The Bowery_nysd",
+    "pleading_failure_family": "ELEMENT_MISMATCH",
+    "pleading_failure_mechanism": "COMPARATOR_OR_INTENT_GAP",
+    "confidence": "medium",
+    "reasoning": "Disparate treatment FHA claim failed because plaintiff did not plead comparator facts or intentional discrimination nexus; the narrative focused on landlord-tenant grievances that did not map onto the discriminatory intent element required."
+  },
+  {
+    "source_file": "10220132_2023_Clark v. Housing Connect_utd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "high",
+    "reasoning": "Court found no factual allegations tying the adverse housing action to plaintiff's disability; plaintiff alleged disability and adverse treatment but failed to translate these into a 'because of handicap' nexus."
+  },
+  {
+    "source_file": "10272758_2024_Bradley v. Doe_ilnd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "high",
+    "reasoning": "Allegations did not describe a cognizable FHA theory; plaintiff's grievances could not be translated into any § 3604 protected category or prohibited conduct."
+  },
+  {
+    "source_file": "10307508_2025_LOPEZ v. PEC_njd",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "MIXED",
+    "confidence": "medium",
+    "reasoning": "Court dismissed on insufficient factual detail across multiple elements (disability definition, nexus, and specific conduct), but claims could be replead with more specificity; primarily a factual-detail deficiency with mixed mechanism features."
+  },
+  {
+    "source_file": "10365173_2025_Dave's Driving School LLC v. Utah Department of Public Safety_utd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "high",
+    "reasoning": "Driving school context had no housing dwelling nexus; plaintiff's claims could not be translated into any cognizable FHA theory because the underlying conduct was outside the statute's housing-specific scope."
+  },
+  {
+    "source_file": "10548175_2025_Avila v. New York City Housing Authority_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "high",
+    "reasoning": "Plaintiff recited FHA elements in conclusory form without connecting specific factual allegations to each element; court found the pleading was element-recitation untethered from the underlying narrative."
+  },
+  {
+    "source_file": "10631726_2025_Ballentine v. Cares for the Homeless_nysd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "NOT_APPLICABLE",
+    "confidence": "high",
+    "reasoning": "FHA disability claim survived screening or motion stage; no pleading failure on the FHA count at this juncture."
+  },
+  {
+    "source_file": "10649506_2025_Avila v. ACACIA Network, Inc._nysd",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "MIXED",
+    "confidence": "medium",
+    "reasoning": "Court identified insufficient factual detail across multiple elements including dwelling status and accommodation request specifics; primarily factual detail gap with mixed doctrinal features."
+  },
+  {
+    "source_file": "10678137_2025_Ogando v. Napolitano_nyed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "high",
+    "reasoning": "Plaintiff alleged disability and adverse action but failed to plead that adverse action was because of disability; the narrative did not translate into the required discriminatory-nexus element."
+  },
+  {
+    "source_file": "10716430_2025_Alfey Ramdhan v. Morgan Stonehill, LLC_nvd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "high",
+    "reasoning": "Complaint listed FHA elements in conclusory fashion without factual allegations supporting each element; classic translation failure where pleader did not link facts to elements."
+  },
+  {
+    "source_file": "10756893_2025_Felice Lazae Martin, et al. v. Michael Castillo, et al._caed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "high",
+    "reasoning": "Screening order found recitations of FHA elements untethered to specific factual allegations connecting each defendant's conduct to protected-class status."
+  },
+  {
+    "source_file": "10785621_2026_Vladik Uchikura, et al. v. Clark County Properties LP, et al._azd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "NOT_APPLICABLE",
+    "confidence": "high",
+    "reasoning": "Core FHA claims survived; only ancillary successor-liability theory was dismissed. The substantive disability pleading was adequate."
+  },
+  {
+    "source_file": "11267581 - Martin v. Castillo",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "ELEMENTS_NOT_TIED_TO_FACTS",
+    "confidence": "high",
+    "reasoning": "Duplicate or related Martin v. Castillo screening disposition; court faulted plaintiff for reciting elements without tying specific factual allegations to defendants' conduct or plaintiff's protected-class status."
+  },
+  {
+    "source_file": "11267637 - Doe v. Department of Veterans Affairs",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "PROTECTED_CLASS_NOT_LINKED_TO_PLAINTIFF",
+    "confidence": "medium",
+    "reasoning": "Court found plaintiff did not adequately plead membership in protected class for purposes of FHA disability framework, or did not link protected status to the challenged conduct."
+  },
+  {
+    "source_file": "7853287_2022_Krystal Davis v. Daniel Rubin_ca3",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "CAUSAL_NEXUS_MISSING",
+    "confidence": "high",
+    "reasoning": "Third Circuit affirmed dismissal because plaintiff failed to plausibly allege a causal link between her disability and defendant's adverse housing action; causation element was not adequately pled."
+  },
+  {
+    "source_file": "9557693_2020_Decheri Hafer v. Unknown_caed",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "INSUFFICIENT_FACTS",
+    "confidence": "high",
+    "reasoning": "Screening order dismissed for insufficient factual allegations; pleading was too sparse to permit court to infer liability for any named defendant."
+  },
+  {
+    "source_file": "9613394_2019_White v. San Diego Sunrise Management Company_casd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "PROTECTED_CLASS_NOT_LINKED_TO_PLAINTIFF",
+    "confidence": "medium",
+    "reasoning": "Court found plaintiff's claims did not adequately link her to the protected class at issue for FHA purposes; translation from lived experience to protected-class membership was incomplete."
+  },
+  {
+    "source_file": "9655500_2023_Philippeaux v. Miami Apartments Investors, LLC_flsd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "NOT_APPLICABLE",
+    "confidence": "high",
+    "reasoning": "FHA Count II survived; court dismissed only ADA Count III with prejudice and § 1981/1985 Count III without prejudice. FHA pleading adequate."
+  },
+  {
+    "source_file": "9701453_2021_BARBOSA VASQUEZ v. HUNTER BLOOMINGTON PROPERTIES, LLC_insd",
+    "pleading_failure_family": "PROCEDURAL_GATEWAY",
+    "pleading_failure_mechanism": "FORUM_OR_VENUE",
+    "confidence": "high",
+    "reasoning": "Case dismissed on forum selection / venue grounds rather than on substantive FHA pleading failure; procedural gateway barred merits review."
+  },
+  {
+    "source_file": "9739061_2021_Stemmons v. Corsco_mdd",
+    "pleading_failure_family": "NO_FAILURE_PLAINTIFF_WIN",
+    "pleading_failure_mechanism": "NOT_APPLICABLE",
+    "confidence": "medium",
+    "reasoning": "Motion to dismiss denied as moot / case management disposition; no substantive pleading failure found on FHA count."
+  },
+  {
+    "source_file": "9766092_2020_Stroud v. Farr Rentals, LLC_moed",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "INSUFFICIENT_FACTS",
+    "confidence": "high",
+    "reasoning": "Court dismissed for insufficient factual detail; plaintiff's allegations were too conclusory under Iqbal/Twombly to permit inference of liability."
+  },
+  {
+    "source_file": "9799020_2022_Kris v. Dusseault Family Revocable Trust of 2017_nhd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "FAILURE_TO_ACT_NOT_PLED",
+    "confidence": "high",
+    "reasoning": "Plaintiff failed to plead unreasonable delay or constructive denial of accommodation request; the 'failure to act' or refusal element of a reasonable accommodation claim was not adequately alleged."
+  },
+  {
+    "source_file": "9838610_2020_Ortega v. Samaritan Village Myrtle Ave. Men's Shelter_nyed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "high",
+    "reasoning": "Plaintiff alleged disability and adverse conduct but failed to plead that the adverse conduct was because of his disability; translation of narrative into disability-nexus element was incomplete."
+  },
+  {
+    "source_file": "9862218_2021_Bell v. City of New York_nysd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "DISABILITY_NEXUS_MISSING",
+    "confidence": "high",
+    "reasoning": "Court found plaintiff failed to plead facts supporting a causal nexus between his disability and the challenged municipal housing conduct; disability-based discrimination element not translated from narrative."
+  },
+  {
+    "source_file": "9880843_2022_Stone v. City of New York_nysd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "PROTECTED_ACTIVITY_NOT_ABOUT_DISCRIMINATION",
+    "confidence": "high",
+    "reasoning": "FHA retaliation claim dismissed because plaintiff's protected activity was not adequately pled to be about opposing discrimination prohibited by the FHA; causal chain for retaliation broken at protected-activity element."
+  },
+  {
+    "source_file": "9899197_2023_Meadows v. Buffalo Police Department_nywd",
+    "pleading_failure_family": "CAUSAL_LINK",
+    "pleading_failure_mechanism": "CAUSAL_NEXUS_MISSING",
+    "confidence": "medium",
+    "reasoning": "Court dismissed FHA claim for lack of plausible causal nexus between plaintiff's protected status and defendants' conduct; police-department context made dwelling and causal link especially attenuated."
+  },
+  {
+    "source_file": "9927324_2021_Kononen v. City of Salem Housing Authority_ord",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "INSUFFICIENT_FACTS",
+    "confidence": "high",
+    "reasoning": "Court found the pleading lacked sufficient factual detail under Iqbal/Twombly to state a plausible FHA claim; primarily a factual-detail deficiency rather than doctrinal misfit."
+  },
+  {
+    "source_file": "9937821_2022_ALVAREZ v. HUD_paed",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "PROTECTED_CLASS_NOT_LINKED_TO_PLAINTIFF",
+    "confidence": "high",
+    "reasoning": "Court explicitly held Alvarez did not allege he was discriminated against nor that he was a member of a protected class — 'fatal to any FHA claim.' Second-amended complaint dismissed with prejudice. Narrative never translated into protected-class membership."
+  },
+  {
+    "source_file": "9970186_2020_Norris v. Murfreesboro Leased Housing Associates_tnmd",
+    "pleading_failure_family": "TRANSLATION",
+    "pleading_failure_mechanism": "NO_COGNIZABLE_FHA_THEORY",
+    "confidence": "high",
+    "reasoning": "Court held that MHA, as the Shelter Plus Care monitoring agency rather than the landlord, was not 'in a position to discriminate against Plaintiff in the manner contemplated by this subsection of the FHA—modifying her apartment, allowing accommodations for equal use and enjoyment of her apartment, or designing and constructing new units.' The FHA theory did not fit the non-landlord defendant. (ADA Title II reasonable accommodation and due process claims survived — but the FHA count specifically failed on doctrinal translation.)"
+  },
+  {
+    "source_file": "Ortiz v. Mull",
+    "pleading_failure_family": "FACTUAL_DETAIL",
+    "pleading_failure_mechanism": "INSUFFICIENT_FACTS",
+    "confidence": "high",
+    "reasoning": "Court dismissed FHA § 3604(f)(2) disability claim for conclusory allegations — no specific facts about what medical documentation defendants saw, what oral accommodation requests plaintiff made, to whom, or when, and no 'because of' handicap nexus. FHA § 3617 retaliation also dismissed for lack of specific facts tying named defendants' conduct or knowledge to protected activity. Court explicitly applied Twombly/Iqbal insufficient-facts framing; leave to amend denied as futile after three pleadings."
+  }
+]
