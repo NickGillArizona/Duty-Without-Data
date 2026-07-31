@@ -219,7 +219,7 @@ Donavette Ely's file contained the disability-related fact that made her later r
 
 ## Data Availability
 
-The appendices and replication materials are archived at https://github.com/NickGillArizona/Duty-Without-Data, release [RELEASE-TAG], commit [COMMIT-SHA] (identifiers to be fixed at publication). They include the dataset documentation and validation, the administrative-record chronology, the NSPIRE/UFAS crosswalk, the privacy architecture, the model petition materials, the claim-to-evidence ledger, and the as-filed PRA comment.
+The appendices and replication materials are archived at https://github.com/NickGillArizona/Duty-Without-Data, release v1.0.0, commit 5b4c27be78cbaef3a5e29e94711dfd2bf6361927. They include the dataset documentation and validation, the administrative-record chronology, the NSPIRE/UFAS crosswalk, the privacy architecture, the model petition materials, the claim-to-evidence ledger, and the as-filed PRA comment.
 
 ---
 [^star]: J.D. Candidate, 2027, University of Arizona James E. Rogers College of Law. The author thanks Professor Xiaoqian Hu for her guidance and scholarship on FHA enforcement's structural limitations. The author filed an individual-capacity comment in the pending Form HUD-27061 PRA renewal docket on July 6, 2026, *infra* note 153; the Note's argument does not depend on that participation.

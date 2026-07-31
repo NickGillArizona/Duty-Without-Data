@@ -43,9 +43,9 @@
       "size": 2310
     },
     "AI_USE.md": {
-      "sha256_bytes": "9ab0a21fa7de67c690a8550037185f3acfa8e374dfb1061e9207ce8ed5fa47be",
+      "sha256_bytes": "c86a7b16a0bed17b556919a755fb2ac0d8e91c2588a24540f8e5fd40231f9424",
       "sha256_lf": "9ab0a21fa7de67c690a8550037185f3acfa8e374dfb1061e9207ce8ed5fa47be",
-      "size": 3507
+      "size": 3543
     },
     "CITATION.cff": {
       "sha256_bytes": "42dd875b38e06fbd350879dd518369e5e4ca8f28c48b59ec41d02bec511ae4cf",
@@ -88,9 +88,9 @@
       "size": 3259
     },
     "LIMITATIONS_AND_NEGATIVE_RESULTS.md": {
-      "sha256_bytes": "bca18f8cbf26b5b5a229a13c31ce8c4dc82274b62a0483b12dcd757a0d93fca3",
+      "sha256_bytes": "241111a37f3cfbd97b1493b149d4b179978bcf85cd8c4d8800de7beea6186d95",
       "sha256_lf": "bca18f8cbf26b5b5a229a13c31ce8c4dc82274b62a0483b12dcd757a0d93fca3",
-      "size": 4312
+      "size": 4376
     },
     "README.md": {
       "sha256_bytes": "d12e21419270eaf0fff3cd86a62f6ee0ba77174e9564f6f1a361b550ef77beb6",
@@ -208,9 +208,9 @@
       "size": 44068
     },
     "article/appendices/Appendix_B_Results_Tables.md": {
-      "sha256_bytes": "b4754955a1c6204ee31ea6e2da91b4dc7b4d267a011d9f17efe22056be4b6a73",
+      "sha256_bytes": "19a080d703873629b090c5d9a1dae5d10cfa9b34f3c851c5e7fcec05362a6b3e",
       "sha256_lf": "b4754955a1c6204ee31ea6e2da91b4dc7b4d267a011d9f17efe22056be4b6a73",
-      "size": 2788
+      "size": 2826
     },
     "article/appendices/Appendix_C_HUD_Administrative_Record.md": {
       "sha256_bytes": "466c145715eec2335ab007cd2b79e41d789aea32d258b83c522b02175c0b73d0",
@@ -471,9 +471,9 @@
       "size": 11197
     },
     "manuscript/Duty_Without_Data.md": {
-      "sha256_bytes": "09111b0e0e5420186a773a04c25122e80ae6afa261f119778f3f92e7e352db53",
-      "sha256_lf": "09111b0e0e5420186a773a04c25122e80ae6afa261f119778f3f92e7e352db53",
-      "size": 118540
+      "sha256_bytes": "793c918b64ea4505c52acc57eed40b6d734395ccbdf8ef7f698851c67e9f2c18",
+      "sha256_lf": "38beeb89321f68cc2e31ff0d6ae5607fa2bcaa4eb9a8e2a90fa6d57d602283b4",
+      "size": 118873
     },
     "method/AGILE_ELS.md": {
       "sha256_bytes": "d7e0495207d9109c970b3042f87b443c31de2d80521b29477372a10be3d87b6c",
@@ -987,9 +987,9 @@
       "size": 2262447
     },
     "record/hud-27061/CHRONOLOGY.md": {
-      "sha256_bytes": "19b1ca0643e7ce1927c69017f79a3daf782070a15b7c9918c749c902d2a9cb4e",
+      "sha256_bytes": "1108c912520181d27dbc6543de5391826305e7f1026555e1b0ac6acf60d761ff",
       "sha256_lf": "19b1ca0643e7ce1927c69017f79a3daf782070a15b7c9918c749c902d2a9cb4e",
-      "size": 4495
+      "size": 4523
     },
     "record/hud-27061/FRN30_2023.pdf": {
       "sha256_bytes": "c55c5750b57b571bf944b1165d9be64d44c308705e9d228322ccf9f97f78c52a",
@@ -1022,14 +1022,14 @@
       "size": 271289
     },
     "record/hud-27061/README.md": {
-      "sha256_bytes": "fb74b6c39b3487488528944245a274c29e86d3f0b5fcc89c369d88ffa221952c",
+      "sha256_bytes": "813f50c87346f2d1b0c28baaae7b6615c5b8ad4e17b9c349d1e83a32c39e3e21",
       "sha256_lf": "7ec24dcb8e69e2ee7c7ab3d2585f57bf0dafd4e3bf3ff2307b176a53a68524b0",
-      "size": 9379
+      "size": 9380
     },
     "record/hud-27061/RECORD_METHOD.md": {
-      "sha256_bytes": "6345f12f8902d994ddb69df01c6c6cb72de127d0dc56db711eeddbd3247ed805",
+      "sha256_bytes": "387b8428df62d00ad364f641c7f15daf77c8bf1656f36fe0513003c8d26e434a",
       "sha256_lf": "6345f12f8902d994ddb69df01c6c6cb72de127d0dc56db711eeddbd3247ed805",
-      "size": 3464
+      "size": 3525
     },
     "record/hud-27061/SSA_2006.doc": {
       "sha256_bytes": "50d51366438af817ddc8184c40072fbef1caa957182307bfd73587f5ad67ddf7",
@@ -1308,9 +1308,9 @@
       "size": 5431
     },
     "replication/DATA_PROVENANCE.md": {
-      "sha256_bytes": "8d9e7d87edc08e42392a315582fde6667f8052fe4d15d9ebd10594807332a223",
+      "sha256_bytes": "d507a9d632ba78478452a1a557bda132c7d5931098666a1c0f62eafb482c3ff3",
       "sha256_lf": "a0225b253249ad379241f87101c2846141ae9b0b9afeac2d2ab057b3426a8a72",
-      "size": 24011
+      "size": 24038
     },
     "replication/GATES.md": {
       "sha256_bytes": "70fd3f53e33e062139d0ab831376e607f593bc5c23e32e78a44faf63ea3224d9",
