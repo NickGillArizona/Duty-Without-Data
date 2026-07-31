@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="390" height="660" viewBox="0 0 390 660" role="img" aria-labelledby="title desc">
   <title id="title">A pro se docket, rare counseled victories</title>
-  <desc id="desc">Mobile summary of the case-level census. The pro se share is 59.6 percent in P1, 55.9 percent in P2, and 76.1 percent in P3. Qualifying-judgment rates are 3.48 percent, zero, and 3.19 percent. Eighteen qualifying judgments occurred in all; every one involved a represented plaintiff and none was pro se.</desc>
+  <desc id="desc">Mobile summary of the case-level census. Periods: P1 January 2022 to June 2024, P2 June 2024 to February 2025, P3 February 2025 to July 2026. The pro se share is 59.6 percent in P1, 55.9 percent in P2, and 76.1 percent in P3. Qualifying-judgment rates are 3.48 percent, zero, and 3.19 percent. Eighteen qualifying judgments occurred in all; every one involved a represented plaintiff and none was pro se.</desc>
 
   <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
     <text x="20" y="32" fill="#f0f6fc" font-family="Georgia, Cambria, serif" font-size="22" font-weight="700">A pro se docket, rare victories</text>
@@ -57,6 +57,7 @@
     <text x="195" y="586" fill="#f0883e" font-family="Georgia, Cambria, serif" font-size="19" font-weight="700" text-anchor="middle">18 judgments total</text>
     <text x="195" y="607" fill="#c9d1d9" font-size="13" font-weight="700" text-anchor="middle">all represented · none pro se</text>
 
-    <text x="20" y="646" fill="#8c959f" font-size="11">One case, one unit · P2 is a short window</text>
+    <text x="20" y="636" fill="#8c959f" font-size="11">P1 Jan 2022 - Jun 2024 · P2 Jun 2024 - Feb 2025</text>
+    <text x="20" y="652" fill="#8c959f" font-size="11">P3 Feb 2025 - Jul 2026 · one case, one unit</text>
   </g>
 </svg>

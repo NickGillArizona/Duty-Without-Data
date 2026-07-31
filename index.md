@@ -68,9 +68,17 @@ The stakes are measurable. In an original dataset of 1,900 screened federal disa
 fair-housing opinion and order records, a case-level census of every decided case found that qualifying plaintiff-side
 judgments — final contested judgments, final defaults, and liability determinations with the remedy
 unresolved — issued eighteen times in four
-and a half years, roughly 3% of the 606 decided cases overall, with none in the short P2 window. In every one,
+and a half years, roughly 3% of the 606 decided cases overall, with none in the short middle window. In every one,
 counsel had appeared for the plaintiff; none arose in a pro se case. And the share of the decided docket brought without a lawyer rose from
 59.6% to 76.1%.
+
+The chart below puts those two series in one frame, across the census's three periods — P1
+(January 1, 2022 – June 27, 2024), P2 (June 28, 2024 – February 4, 2025), and P3 (February 5,
+2025 – July 1, 2026). The top line is who files: the share of decided cases brought without a
+lawyer, a majority in every period and 76.1% by the end. The bottom line is how often plaintiffs
+win: the qualifying-judgment rate, under 4% in every period and zero in P2. The gap between the
+two lines is the figure's point — the docket is increasingly pro se, and every one of the
+eighteen qualifying judgments sits on the counseled side of it.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickGillArizona/Duty-Without-Data/main/results/figures/fig1_composition_dark.svg">
