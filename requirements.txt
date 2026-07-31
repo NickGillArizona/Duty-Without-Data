@@ -7,7 +7,7 @@
 # core analysis.
 pandas>=2.0
 numpy>=1.24
-scipy>=1.10
+scipy>=1.18.0
 statsmodels>=0.14
 requests>=2.33.0
 httpx>=0.24
