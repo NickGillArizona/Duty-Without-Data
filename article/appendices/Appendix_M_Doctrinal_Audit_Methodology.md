@@ -615,7 +615,7 @@ affirmative statements that a record did not reach it. Floors, silence-handling,
 two-coder conventions, adjudication, and citation-verification conventions as in M.17.1
 (here with a three-way program-identification screen; July 26, 2026).
 
-**Relocation note (July 30, 2026).** Manuscript fn 178 retains the 48-of-60 finding
+**Manuscript cross-references.** Manuscript fn 178 retains the 48-of-60 finding
 and points here; the former manuscript voucher-counts sentence and its fn 180 were
 relocated here in full. Nothing in this section alters the Part II case-level census
 or its protected series.
