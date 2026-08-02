@@ -61,7 +61,7 @@ The release gate tests the registered series, figures, appendix pointers, links,
 ## Implementation materials
 
 > [!NOTE]
-> The Form HUD-27061 comment window closed on August 11, 2026; the [comment record](COMMENT.md) is retained. The § 553(e) petition remains the live path — the [petition sequence](action/TAKE_ACTION.md) is drafted for adaptation at any time. Materials are illustrative templates requiring independent legal review, not legal advice.
+> Form HUD-27061 renewal comments are due August 11, 2026 — the [comment guide](COMMENT.md) explains how to file. The § 553(e) petition does not expire with the window — the [petition sequence](action/TAKE_ACTION.md) is drafted for adaptation at any time. Materials are illustrative templates requiring independent legal review, not legal advice.
 
 The [implementation materials](action/README.md) are keyed to the archived record: the model § 553(e) petition templates, the 2026 comment template, the author's as-filed comment, and an adaptation checklist. **No litigation template is provided** — any complaint must be developed by counsel from an actual agency disposition, and none exists.
 

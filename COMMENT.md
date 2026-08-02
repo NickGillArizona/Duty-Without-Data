@@ -1,16 +1,16 @@
 ---
 layout: default
 title: "Comment by August 11 — Duty Without Data"
-description: "HUD proposed collecting disability housing data, approved a form without it, and now proposes to renew the omission unchanged. The 2026 public comment window closed August 11, 2026; this page is the record of that opportunity."
+description: "HUD proposed collecting disability housing data, approved a form without it, and now proposes to renew the omission unchanged. The public comment window closes August 11, 2026."
 permalink: /comment/
 ---
 
 # Comment by August 11
 
-> **This page is retained as a record of the 2026 comment opportunity. The comment window closed on August 11, 2026.** For the durable route, see the § 553(e) petition materials in [action/](https://github.com/NickGillArizona/Duty-Without-Data/tree/main/action).
+> **Comments are due Tuesday, August 11, 2026** — you can [go straight to the comment form](https://www.regulations.gov/commenton/HUD-2006-0214-0010). For the route that does not expire with the comment window, see the § 553(e) petition materials in [action/](https://github.com/NickGillArizona/Duty-Without-Data/tree/main/action).
 
-**Record cutoff: July 12, 2026.** HUD's notice proposing to renew Form
-HUD-27061 unchanged published June 12, 2026, at 91 Fed. Reg. 35,697, and comments were due Tuesday,
+**Record cutoff: July 12, 2026. As of that date the comment window is open.** HUD's notice proposing to renew Form
+HUD-27061 unchanged published June 12, 2026, at 91 Fed. Reg. 35,697, and comments are due Tuesday,
 August 11, 2026, on [regulations.gov Docket No.
 HUD-2006-0214](https://www.regulations.gov/docket/HUD-2006-0214). You can [go straight to the
 comment form](https://www.regulations.gov/commenton/HUD-2006-0214-0010) at any point on this page.
@@ -43,7 +43,7 @@ HUD uses a one-page form to count who its programs serve. In 2022, HUD said it w
 to that form. In 2023, the new form came out without it. HUD never said why. Now HUD wants to keep
 the form the same for another three years.
 
-Through **August 11, 2026**, anyone — an organization or an individual — could send HUD a public
+Through **August 11, 2026**, anyone — an organization or an individual — can send HUD a public
 comment about this. A comment is a short public letter submitted on a government website. It takes
 about five minutes. HUD is required to look at every comment it receives. This page explains
 [how organizations can file](#for-organizations) and [how individuals can

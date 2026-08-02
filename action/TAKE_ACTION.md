@@ -14,17 +14,17 @@ all of it is summarized in [`article/THE_ARGUMENT.md`](../article/THE_ARGUMENT.m
 per-document router -- every template with its filing posture and required reviewer --
 is [`action/README.md`](README.md).
 
-## 1. The 2026 comment window (closed August 11, 2026)
+## 1. The 2026 comment window (comments due August 11, 2026)
 
-The Form HUD-27061 comment window closed on August 11, 2026; this section is retained as the record
-of that opportunity. HUD's 60-day notice proposing to renew Form HUD-27061 unchanged published
-June 12, 2026, at 91 Fed. Reg. 35,697, and comments were due August 11, 2026, on
+HUD's 60-day notice proposing to renew Form HUD-27061 unchanged published
+June 12, 2026, at 91 Fed. Reg. 35,697, and comments are due August 11, 2026, on
 [regulations.gov Docket No. HUD-2006-0214](https://www.regulations.gov/docket/HUD-2006-0214).
+Verify the deadline on the docket before filing; deadlines can be extended or reopened.
 
-Comments mattered here for a concrete reason: under 44 U.S.C. § 3506(c)(2)(A), HUD must evaluate the
-comments it receives, and every comment filed became part of the public administrative record that
+Comments matter here for a concrete reason: under 44 U.S.C. § 3506(c)(2)(A), HUD must evaluate the
+comments it receives, and every comment filed becomes part of the public administrative record that
 HUD — and any later reviewing court — can be asked to confront. A comment asking HUD to engage its
-own disability-data authority (24 C.F.R. Part 121; 42 U.S.C. § 3608(e)(6)) put that question into
+own disability-data authority (24 C.F.R. Part 121; 42 U.S.C. § 3608(e)(6)) puts that question into
 the record before any petition is filed.
 
 - **The template:** [`action/2026_comment_template.md`](2026_comment_template.md), drafted

@@ -137,14 +137,14 @@ drafted by a J.D. candidate, not an attorney, for adaptation by counsel. Nothing
 advice, no attorney-client relationship is created by using it, and the site was drafted with LLM
 assistance and reviewed and approved by the author.
 
-## The 2026 comment window (closed August 11, 2026)
+## The 2026 comment window (comments due August 11, 2026)
 
-The Form HUD-27061 comment window closed on August 11, 2026. HUD's notice proposing to renew the
-form unchanged published June 12, 2026 (91 Fed. Reg. 35,697), on
-[regulations.gov Docket No. HUD-2006-0214](https://www.regulations.gov/docket/HUD-2006-0214), and
-comments filed during the window are part of the administrative record HUD must evaluate — and
-that any later court can read. The record of the opportunity — four dates, both filing tracks, and
-the one-page memo for counsel — is preserved on the
+HUD's notice proposing to renew the
+form unchanged published June 12, 2026 (91 Fed. Reg. 35,697), and comments are due August 11, 2026, on
+[regulations.gov Docket No. HUD-2006-0214](https://www.regulations.gov/docket/HUD-2006-0214);
+comments filed during the window become part of the administrative record HUD must evaluate — and
+that any later court can read. The opportunity in one page — four dates, both filing tracks, and
+the one-page memo for counsel — is on the
 [comment page](https://nickgillarizona.github.io/Duty-Without-Data/comment/), with the adaptable
 template in the
 [advocacy kit](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/action/2026_comment_template.md)

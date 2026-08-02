@@ -6,7 +6,7 @@ baseurl: "/Duty-Without-Data"
 logo: false
 show_downloads: false
 comment_window_deadline: "2026-08-11"
-comment_window_active: false
+comment_window_active: true
 # The site renders through the local layout (_layouts/default.html) and
 # stylesheet (assets/css/site.css); no JavaScript anywhere. The six content
 # pages live in _pages/ (underscore directories need the include below).
