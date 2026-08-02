@@ -23,7 +23,7 @@ All project-authored source code and runnable instruments:
 - `article/appendices/` (project-authored appendix text)
 - Root documentation (`README.md`, `METHODOLOGY.md`, `VALIDATION.md`, `REPRODUCE.md`,
   `DATA_PROVENANCE.md`, `data/dictionaries/*.md`, `SAMPLE_DEFINITIONS.md`, crosswalks, ledgers,
-  `THE_ARGUMENT.md`, `TAKE_ACTION.md`, and this file)
+  `THE_ARGUMENT.md`, `EVIDENCE_AND_LIMITS.md`, `action/TAKE_ACTION.md`, and this file)
 - The classification labels, screening results, and structured metadata in
   `data/FHA_Unified_Database.json` and the two source-corpus JSONs (the underlying docket facts
   are factual public records and are not claimed)

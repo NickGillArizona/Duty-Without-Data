@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.url == "/" %}<title>{{ site.title }}</title>{% else %}<title>{{ page.title }} - {{ site.title }}</title>{% endif %}
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  {% if page.url == "/" %}<meta property="og:title" content="{{ site.title }}">{% else %}<meta property="og:title" content="{{ page.title }}">{% endif %}
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ '/assets/social-preview.png' | absolute_url }}">
+  <meta property="og:image:width" content="1280">
+  <meta property="og:image:height" content="640">
+  <meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap">
+      <p class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></p>
+      <nav aria-label="Primary" class="primary-nav">
+        <ul>
+          <li><a href="{{ '/' | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>Overview</a></li>
+          <li><a href="{{ '/argument/' | relative_url }}"{% if page.url == "/argument/" %} aria-current="page"{% endif %}>Argument</a></li>
+          <li><a href="{{ '/evidence-and-limits/' | relative_url }}"{% if page.url == "/evidence-and-limits/" %} aria-current="page"{% endif %}>Evidence</a></li>
+          <li><a href="{{ '/administrative-record/' | relative_url }}"{% if page.url == "/administrative-record/" %} aria-current="page"{% endif %}>Record</a></li>
+          <li><a href="{{ '/methods-and-replication/' | relative_url }}"{% if page.url == "/methods-and-replication/" %} aria-current="page"{% endif %}>Methods</a></li>
+          <li><a href="{{ '/download-and-cite/' | relative_url }}"{% if page.url == "/download-and-cite/" %} aria-current="page"{% endif %}>Download</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <div class="wrap">
+    {% if page.url != "/" %}
+    <nav aria-label="Breadcrumb" class="breadcrumb">
+      <ol>
+        <li><a href="{{ '/' | relative_url }}">Overview</a></li>
+        <li aria-current="page">{{ page.breadcrumb | default: page.title }}</li>
+      </ol>
+    </nav>
+    {% endif %}
+    <main id="main">
+      {{ content }}
+    </main>
+  </div>
+  <footer class="site-footer">
+    <div class="wrap">
+      <nav aria-label="Footer">
+        <ul>
+          <li><a href="{{ '/accessibility/' | relative_url }}">Accessibility</a></li>
+          <li><a href="https://github.com/NickGillArizona/Duty-Without-Data">Repository</a></li>
+          <li><a href="https://github.com/NickGillArizona/Duty-Without-Data/releases">Version history</a></li>
+          <li><a href="https://github.com/NickGillArizona/Duty-Without-Data/tree/main/action">Action archive (dated)</a></li>
+        </ul>
+      </nav>
+      <p class="footer-note">Nicholas Gill, <em>Duty Without Data: Disability Fair Housing and the
+      Record-Dependent Right</em>, forthcoming, Arizona Law Review (2026). Nothing on this site is
+      legal advice. Licensing: <a href="https://github.com/NickGillArizona/Duty-Without-Data/blob/main/LICENSING.md">licensing guide</a>.</p>
+    </div>
+  </footer>
+</body>
+</html>

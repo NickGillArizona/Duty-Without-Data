@@ -1,8 +1,8 @@
 # The Argument
 
 This is the legal argument of *Duty Without Data: Disability Fair Housing and the Record-Dependent
-Right* (Arizona Law Review, forthcoming 2026), compressed for lawyers who have not read it. Every
-proposition here is developed, with full citations, in the manuscript
+Right* (Arizona Law Review, forthcoming 2026), compressed to a fifteen-minute read for lawyers who
+have not read it. Every proposition here is developed, with full citations, in the manuscript
 ([`../manuscript/Duty_Without_Data.md`](../manuscript/Duty_Without_Data.md)); the Part references below
 point into it. It is orientation, not authority, and not legal advice (authorship and AI-use
 disclosure: [`../AI_USE.md`](../AI_USE.md)).
@@ -23,7 +23,7 @@ The disability-related basis of her request was sitting in the Board's own file.
 carried it forward to the moment of decision. The right was not absent; the record architecture was.
 (Introduction.)
 
-## 2. The thesis: record-dependent rights and a fragmented record architecture
+## 2. Record-dependent rights, and what enforcement shows
 
 Disability fair-housing rights are *record-dependent*: ordinary proof of their operative elements —
 notice, nexus, timing, denial, covered-building status, accessible-unit count, allocation — turns on
@@ -61,42 +61,88 @@ brought without a lawyer rose from 59.6% to 76.1%.
 And the way unrepresented plaintiffs lose points at the missing records: among pleading-stage
 losses, factual narratives never translated into the legal elements courts screen for are more
 common in pro se losses than in represented ones; the coding is machine-based, so the finding is
-directional. Private enforcement does not substitute
-for administrative records; it depends on them. (Part II.E.)
+directional. Private enforcement does not substitute for administrative records; it depends on
+them. (Part II.E.)
 
-*The figure regenerates from the archive's canonical artifacts; sources, confidence intervals, and
-reproduction commands are in the [README](../README.md#check-do-not-just-trust) and
-[`../replication/REPRODUCE.md`](../replication/REPRODUCE.md).*
+*The figure regenerates from the archive's canonical artifacts; sources, intervals, reproduction
+commands, and the boundaries of the evidence:
+[README](../README.md#check-do-not-just-trust) · [`../replication/REPRODUCE.md`](../replication/REPRODUCE.md) ·
+[`EVIDENCE_AND_LIMITS.md`](EVIDENCE_AND_LIMITS.md).*
 
 ## 3. The authorities, and the work each does
 
 None of this requires new legislation. (Part III.A.)
 
-| Authority | The work it does |
-|---|---|
-| 42 U.S.C. § 3604(f)(3) | The 1988 Fair Housing Amendments Act disability package: reasonable accommodations ((f)(3)(B)), reasonable modifications ((f)(3)(A)), and design-and-construction standards for post-1991 covered multifamily housing ((f)(3)(C)). These are the substantive duties the records would verify. |
-| Section 504 (29 U.S.C. § 794) and 24 C.F.R. Part 8 (§§ 8.22–8.27) | Accessible-unit floors in HUD-assisted new construction and substantial alteration (5% mobility, 2% hearing-vision), plus distribution (§ 8.26) and allocation (§ 8.27) duties. Capacity and placement duties that presuppose inventories and matching records. |
-| 42 U.S.C. § 3614a | Express authority to issue "rules for the collection, maintenance, and analysis of appropriate data" — enacted in the same 1988 statute as the disability duties. The data-rule anchor. |
-| 42 U.S.C. § 3608(e)(6) | Requires annual reporting on "handicap" and family characteristics, among enumerated categories, for persons served by HUD programs. |
-| 42 U.S.C. § 3608(f) | Enumerates § 504 among the civil-rights authorities whose coverage defines § 3608(e)(6)'s reporting duty — the statute's own tie between disability-data reporting and § 504. |
-| 24 C.F.R. Part 121 (§ 121.2) | HUD's own 1989 regulation directing program participants to furnish data concerning handicap and family characteristics as the Secretary determines necessary or appropriate. On the books, and essentially unused, since 1989. |
-| 5 U.S.C. § 553(e) | "[E]ach agency shall give an interested person the right to petition for the issuance, amendment, or repeal of a rule." HUD's petition procedure is 24 C.F.R. § 10.20. The vehicle. |
-| *Massachusetts v. EPA*, 549 U.S. 497, 527–28 (2007) | Denial of a rulemaking petition is judicially reviewable under the arbitrary-and-capricious standard. |
-| *Motor Vehicle Mfrs. Ass'n v. State Farm*, 463 U.S. 29, 43 (1983) | The denial must display a rational connection between the record and the decision, and must not ignore an important aspect of the problem. |
-| *Loper Bright Enters. v. Raimondo*, 603 U.S. 369 (2024) | Posture, not obstacle. With *Chevron* deference gone, courts read statutes independently — and the premium falls on rules tied to express statutory text. A data rule under § 3614a's express data clause is that kind of rule. The Note does not treat codification as self-executing durability: after the summer of 2026, durability must be demonstrated field by field, and each requested module stands on express text rather than on any contested general mandate. (Parts III.A, III.E.) |
+**42 U.S.C. § 3604(f)(3).** The 1988 Fair Housing Amendments Act disability package: reasonable
+accommodations ((f)(3)(B)), reasonable modifications ((f)(3)(A)), and design-and-construction
+standards for post-1991 covered multifamily housing ((f)(3)(C)). These are the substantive duties
+the records would verify.
 
-## 4. The administrative record
+**Section 504 (29 U.S.C. § 794) and 24 C.F.R. Part 8 (§§ 8.22–8.27).** Accessible-unit floors in
+HUD-assisted new construction and substantial alteration (5% mobility, 2% hearing-vision), plus
+distribution (§ 8.26) and allocation (§ 8.27) duties — capacity and placement duties that
+presuppose inventories and matching records.
 
-What turns the gap into an administrative-law claim is HUD's own paper trail. Each row links to a
-primary document archived in this repository. (Part I.E.)
+**42 U.S.C. § 3614a.** Express authority to issue "rules for the collection, maintenance, and
+analysis of appropriate data" — enacted in the same 1988 statute as the disability duties. The
+data-rule anchor.
 
-| Year | What happened | Primary document |
-|---|---|---|
-| 1988 | Congress enacts § 3614a (express data-rule authority) and § 3608(e)(6) (handicap and family-characteristics reporting) in the same statute as the disability duties. | [42 U.S.C. § 3614a](https://www.law.cornell.edu/uscode/text/42/3614a); [42 U.S.C. § 3608](https://www.law.cornell.edu/uscode/text/42/3608) |
-| 1989 | HUD promulgates 24 C.F.R. Part 121. The preamble engages commenters' assertion that HUD "has failed to generate such data" and responds that HUD "remains committed to that objective." 54 Fed. Reg. 3,232 (Jan. 1989). | [`../record/hud-27061/54FR3232_part_121_promulgation.pdf`](../record/hud-27061/54FR3232_part_121_promulgation.pdf) |
-| 2022 | HUD proposes updating Form HUD-27061 "to collect protected class data as required by the Fair Housing Act and HUD regulations at 24 CFR 121." 87 Fed. Reg. 58,524 (Sept. 27, 2022). | [`../record/hud-27061/87FR58524_proposal.pdf`](../record/hud-27061/87FR58524_proposal.pdf) |
-| 2023 | The 30-day notice and the OMB approval narrow the collection to race and ethnicity, re-grounded in Title VI, with no contemporaneous explanation of where the proposed disability categories went. 88 Fed. Reg. 5,370 (Jan. 27, 2023). | [`../record/hud-27061/88FR5370_30day_notice.pdf`](../record/hud-27061/88FR5370_30day_notice.pdf); the approved form: [`../record/hud-27061/form_HUD-27061_current.pdf`](../record/hud-27061/form_HUD-27061_current.pdf) |
-| 2026 | HUD proposes renewing the narrowed form unchanged — still describing it as collecting "race, ethnicity, and other protected class data" required by the Fair Housing Act — while the approval reaches its June 30, 2026 expiration with no successor collection on record. 91 Fed. Reg. 35,697 (June 12, 2026); comments due August 11, 2026. | [Notice at federalregister.gov](https://www.federalregister.gov/citation/91-FR-35697); status record: [`appendices/admin_record_c/pra_comment_2026/`](appendices/admin_record_c/pra_comment_2026/) |
+**42 U.S.C. § 3608(e)(6) and § 3608(f).** Annual reporting on "handicap" and family
+characteristics, among enumerated categories, for persons served by HUD programs — and § 3608(f)
+enumerates § 504 among the civil-rights authorities whose coverage defines that reporting duty,
+the statute's own tie between disability-data reporting and § 504.
+
+**24 C.F.R. Part 121 (§ 121.2).** HUD's own 1989 regulation directing program participants to
+furnish data concerning handicap and family characteristics as the Secretary determines necessary
+or appropriate. On the books, and essentially unused, since 1989.
+
+**5 U.S.C. § 553(e).** "[E]ach agency shall give an interested person the right to petition for
+the issuance, amendment, or repeal of a rule." HUD's petition procedure is 24 C.F.R. § 10.20. The
+vehicle.
+
+**The review standard.** *Massachusetts v. EPA*, 549 U.S. 497, 527–28 (2007): denial of a
+rulemaking petition is judicially reviewable under the arbitrary-and-capricious standard. *Motor
+Vehicle Mfrs. Ass'n v. State Farm*, 463 U.S. 29, 43 (1983): the denial must display a rational
+connection between the record and the decision, and must not ignore an important aspect of the
+problem.
+
+***Loper Bright Enters. v. Raimondo*, 603 U.S. 369 (2024).** Posture, not obstacle. With *Chevron*
+deference gone, the premium falls on rules tied to express statutory text — and a data rule under
+§ 3614a's express data clause is that kind of rule. The Note does not treat codification as
+self-executing durability: each requested module stands on express text rather than on any
+contested general mandate. (Parts III.A, III.E.)
+
+## 4. HUD's own administrative record
+
+What turns the gap into an administrative-law claim is HUD's own paper trail. Each entry links to
+a primary document archived in this repository. (Part I.E.)
+
+**1988.** Congress enacts § 3614a (express data-rule authority) and § 3608(e)(6) (handicap and
+family-characteristics reporting) in the same statute as the disability duties.
+([42 U.S.C. § 3614a](https://www.law.cornell.edu/uscode/text/42/3614a);
+[42 U.S.C. § 3608](https://www.law.cornell.edu/uscode/text/42/3608).)
+
+**1989.** HUD promulgates 24 C.F.R. Part 121. The preamble engages commenters' assertion that HUD
+"has failed to generate such data" and responds that HUD "remains committed to that objective."
+54 Fed. Reg. 3,232 (Jan. 1989).
+(Archived extract: [`../record/hud-27061/54FR3232_part_121_promulgation.pdf`](../record/hud-27061/54FR3232_part_121_promulgation.pdf).)
+
+**2022.** HUD proposes updating Form HUD-27061 "to collect protected class data as required by the
+Fair Housing Act and HUD regulations at 24 CFR 121." 87 Fed. Reg. 58,524 (Sept. 27, 2022).
+(Archived: [`../record/hud-27061/87FR58524_proposal.pdf`](../record/hud-27061/87FR58524_proposal.pdf).)
+
+**2023.** The 30-day notice and the OMB approval narrow the collection to race and ethnicity,
+re-grounded in Title VI, with no contemporaneous explanation of where the proposed disability
+categories went. 88 Fed. Reg. 5,370 (Jan. 27, 2023).
+(Archived: [`../record/hud-27061/88FR5370_30day_notice.pdf`](../record/hud-27061/88FR5370_30day_notice.pdf);
+the approved form: [`../record/hud-27061/form_HUD-27061_current.pdf`](../record/hud-27061/form_HUD-27061_current.pdf).)
+
+**2026.** HUD proposes renewing the narrowed form unchanged — still describing it as collecting
+"race, ethnicity, and other protected class data" required by the Fair Housing Act — while the
+approval reaches its June 30, 2026 expiration with no successor collection on record. 91 Fed.
+Reg. 35,697 (June 12, 2026).
+([Notice at federalregister.gov](https://www.federalregister.gov/citation/91-FR-35697); status
+record: [`appendices/admin_record_c/pra_comment_2026/`](appendices/admin_record_c/pra_comment_2026/).)
 
 Two record features do particular work in the reviewability analysis (Part I.E):
 
@@ -117,20 +163,19 @@ displaces the petition. (Part I.E.)
 
 ### The summer-2026 landscape
 
-Three 2026 federal actions reframed the field the Note writes into, and the revised Note leads with
-them. On June 18, 2026, the Office of Legal Counsel concluded that the HHS and DOJ integration
+Three 2026 federal actions reframed the field the Note writes into. On June 18, 2026, the Office
+of Legal Counsel concluded that the HHS and DOJ integration
 regulations exceed statutory authority. On July 20, 2026, DOJ declared its *Olmstead* enforcement
 guidance "not enforceable." 91 Fed. Reg. 45,287 (July 20, 2026). And on July 23, 2026, the EEOC
 proposed rescinding the EEO-1 through EEO-6 recurring demographic reports, 91 Fed. Reg. 46,332
-(comments due August 24, 2026) — while expressly retaining the general record-preservation
-requirements whose text reaches requests for reasonable accommodation, 29 C.F.R. §§ 1602.14,
-1602.31, 1602.40. The Note's response is the distinction its Part III.E names **records, not
-reports**: what the petition seeks are transaction and asset records of regulated conduct, not
-recurring demographic reports, and none of the 2026 actions questions the statutory footing —
-§ 3604(f)(3), § 3608(e)(6), § 3614a, § 504's express rulemaking command — on which each requested
-module independently stands. Durability is demonstrated field by field on that footing rather than
-assumed; the same landscape supplies two of the objections answered in section 6. (Introduction;
-Part III.E; Part IV.D.)
+— while expressly retaining the general record-preservation requirements whose text reaches
+requests for reasonable accommodation, 29 C.F.R. §§ 1602.14, 1602.31, 1602.40. The Note's response
+is the distinction its Part III.E names **records, not reports**: what the petition seeks are
+transaction and asset records of regulated conduct, not recurring demographic reports, and none of
+the 2026 actions questions the statutory footing — § 3604(f)(3), § 3608(e)(6), § 3614a, § 504's
+express rulemaking command — on which each requested module independently stands. The same
+landscape supplies two of the objections answered in section 6. (Introduction; Part III.E; Part
+IV.D.)
 
 ## 5. The remedy — and why its narrowness is the point
 
@@ -166,9 +211,8 @@ statutory data authority; HUD's own regulatory text and 1989 preamble commitment
 record; § 504/Part 8 duties that presuppose the records sought; the litigation-dataset composition
 findings; and a privacy-and-phasing design (HMDA-style tiered disclosure; no diagnoses or medical
 narratives; no public tenant-unit matching) that pre-answers the strongest objection. Under *State
-Farm*, a denial that does not engage those materials — Part 121, § 3608(e)(6), § 3614a, the PRA
-record, and the record evidence — fails the requirement to consider the important aspects of the
-problem. (Parts III.B, IV.A, IV.C.)
+Farm*, a denial that does not engage those materials fails the requirement to consider the
+important aspects of the problem. (Parts III.B, IV.A, IV.C.)
 
 On who brings it: after *FDA v. Alliance for Hippocratic Medicine*, 602 U.S. 367 (2024), and
 *Connecticut Fair Housing Center v. CoreLogic Rental Property Solutions, LLC*, 167 F.4th 605 (2d Cir.
@@ -181,7 +225,7 @@ accessible-unit, accommodation, and transfer functions on which her housing depe
 extended analysis is
 [`appendices/Appendix_D_Standing_Reviewability_Annex.md`](appendices/Appendix_D_Standing_Reviewability_Annex.md).)
 
-## 6. Objections, and the Note's answers
+## 6. Objections, answers, and where to go deeper
 
 The Note collects HUD's best responses and answers them on the record. (Part IV.D.) Two are new to
 the 2026 landscape: *if HUD invokes the June 2026 OLC opinion's evenhanded-treatment reasoning*, the
@@ -235,13 +279,13 @@ composition, not causation: they show that private enforcement operates through 
 litigants least able to generate them increasingly populate the docket — not that any missing field
 would have changed a particular case's outcome. (Parts II.F, III.A.)
 
-## 7. Where to go deeper
-
-| If you have | Read |
-|---|---|
-| Five minutes | The [archive front door](../README.md#what-the-archive-shows), followed by this argument summary. |
-| Thirty minutes | The manuscript's [Introduction and Part IV](../manuscript/Duty_Without_Data.md). |
-| A lawyer's evaluation of the vehicle | Manuscript Parts II–III; [`appendices/Appendix_D_Standing_Reviewability_Annex.md`](appendices/Appendix_D_Standing_Reviewability_Annex.md); then [`../TAKE_ACTION.md`](../TAKE_ACTION.md). |
-| A policy portfolio | Manuscript Part I; [`appendices/Appendix_C_HUD_Administrative_Record.md`](appendices/Appendix_C_HUD_Administrative_Record.md) (the full administrative record, with the petition's twelve-exhibit evidentiary map at § C.5). |
-| An interest in the research method | [`../method/METHODOLOGY.md`](../method/METHODOLOGY.md) — how the 1,900-record corpus was built and cross-audited with separately run models from different providers, and how to run the same method on a different legal question. |
-| A deadline | [`../TAKE_ACTION.md`](../TAKE_ACTION.md) — the comment window on the 2026 renewal closes August 11, 2026. |
+**Where to go deeper.** Five minutes: the
+[archive front door](../README.md#what-the-archive-shows). Thirty: the manuscript's
+[Introduction and Part IV](../manuscript/Duty_Without_Data.md). Evaluating the vehicle: manuscript
+Parts II–III, the
+[standing and reviewability annex](appendices/Appendix_D_Standing_Reviewability_Annex.md), then the
+[implementation materials](../action/TAKE_ACTION.md). The administrative record in full:
+[Appendix C](appendices/Appendix_C_HUD_Administrative_Record.md), with the petition's
+twelve-exhibit evidentiary map at § C.5. The research method and its limits:
+[`../method/METHODOLOGY.md`](../method/METHODOLOGY.md) and
+[`EVIDENCE_AND_LIMITS.md`](EVIDENCE_AND_LIMITS.md).

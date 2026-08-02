@@ -7,9 +7,11 @@ permalink: /comment/
 
 # Comment by August 11
 
+> **Comments are due Tuesday, August 11, 2026** — you can [go straight to the comment form](https://www.regulations.gov/commenton/HUD-2006-0214-0010). For the route that does not expire with the comment window, see the § 553(e) petition materials in [action/](https://github.com/NickGillArizona/Duty-Without-Data/tree/main/action).
+
 **Record cutoff: July 12, 2026. As of that date the comment window is open.** HUD's notice proposing to renew Form
-HUD-27061 unchanged published June 12, 2026, at 91 Fed. Reg. 35,697, and **comments are due Tuesday,
-August 11, 2026**, on [regulations.gov Docket No.
+HUD-27061 unchanged published June 12, 2026, at 91 Fed. Reg. 35,697, and comments are due Tuesday,
+August 11, 2026, on [regulations.gov Docket No.
 HUD-2006-0214](https://www.regulations.gov/docket/HUD-2006-0214). You can [go straight to the
 comment form](https://www.regulations.gov/commenton/HUD-2006-0214-0010) at any point on this page.
 This page states the record through its July 12, 2026 record cutoff; check the official docket on
@@ -41,7 +43,7 @@ HUD uses a one-page form to count who its programs serve. In 2022, HUD said it w
 to that form. In 2023, the new form came out without it. HUD never said why. Now HUD wants to keep
 the form the same for another three years.
 
-Until **August 11, 2026**, anyone — an organization or an individual — can send HUD a public
+Through **August 11, 2026**, anyone — an organization or an individual — can send HUD a public
 comment about this. A comment is a short public letter submitted on a government website. It takes
 about five minutes. HUD is required to look at every comment it receives. This page explains
 [how organizations can file](#for-organizations) and [how individuals can
@@ -254,7 +256,7 @@ current record.
   fifteen-minute walkthrough before deciding anything, email
   [nickgill@arizona.edu](mailto:nickgill@arizona.edu).
 - **The full playbook** — now, next, and only-if-HUD-denies — is
-  [TAKE_ACTION.md](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/TAKE_ACTION.md).
+  [TAKE_ACTION.md](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/action/TAKE_ACTION.md).
 
 ## Common questions
 
@@ -290,7 +292,7 @@ claims ledger are public.
 ## Go deeper
 
 - [THE_ARGUMENT.md](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/article/THE_ARGUMENT.md) — the legal argument, compressed for lawyers.
-- [TAKE_ACTION.md](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/TAKE_ACTION.md) — the time-ordered playbook: comment, petition, judicial review.
+- [TAKE_ACTION.md](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/action/TAKE_ACTION.md) — the time-ordered playbook: comment, petition, judicial review.
 - [The comment template](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/action/2026_comment_template.md) and [the filed worked example](https://www.regulations.gov/comment/HUD-2006-0214-0011).
 - [The one-page memo (PDF)](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/action/comment_memo_2026.pdf) — formatted for forwarding to your counsel or board.
 - [The full repository](https://github.com/NickGillArizona/Duty-Without-Data) — manuscript, appendices, data, and the [site overview](https://nickgillarizona.github.io/Duty-Without-Data/).

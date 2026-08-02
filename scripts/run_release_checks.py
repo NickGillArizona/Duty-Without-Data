@@ -41,6 +41,11 @@ Runs, in order:
                                          privately retained material. It does NOT establish that a
                                          route is the right route for its claim, or that a source
                                          supports its claim.
+20. scripts/check_generated_surfaces.py — the generated surfaces (article/CLAIMS_INDEX.md,
+                                         _data/series.yml) match the sources they are generated
+                                         from, dated status lines on the record pages are no older
+                                         than the newest chronology event, and the appendix count
+                                         stated on reader surfaces matches the files present.
 
 Everything here is a deterministic local check. Model reruns (OpenRouter/Anthropic lanes) and
 corpus reconstruction are intentionally NOT part of this gate; see replication/REPRODUCE.md ("What is
@@ -77,6 +82,7 @@ CHECKS = [
     ("source-text leakage guard", ["scripts/check_source_text_leakage.py"]),
     ("deadline freshness", ["scripts/check_deadline_freshness.py"]),
     ("claims-ledger integrity", ["scripts/check_claims_ledger.py"]),
+    ("generated-surface sync", ["scripts/check_generated_surfaces.py"]),
 ]
 
 

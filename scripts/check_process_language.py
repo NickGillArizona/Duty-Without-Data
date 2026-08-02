@@ -257,6 +257,13 @@ ALLOWLIST: dict[str, list[str]] = {
     "results/specificity_threelayer/run_threelayer_comparison.py":
         ["SCREENING-ONLY"],
 
+    # The claims index is generated from article/CLAIMS_LEDGER.csv by
+    # scripts/make_claims_index.py, and its "Confidence tier" lines render the
+    # ledger's confidence_tier column verbatim. The tier value is registered
+    # data, not prose (the generated-surface check keeps the rendering byte-
+    # synced to the ledger); translating it in the index would desync the two.
+    "article/CLAIMS_INDEX.md": ["APPENDIX-READY"],
+
     # -- the label naming that same claim_gate tier in adjacent prose -------
     # Both sentences describe what the claim_gate column above them contains,
     # so the label is the referent, not residue. Whether the public tier

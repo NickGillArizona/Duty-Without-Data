@@ -16,6 +16,7 @@ This README is the canonical map of files in `./record/hud-27061/`. The director
 
 - **Start here:** [`CHRONOLOGY.md`](./CHRONOLOGY.md) (the dated record, with primary-source citations) and [`RECORD_METHOD.md`](./RECORD_METHOD.md) (how the record was assembled, and its limits). Quotation checks: [`quote_verification_report.md`](./quote_verification_report.md).
 - **Integrity manifest:** [`file_inventory.csv`](./file_inventory.csv) (SHA256 hashes of every primary-record file).
+- **Source manifest:** [`source_manifest.csv`](./source_manifest.csv) (per-document date, agency, status, and the proposition each archived source is cited for; top-level documents only — the `foia/`, `fresh_extract/`, and `research_outputs/` subdirectories are indexed by their own sections below).
 - **Longitudinal data:** [`longitudinal_tables.csv`](./longitudinal_tables.csv) (15 Federal Register notices, 10 ICR cycles, 2022-vs-2023 reconciliation).
 - **FOIA package:** [`foia/FOIA_filing_guide.md`](./foia/FOIA_filing_guide.md) + three request letters.
 - **Litigation and petition templates:** [`action/`](../../action/) at the repository root.

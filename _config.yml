@@ -1,13 +1,19 @@
 theme: jekyll-theme-minimal
 title: "Duty Without Data"
 description: "Why disability fair-housing rights fail without records — and the ready-to-adapt Section 553(e) petition asking HUD to fix it."
+url: "https://nickgillarizona.github.io"
+baseurl: "/Duty-Without-Data"
 logo: false
 show_downloads: false
 comment_window_deadline: "2026-08-11"
 comment_window_active: true
-# The Pages site is a single landing page (index.md); repository documents are
-# linked by absolute GitHub URLs. The directories below are outside that page's
-# scope and are excluded from the Jekyll build.
+# The site renders through the local layout (_layouts/default.html) and
+# stylesheet (assets/css/site.css); no JavaScript anywhere. The six content
+# pages live in _pages/ (underscore directories need the include below).
+include:
+  - _pages
+# Repository documents outside the site's scope are linked by absolute GitHub
+# URLs. The directories below are excluded from the Jekyll build.
 exclude:
   - action/
   - article/appendices/

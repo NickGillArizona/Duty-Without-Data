@@ -4,6 +4,15 @@
 **Scope:** Methodology archive — audit-file pointers, coding rules, and validation layers; findings carry the evidentiary posture of the Note sites they support.
 **Regeneration:** Not script-generated; each section names its underlying audit memorandum and run date.
 
+**Contents by audit family**
+
+| Family | Sections |
+|---|---|
+| Regulatory and administrative record (Part 121, the PRA cycle, legislative history, HUD systems and reports) | §§ M.2–M.5, M.8, M.11–M.12 |
+| Program and stock accessibility (NSPIRE/UFAS, Part 8 stock, LIHTC QAPs) | §§ M.6–M.7, M.9 |
+| Litigation-database coding and validation | §§ M.1.1, M.10, M.16–M.17 |
+| Comparative notes and conventions | §§ M.13–M.15 |
+
 ## M.1 Overview
 
 This Appendix documents the doctrinal and administrative-record audits cited in the footnotes of *Duty Without Data: Disability Fair Housing and the Record-Dependent Right* ([`manuscript/Duty_Without_Data.md`](../../manuscript/Duty_Without_Data.md)). It complements Appendix L (HUD Administrative Data) by specifically tying the Note's doctrinal footnote apparatus to the underlying audit memoranda, search strings, inclusion / exclusion rules, and data snapshots.

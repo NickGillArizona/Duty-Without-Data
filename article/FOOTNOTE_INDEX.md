@@ -34,7 +34,7 @@ If layers disagree, this index controls for footnote routing.
 | [^140] | III | Pleading-stage defense-win lower bounds 140/287, 50/68, 143/251 (apps. H and B) | [`appendices/Appendix_H_Supplementary_Data.md`](appendices/Appendix_H_Supplementary_Data.md) § H.5.3; [`appendices/Appendix_B_Results_Tables.md`](appendices/Appendix_B_Results_Tables.md) |
 | [^141] | III | United States-party and Part 121 citation sweeps (app. M §§ M.2.1-M.2.2) | [`appendices/Appendix_M_Doctrinal_Audit_Methodology.md`](appendices/Appendix_M_Doctrinal_Audit_Methodology.md) §§ M.2.1-M.2.2 |
 | [^142] | III | Annual-report longitudinal audit, FY 1989-FY 2023 (app. M § M.12) | [`appendices/Appendix_M_Doctrinal_Audit_Methodology.md`](appendices/Appendix_M_Doctrinal_Audit_Methodology.md) § M.12 |
-| [^145] | III | 2529-series collection history (clearance record cited from primary sources; the fn's former litigation-sweep clause was removed in the current revision) | Primary Federal Register / RegInfo records, [`../record/hud-27061/`](../record/hud-27061/) |
+| [^145] | III | 2529-series collection history (clearance record cited from primary sources) | Primary Federal Register / RegInfo records, [`../record/hud-27061/`](../record/hud-27061/) |
 | [^153] | IV | The author's filed individual-capacity PRA comment (Comment No. HUD-2006-0214-0011) | [`appendices/admin_record_c/pra_comment_2026/README.md`](appendices/admin_record_c/pra_comment_2026/README.md) |
 | [^162] | III.B | Municipal and state requester-facing record analogs (app. P § P.1) | [`appendices/Appendix_P_Privacy_Implementation_Architecture.md`](appendices/Appendix_P_Privacy_Implementation_Architecture.md) § P.1 |
 | [^164] | II.C | Docket-level counsel-timing audit over the eighteen qualifying cases | [`../results/counsel_timing_audit/README.md`](../results/counsel_timing_audit/README.md) |
@@ -50,5 +50,7 @@ even if numbering shifts.
 
 **Maintenance rule.** A row is added or changed only together with its entry in
 [`../scripts/appendix_pointer_assertions.json`](../scripts/appendix_pointer_assertions.json),
-so the release gate verifies the registered routes mechanically. If a route and a target
-ever disagree, the target file is authoritative and this index is the thing to fix.
+so the release gate verifies the registered routes mechanically. The gate also cross-checks
+this index against that registry: every registered footnote must have a row here, and the
+row must name the registered target file. If a route and a target ever disagree, the target
+file is authoritative and this index is the thing to fix.

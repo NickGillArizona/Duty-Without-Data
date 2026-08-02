@@ -15,7 +15,7 @@ One command, deterministic, local: no network, no API keys, no cost. Exit code 0
 every check passes. The CI badge in the [README](../README.md) runs exactly this command in
 two environments (see [Environments](#environments)).
 
-## The nineteen checks
+## The twenty checks
 
 | # | Check | Script | What it examines | A failure means |
 |---|---|---|---|---|
@@ -38,6 +38,7 @@ two environments (see [Environments](#environments)).
 | 17 | Source-text leakage guard | `scripts/check_source_text_leakage.py` | Tracked and untracked, nonignored release files | A registered source opinion, or a file placed in a source-text directory, would enter the public repository |
 | 18 | Deadline freshness guard | `scripts/check_deadline_freshness.py` | `_config.yml`, README, index, and COMMENT | Comment-window status or deadline language drifted from the configured publication state |
 | 19 | Claims-ledger integrity | `scripts/check_claims_ledger.py` | `article/CLAIMS_LEDGER.csv` | The ledger fails to parse, a claim row is malformed, a required field is blank, or a path-like evidence route no longer resolves in the tree |
+| 20 | Generated-surface sync | `scripts/check_generated_surfaces.py` | The generated pages, the record pages' dated status lines, and the appendix count | A generated surface drifted from its source, a dated status line is older than the newest chronology event, or a stated appendix count no longer matches the files present |
 
 ### What each check asserts
 
@@ -120,6 +121,20 @@ directory in this tree; it reports, without asserting, the split between claim-s
 public routes and primary-source-plus-private routes. It does not establish that a route is
 the right route for its claim, that the cited primary source supports the claim, or that the
 ledger covers every published number.
+
+**20 — Generated-surface sync.** Some pages are renderings of machine sources:
+[`../article/CLAIMS_INDEX.md`](../article/CLAIMS_INDEX.md) is generated from the claims
+ledger, and `_data/series.yml` (the Pages site's census data) is generated from the series
+of record. This check re-renders each from its source and fails on any drift, so neither
+can be hand-edited into disagreement. It also holds the administrative-record pages to
+their own chronology — a dated status line ("current as of ...", "no disposition posted as
+of ...", a NOT YET PUBLISHED marker) must carry a date no older than the newest dated event
+in [`../record/hud-27061/CHRONOLOGY.md`](../record/hud-27061/CHRONOLOGY.md), the gap that
+once let a stale record README ship — and requires that everywhere a reader surface states
+the number of appendices in words, the word matches the appendix files actually present. It
+also cross-checks [`../article/FOOTNOTE_INDEX.md`](../article/FOOTNOTE_INDEX.md) against the
+registered pointer inventory: every registered footnote must have an index row naming its
+registered target.
 
 ## What a green run establishes
 
