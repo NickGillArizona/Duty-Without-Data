@@ -45,7 +45,7 @@ the primary source itself (see
 
 - **Source type:** primary legal source
 - **Primary source / tier:** 24 C.F.R. § 121.2 (1989)
-- **Evidence route:** `primary source as cited; full audit memorandum retained privately (replication/DATA_PROVENANCE.md, Privately retained material)`
+- **Evidence route:** `record/hud-27061/cfr_part121_analysis.md sec. 1 (verbatim Part 121 text as of the 2022 proposal date); record/hud-27061/research_outputs/24CFR121_as_of_2022-09-27.txt; record/hud-27061/research_outputs/24CFR121_current_raw.html`
 - **Confidence tier:** A
 
 ### C05 — Part I.E; fn 53
@@ -54,7 +54,7 @@ the primary source itself (see
 
 - **Source type:** primary legal source
 - **Primary source / tier:** 54 Fed. Reg. 3,232, 3,278-79 (Jan. 23, 1989)
-- **Evidence route:** `primary source as cited; full audit memorandum retained privately (replication/DATA_PROVENANCE.md, Privately retained material)`
+- **Evidence route:** `record/hud-27061/54FR3232_part_121_promulgation.pdf (archived 1989 promulgation; preamble at the cited pages)`
 - **Confidence tier:** A
 
 ### C06 — fn 141
@@ -99,7 +99,7 @@ the primary source itself (see
 
 - **Source type:** primary legal source
 - **Primary source / tier:** 24 C.F.R. § 100.205
-- **Evidence route:** `primary source as cited; full audit memorandum retained privately (replication/DATA_PROVENANCE.md, Privately retained material)`
+- **Evidence route:** `no public in-repository artifact -- 24 C.F.R. Part 100 regulatory text is not archived in this tree; verify at the cited section. Full audit memorandum retained privately (replication/DATA_PROVENANCE.md, Privately retained material)`
 - **Confidence tier:** A
 
 ### C11 — Part I.A; fn 22
@@ -108,7 +108,7 @@ the primary source itself (see
 
 - **Source type:** primary legal source
 - **Primary source / tier:** 24 C.F.R. § 8.22(b)
-- **Evidence route:** `primary source as cited; full audit memorandum retained privately (replication/DATA_PROVENANCE.md, Privately retained material)`
+- **Evidence route:** `record/hud-27061/research_outputs/24CFR8_current_raw.html (archived Part 8 text, sec. 8.22)`
 - **Confidence tier:** A
 
 ### C12 — Part I.D; fn 39
@@ -117,7 +117,7 @@ the primary source itself (see
 
 - **Source type:** primary legal source
 - **Primary source / tier:** Form HUD-50058 (current version) OMB Control No. 2577-0083
-- **Evidence route:** `primary source as cited; full audit memorandum retained privately (replication/DATA_PROVENANCE.md, Privately retained material)`
+- **Evidence route:** `record/hud-27061/2577-0083_form_50058_fields.pdf (archived form field specification)`
 - **Confidence tier:** A
 
 ### C13 — Part I.D; fn 40
@@ -126,7 +126,7 @@ the primary source itself (see
 
 - **Source type:** administrative record
 - **Primary source / tier:** PIH Notice PIH 2022-03 (HA) (Feb. 18 2022)
-- **Evidence route:** `primary source as cited; full audit memorandum retained privately (replication/DATA_PROVENANCE.md, Privately retained material)`
+- **Evidence route:** `record/hud-27061/PIH_2022_03.pdf (archived notice; the four Accessible Designation categories)`
 - **Confidence tier:** A
 
 ### C14 — not cited in the Note; app. M
@@ -153,7 +153,7 @@ the primary source itself (see
 
 - **Source type:** primary legal source
 - **Primary source / tier:** 88 Fed. Reg. 30,442, 30,453 (May 11, 2023)
-- **Evidence route:** `primary source as cited; full audit memorandum retained privately (replication/DATA_PROVENANCE.md, Privately retained material)`
+- **Evidence route:** `record/hud-27061/88FR30442_nspire_final.pdf (archived NSPIRE final rule; preamble at the cited page)`
 - **Confidence tier:** A
 
 ### C17 — Part I.D; fn 47
@@ -324,7 +324,7 @@ the primary source itself (see
 
 - **Source type:** primary legal source
 - **Primary source / tier:** Loper Bright Enters. v. Raimondo, 603 U.S. 369, 395-96 (2024)
-- **Evidence route:** `primary sources as cited; full audit memorandum retained privately (replication/DATA_PROVENANCE.md, Privately retained material)`
+- **Evidence route:** `no public in-repository artifact -- the supplementary Loper Bright ratchet analysis is retained privately; verify at the cited reporter pages. Full audit memorandum retained privately (replication/DATA_PROVENANCE.md, Privately retained material)`
 - **Confidence tier:** A
 
 ### C38 — Introduction; fns 6, 144
@@ -342,7 +342,7 @@ the primary source itself (see
 
 - **Source type:** primary legal source
 - **Primary source / tier:** 24 C.F.R. § 8.24; § 8.25
-- **Evidence route:** `primary source as cited; full audit memorandum retained privately (replication/DATA_PROVENANCE.md, Privately retained material)`
+- **Evidence route:** `record/hud-27061/research_outputs/24CFR8_current_raw.html (archived Part 8 text, secs. 8.24 and 8.25); record/hud-27061/cfr_part121_analysis.md sec. 4`
 - **Confidence tier:** A
 
 ### C41 — Part I.D; fns 37-38
@@ -351,7 +351,7 @@ the primary source itself (see
 
 - **Source type:** administrative record
 - **Primary source / tier:** HUD OIG 2022-BO-0001; hudoig.gov; HUD OIG Recommendation Dashboard
-- **Evidence route:** `primary source as cited; full audit memorandum retained privately (replication/DATA_PROVENANCE.md, Privately retained material)`
+- **Evidence route:** `record/hud-27061/HUD_OIG_2022-BO-0001.pdf (archived OIG report)`
 - **Confidence tier:** A
 
 ### C42 — Introduction fns 2-3; Part II.E
@@ -360,7 +360,7 @@ the primary source itself (see
 
 - **Source type:** primary legal source
 - **Primary source / tier:** Ely v. Mobile Hous. Bd., 13 F. Supp. 3d 1216, 1219-22 (S.D. Ala. 2014); aff'd 605 F. App'x 846, 848 & n.1 (11th Cir. 2015)
-- **Evidence route:** `primary sources as cited (docket chronology); full audit memorandum retained privately (replication/DATA_PROVENANCE.md, Privately retained material)`
+- **Evidence route:** `data/FHA_Unified_Database.json (corpus membership only; the minimized public projection carries no opinion text, so the chronology verifies at the cited reporter pages)`
 - **Confidence tier:** A
 
 ### C43 — Part III.A; fn 93
@@ -369,7 +369,7 @@ the primary source itself (see
 
 - **Source type:** primary legal source
 - **Primary source / tier:** Snyder v. Barry Realty, 953 F. Supp. 217, 220 n.1 (N.D. Ill. 1996)
-- **Evidence route:** `primary source as cited; full audit memorandum retained privately (replication/DATA_PROVENANCE.md, Privately retained material)`
+- **Evidence route:** `article/appendices/Appendix_M_Doctrinal_Audit_Methodology.md sec. M.2.1; replication/queries/part_121.query.txt (the only-published-decision finding); data/FHA_Unified_Database.json (corpus membership); the quoted footnote verifies at the cited reporter page`
 - **Confidence tier:** A
 
 ### C44 — Part I.D; fns 39-40
