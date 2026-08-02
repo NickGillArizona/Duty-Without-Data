@@ -137,25 +137,26 @@ drafted by a J.D. candidate, not an attorney, for adaptation by counsel. Nothing
 advice, no attorney-client relationship is created by using it, and the site was drafted with LLM
 assistance and reviewed and approved by the author.
 
-## The comment window closes Tuesday, August 11, 2026
+## The 2026 comment window (closed August 11, 2026)
 
-HUD's notice proposing to renew Form HUD-27061 unchanged published June 12, 2026 (91 Fed. Reg.
-35,697), and comments are due August 11, 2026, on
-[regulations.gov Docket No. HUD-2006-0214](https://www.regulations.gov/docket/HUD-2006-0214).
-The shareable how-to — the record in four dates, filing tracks for organizations and for
-individuals, and a one-page memo formatted for forwarding to counsel — is the
-[comment page](https://nickgillarizona.github.io/Duty-Without-Data/comment/).
-Comments filed now become part of the administrative record HUD must evaluate — and that any later
-court can read. An adaptable comment template is in the
-[advocacy kit](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/action/2026_comment_template.md),
+The Form HUD-27061 comment window closed on August 11, 2026. HUD's notice proposing to renew the
+form unchanged published June 12, 2026 (91 Fed. Reg. 35,697), on
+[regulations.gov Docket No. HUD-2006-0214](https://www.regulations.gov/docket/HUD-2006-0214), and
+comments filed during the window are part of the administrative record HUD must evaluate — and
+that any later court can read. The record of the opportunity — four dates, both filing tracks, and
+the one-page memo for counsel — is preserved on the
+[comment page](https://nickgillarizona.github.io/Duty-Without-Data/comment/), with the adaptable
+template in the
+[advocacy kit](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/action/2026_comment_template.md)
 and the author's own filed comment
-([Comment No. HUD-2006-0214-0011](https://www.regulations.gov/comment/HUD-2006-0214-0011)) serves
-as a worked example.
+([Comment No. HUD-2006-0214-0011](https://www.regulations.gov/comment/HUD-2006-0214-0011)) as a
+worked example.
 
-After the window closes, the petition materials remain the live path.
+The § 553(e) petition remains the live path; the petition materials are drafted for adaptation at
+any time.
 
-The time-ordered playbook — now, next, and only-if-HUD-denies — is
-[TAKE_ACTION.md](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/TAKE_ACTION.md).
+The time-ordered playbook — the comment record, the petition, and only-if-HUD-denies — is
+[TAKE_ACTION.md](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/action/TAKE_ACTION.md).
 
 ## The archive
 

@@ -7,11 +7,11 @@ Nicholas Gill · Forthcoming, **Arizona Law Review** (2026)
 > [!IMPORTANT]
 > Federal disability fair-housing rights depend on records—requests, decisions, accessible units, occupancy—that HUD systems create only in fragments and no identified cross-program system reliably links, transmits, or makes accessible.
 
-- **Understand the argument** — [Argument in brief](article/THE_ARGUMENT.md) · [full manuscript](manuscript/Duty_Without_Data.md)
-- **Verify a printed claim** — [Claims ledger](article/CLAIMS_LEDGER.csv) · [worked verification](replication/VERIFY_ONE_CLAIM.md)
+- **Understand the argument** — [Argument in brief](article/THE_ARGUMENT.md) · [full manuscript](manuscript/Duty_Without_Data.md) · [reader guide](article/READER_GUIDE.md)
+- **Verify a printed claim** — [Claims index](article/CLAIMS_INDEX.md) · [ledger](article/CLAIMS_LEDGER.csv) · [worked verification](replication/VERIFY_ONE_CLAIM.md)
 - **Review method and limits** — [Methodology](method/METHODOLOGY.md) · [validation](method/VALIDATION.md) · [reproduce](replication/REPRODUCE.md)
 - **Find an appendix** — [Browse by question](article/appendices/README.md) · [exact crosswalk](article/APPENDIX_CROSSWALK.md)
-- **Use the implementation materials** — [Time-ordered options](TAKE_ACTION.md) · [petition and comment materials](action/README.md)
+- **Use the implementation materials** — [Time-ordered options](action/TAKE_ACTION.md) · [petition and comment materials](action/README.md)
 
 **The problem, in one case.** In 2010 the Mobile Housing Board gave Donavette Ely a four-bedroom Section 8 voucher because her son’s asthma required a bedroom with separate temperature controls—the Board’s own written explanation cited his medical condition. When she could not find a qualifying unit in time, the Board granted one extension, refused more, and removed the family from the program. The Eleventh Circuit affirmed judgment for the Board: Ely “never explained” that her request was connected to her son’s disability. *Ely v. Mobile Hous. Bd.*, 605 F. App’x 846, 851–52 (11th Cir. 2015). The explanation sat in the Board’s own file; no record system carried it forward.
 
@@ -60,8 +60,8 @@ The release gate tests the registered series, figures, appendix pointers, links,
 
 ## Implementation materials
 
-> [!WARNING]
-> **August 11, 2026:** the current Form HUD-27061 comment window closes. See the [comment guide](COMMENT.md). The durable route remains the [§ 553(e) petition sequence](TAKE_ACTION.md). Materials are illustrative templates requiring independent legal review, not legal advice.
+> [!NOTE]
+> The Form HUD-27061 comment window closed on August 11, 2026; the [comment record](COMMENT.md) is retained. The § 553(e) petition remains the live path — the [petition sequence](action/TAKE_ACTION.md) is drafted for adaptation at any time. Materials are illustrative templates requiring independent legal review, not legal advice.
 
 The [implementation materials](action/README.md) are keyed to the archived record: the model § 553(e) petition templates, the 2026 comment template, the author's as-filed comment, and an adaptation checklist. **No litigation template is provided** — any complaint must be developed by counsel from an actual agency disposition, and none exists.
 
@@ -71,10 +71,10 @@ Use GitHub’s **Cite this repository** control or the [citation guide](CITATION
 
 ## AI disclosure
 
-Language models assisted document classification, code development, analysis, and editing. The author reviewed the case-level census, made all legal and interpretive judgments, and is responsible for the manuscript and repository; no model output is cited as legal authority. Raw outputs are published for the headline validation ensemble, adjudication-tier metadata for the primary pipeline (boundary: [system map](method/SYSTEM_MAP.md)). Full roles, instruments, and limitations: [AI_USE.md](AI_USE.md) and [CREDITS](CREDITS.md).
+Language models assisted document classification, code development, analysis, and editing. The author reviewed the case-level census, made all legal and interpretive judgments, and is responsible for the manuscript and repository; no model output is cited as legal authority. Raw outputs are published for the headline validation ensemble, adjudication-tier metadata for the primary pipeline (boundary: [system map](method/SYSTEM_MAP.md)). Full roles, instruments, and limitations: [AI_USE.md](AI_USE.md); attributions: [third-party notices](THIRD_PARTY_NOTICES.md).
 
 ## About the author
 
-J.D. candidate, Class of 2027, University of Arizona James E. Rogers College of Law. If this archive would be useful to your organization—or something in it is wrong—email [nickgill@arizona.edu](mailto:nickgill@arizona.edu) or [open an issue](https://github.com/NickGillArizona/Duty-Without-Data/issues).
+J.D. candidate, Class of 2027, University of Arizona James E. Rogers College of Law. Corrections and questions: email [nickgill@arizona.edu](mailto:nickgill@arizona.edu) or [open an issue](https://github.com/NickGillArizona/Duty-Without-Data/issues).
 
 This archive is about disability rights, so its pages must stay usable with assistive technology; anything hard to use through a screen reader is a bug—report it.

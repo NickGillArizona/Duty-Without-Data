@@ -1,0 +1,51 @@
+filename,document_date,agency,status,cited_proposition
+54FR3232_part_121_promulgation.pdf,1989-01-23,HUD,final rule (archived extract),"Part 121 promulgation; preamble engages the charge that HUD ""has failed to generate such data"" and answers that HUD ""remains committed to that objective"""
+FRN60_2023.pdf,2022-09-27,HUD,60-day notice (archived),"2022 proposal to collect ""protected class data as required by the Fair Housing Act and HUD regulations at 24 CFR 121"""
+FRN60_2023.txt,2022-09-27,HUD,derivative text extraction,Text of FRN60_2023.pdf for search and quotation checks
+87FR58524_proposal.pdf,2022-09-27,HUD,60-day notice (archived),"Same 2022 proposal, archived as cited by the reader surfaces"
+FRN30_2023.pdf,2023-01-27,HUD,30-day notice (archived),"2023 narrowing to ""Race and Ethnic Collection"" grounded in Title VI and 24 C.F.R. Part 1; no Part 121 or Fair Housing Act mention"
+FRN30_2023.txt,2023-01-27,HUD,derivative text extraction,Text of FRN30_2023.pdf for search and quotation checks
+88FR5370_30day_notice.pdf,2023-01-27,HUD,30-day notice (archived),"Same 2023 narrowing notice, archived as cited by the reader surfaces"
+SSA_2023.docx,2023,HUD (filed with OMB),supporting statement (archived),"2023 Supporting Statement A: Item 8 ""among other protected characteristics"" representation; no occurrence of Part 121, Section 504, Part 8, or disability outside the quoted statute"
+SSA_2023.txt,2023,HUD (filed with OMB),derivative text extraction,Text of SSA_2023.docx (python-docx extraction)
+SSA_2019.docx,2019,HUD (filed with OMB),supporting statement (archived),2019 renewal-cycle supporting statement; race-and-ethnicity scope
+SSA_2019.txt,2019,HUD (filed with OMB),derivative text extraction,Text of SSA_2019.docx
+SSA_2014.docx,2014,HUD (filed with OMB),supporting statement (archived),2013-2014 renewal-cycle supporting statement; race-and-ethnicity scope
+SSA_2014.txt,2014,HUD (filed with OMB),derivative text extraction,Text of SSA_2014.docx
+SSA_2006.doc,2006,HUD (filed with OMB),supporting statement (archived; legacy format),First cycle with an attached supporting statement; race-and-ethnicity scope
+SSA_2006.txt,2006,HUD (filed with OMB),derivative text extraction (reduced reliability),Binary-strings extraction of SSA_2006.doc; see RECORD_METHOD.md
+comment_SAGE.pdf,2022-11-23,public commenter (Jones Day / SAGE),public comment (archived),2022 comment invoking Part 121 in the 60-day docket
+comment_SAGE.txt,2022-11-23,public commenter (Jones Day / SAGE),derivative text extraction,Text of comment_SAGE.pdf
+comment_Williams1.pdf,2022-10-10,public commenter (Williams Institute),public comment (archived),2022 comment in the 60-day docket
+comment_Williams1.txt,2022-10-10,public commenter (Williams Institute),derivative text extraction,Text of comment_Williams1.pdf
+comment_Williams2.pdf,2022-10-10,public commenter (Williams Institute),byte-identical duplicate,Same submission cataloged by OIRA under two object IDs; counted as one comment
+form_HUD-27061_current.pdf,2023,HUD,approved form (archived),The approved 2023 form as fielded: race and ethnicity categories only
+icr_200302-2535-001.html,2003,OMB/OIRA,ICR summary capture,2003 initial clearance cycle record
+icr_200308-2535-001.html,2003,OMB/OIRA,ICR summary capture,2003 second-stage clearance cycle record (approved with change)
+icr_200609-2535-001.html,2006,OMB/OIRA,ICR summary capture,2006 renewal cycle record
+icr_200911-2535-002.html,2009,OMB/OIRA,ICR summary capture,2009 cycle record (concluded not subject to PRA)
+icr_201004-2535-001.html,2010,OMB/OIRA,ICR summary capture,2010 renewal cycle record
+icr_201306-2535-001.html,2013,OMB/OIRA,ICR summary capture,2013 renewal cycle record
+icr_201412-2535-001.html,2014,OMB/OIRA,ICR summary capture,2014 cycle record (improperly submitted)
+icr_201507-2535-001.html,2015,OMB/OIRA,ICR summary capture,2015 renewal cycle record
+icr_201904-2535-001.html,2019,OMB/OIRA,ICR summary capture,2019 renewal cycle record; approval later carried a July 31 2022 expiration
+icr_202301-2535-001.html,2023,OMB/OIRA,ICR summary capture,"2023 cycle: approved with change 2023-06-13, expiration set to 2026-06-30; terms of clearance are data-quality conditions (Appendix C sec. C.2)"
+doc_200302-2535-001.html,2003,OMB/OIRA,ICR document-listing capture,Document listing for the 2003 initial cycle (no documents attached)
+doc_200308-2535-001.html,2003,OMB/OIRA,ICR document-listing capture,Document listing for the 2003 second-stage cycle
+doc_200609-2535-001.html,2006,OMB/OIRA,ICR document-listing capture,Document listing for the 2006 cycle (first with documents)
+doc_200911-2535-002.html,2009,OMB/OIRA,ICR document-listing capture,Document listing for the 2009 cycle
+doc_201004-2535-001.html,2010,OMB/OIRA,ICR document-listing capture,Document listing for the 2010 cycle
+doc_201306-2535-001.html,2013,OMB/OIRA,ICR document-listing capture,Document listing for the 2013 cycle
+doc_201412-2535-001.html,2014,OMB/OIRA,ICR document-listing capture,Document listing for the 2014 cycle
+doc_201507-2535-001.html,2015,OMB/OIRA,ICR document-listing capture,Document listing for the 2015 cycle
+doc_201904-2535-001.html,2019,OMB/OIRA,ICR document-listing capture,Document listing for the 2019 cycle
+doc_202301-2535-001.html,2023,OMB/OIRA,ICR document-listing capture,Document listing for the 2023 narrowing cycle
+GAO_23_105083.pdf,2023,GAO,audit report (archived),"HUD's recorded burden and deterrence objections and GAO's answers on aggregate request and disposition data (cited in the objections analysis)"
+HUD_OIG_2022-BO-0001.pdf,2022,HUD OIG,report (archived),OIG report cited in the Part I.C record analysis
+88FR30442_nspire_final.pdf,2023,HUD,final rule (archived),NSPIRE final-rule preamble Section 504 concession (Appendix C exhibit map row 6)
+2577-0083_form_50058_fields.pdf,,HUD,form field specification (archived),Form HUD-50058 fields; an existing fragment showing feasibility of tenant-level records
+affht0007_data_documentation.pdf,,HUD,data documentation (archived),AFFH-T data documentation; basis for the race-to-disability data-layer comparison
+90FR11020_affh_ifr.pdf,2025,HUD,interim final rule (archived),AFFH regulatory-landscape source (Federal Register volume 90)
+91FR1475_disparate_impact_nprm.pdf,2026,HUD,proposed rule (archived),Disparate-impact regulatory-landscape source (Federal Register volume 91)
+Boshers_AHS_2011_accessibility.pdf,2011,non-agency (research literature),study (archived),American Housing Survey accessibility analysis used as background literature
+cfr_part121_analysis.md,,repository (author),repository-authored analysis,Verbatim Part 121 text as of the 2022 proposal date with the repository's analysis

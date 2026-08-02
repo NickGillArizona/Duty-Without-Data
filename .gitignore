@@ -36,6 +36,7 @@ __pycache__/
 !replication/comparator/**/*.csv
 !record/hud-27061/file_inventory.csv
 !record/hud-27061/longitudinal_tables.csv
+!record/hud-27061/source_manifest.csv
 !record/hud-27061/foia/foia_tracking.csv
 push.bat
 case_texts/

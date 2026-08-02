@@ -276,10 +276,11 @@ ENSEMBLE_CONTEXT = ("ensemble", "three-model", "739", "fleiss", "kappa",
 # "allowlisted (...)" and do not fail --strict. Keep this list short and
 # specific: a new entry requires the same per-hit verification these received.
 ALLOWLIST = {
-    ("LIMITATIONS_AND_NEGATIVE_RESULTS.md", "D-730"):
+    ("article/EVIDENCE_AND_LIMITS.md", "D-730"):
         "supersession-disclosure page: both 730 mentions state the document-level "
         "basis as superseded and mirror the fn 76 non-replication disclosure "
-        "(verified 2026-07-31, curation pass)",
+        "(verified 2026-07-31 curation pass; page relocated from the repository "
+        "root 2026-08-02 with content unchanged)",
     ("article/appendices/Appendix_A4_Reproducibility_Audit.md", "D-730"):
         "archival-labeled exploratory run; interim basis disclosed in place",
     ("article/appendices/FN76_AGREEMENT.md", "D-730"):
@@ -288,6 +289,11 @@ ALLOWLIST = {
         "document-level delta cell; the file states it is unrelated to the fn 90 audit",
     ("article/appendices/Appendix_A6_Comparator_Analysis.md", "D-OLD-CASE-SHARES"):
         "document-level composition-share cells; numeric coincidence",
+    ("article/CLAIMS_INDEX.md", "D-OLD-CASE-SHARES"):
+        "generated rendering of the claims ledger: the row's claim text quotes the "
+        "document-level Kitagawa composition-share cell (DIS 57.5), which the ledger "
+        "labels document-level archive output (ledger C49); the index renders ledger "
+        "rows verbatim and the generated-surface check keeps it byte-synced",
     ("article/appendices/Appendix_A6_Comparator_Analysis.md", "D-DOC-SHARES"):
         "document-level comparator-family cells; numeric coincidence",
     ("article/appendices/Appendix_A7_Selection_and_Participation.md", "D-730"):

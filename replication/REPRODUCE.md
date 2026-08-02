@@ -10,7 +10,7 @@ This file maps each headline empirical claim in the Note to the script that prod
 pip install -r requirements.txt
 
 # The Part II series of record: re-derive the case-level census, assert every
-# registered value, then run the full nineteen-check release gate.
+# registered value, then run the full twenty-check release gate.
 python scripts/build_case_level_series.py --check
 python scripts/validate_claims.py
 python scripts/run_release_checks.py
@@ -270,7 +270,7 @@ Two different reproducibility claims apply to this archive; keep them separate:
   need an OpenRouter key (order ~$5-$30 per run, see each directory's README) and, for
   `scripts/supplemental_batch.py`, an Anthropic key. Census PUMS scripts hit the public Census API
   (no key). The QAP scan additionally needs the external `pdftotext` binary (poppler-utils).
-- One-command deterministic gate: `python scripts/run_release_checks.py` runs nineteen checks in
+- One-command deterministic gate: `python scripts/run_release_checks.py` runs twenty checks in
   sequence and exits 0 only if every one passes. What each check asserts — and what a green run does
   and does not establish — is in [`GATES.md`](GATES.md). `scripts/run_all.py` regenerates the core
   analyses; the comparator, registered-baseline, and QAP analyses have their own commands listed above.

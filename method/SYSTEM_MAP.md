@@ -19,7 +19,7 @@ flowchart TD
     G["Case-level census: one-case-one-unit collapse<br/>kept opinion rows -> 606 decided cases (bounded keep/collapse codes)"]
     H["Deterministic analysis: scripts/ regenerate every<br/>registered statistic, table, and figure from committed inputs"]
     I["Validation: five published layers, reproducibility only<br/>(method/VALIDATION.md)"]
-    J["Release gate: nineteen deterministic checks, including a hash<br/>manifest of every tracked file<br/>(replication/GATES.md, scripts/run_release_checks.py)"]
+    J["Release gate: twenty deterministic checks, including a hash<br/>manifest of every tracked file<br/>(replication/GATES.md, scripts/run_release_checks.py)"]
     A --> B --> C --> D --> E
     E --> T2
     T2 --> F
@@ -42,7 +42,7 @@ mechanism, and a documented one-case-one-unit collapse of the kept opinion rows
 produces the 606-case outcome census.
 Deterministic scripts regenerate
 every registered statistic from those inputs. Five validation layers re-read the
-classifications and report agreement. A nineteen-check release gate re-verifies the
+classifications and report agreement. A twenty-check release gate re-verifies the
 whole chain on every change.
 
 ## Stage-by-stage: instruments, artifacts, failure paths

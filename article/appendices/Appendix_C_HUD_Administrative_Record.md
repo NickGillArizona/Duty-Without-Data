@@ -9,6 +9,12 @@ expiration, the parallel Fair Housing Initiatives Program (FHIP) litigation dock
 author's 2026 PRA comment as filed. Its function is evidentiary and archival: every fact
 the manuscript states about this record traces to a primary document preserved in `record/hud-27061/`
 and verified by SHA-256 hash. It states no legal conclusions; the legal argument is in the Note.
+So that a reader can always tell evidence from advocacy, the appendix is organized in two labeled
+parts: the public record (§§ C.1-C.3), which is assembled entirely from government-issued primary
+sources and does not depend on anything the author did; and the author's participation and analysis
+(§§ C.4-C.6), which records the author's own comment, the model petition templates, and the
+supporting doctrinal analysis. Section numbering is unchanged from earlier printings; the
+manuscript's citations to §§ C.1-C.6 resolve unaffected.
 
 **PROVENANCE.** Primary sources harvested into `record/hud-27061/` (federal-government-issued
 documents from the public record: Federal Register notices, OMB/OIRA ICR records and Supporting
@@ -28,7 +34,14 @@ claims listed below; every quotation is Tier 1 (verbatim from a source binary, v
 
 ---
 
-## C.1 Chronology, 1988-2026
+## Part One — The public record (§§ C.1-C.3)
+
+Everything in this part is drawn from government-issued primary sources — Federal Register
+notices, OMB/OIRA ICR records and Supporting Statements, HUD forms, GAO and OIG reports, and
+court dockets — archived and hash-verified in `record/hud-27061/`. No entry in this part depends
+on the author's participation in the proceedings it documents.
+
+### C.1 Chronology, 1988-2026
 
 The table below places the full Form HUD-27061 / Part 121 record in one sequence. "Source" names
 the primary artifact in `record/hud-27061/`; dates and dispositions are from the Federal Register
@@ -68,7 +81,7 @@ instrument is, by HUD's own burden accounting, unchanged from the race-and-ethni
 Source: `longitudinal_tables.csv` (Table A rows for 2022-09-27, 2023-01-27) and 91 Fed. Reg. at
 35,698.
 
-## C.2 The 2023 Supporting Statement (Item 8) and terms of clearance
+### C.2 The 2023 Supporting Statement (Item 8) and terms of clearance
 
 **Supporting Statement A, Item 8 (verbatim excerpt).** The 2023 Supporting Statement recorded that
 three comments were received on the 2022 60-day notice and that "none caused a change in the form."
@@ -115,7 +128,7 @@ renewal would leave the 2023 data-quality revisions unexecuted, but the terms ar
 the disability-data collection the Note proposes. (This characterization corresponds to the
 manuscript's decision not to rest any scope argument on the terms of clearance.)
 
-## C.3 FHIP litigation docket chronology (Massachusetts Fair Housing Center v. HUD)
+### C.3 FHIP litigation docket chronology (Massachusetts Fair Housing Center v. HUD)
 
 This chronology supplies the docket-level evidence for the institutional-contraction analysis. It
 documents the 2025 Fair Housing Initiatives Program grant terminations and the litigation that
@@ -141,7 +154,15 @@ organizational closures and staffing losses were not reversed. See NFHA, *2025 F
 Report* 15-17, 22-23. Because the docket is fast-moving, this chronology reflects the record as of
 July 1, 2026; readers should confirm current docket status directly.
 
-## C.4 Gill PRA comment module
+## Part Two — The author's participation and analysis (§§ C.4-C.6)
+
+This part is advocacy-adjacent and is labeled as such. It archives the author's own
+individual-capacity comment in the 2026 renewal docket, the model § 553(e) petition templates
+drafted for counsel's adaptation, and the doctrinal analysis supporting them. These materials are
+record evidence of participation and proposed instruments — they are not part of the objective
+agency record in Part One, and nothing in Part One relies on them.
+
+### C.4 Gill PRA comment module
 
 The author's individual-capacity comment on the 2026 renewal notice — filed via regulations.gov on
 July 6, 2026, and posted July 7, 2026, as Comment No. HUD-2006-0214-0011,
@@ -164,7 +185,7 @@ Module contents:
 | `oira_status_pulls.md` | Extracts from the RegInfo/regulations.gov watch log for OMB Control No. 2535-0113. |
 | `README.md` | Module index and provenance. |
 
-## C.5 Model § 553(e) petition and exhibit map
+### C.5 Model § 553(e) petition and exhibit map
 
 The Note's Part IV.A proposes a § 553(e) petition for a companion disability-data rule and states
 (footnote 115) that a model petition and its exhibit map are archived in the repository. The model
@@ -202,7 +223,7 @@ materials; each maps to a source preserved in this repository:
 | 11 | 2026 PRA comment as filed (July 6, 2026), filing-status record, and any later HUD response or nonresponse | `article/appendices/admin_record_c/pra_comment_2026/` |
 | 12 | Privacy-and-phasing proposal (HMDA-model tiers; assisted-housing pilot) | `methodology_privacy_and_taxonomy.md` (retained in the project's private research records); `hmda_section_3614a_analogy.md` (retained in the project's private research records) |
 
-## C.6 ADAPT/Chaney and the PRA § 3507(d)(6) distinction (extended)
+### C.6 ADAPT/Chaney and the PRA § 3507(d)(6) distinction (extended)
 
 This section carries the relocated detail from the Note's footnotes 118 and 122 that bears on why
 the PRA does not preclude the review the petition contemplates. The standing- and

@@ -180,7 +180,7 @@ this section:
   `results/supporting/` analysis layer and the `supplementary/` index). These are
   LLM-assisted working analyses that are not part of the Note's claim path; nothing the
   Note prints relies on them. Their negative and superseded results are summarized in
-  [`../LIMITATIONS_AND_NEGATIVE_RESULTS.md`](../LIMITATIONS_AND_NEGATIVE_RESULTS.md).
+  [`../article/EVIDENCE_AND_LIMITS.md`](../article/EVIDENCE_AND_LIMITS.md).
 - **Unredacted intermediates** (raw scrapes, pre-redaction case texts, and
   development-era working files), retained under the same source-discipline rules the
   published data dictionary describes.
