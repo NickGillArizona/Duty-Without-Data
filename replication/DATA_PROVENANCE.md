@@ -118,12 +118,23 @@ The unified FHA database in `data/FHA_Unified_Database.json` was assembled betwe
 
 No opinion was excluded on the basis of outcome direction, jurisdiction, circuit, classifier-assigned claim type, or representation status.
 
-### 2.5 Redistribution
+### 2.5 Redistribution and minimization
 
 The `data/FHA_Unified_Database.json` file in this archive redistributes:
 
 - Factual docket metadata (case name, decision date, citation, court, filing date) from subscription opinion databases and PACER (factual public records; not copyrightable).
 - Classifier-assigned labels produced by the multi-model consensus pipeline (original to this project; released under the archive's chosen data license, see [`../LICENSE-DATA`](../LICENSE-DATA)).
+
+The published databases are minimized projections of the full research databases: five
+free-text and property-level fields (model-written case summaries and holdings, the
+accommodation narrative, free-text race detail, and property city) are removed by
+[`../scripts/minimize_public_dataset.py`](../scripts/minimize_public_dataset.py), which
+records the registered digest of each full source. No published claim reads a removed
+field — the release gate re-derives the registered baselines from the minimized file on
+every run — and the full databases are retained in the project's private research
+records. Court records are public, but a compiled corpus of disability-related
+narratives raises a data-minimization question of its own; the archive publishes the
+fields the published analyses need, and no more.
 
 The canonical JSON contains NO opinion-text field. Full opinion text is not redistributed in this
 repository. The 853 CourtListener texts consumed by the validation and comparator modules are on file

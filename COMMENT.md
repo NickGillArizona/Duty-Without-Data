@@ -269,20 +269,23 @@ The absence is the comment. Describe what your organization cannot measure, cann
 cannot answer because no federal collection exists — that is precisely the "practical utility"
 evidence the PRA process is designed to receive.
 
-**Does one comment really matter?**
-On this docket, yes. See [Why one comment counts](#why-one-comment-counts): HUD must evaluate
-comments received, the docket is historically near-empty, and everything filed becomes part of the
-record the petition and any reviewing court will read.
+**Does one comment matter?**
+A submitted comment becomes part of the public docket. Its practical effect cannot be
+predicted, but it ensures that HUD receives the commenter's record-based concerns during the
+pending clearance process — HUD must evaluate comments received, the docket is historically
+near-empty, and everything filed becomes part of the record the petition and any reviewing
+court will read. See [Why one comment counts](#why-one-comment-counts).
 
 **Is any of this legal advice?**
 No. Every document here was drafted by a J.D. candidate, not an attorney, for adaptation by you or
 your counsel. The research is offered so that an organization's own lawyers can evaluate it.
 
-**Who is behind this, and why should we trust it?**
-A law student — and you should not take this page's word for anything. That is the design: every
-factual claim above links to a primary government document archived in this repository or posted on
-a government website, the Note it comes from is forthcoming in the Arizona Law Review (2026), and
-the full dataset, methodology, and claims ledger are public. Check everything.
+**Who prepared these materials?**
+The materials were prepared by the Note's author, a J.D. candidate, and are provided with
+source links so readers can independently evaluate the record: every factual claim above links
+to a primary government document archived in this repository or posted on a government website,
+the Note is forthcoming in the Arizona Law Review (2026), and the dataset, methodology, and
+claims ledger are public.
 
 ## Go deeper
 

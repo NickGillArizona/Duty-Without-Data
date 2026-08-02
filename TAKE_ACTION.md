@@ -91,10 +91,15 @@ of organizational standing are contraindicated. The governing analysis is the ma
 
 ## 4. Using the data: what to cite, and what not to cite
 
-Advocates can safely cite the Note's **ledger-backed findings**: every empirical sentence in the Note
-maps to a source, script, output, and footnote in [`article/CLAIMS_LEDGER.csv`](article/CLAIMS_LEDGER.csv), the
+Advocates can safely cite the Note's **ledger-backed findings**: the Note's printed and directly
+relied-on claims each map to a source and an evidence route in
+[`article/CLAIMS_LEDGER.csv`](article/CLAIMS_LEDGER.csv) — 53 rows, every route checked at release
+by [`scripts/check_claims_ledger.py`](scripts/check_claims_ledger.py) — the
 figures regenerate from the canonical artifacts (see [`replication/REPRODUCE.md`](replication/REPRODUCE.md)), and the
-extended analyses live in [`article/appendices/`](article/appendices/).
+extended analyses live in [`article/appendices/`](article/appendices/). Two limits worth knowing
+before you cite: 41 registered assertions are recomputed automatically, which is a selection
+rather than every number in the article; and 12 of the 53 rows rest on the cited primary source
+plus privately retained material, so verify those at the primary source itself.
 
 Exploratory research memoranda are **not published in this archive** and are not citable
 authority: the LLM-assisted working analyses that once accompanied the results layer are

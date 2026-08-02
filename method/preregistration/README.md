@@ -12,6 +12,14 @@ pre-trend) are the as-run document-level registration record; the manuscript pri
 components — the reported Part II series is the case-level census
 (`results/series_2026-07.json`), on which no aggregate trend is asserted.
 
+The registration's canonical-input digest names the full research database as run
+(3,366 records, SHA256 `bcadb0ee...`). The published archive ships that database's
+minimized projection -- five free-text and property-level fields removed, no record
+or analyzed field touched -- so hashing `data/FHA_Unified_Database.json` here yields
+the projection's digest, not the registered one. The derivation, both digests, and
+the re-derivation check are in [`../../scripts/minimize_public_dataset.py`](../../scripts/minimize_public_dataset.py) and
+[`../../replication/DATA_PROVENANCE.md`](../../replication/DATA_PROVENANCE.md) sec. 2.5.
+
 Contents and outcomes:
 
 - SELECTION_AUDIT.* - the fn 90 counsel-selection audit. Registered outcome SUPPORTS-BOUNDING

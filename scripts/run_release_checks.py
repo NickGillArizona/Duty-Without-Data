@@ -32,7 +32,15 @@ Runs, in order:
                                          at runtime from the series of record
                                          (results/series_2026-07.json);
 17. scripts/check_source_text_leakage.py — no non-distributed opinion text enters the release;
-18. scripts/check_deadline_freshness.py — the time-sensitive comment-window presentation is current.
+18. scripts/check_deadline_freshness.py — the time-sensitive comment-window presentation is current;
+19. scripts/check_claims_ledger.py     — article/CLAIMS_LEDGER.csv parses, every claim_id is
+                                         unique and well-formed, no required field is blank, and
+                                         every path-like evidence route resolves. It reports, and
+                                         does not assert, the split between claim-specific public
+                                         routes and rows resting on the cited primary source plus
+                                         privately retained material. It does NOT establish that a
+                                         route is the right route for its claim, or that a source
+                                         supports its claim.
 
 Everything here is a deterministic local check. Model reruns (OpenRouter/Anthropic lanes) and
 corpus reconstruction are intentionally NOT part of this gate; see replication/REPRODUCE.md ("What is
@@ -68,6 +76,7 @@ CHECKS = [
     ("claim-authority blocks", ["scripts/check_claim_authority.py"]),
     ("source-text leakage guard", ["scripts/check_source_text_leakage.py"]),
     ("deadline freshness", ["scripts/check_deadline_freshness.py"]),
+    ("claims-ledger integrity", ["scripts/check_claims_ledger.py"]),
 ]
 
 

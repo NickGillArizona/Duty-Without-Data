@@ -29,7 +29,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[4]
 STUDY = ROOT / "results" / "comparator_analysis_2026-07"
 AUDIT_OUT = STUDY / "recoding_2026-07-07" / "audit"
-DATA_PATH = ROOT / "Displacing-Deference-Data-and-Doctrine-for-a-Disability-Centered-AFFH" / "data" / "FHA_Unified_Database.json"
+# As-run source: the full research database, whose raw digest is pinned below. The
+# published repository ships the minimized projection of that database (see
+# scripts/minimize_public_dataset.py), so this as-run checker will refuse to recompute
+# against it -- by design: its cells were derived from the full narrative text.
+DATA_PATH = ROOT / "data" / "FHA_Unified_Database.json"
 EXPECTED_SHA = "bcadb0ee59c8df54a201735eb5d09f58622d5402512c02d7bd9ac13e9671b178"
 EXPECTED_N = 3366
 

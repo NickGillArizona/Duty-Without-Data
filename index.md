@@ -130,10 +130,10 @@ Filing it obligates HUD to respond within a reasonable time and to state the gro
 remand for explanation — not judicial database design. The limiting principle: make duties Congress
 already enacted verifiable; derive no new ones.
 
-Drafted, adaptation-ready templates — the petition (organizational and individual variants), the
-2026 comment, the contingent judicial-review layer, and a standing brief — are in
-[action/](https://github.com/NickGillArizona/Duty-Without-Data/tree/main/action), each drafted
-by a J.D. candidate, not an attorney, for adaptation by counsel. Nothing on this site is legal
+Illustrative templates requiring independent legal review — the § 553(e) petition (a modular
+template with organizational and individual interest sections) and the 2026 comment template —
+are in [action/](https://github.com/NickGillArizona/Duty-Without-Data/tree/main/action), each
+drafted by a J.D. candidate, not an attorney, for adaptation by counsel. Nothing on this site is legal
 advice, no attorney-client relationship is created by using it, and the site was drafted with LLM
 assistance and reviewed and approved by the author.
 
@@ -164,7 +164,7 @@ Every number in the Note has a paper trail:
 maps each empirical sentence to its source, script, output, and footnote, and the analysis re-runs
 with the commands in
 [REPRODUCE.md](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/replication/REPRODUCE.md). The
-manuscript, eighteen appendices, the multi-model methodology, and the validation materials are all
+manuscript, fifteen appendices, the multi-model methodology, and the validation materials are all
 in the [repository](https://github.com/NickGillArizona/Duty-Without-Data). Start with the
 [README](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/README.md).
 

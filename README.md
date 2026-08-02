@@ -1,34 +1,30 @@
 # Duty Without Data
 
-*Research and replication archive for Disability Fair Housing and the Record-Dependent Right*
-
-[![Release checks](https://github.com/NickGillArizona/Duty-Without-Data/actions/workflows/release-checks.yml/badge.svg)](https://github.com/NickGillArizona/Duty-Without-Data/actions/workflows/release-checks.yml)
+*Disability Fair Housing and the Record-Dependent Right* — research and replication archive
 
 Nicholas Gill · Forthcoming, **Arizona Law Review** (2026)
 
 > [!IMPORTANT]
 > Federal disability fair-housing rights depend on records—requests, decisions, accessible units, occupancy—that HUD systems create only in fragments and no identified cross-program system reliably links, transmits, or makes accessible.
 
+- **Understand the argument** — [Argument in brief](article/THE_ARGUMENT.md) · [full manuscript](manuscript/Duty_Without_Data.md)
+- **Verify a printed claim** — [Claims ledger](article/CLAIMS_LEDGER.csv) · [worked verification](replication/VERIFY_ONE_CLAIM.md)
+- **Review method and limits** — [Methodology](method/METHODOLOGY.md) · [validation](method/VALIDATION.md) · [reproduce](replication/REPRODUCE.md)
+- **Find an appendix** — [Browse by question](article/appendices/README.md) · [exact crosswalk](article/APPENDIX_CROSSWALK.md)
+- **Use the implementation materials** — [Time-ordered options](TAKE_ACTION.md) · [petition and comment materials](action/README.md)
+
 **The problem, in one case.** In 2010 the Mobile Housing Board gave Donavette Ely a four-bedroom Section 8 voucher because her son’s asthma required a bedroom with separate temperature controls—the Board’s own written explanation cited his medical condition. When she could not find a qualifying unit in time, the Board granted one extension, refused more, and removed the family from the program. The Eleventh Circuit affirmed judgment for the Board: Ely “never explained” that her request was connected to her son’s disability. *Ely v. Mobile Hous. Bd.*, 605 F. App’x 846, 851–52 (11th Cir. 2015). The explanation sat in the Board’s own file; no record system carried it forward.
 
-**The paper trail.** Congress gave HUD express fair-housing data authority in 1988, and HUD’s own regulation has named disability-related data categories since 1989. What HUD did with it is one collection, three Federal Register notices:
+**The paper trail.** Congress gave HUD express fair-housing data authority in 1988; HUD’s own regulation has named disability-related data categories since 1989. One collection, three notices:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="action/figures/form_27061_timeline_dark.svg">
   <img src="action/figures/form_27061_timeline_light.svg" width="760" alt="Three panels comparing Form HUD-27061 across the 2022 proposal, the 2023 approved form, and the 2026 renewal. In 2022 HUD proposed adding protected-class categories, citing the Fair Housing Act and 24 CFR 121, whose categories include disability and family characteristics. The 2023 approved form collects race and ethnicity only, and the 2023 notice never uses the words disability, handicap, protected class, or Fair Housing Act. The 2026 renewal proposes the same form unchanged while still describing it as collecting other protected class data required by the Fair Housing Act. The burden estimate is identical in all three: 14,375 respondents and 8,625 annual hours.">
 </picture>
 
-*Proposed with disability categories (2022), approved without them (2023), renewal proposed unchanged (2026)—sources cited in each panel.*
+*Proposed with disability categories (60-day notice, Sept. 27, 2022, 87 FR 58,524); approved without them (30-day notice, Jan. 27, 2023, 88 FR 5,370); renewal proposed unchanged (June 12, 2026, 91 FR 35,697) — [full chronology](record/hud-27061/CHRONOLOGY.md).*
 
 The Note proposes a narrow response: petition HUD under 5 U.S.C. § 553(e), requiring the agency either to begin building the missing record architecture or explain on the record why it will not. A data category an agency invoked and then abandoned without explanation is what reasoned-explanation review exists to test.
-
-| I want to… | Start here |
-|---|---|
-| **Understand the argument** | [Argument in brief](article/THE_ARGUMENT.md) · [full manuscript](manuscript/Duty_Without_Data.md) |
-| **Verify a printed claim** | [Claims ledger](article/CLAIMS_LEDGER.csv) · [worked verification](replication/VERIFY_ONE_CLAIM.md) |
-| **Review method and limits** | [Methodology](method/METHODOLOGY.md) · [validation](method/VALIDATION.md) · [reproduce](replication/REPRODUCE.md) |
-| **Find an appendix** | [Browse by question](article/appendices/README.md) · [exact crosswalk](article/APPENDIX_CROSSWALK.md) |
-| **Use the implementation materials** | [Time-ordered options](TAKE_ACTION.md) · [petition and comment materials](action/README.md) |
 
 ## What the archive shows
 
@@ -50,6 +46,8 @@ From an original corpus of 1,900 screened federal opinion and order records, a o
 **Source texts.** Full case texts are not distributed here; the validation and comparator texts are on file with the author, with CourtListener identifiers, URLs, and SHA-256 hashes preserved in [`opinion_sources.csv`](opinion_sources.csv).
 
 ## Check, do not just trust
+
+[![Release checks](https://github.com/NickGillArizona/Duty-Without-Data/actions/workflows/release-checks.yml/badge.svg)](https://github.com/NickGillArizona/Duty-Without-Data/actions/workflows/release-checks.yml)
 
 Every reported number should resolve to a registered claim, its analytical unit, and its generating artifact.
 
@@ -73,10 +71,10 @@ Use GitHub’s **Cite this repository** control or the [citation guide](CITATION
 
 ## AI disclosure
 
-Language models were used for document classification, code development, analysis support, and editorial assistance. The author reviewed the case-level census, made all legal and interpretive judgments, and is responsible for the manuscript and repository; no model output is cited as legal authority. Raw outputs are published for the headline validation ensemble, adjudication-tier metadata for the primary pipeline (boundary: [system map](method/SYSTEM_MAP.md)). Full roles, instruments, and limitations: [AI_USE.md](AI_USE.md) and [CREDITS](CREDITS.md).
+Language models assisted document classification, code development, analysis, and editing. The author reviewed the case-level census, made all legal and interpretive judgments, and is responsible for the manuscript and repository; no model output is cited as legal authority. Raw outputs are published for the headline validation ensemble, adjudication-tier metadata for the primary pipeline (boundary: [system map](method/SYSTEM_MAP.md)). Full roles, instruments, and limitations: [AI_USE.md](AI_USE.md) and [CREDITS](CREDITS.md).
 
 ## About the author
 
-I am a J.D. candidate (Class of 2027) at the University of Arizona James E. Rogers College of Law. If this archive would be useful to your organization—or something in it is wrong—email [nickgill@arizona.edu](mailto:nickgill@arizona.edu) or [open an issue](https://github.com/NickGillArizona/Duty-Without-Data/issues).
+J.D. candidate, Class of 2027, University of Arizona James E. Rogers College of Law. If this archive would be useful to your organization—or something in it is wrong—email [nickgill@arizona.edu](mailto:nickgill@arizona.edu) or [open an issue](https://github.com/NickGillArizona/Duty-Without-Data/issues).
 
 This archive is about disability rights, so its pages must stay usable with assistive technology; anything hard to use through a screen reader is a bug—report it.

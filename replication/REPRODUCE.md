@@ -10,7 +10,7 @@ This file maps each headline empirical claim in the Note to the script that prod
 pip install -r requirements.txt
 
 # The Part II series of record: re-derive the case-level census, assert every
-# registered value, then run the full eighteen-check release gate.
+# registered value, then run the full nineteen-check release gate.
 python scripts/build_case_level_series.py --check
 python scripts/validate_claims.py
 python scripts/run_release_checks.py
@@ -60,7 +60,7 @@ labels are model outputs produced under frozen, published instruments, and which
 opinions entered the decided census is governed by the tier definitions in
 [`SAMPLE_DEFINITIONS.md`](SAMPLE_DEFINITIONS.md). Those stages are reproducible
 as fresh classifications under the published instruments, not as byte-identical
-reruns (see [`../method/AGILE_ELS.md`](../method/AGILE_ELS.md) section 8).
+reruns (see [`../method/METHOD_SPECIFICATION.md`](../method/METHOD_SPECIFICATION.md) section 8).
 
 **What an independent reader can verify from this repository.** A reader can inspect the
 public source and classification artifacts, rerun the document-level analyses end to end
@@ -130,9 +130,7 @@ When filtering the July 2026 corpus refresh, match BOTH source tags
 
 | Claim | Script | Output |
 |---|---|---|
-| Iqbal / Twombly application at pleading gate | `fha_iqbal_analysis.py` | `extended_doctrinal_analysis.json` |
 | Circuit-level variation in outcomes | `circuit_district_deep_dive.py` | `circuit_district_deep_dive_results.json` |
-| Public-defendant process-claim underperformance | `public_defendant_analysis.py` | `public_defendant_process_failure_results.json` |
 | Pro se pleading-mechanism divergence | `pro_se_mechanism_analysis.py` | `pro_se_mechanism_divergence_results.json` |
 | LIHTC QAP accessibility audit (50 states + DC) | `lihtc_accessibility_audit.py`, `qap_accessibility_2025_2026_scan.py`, `make_qap_ledger.py` | `lihtc_accessibility_audit_results.json`, `qap_accessibility_2025_2026.json`, `qap_jurisdiction_ledger.csv` |
 
@@ -272,7 +270,7 @@ Two different reproducibility claims apply to this archive; keep them separate:
   need an OpenRouter key (order ~$5-$30 per run, see each directory's README) and, for
   `scripts/supplemental_batch.py`, an Anthropic key. Census PUMS scripts hit the public Census API
   (no key). The QAP scan additionally needs the external `pdftotext` binary (poppler-utils).
-- One-command deterministic gate: `python scripts/run_release_checks.py` runs eighteen checks in
+- One-command deterministic gate: `python scripts/run_release_checks.py` runs nineteen checks in
   sequence and exits 0 only if every one passes. What each check asserts — and what a green run does
   and does not establish — is in [`GATES.md`](GATES.md). `scripts/run_all.py` regenerates the core
   analyses; the comparator, registered-baseline, and QAP analyses have their own commands listed above.

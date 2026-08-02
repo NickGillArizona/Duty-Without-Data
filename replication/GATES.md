@@ -15,7 +15,7 @@ One command, deterministic, local: no network, no API keys, no cost. Exit code 0
 every check passes. The CI badge in the [README](../README.md) runs exactly this command in
 two environments (see [Environments](#environments)).
 
-## The eighteen checks
+## The nineteen checks
 
 | # | Check | Script | What it examines | A failure means |
 |---|---|---|---|---|
@@ -37,6 +37,7 @@ two environments (see [Environments](#environments)).
 | 16 | Claim-authority blocks | `scripts/check_claim_authority.py` | The marker-delimited claim blocks on README, index, and THE_ARGUMENT | A front-door census statement no longer matches the literals derived at runtime from `results/series_2026-07.json` |
 | 17 | Source-text leakage guard | `scripts/check_source_text_leakage.py` | Tracked and untracked, nonignored release files | A registered source opinion, or a file placed in a source-text directory, would enter the public repository |
 | 18 | Deadline freshness guard | `scripts/check_deadline_freshness.py` | `_config.yml`, README, index, and COMMENT | Comment-window status or deadline language drifted from the configured publication state |
+| 19 | Claims-ledger integrity | `scripts/check_claims_ledger.py` | `article/CLAIMS_LEDGER.csv` | The ledger fails to parse, a claim row is malformed, a required field is blank, or a path-like evidence route no longer resolves in the tree |
 
 ### What each check asserts
 
@@ -110,6 +111,15 @@ This check treats `_config.yml` as the authority for whether the window is activ
 its deadline. While active, README, index, and COMMENT must state the configured date; after
 the date passes, an active window fails automatically. When the window is marked inactive,
 registered invitations to submit comments fail so an expired call does not remain public.
+
+**19 — Claims-ledger integrity.** The first check that reads
+[`../article/CLAIMS_LEDGER.csv`](../article/CLAIMS_LEDGER.csv) directly. It asserts that the
+ledger parses with the expected header, that every claim ID is well-formed and unique, that
+no required field is blank, and that every path-like evidence route resolves to a file or
+directory in this tree; it reports, without asserting, the split between claim-specific
+public routes and primary-source-plus-private routes. It does not establish that a route is
+the right route for its claim, that the cited primary source supports the claim, or that the
+ledger covers every published number.
 
 ## What a green run establishes
 

@@ -6,7 +6,7 @@ This dictionary defines the public fields and coding conventions of the FHA Unif
 
 The FHA Unified Database (`data/FHA_Unified_Database.json`) contains **3,366 federal FHA opinions** in the raw corpus: 3,198 from the two source databases (RA Database 2,366 ∪ 2015 § 3604(f) Database 1,661; 829 overlap by `source_file`) plus 168 records added by the July 3, 2026 CourtListener re-pull extending the corpus endpoint to July 1, 2026 (tagged `database_sources = ["p3ext_20260703"]` or `["p3ext_20260703_r2"]`); the re-pull screened in 168 records — 133 carried by the `p3ext_20260703` tag, plus 35 distinct later opinions in cases already in the corpus that name-based deduplication wrongly dropped and a cluster-ID deduplication audit restored under the `p3ext_20260703_r2` tag. Of these, **2,690** are screened-in federal FHA cases (`screening_result == "YES"`), and **1,900** are screened-in disability cases (`screening_result == "YES"` AND (`protected_classes` contains `"disability"` OR `disability_alleged == True` OR `is_ra_case == True`)). The narrower filter `protected_classes` contains `"disability"` alone yields **1,849**; the 51-case gap is records flagged via `disability_alleged` or `is_ra_case` without `"disability"` appearing in `protected_classes`. **1,900** is the canonical disability-analysis population; all downstream subsets (disability-wave tranche, pleading-loss universe, etc.) are nested within it. See [`../../replication/SAMPLE_DEFINITIONS.md`](../../replication/SAMPLE_DEFINITIONS.md) § 2 for the full tier framework.
 
-This curated dictionary documents the 28 model-classified fields produced by the Agile ELS multi-model consensus pipeline. Stored records carry additional keys beyond these 28 — screening results, source flags, and refresh metadata — and screened-out records carry only a small subset (record-level key counts range from 4 to 44). The complete observed schema is in [Complete Stored Schema](#data-dictionary--complete-stored-schema-generated) below, with a machine-readable JSON Schema at [`../FHA_Unified_Database.schema.json`](../FHA_Unified_Database.schema.json) (regenerate both with `python scripts/make_data_dictionary.py`).
+This curated dictionary documents the model-classified fields produced by the multi-model consensus pipeline, as published. The classifier's full 28-field output includes five free-text and property-level fields that the published database omits under the data-minimization policy described in [Narrative Fields](#narrative-fields) (`scripts/minimize_public_dataset.py`). Stored records carry additional keys beyond the classified fields — screening results, source flags, and refresh metadata — and screened-out records carry only a small subset (record-level key counts range from 4 to 39). The complete observed schema is in [Complete Stored Schema](#data-dictionary--complete-stored-schema-generated) below, with a machine-readable JSON Schema at [`../FHA_Unified_Database.schema.json`](../FHA_Unified_Database.schema.json) (regenerate both with `python scripts/make_data_dictionary.py`).
 
 ## Case Identification
 
@@ -48,9 +48,15 @@ This curated dictionary documents the 28 model-classified fields produced by the
 
 | Field | Type | Description |
 |-------|------|-------------|
-| `brief_summary` | string | One-paragraph case summary |
-| `key_holding` | string | Primary legal holding |
 | `key_cases_cited` | array | Principal authorities cited |
+
+The published database is a minimized projection of the full research database: five
+free-text and property-level fields (model-written case summaries and holdings, the
+accommodation narrative, free-text race detail, and property city) are removed by
+`scripts/minimize_public_dataset.py`, which also documents the registered digest of the
+full source. No published claim reads a removed field, and
+`scripts/recompute_verification.py` re-derives the registered baselines from the
+minimized file on every release-gate run.
 
 ## Per-Claim Decomposition
 
@@ -93,9 +99,7 @@ Records are heterogeneous by design: screened-out records (screening_result == "
 | Key | Types | Present (all) | Null (all) | Present T1 | Present T2 | Distinct values | Enumerated values |
 |---|---|---|---|---|---|---|---|
 | `_not_fha_flag` | boolean | 52/3366 | 0 | 52/2690 | 25/1900 |  |  |
-| `accommodation_description` | string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | >24 |  |
 | `accommodation_type` | string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | 17 | `ASSISTANCE_ANIMAL`; `COMMUNICATION_ACCOMMODATION`; `DESIGN_AND_CONSTRUCTION`; `DISCRIMINATION_PRIMARY`; `EVICTION_DEFENSE`; `LIVE_IN_AIDE`; `NONE`; `OTHER`; `PARKING`; `POLICY_EXCEPTION`; `RENT_PAYMENT`; `SECTION_8_VOUCHER`; `SOBER_LIVING_… |
-| `brief_summary` | string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | >24 |  |
 | `case_name` | string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | >24 |  |
 | `circuit` | string | 3088/3366 | 0 | 2662/2690 | 1878/1900 | 14 | `10th Circuit`; `11th Circuit`; `1st Circuit`; `2nd Circuit`; `3rd Circuit`; `4th Circuit`; `5th Circuit`; `6th Circuit`; `7th Circuit`; `8th Circuit`; `9th Circuit`; `D.C. Circuit`; `Federal Circuit`; `Supreme Court` |
 | `citation` | string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | >24 |  |
@@ -117,7 +121,6 @@ Records are heterogeneous by design: screened-out records (screening_result == "
 | `iqbal_twombly_cited` | boolean | 3357/3366 | 0 | 2688/2690 | 1899/1900 |  |  |
 | `is_ra_case` | boolean | 3357/3366 | 0 | 2688/2690 | 1899/1900 |  |  |
 | `key_cases_cited` | array | 2690/3366 | 0 | 2690/2690 | 1900/1900 |  |  |
-| `key_holding` | string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | >24 |  |
 | `loper_bright_cited` | string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | 3 | `NO`; `UNDETERMINED`; `YES` |
 | `loper_bright_era` | string | 3366/3366 | 0 | 2690/2690 | 1900/1900 | 3 | `post_loper_bright`; `pre_loper_bright`; `unknown` |
 | `outcome` | string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | 6 | `DEFENDANT_WIN`; `MIXED`; `PLAINTIFF_WIN`; `PROCEDURAL`; `SETTLEMENT`; `UNDETERMINED` |
@@ -126,10 +129,8 @@ Records are heterogeneous by design: screened-out records (screening_result == "
 | `primary_protected_class` | string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | 12 | ``; `N/A`; `NONE`; `UNDETERMINED`; `disability`; `familial_status`; `national_origin`; `race`; `religion`; `sex`; `undetermined`; `veteran_status` |
 | `pro_se` | boolean | 3356/3366 | 0 | 2688/2690 | 1899/1900 |  |  |
 | `procedural_posture` | string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | 15 | `ADMINISTRATIVE_REVIEW`; `APPEAL`; `DEFAULT_JUDGMENT`; `DISCOVERY`; `MOTION_IN_LIMINE`; `MOTION_TO_DISMISS`; `OTHER`; `OTHER_PROCEDURAL`; `PRELIMINARY_INJUNCTION`; `PROCEDURAL`; `SCREENING_ORDER`; `SETTLEMENT_CONSENT`; `SUMMARY_JUDGMENT`; `… |
-| `property_city` | string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | >24 |  |
 | `property_state` | string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | >24 |  |
 | `protected_classes` | array/string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | >24 |  |
-| `race_if_mentioned` | string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | >24 |  |
 | `race_mentioned` | string | 2690/3366 | 0 | 2690/2690 | 1900/1900 | 3 | `NO`; `UNDETERMINED`; `YES` |
 | `screening_result` | string | 3331/3366 | 0 | 2690/2690 | 1900/1900 | 2 | `NO`; `YES` |
 | `secondary_accommodation_type` | null/string | 2690/3366 | 1 | 2690/2690 | 1900/1900 | 13 | `ASSISTANCE_ANIMAL`; `COMMUNICATION_ACCOMMODATION`; `EVICTION_DEFENSE`; `LIVE_IN_AIDE`; `NONE`; `PARKING`; `POLICY_EXCEPTION`; `REASONABLE_MODIFICATION_DENIAL`; `RENT_PAYMENT`; `STRUCTURAL_MODIFICATION`; `TRANSFER`; `UNDETERMINED`; `VISITOR… |

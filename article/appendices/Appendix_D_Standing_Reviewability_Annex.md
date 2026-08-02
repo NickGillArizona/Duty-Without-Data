@@ -6,11 +6,11 @@ statutory-function detail, the individual-petitioner standing architecture (inju
 and the procedural-rights track), and an anticipated-objection analysis presenting the strongest
 standing challenge and the response the Note adopts. It develops the reasoning behind the
 manuscript's footnotes 121 and 122, together with the institutional-standing layer (P&A and
-*Havens* organizational theories), which carries assurance level EXTENDED; the
+*Havens* organizational theories), which is published as supplementary analysis; the
 manuscript states the conclusions, and this appendix states the analysis.
 
 **PROVENANCE.** Develops the manuscript's Part IV.B footnotes 121 and 122 (and the
-institutional-layer analysis, assurance level EXTENDED), together with the standing architecture
+supplementary institutional-layer analysis), together with the standing architecture
 set out in the manuscript's footnotes 121, 149, 150, and 152. The
 anticipated-objection section restates a standing challenge in the form a government litigant would
 press it and the response the Note builds into Part IV.B.

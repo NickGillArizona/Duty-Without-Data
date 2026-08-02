@@ -27,7 +27,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 OUT = HERE.parent / "courtlistener_recall"
 ROOT = Path(__file__).resolve().parents[4]
-DATA_PATH = ROOT / "Displacing-Deference-Data-and-Doctrine-for-a-Disability-Centered-AFFH" / "data" / "FHA_Unified_Database.json"
+DATA_PATH = ROOT / "data" / "FHA_Unified_Database.json"
 BASE = "https://www.courtlistener.com/api/rest/v4/"
 STAT = ["stat_Published", "stat_Unpublished", "stat_Errata", "stat_Separate",
         "stat_In-chambers", "stat_Relating-to", "stat_Unknown"]

@@ -13,7 +13,12 @@ PREREG = ROOT / "method" / "preregistration"
 DATA_PATH = ROOT / "data" / "FHA_Unified_Database.json"
 MAP_PATH = ROOT / "replication" / "comparator" / "CLAIM_TYPE_NORMALIZATION_MAP.json"
 
-EXPECTED_DATA_SHA_LF = "bc6c4b1091401d82216266b89152a7bb2c4aa72c70c0686f3cff01a0a0bff95a"
+# See scripts/minimize_public_dataset.py. REGISTERED_SOURCE_DATA_SHA_LF is the digest of
+# the full registered research database (retained privately); EXPECTED_DATA_SHA_LF is the
+# digest of the published minimized projection shipped here. Minimization removes fields,
+# never records, and touches no field this script reads.
+REGISTERED_SOURCE_DATA_SHA_LF = "bc6c4b1091401d82216266b89152a7bb2c4aa72c70c0686f3cff01a0a0bff95a"
+EXPECTED_DATA_SHA_LF = "3f150c39ff187eea002cfc51e7fd7b2c2e399bd27949606b40673a1a706055ed"
 EXPECTED_DATA_COUNT = 3366
 INST_TYPES = {"FAIR_HOUSING_ORG", "GOVERNMENT", "GROUP_HOME_OPERATOR"}
 DECIDED = {"PLAINTIFF_WIN", "DEFENDANT_WIN", "MIXED"}

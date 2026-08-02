@@ -1,6 +1,6 @@
 # fn 76 driver-field agreement: blind re-read against the recorded codes
 
-**Assurance:** EXTENDED (machine-classified; deterministic recompute).
+**Status:** supplementary descriptive analysis (machine-classified; deterministic recompute).
 
 **Universe.** 408 joined rows (408 coded rows against 408 key rows). Agreement is computed on
 determinate rows only — rows where both the recorded key and the blind re-read returned a

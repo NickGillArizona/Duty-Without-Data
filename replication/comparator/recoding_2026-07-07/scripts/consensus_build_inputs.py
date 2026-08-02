@@ -23,7 +23,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[4]
 STUDY = ROOT / "results" / "comparator_analysis_2026-07"
 OUT = STUDY / "recoding_2026-07-07" / "consensus_stage"
-DATA_PATH = ROOT / "Displacing-Deference-Data-and-Doctrine-for-a-Disability-Centered-AFFH" / "data" / "FHA_Unified_Database.json"
+# As-run source: the full research database (the masked rationale text it assembles
+# reads narrative fields the published minimized database omits -- see
+# scripts/minimize_public_dataset.py). The private study inputs it verifies against
+# are retained in the project's research records.
+DATA_PATH = ROOT / "data" / "FHA_Unified_Database.json"
 
 MASK_REPLACEMENTS = [
     (r"\b(disab\w*|handicap\w*|impair\w*|wheelchair|ptsd|autis\w*|mental health|mobility|blind|deaf)\b", "[CLASS]"),

@@ -7,10 +7,6 @@
       "description": "present in 52/3366 records; null in 0",
       "type": "boolean"
     },
-    "accommodation_description": {
-      "description": "present in 2690/3366 records; null in 0",
-      "type": "string"
-    },
     "accommodation_type": {
       "description": "present in 2690/3366 records; null in 0",
       "enum": [
@@ -32,10 +28,6 @@
         "UNDETERMINED",
         "VISITOR_CAREGIVER_ACCESS"
       ],
-      "type": "string"
-    },
-    "brief_summary": {
-      "description": "present in 2690/3366 records; null in 0",
       "type": "string"
     },
     "case_name": {
@@ -206,10 +198,6 @@
       "description": "present in 2690/3366 records; null in 0",
       "type": "array"
     },
-    "key_holding": {
-      "description": "present in 2690/3366 records; null in 0",
-      "type": "string"
-    },
     "loper_bright_cited": {
       "description": "present in 2690/3366 records; null in 0",
       "enum": [
@@ -322,10 +310,6 @@
       ],
       "type": "string"
     },
-    "property_city": {
-      "description": "present in 2690/3366 records; null in 0",
-      "type": "string"
-    },
     "property_state": {
       "description": "present in 2690/3366 records; null in 0",
       "type": "string"
@@ -336,10 +320,6 @@
         "array",
         "string"
       ]
-    },
-    "race_if_mentioned": {
-      "description": "present in 2690/3366 records; null in 0",
-      "type": "string"
     },
     "race_mentioned": {
       "description": "present in 2690/3366 records; null in 0",

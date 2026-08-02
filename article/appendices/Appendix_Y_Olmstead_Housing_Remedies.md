@@ -1,6 +1,6 @@
 # Appendix Y — Consent Decree and Olmstead Housing Remedies Inventory
 
-**Cited by:** Note footnote 132 (Part III.D); the Part I.D fragments-inventory material carries assurance level EXTENDED
+**Cited by:** Note footnote 132 (Part III.D); the Part I.D fragments-inventory material is supplementary descriptive analysis
 **Source record:** full coding methodology and per-decree provenance are retained in the project's private research records; the committed dataset below is the artifact of record
 **Source dataset:** [`results/consent_decree_inventory_integration.json`](../../results/consent_decree_inventory_integration.json)
 **Evidentiary status:** Appendix-level doctrinal-remedies inventory (human-coded from decree documents; conservative-coding caveats in § Y.9).

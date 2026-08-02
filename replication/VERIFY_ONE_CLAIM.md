@@ -1,6 +1,6 @@
 # Verify One Registered Claim
 
-Ten minutes, no trust required. This walkthrough verifies the article's headline
+Ten minutes, mechanically checkable. This walkthrough verifies the article's headline
 outcome claim -- that qualifying plaintiff-side judgments occur in about 3% of
 decided cases (18 of 606), none of them pro se -- from the public per-row record
 through the generated artifact and the release gate.

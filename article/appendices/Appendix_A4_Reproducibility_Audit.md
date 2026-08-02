@@ -10,7 +10,7 @@
 > `SAMPLE_DEFINITIONS.md`), and every figure the Note cites from this appendix is the T2-keyed
 > value recorded in `CLAIMS_LEDGER.csv`. The audit's reproducibility conclusions concern the
 > classification pipeline itself and are unaffected; the unified-dataset figures below carry
-> assurance level EXTENDED (reproducible from the published inputs, outside the Note's
+> supplementary-analysis status (reproducible from the published inputs, outside the Note's
 > registered T2-keyed series).
 
 > **Scope note (2026-07-03).** The 50-case audit sample was drawn from the pre-refresh corpus
@@ -166,12 +166,12 @@ The tier-disaggregated data is consistent with this interpretation. Outcome disa
 
 Where the pipeline's own models agreed (Tiers 1–2), Opus agrees 71–86% of the time. Where they could not agree and the case had to be adjudicated on critical fields (Tier 4), Opus disagrees 55% of the time. Disagreement is thus concentrated on cases whose classification is hard; the audit measures reproducibility and cannot establish which label is correct. What the audit measures, then, is whether a solo model can replicate ensemble consensus — not whether the pipeline's canonical values are wrong.
 
-### A-4.10b Error Anatomy: Adjacent Categories, Not Hallucination
+### A-4.10b Observed Disagreement Patterns
 
-Inspection of the 15 outcome disagreements reveals that the pipeline does not produce wild misclassifications. The errors follow a structured pattern of adjacent-category disputes:
+The 15 outcome disagreements follow a structured pattern of adjacent-category disputes:
 
 **Outcome disagreements (15 cases):**
-- 11 of 15 (73%) are *adjacent-category* disputes: PLAINTIFF_WIN ↔ MIXED (4 cases), DEFENDANT_WIN ↔ MIXED (2), PROCEDURAL ↔ DEFENDANT_WIN (2), PROCEDURAL ↔ MIXED (3). These reflect genuine interpretive boundaries — whether a partial dismissal is MIXED or DEFENDANT_WIN, whether a remand is PROCEDURAL or MIXED.
+- 11 of 15 (73%) are *adjacent-category* disputes: PLAINTIFF_WIN ↔ MIXED (4 cases), DEFENDANT_WIN ↔ MIXED (2), PROCEDURAL ↔ DEFENDANT_WIN (2), PROCEDURAL ↔ MIXED (3). The pattern is consistent with category-boundary ambiguity but does not exclude systematic error — whether a partial dismissal is MIXED or DEFENDANT_WIN, whether a remand is PROCEDURAL or MIXED.
 - 4 of 15 (27%) are *non-adjacent*: PROCEDURAL → PLAINTIFF_WIN (3 cases) and UNDETERMINED → PLAINTIFF_WIN (1 case). These represent the pipeline coding cases as non-decided that Opus classified as plaintiff victories — a boundary dispute over whether the case reached a substantive outcome.
 
 **Disability category disagreements (14 non-trivial):**
@@ -193,7 +193,7 @@ The size of that effect, though, is modest and leaves the main findings intact. 
 - Slightly *increase* broad plaintiff win rates (MIXED cases contribute to the broad numerator)
 - Have negligible effect on the *relative* pre/post-2024 comparison, because PROCEDURAL cases are distributed across both periods
 
-What the period decline tracks is the *difference* in win rates between periods, not the absolute level. Adding cases to both periods' denominators dilutes both rates proportionally, so the difference and its statistical significance remain largely unchanged.
+What the document-level period decline tracks is the *difference* in win rates between periods, not the absolute level. Adding cases to both periods' denominators dilutes both rates proportionally, so the difference and its statistical significance remain largely unchanged.
 
 ### A-4.10e Claim-Specific Robustness Classification
 

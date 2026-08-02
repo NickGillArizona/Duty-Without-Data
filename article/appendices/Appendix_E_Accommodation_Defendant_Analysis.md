@@ -85,7 +85,7 @@
 | RENT_PAYMENT | 11 | 0.0 | 9.1 |
 
 **Notes:**
-- ASSISTANCE_ANIMAL cases declined sharply from P1 (43.2%/70.3%) to P3 (21.7%/30.4%), a drop of more than 20 percentage points (strict) and nearly 40 percentage points (broad).
+- ASSISTANCE_ANIMAL cases declined sharply from P1 (43.2%/70.3%) to P3 (21.7%/30.4%), a drop of more than 20 percentage points (strict) and nearly 40 percentage points (broad). (Document-level rates; see the note at the head of this appendix.)
 - LIVE_IN_AIDE cases collapsed to 0.0% broad in both P2 and P3 (combined n=6).
 - EVICTION_DEFENSE broad rates fell from 29.4% (P1) to 2.9% (P3). Across P2 and P3, defendants won nearly every eviction-related accommodation claim.
 - SOBER_LIVING / GROUP_HOME / ZONING held roughly steady; its P2 broad rate (54.5%) even edged past P1 (45.7%), which probably tracks the organizational-plaintiff litigation behind these claims.
@@ -233,7 +233,7 @@ recorded in [`FN76_AGREEMENT.md`](FN76_AGREEMENT.md).
 - MOBILITY broad rates slipped from P1 (42.4%) to P3 (38.3%), with a sharper trough in P2 (15.4%, n=13).
 - MENTAL_HEALTH broad rates dropped 18.4 percentage points, from 36.2% (P1) to 17.8% (P3).
 - SENSORY held a high P3 broad rate (50.0%) on only eight cases, in line with its database-wide lead (57.5%).
-- MULTIPLE / UNSPECIFIED, the largest identified category (n=411), saw broad rates fall from 28.3% (P1) to 13.0% (P3), a 15.3 percentage-point decline.
+- MULTIPLE / UNSPECIFIED, the largest identified category (n=411), saw broad rates fall from 28.3% (P1) to 13.0% (P3), a 15.3 percentage-point decline. (Document-level rates; see the note at the head of this appendix.)
 
 ---
 

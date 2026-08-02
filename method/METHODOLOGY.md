@@ -1,20 +1,20 @@
-# Agile Empirical Legal Studies — Technical Companion
+# Model-Assisted Classification Method — Technical Companion
 
 The technical companion to the [README](../README.md)'s plain-English summary: the full methodology design, the classification pipeline, the validation layers, the software inventory, the Note's three claim postures, and the exact headline statistics with their corpus tiers. Deeper still: [`VALIDATION.md`](VALIDATION.md) for the complete audit design and limitations, [`../replication/SAMPLE_DEFINITIONS.md`](../replication/SAMPLE_DEFINITIONS.md) for exact tier filters, and [`../replication/REPRODUCE.md`](../replication/REPRODUCE.md) for regeneration commands.
 
 ---
 
-## The methodology: Agile Empirical Legal Studies
+## The method
 
-The Note's second contribution is methodological. Empirical legal studies has a scale problem: the standard approach — research assistants hand-coding opinions — runs to hundreds of coder-hours, tops out around a few hundred cases in practice, and rests its reliability on one or two human coders. That constraint is part of why no human-coded dataset of federal FHA disability outcomes existed at this scale.
+The archive documents the model-assisted classification method used in the empirical analysis. Empirical legal studies has a scale problem: the standard approach — research assistants hand-coding opinions — runs to hundreds of coder-hours, tops out around a few hundred cases in practice, and rests its reliability on one or two human coders. That constraint is why this project includes no corpus-scale human-coded benchmark.
 
-**Agile ELS** treats corpus classification as an engineering problem instead of a staffing problem: version-controlled prompts and vocabularies, architecturally independent classifiers, tiered adjudication, automated regression checks on every published number, and re-runs cheap enough that the corpus is never frozen by sunk cost. The design choices:
+**The method** treats corpus classification as an engineering problem instead of a staffing problem: version-controlled prompts and vocabularies, separately run classifiers from different providers, tiered adjudication, automated regression checks on a registered set of published numbers, and re-runs cheap enough that the corpus is never frozen by sunk cost. The design choices:
 
-- **Independent models, not one oracle.** Three architecturally independent base models from different labs (MiniMax M2.7, DeepSeek V3.2, Kimi K2.5) classify every opinion separately, so agreement means something — it is unlikely to be an artifact of any single model's idiosyncrasies, though provider diversity does not establish that errors are independent.
-- **Tiered adjudication, like code review.** Unanimous answers and 2-of-3 majorities are adopted directly, with no adjudicator. Only a three-way split escalates, and it escalates by stakes: Haiku 4.5 resolves three-way splits on non-critical fields; Sonnet 4.6 resolves three-way splits on critical fields (outcome, primary claim type, claim types). Either adjudicator receives the case text and each model's answer for the disputed fields. Cheap where stakes are low, stronger where they are high. Who filled those adjudicator roles differs by run: the RA Database component used Haiku 4.5 and Sonnet 4.6, while the merged 2015 FHA Database component used a MiniMax tiebreaker — the same model family as one of the three base classifiers — for 742 of its 1,496 records. The per-run tier counts are in [`pipeline/adjudication_metadata.json`](pipeline/adjudication_metadata.json).
+- **Independent models, not one oracle.** Three separately run base models from different providers (MiniMax M2.7, DeepSeek V3.2, Kimi K2.5) classify every opinion separately, so agreement means something — it is unlikely to be an artifact of any single model's idiosyncrasies, though provider diversity does not establish that errors are independent.
+- **Tiered adjudication under prespecified rules.** Unanimous answers and 2-of-3 majorities are adopted directly, with no adjudicator. Only a three-way split escalates, and it escalates by stakes: Haiku 4.5 resolves three-way splits on non-critical fields; Sonnet 4.6 resolves three-way splits on critical fields (outcome, primary claim type, claim types). Either adjudicator receives the case text and each model's answer for the disputed fields. Cheap where stakes are low, stronger where they are high. Who filled those adjudicator roles differs by run: the RA Database component used Haiku 4.5 and Sonnet 4.6, while the merged 2015 FHA Database component used a MiniMax tiebreaker — the same model family as one of the three base classifiers — for 742 of its 1,496 records. The per-run tier counts are in [`pipeline/adjudication_metadata.json`](pipeline/adjudication_metadata.json).
 - **Structured classification, not legal reasoning.** The models map opinion text onto pre-specified controlled vocabularies — 30 output keys per case covering outcome, parties, claim types, procedural stage, and more — by answering fixed questions. They do not make legal conclusions or independently establish the facts of a case. Every prompt and vocabulary is committed in [`prompts/`](prompts/) and [`pipeline/`](pipeline/). (Where pipeline documents name the Stage 4 operation "per-claim structured extraction," that is the term of art for parsing structured claim records out of opinion text; it asserts no fact about any case. Outside that stage name and the filenames that implement it, this archive describes model behavior as classification.)
 - **The headline number gets its own ensemble.** The pro se / represented mechanism finding is coded by a separate three-model majority vote (Kimi K2.6 + GLM-5.1 + DeepSeek V3.2, Fleiss' κ = 0.63) — then audited by a *different vendor's* models: a blind Claude Opus 4.7 re-read of all 668 coded cases and an end-to-end Opus 4.6 reclassification audit. The classifiers and their auditors do not share a lab.
-- **Regression tests for a law-review article.** [`../article/CLAIMS_LEDGER.csv`](../article/CLAIMS_LEDGER.csv) maps every empirical claim in the Note to its source, script, output file, sample, and footnote; [`../scripts/validate_claims.py`](../scripts/validate_claims.py) recomputes the article's numbers from the raw database and flags any drift beyond rounding tolerance.
+- **Regression tests for a law-review article.** [`../article/CLAIMS_LEDGER.csv`](../article/CLAIMS_LEDGER.csv) maps the Note's printed and directly relied-on claims — 53 rows — to their source and evidence route; [`../scripts/validate_claims.py`](../scripts/validate_claims.py) recomputes 41 registered assertions from the frozen canonical database and flags any drift beyond rounding tolerance; [`../scripts/check_claims_ledger.py`](../scripts/check_claims_ledger.py) verifies the ledger's structure and that every evidence route resolves. Stated exactly, because the difference matters: the 41 assertions are a registered selection, not every number in the article, and 12 of the 53 rows rest on the cited primary source plus privately retained material rather than on a claim-specific public artifact. What the ledger gates is that no printed claim lacks a recorded source and route — not that a script recomputes every sentence.
 - **Cheap enough to redo.** The primary three-classifier run — 2,522 opinions in the original build (2,690 after the July 2026 refresh), 30 output keys each — cost $85.59 in model-API spend, and the full pipeline (screening, per-claim extraction, the audits, and one abandoned candidate-model run) came to roughly $160, with the Haiku and Sonnet adjudication calls billed separately and not itemized. When reclassifying the entire universe costs less than a casebook, the schema can improve iteratively, and the full corpus was in fact re-coded from scratch multiple times purely to test reproducibility.
 
 The pipeline, end to end:
@@ -60,7 +60,7 @@ Who checks whom — classifiers, adjudicators, and their cross-vendor auditors:
 
 ```mermaid
 flowchart TB
-    subgraph L1["Layer 1 — primary classification, three independent labs"]
+    subgraph L1["Layer 1 — primary classification, three providers"]
         direction LR
         M1["MiniMax M2.7"]
         M2["DeepSeek V3.2"]
@@ -89,9 +89,9 @@ separately feeds Layer 5, an independent end-to-end reclassification audit by Cl
 4.6.*
 
 > [!NOTE]
-> All five layers establish **reproducibility**, not accuracy against a human-coded gold standard — no human-coded corpus of federal FHA disability opinions exists at this scale to benchmark against, which is precisely the scale problem the methodology addresses. The archive reports inter-model agreement, publishes every raw per-model output, and identifies which claims depend least on classification. Full design, metrics, and limitations: [`VALIDATION.md`](VALIDATION.md).
+> All five layers establish **reproducibility**, not accuracy against a human-coded gold standard — no human-coded corpus of federal FHA disability opinions exists at this scale to benchmark against, which is precisely the scale problem the methodology addresses. The archive reports inter-model agreement, publishes the raw per-model outputs for the validation and mechanism-ensemble passes (the primary pipeline publishes adjudication-tier metadata in their place — the exact boundary is stated in [`SYSTEM_MAP.md`](SYSTEM_MAP.md)), and identifies which claims depend least on classification. Full design, metrics, and limitations: [`VALIDATION.md`](VALIDATION.md).
 
-The honest trade: this design swaps human-coder drift for model-classification uncertainty, then measures that uncertainty from several independent directions. Agile ELS is complementary to traditional hand-coding, not a replacement for it — for small corpora, human coding may well be preferable. The contribution is demonstrating feasibility, transparency, and audit discipline at a scale hand-coding cannot reach on a student budget.
+The honest trade: this design swaps human-coder drift for model-classification uncertainty, then measures that uncertainty from several independent directions. The method is complementary to traditional hand-coding, not a replacement for it — for small corpora, human coding may well be preferable. The contribution is demonstrating feasibility, transparency, and audit discipline at a scale hand-coding cannot reach on a student budget.
 
 ---
 
@@ -125,10 +125,10 @@ reusable pieces in this repository.
    from the CourtListener REST API (queries committed in [`../replication/queries/`](../replication/queries/)) and ran an
    inexpensive screening prompt before the expensive pipeline — 3,366 raw records in, 2,690
    screened-in. Screening is where most of the cost savings live.
-3. **Classify with architecturally independent models — plural.** At least three, from different
-   labs, answering the same prompt about every document. Agreement across labs is evidence;
+3. **Classify with separately run models — plural.** At least three, from different
+   providers, answering the same prompt about every document. Agreement across providers is evidence;
    agreement within one model family may be a shared training quirk. Then route disagreements by
-   stakes, like code review: unanimous answers and 2-of-3 majorities are adopted directly, and only a
+   stakes under prespecified adjudication rules: unanimous answers and 2-of-3 majorities are adopted directly, and only a
    three-way split escalates -- to a cheaper designated adjudicator on non-critical fields, to a
    stronger one on outcome-critical fields. The overnight driver
    ([`../scripts/unified_overnight_openrouter.py`](../scripts/unified_overnight_openrouter.py)) and merge
@@ -146,12 +146,14 @@ reusable pieces in this repository.
    standard is met in full by the validation and mechanism-ensemble passes; the primary database
    pipeline publishes its adjudication tier metadata in place of per-model raw outputs — the
    exact boundary is stated in [`SYSTEM_MAP.md`](SYSTEM_MAP.md).
-6. **Build the regression test before writing the article.** A claims ledger mapping every
-   empirical sentence to its source, script, output, and footnote
-   ([`../article/CLAIMS_LEDGER.csv`](../article/CLAIMS_LEDGER.csv)), plus a script that recomputes every published number
-   from the raw database and fails loudly on drift
-   ([`../scripts/validate_claims.py`](../scripts/validate_claims.py)). The rule it enforces: cite nothing
-   you cannot recompute.
+6. **Build the regression test before writing the article.** A claims ledger mapping the
+   printed and directly relied-on claims to their source and evidence route
+   ([`../article/CLAIMS_LEDGER.csv`](../article/CLAIMS_LEDGER.csv)), plus a script that recomputes a registered set of
+   published numbers from the raw database and fails loudly on drift
+   ([`../scripts/validate_claims.py`](../scripts/validate_claims.py)), plus a gate that holds the ledger itself to
+   its shape and keeps every evidence route resolving
+   ([`../scripts/check_claims_ledger.py`](../scripts/check_claims_ledger.py)). The rule it enforces: cite nothing
+   you cannot route to a source — and, for the registered set, nothing you cannot recompute.
 7. **Say what the validation does and does not establish.** Multi-model reproducibility is not
    accuracy against human coding, and readers should not have to discover that limitation
    themselves. Label which claims depend on classification and which rest on directly observed

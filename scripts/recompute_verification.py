@@ -13,7 +13,14 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "results" / "supporting"
 DATA_PATH = ROOT / "data" / "FHA_Unified_Database.json"
 MAP_PATH = ROOT / "replication" / "comparator" / "CLAIM_TYPE_NORMALIZATION_MAP.json"
-EXPECTED_SHA_LF = "bc6c4b1091401d82216266b89152a7bb2c4aa72c70c0686f3cff01a0a0bff95a"
+# The published database is the minimized projection of the registered research database:
+# scripts/minimize_public_dataset.py drops five free-text / property-level fields that no
+# published claim reads. REGISTERED_SOURCE_SHA_LF is the digest of the full registered
+# object, retained privately; EXPECTED_SHA_LF is the digest of the published projection.
+# The record count is unchanged because minimization removes fields, never records -- which
+# is why every baseline below still recomputes to the committed CSVs.
+REGISTERED_SOURCE_SHA_LF = "bc6c4b1091401d82216266b89152a7bb2c4aa72c70c0686f3cff01a0a0bff95a"
+EXPECTED_SHA_LF = "3f150c39ff187eea002cfc51e7fd7b2c2e399bd27949606b40673a1a706055ed"
 EXPECTED_COUNT = 3366
 DECIDED = {"PLAINTIFF_WIN", "DEFENDANT_WIN", "MIXED"}
 INST_TYPES = {"FAIR_HOUSING_ORG", "GOVERNMENT", "GROUP_HOME_OPERATOR"}

@@ -4,7 +4,7 @@ Generated: 2026-07-06T11:19:51
 
 ## Method and assumptions
 
-- Reused the same screened-in disability universe and the same period definitions as scripts/extended_doctrinal_analysis.py: P1 = 2013-2020, P2 = 2021-2022, P3 = 2023-2026.
+- Reused the screened-in disability universe and the period definitions used across the document-level analyses: P1 = 2013-2020, P2 = 2021-2022, P3 = 2023-2026.
 - Kept the original broad-win definition: outcome in {PLAINTIFF_WIN, MIXED}.
 - Ranked circuits by the full-universe P1 -> P3 broad-win decline, then did the district/judge attribution on district-court cases inside those circuits.
 - The unified database has no native district or judge fields. Districts were derived from the structured court field; judges were parsed from opinion headers/signatures in the raw-text opinion files from the case-text corpus (not distributed with this repository).

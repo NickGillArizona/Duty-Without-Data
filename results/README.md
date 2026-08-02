@@ -20,7 +20,7 @@ points at.
 - Headline analyses: `bootstrap_ci_results.json`, `decomposition_results.json`,
   `h1_h2_results.json`, `h5_results.json`, `h6_results.json`, `h7_results.json`, `h8_results.json`,
   `robustness_checks_output.txt`, `extended_crosstabs_results.json`,
-  `pro_se_mechanism_divergence_results.json`, `public_defendant_process_failure_results.json`,
+  `pro_se_mechanism_divergence_results.json`,
   `supplemental_classification_results.json`, and
   [`supporting/screened_pleading_loss_missing_cases_audit.json`](supporting/screened_pleading_loss_missing_cases_audit.json).
 - Appendix recomputation: `appendix_data.json` and the script-generated `appendix_report.md`

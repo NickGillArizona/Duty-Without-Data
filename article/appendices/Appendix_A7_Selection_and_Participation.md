@@ -31,8 +31,10 @@ the registered document-level run, INDETERMINATE at the case level (see A-7.3).
 
 A registered companion check on the comparator's period design (the P1 pre-trend split)
 returned its ADVERSE outcome and is reported in Appendix A-6 section A-6.9, not here: the
-RD-PURE strict-win rate was already declining within P1, which weakens sharp shock-attribution
-for the rate decline while leaving the composition finding - which shows no pre-trend - intact.
+RD-PURE strict-win rate (a document-level comparator series; see the scope note at the head
+of Appendix A-6) was already declining within P1, which weakens sharp shock-attribution
+for the document-level rate decline while leaving the composition finding - which shows no
+pre-trend - intact.
 
 ## A-7.2 Registration, feasibility-check disclosure, and input integrity
 
@@ -200,12 +202,12 @@ terminee roster, so no deterministic matching was performed and none is claimed.
 analysis is corpus-side only until a roster is obtained; a public-records request is the
 natural route.
 
-## A-7.5 Assurance summary and reproducibility
+## A-7.5 Status summary and reproducibility
 
-- Selection audit (A-7.3): EXTENDED (machine-classified); case-level result INDETERMINATE (max
+- Selection audit (A-7.3): supplementary descriptive analysis (machine-classified); case-level result INDETERMINATE (max
   registered-dimension shift +11.67pp); the registered document-level run returned
   SUPPORTS-BOUNDING.
-- Institutional participation and exit (A-7.4): EXTENDED (machine-classified), descriptive; no
+- Institutional participation and exit (A-7.4): supplementary descriptive analysis (machine-classified); no
   support threshold was registered.
 - Pre-trend check: reported at A-6.9 with its adverse outcome; nothing in this appendix
   states or implies parallel pre-trends.

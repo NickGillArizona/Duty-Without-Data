@@ -167,7 +167,6 @@ Doctrinal section. Institutional-contraction evidence cited from NFHA 2025 and r
 | Material | Repository location |
 |---|---|
 | Australia SDA comparative note | [`../data/australia_sda/`](../data/australia_sda/) (data extract; the comparative memorandum is retained in the project's private research records) |
-| Massachusetts Housing Navigator; architecture design | Architecture appendix in companion research in preparation; not part of this Note |
 | GAO aggregate-data finding (fn 109: GAO-23-105083 at 18-19 — aggregate request and disposition data would let HUD identify patterns warranting inquiry) | [`../record/hud-27061/GAO_23_105083.pdf`](../record/hud-27061/GAO_23_105083.pdf) |
 
 ### III.D — Disability Data as a Floor, Not a Substitute (includes the "Race Is Not the Ceiling" material)

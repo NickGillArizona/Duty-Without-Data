@@ -1,6 +1,6 @@
 # Appendix A-6 - Comparator Analysis (Claim-Structure and Cross-Class Robustness)
 
-**Assurance: EXTENDED (machine-classified). Variant A of the comparator design (selected by
+**Status: supplementary descriptive analysis (machine-classified). Variant A of the comparator design (selected by
 pre-registered triggers); cross-referenced from the Note's footnotes 87, 89, and 90.**
 
 > **Outcome series.** The disability-arm strict-win, Kitagawa, and MTD-survival figures in this
@@ -84,7 +84,7 @@ hash-logged before any verification call (section A-6.5a).
 
 ## A-6.3 Composition and outcome contrasts (document-level registered arms)
 
-Assurance: EXTENDED (machine-classified; independently reproduced from the canonical
+Status: supplementary descriptive analysis (machine-classified; independently reproduced from the canonical
 database by a standalone audit script).
 
 | Arm | N decided P1/P2/P3 | Strict win P1 -> P3 | Change | Pro se share P1 -> P3 | Change | MTD survival P1 -> P3 |
@@ -104,7 +104,7 @@ organizations, government, group-home operators) thinned across EVERY arm - DIS 
 of decided cases; RD-PURE 18.8% -> 7.8%; DT-PURE 11.5% -> 3.8%; RACE-DT 4.3% -> 1.4% - which is
 the docket-wide contraction footprint; what distinguishes the arms is what follows it.
 
-Kitagawa decomposition (representation-stratified, path-symmetric; APPENDIX-READY): the
+Kitagawa decomposition (representation-stratified, path-symmetric): the
 composition share of the P1->P3 strict-win decline is 57.5% (DIS), 42.6% (RD-PURE), and 17.2%
 (RACE-DT); DT-PURE has no decline to decompose (its rate rose); NONDIS sensitivity 44.1%. (These
 composition shares are on the document-level series; on the case-level series the aggregate strict
@@ -128,7 +128,7 @@ consensus coding (row-level agreement with the consensus: 38.2% - the proxy meas
 incidence, not
 judicial rationale, and none of its figures carry weight).
 
-Family-A share among PRO SE pleading losses, three coding passes (Assurance: EXTENDED,
+Family-A share among PRO SE pleading losses, three coding passes (supplementary descriptive analysis:
 machine-classified and machine-verified per section A-6.5a; body use per the manuscript's fn 89):
 
 | Arm | Masked consensus | Verified primary (after blind full-opinion audit) | Raw-text robustness check |
@@ -191,7 +191,7 @@ pre-registered and hash-logged before any verification call, and it has three pa
 1. BLIND FULL-OPINION AUDIT. All 26 consensus Family-A rows - the load-bearing and
    least-unanimous category - plus every no-consensus row, every misfilter flag, the queue's
    B/C rows, and a seeded 36-row B/C control sample (96 rows total) were recoded from full
-   opinion text by three strong models from three different providers (Claude Sonnet 5, GPT-5.5,
+   opinion text by three separately run models from three different providers (Claude Sonnet 5, GPT-5.5,
    Gemini 3.1 Pro), blind to all prior codes. Each read was required to return a single
    contiguous verbatim evidence quote, programmatically matched against the opinion text
    (87.2% verbatim-match rate; failures flagged in the raw artifacts). Panel-consensus
@@ -259,14 +259,14 @@ capture-differential measurements both came back materially worse than the first
 and both are carried as standing caveats; and the verification audit overturned 7 of 26
 Family-A codes, which is reflected in the verified estimates above.
 
-## A-6.8 Assurance summary and reproducibility
+## A-6.8 Status summary and reproducibility
 
-- Composition/outcome tables and decomposition (A-6.3): EXTENDED (machine-classified),
+- Composition/outcome tables and decomposition (A-6.3): supplementary descriptive analysis (machine-classified),
   independently reproduced from the canonical database.
-- Rationale mix (A-6.4): EXTENDED (machine-classified and machine-verified under the A-6.5a
+- Rationale mix (A-6.4): supplementary descriptive analysis (machine-classified and machine-verified under the A-6.5a
   protocol); body use per the manuscript's fn 89.
 - Interaction models: directional diagnostics only, repository-only.
-- Recall bounds and leakage assays: EXTENDED, reported as measured bounds.
+- Recall bounds and leakage assays: supplementary descriptive analyses, reported as measured bounds.
 
 Reproducibility. Every number in this appendix recomputes from the committed canonical database
 (`data/FHA_Unified_Database.json`, SHA256 bcadb0ee...) plus the comparator directory: the

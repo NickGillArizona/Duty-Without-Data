@@ -73,7 +73,7 @@ def fig1_composition(series, pal):
         W, H,
         "Pro se share and qualifying-judgment rate across periods P1 to P3, January 2022 to July 2026",
     )
-    s += text(20, 34, "A pro se docket, rare counseled victories", 19, pal["text"], weight="bold")
+    s += text(20, 34, "Case composition and qualifying-judgment rates", 19, pal["text"], weight="bold")
     s += text(
         20, 56,
         f"Case-level census of {series['case_level_n_pooled']} decided cases, Jan. 2022 - July 2026: the share brought without a lawyer (top line)",

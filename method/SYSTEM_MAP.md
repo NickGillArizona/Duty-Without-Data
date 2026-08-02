@@ -2,7 +2,7 @@
 
 One page: what this system is, where each stage's instruments and artifacts live,
 and where the boundaries sit -- deterministic versus model-run, public versus not.
-The method specification is [`AGILE_ELS.md`](AGILE_ELS.md); this file is the wiring
+The method specification is [`METHOD_SPECIFICATION.md`](METHOD_SPECIFICATION.md); this file is the wiring
 diagram.
 
 ## The system in one diagram
@@ -19,7 +19,7 @@ flowchart TD
     G["Case-level census: one-case-one-unit collapse<br/>kept opinion rows -> 606 decided cases (bounded keep/collapse codes)"]
     H["Deterministic analysis: scripts/ regenerate every<br/>registered statistic, table, and figure from committed inputs"]
     I["Validation: five published layers, reproducibility only<br/>(method/VALIDATION.md)"]
-    J["Release gate: eighteen deterministic checks, including a hash<br/>manifest of every tracked file<br/>(replication/GATES.md, scripts/run_release_checks.py)"]
+    J["Release gate: nineteen deterministic checks, including a hash<br/>manifest of every tracked file<br/>(replication/GATES.md, scripts/run_release_checks.py)"]
     A --> B --> C --> D --> E
     E --> T2
     T2 --> F
@@ -42,7 +42,7 @@ mechanism, and a documented one-case-one-unit collapse of the kept opinion rows
 produces the 606-case outcome census.
 Deterministic scripts regenerate
 every registered statistic from those inputs. Five validation layers re-read the
-classifications and report agreement. An eighteen-check release gate re-verifies the
+classifications and report agreement. A nineteen-check release gate re-verifies the
 whole chain on every change.
 
 ## Stage-by-stage: instruments, artifacts, failure paths
@@ -64,7 +64,7 @@ whole chain on every change.
 The 30-key database is built by MiniMax M2.7, DeepSeek V3.2, and Kimi K2.5 with
 designated adjudicators (Haiku 4.5, Sonnet 4.6 in the RA Database component; a
 MiniMax tiebreaker in the merged 2015 FHA Database component -- see
-[`AGILE_ELS.md`](AGILE_ELS.md) section 5). The headline mechanism finding is
+[`METHOD_SPECIFICATION.md`](METHOD_SPECIFICATION.md) section 5). The headline mechanism finding is
 coded by a separate ensemble -- Kimi K2.6, GLM-5.1, DeepSeek V3.2 -- under its own
 instrument. Only DeepSeek V3.2 appears in both. Validation adds further models that
 played no role in production, including an end-to-end reclassification audit by

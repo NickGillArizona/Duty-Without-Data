@@ -13,6 +13,12 @@ cited content remains fixed to one repository state. The archive's formal title 
 | One file or passage | A commit-pinned permalink, with a line range where useful |
 | A number that the Note prints | The claim's row in [`article/CLAIMS_LEDGER.csv`](article/CLAIMS_LEDGER.csv), plus the artifact that row identifies |
 
+The claims ledger is the article ledger: it registers the propositions the Note prints
+and those a cited appendix or shipped method surface directly relies on. Exploratory and
+historical research claims are retained in the project's private research records (see
+[`replication/DATA_PROVENANCE.md`](replication/DATA_PROVENANCE.md), "Privately retained
+material").
+
 ## Whole-archive citation
 
 Cite the author, the archive's formal title, the repository URL, and the full

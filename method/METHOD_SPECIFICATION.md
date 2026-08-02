@@ -1,7 +1,7 @@
-# Agile Empirical Legal Studies
+# Model-Assisted Classification Method
 
-Agile Empirical Legal Studies (Agile ELS), developed and documented by Nicholas
-Gill, is a workflow for classifying legal corpora with independently run language
+This specification documents the model-assisted classification method used in the
+archive's empirical analysis: a workflow for classifying legal corpora with independently run language
 models under controlled vocabularies, defined adjudication rules, reported agreement
 measures, published instruments, and claim-level release checks. This archive is its
 worked implementation: 3,366 federal fair-housing litigation records screened to
@@ -9,14 +9,14 @@ worked implementation: 3,366 federal fair-housing litigation records screened to
 schema,
 with a case-level outcome series built on a documented one-case-one-unit rule.
 
-Agile ELS does not treat model agreement as legal truth or as accuracy against human
+The method does not treat model agreement as legal truth or as accuracy against human
 coding. It treats models as documented classification instruments and makes the
 resulting claims auditable through published inputs, outputs, disagreement records,
 validation layers, and deterministic checks.
 
 ## 1. When to use it
 
-Agile ELS fits research questions with three properties:
+The method fits research questions with three properties:
 
 1. The answer lives in a large corpus of legal documents that no one researcher can
    read, but each document can be coded by answering fixed questions with bounded
@@ -34,7 +34,7 @@ classifications, or corpora too small for disagreement statistics to be meaningf
 
 ## 2. Design invariants
 
-Every Agile ELS implementation keeps five invariants:
+Every implementation of the method keeps five invariants:
 
 1. **Models classify; they do not judge.** Every instrument asks fixed questions
    with controlled vocabularies. No legal conclusion in the published work rests on
@@ -72,7 +72,7 @@ Three independently run models from different providers classify the screened co
 across the database's controlled fields under identical frozen prompts. In
 the worked implementation the primary classifiers are MiniMax M2.7, DeepSeek V3.2,
 and Kimi K2.5. "Independently run" means separate providers and separate runs -- it
-is not a claim about training independence, and Agile ELS never infers error
+is not a claim about training independence, and the method never infers error
 independence from provider diversity.
 
 ## 5. Adjudication
@@ -166,7 +166,7 @@ properties hold; it does not validate legal conclusions or model truth.
 
 ## 11. Limitations
 
-Agile ELS inherits the limits of its instruments. Classifications are model
+The method inherits the limits of its instruments. Classifications are model
 outputs; agreement does not establish accuracy; provider diversity does not
 establish error independence; and validation without a human-coded sample bounds
 reproducibility, not truth. Findings coded under this method should be labeled
@@ -174,7 +174,7 @@ model-coded, and directional findings should stay directional.
 
 ## 12. Reuse checklist
 
-To run Agile ELS on a different legal question:
+To run the method on a different legal question:
 
 1. Write the retrieval specification and tier predicates first; freeze them.
 2. Draft controlled vocabularies and fixed questions for every field; pilot on a
@@ -196,7 +196,7 @@ source constraints are domain-specific.
 
 Cite the method as:
 
-Nicholas Gill, *Agile Empirical Legal Studies: Method Specification and Worked
+Nicholas Gill, *Model-Assisted Classification Method: Specification and Worked
 Implementation*, in *Duty Without Data: Research and Replication Archive* (2026).
 
 Pin citations to a commit or archived release as described in the repository's

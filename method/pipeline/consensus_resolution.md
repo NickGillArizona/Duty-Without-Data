@@ -82,7 +82,7 @@ above.
 
 ### Primary mechanism-family ensemble (N = 676 pleading-loss cases)
 
-Three independent coders are run on each case:
+Three separately run coders are run on each case:
 - **Kimi K2.6**
 - **GLM-5.1**
 - **DeepSeek V3.2**
@@ -104,7 +104,7 @@ The majority-vote rule above is deterministic given the three model outputs.
 ### Inter-rater reliability
 
 Fleiss' κ across the three primary coders on the 668-case coded universe =
-**0.6292** (substantial agreement under Landis & Koch).
+**0.6292** (0.61-0.80 band of the Landis & Koch scale).
 
 ### Validation layers sitting outside the primary ensemble
 

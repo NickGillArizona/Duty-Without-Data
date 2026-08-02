@@ -42,13 +42,13 @@ feeds full-schema reproducibility verification back to Layer 1.*
 ## 1. What the archive claims — and does not claim
 
 > [!NOTE]
-> The archive's validation claim is **reproducibility**, not **accuracy against a human-coded gold standard**. No comparable human-coded federal FHA disability classification dataset exists at the 739-case pleading-loss scale or the 1,900-case disability-screened scale, so there is nothing to anchor an accuracy claim to. What the layers below do show is that independent classifiers — different base models, different adjudication paths, different execution runs — reach substantially similar classification decisions on the same opinion text.
+> The archive's validation claim is **reproducibility**, not **accuracy against a human-coded gold standard**. This project includes no corpus-scale human-coded benchmark at the 739-case pleading-loss scale or the 1,900-case disability-screened scale, so there is nothing to anchor an accuracy claim to. What the layers below do show is that independent classifiers — different base models, different adjudication paths, different execution runs — reach substantially similar classification decisions on the same opinion text.
 
 Random, nondifferential classification error can attenuate observed differences under assumptions this design does not itself establish; the cross-coding results are reported as reproducibility evidence, not as proof the observed gap is conservative. No formal classical-measurement-error model is estimated here. The directional findings reported by the Note recur across four independent validation layers — evidence of reproducibility, not of accuracy.
 
 ## 2. Layer 1 — Multi-model consensus pipeline (primary classification)
 
-The primary classification pipeline combines three architecturally independent base classifiers with a two-stage adjudication layer.
+The primary classification pipeline combines three separately run base classifiers from different providers with a two-stage adjudication layer.
 
 - **Base classifiers**: MiniMax M2.7 (minimax/minimax-m2.7), DeepSeek V3.2 (deepseek/deepseek-v3.2), and Kimi K2.5 (moonshotai/kimi-k2.5) via OpenRouter. During the run the per-model answers are carried in fields suffixed `_minmax`, `_deepseek`, `_kimi`; consensus resolution merges them into the canonical fields stored in `data/FHA_Unified_Database.json`, and it is those resolved fields, not the per-model ones, that the released database contains. (GLM-5 was evaluated as a candidate base classifier but not used in Layer 1; see [`pipeline/model_configuration.md`](pipeline/model_configuration.md).)
 - **No-adjudicator tiers**: unanimous answers (tier 0) and 2-of-3 majorities (tiers 1 and 2, non-critical and critical) are adopted directly, with no adjudication call.
@@ -85,14 +85,14 @@ All 676 T4 (pleading-loss universe) cases were classified from scratch using Kim
 
 ### 3.4 Headline metrics
 
-- **Fleiss' κ across three models (bucket level, n = 668)**: **0.6292** (substantial agreement under Landis & Koch).
+- **Fleiss' κ across three models (bucket level, n = 668)**: **0.6292** (0.61-0.80 band of the Landis & Koch scale).
 - **TRANSLATION-family gap (primary ensemble majority)**: pro se 46.35% (267/576), represented 14.29% (13/91), gap = **32.06 pp**, χ²(1) = 31.88, p = 1.64 × 10⁻⁸, 95 % CI on the gap [23.81, 40.33] pp; family × representation contingency χ²(8) = 68.49, p = 9.8 × 10⁻¹², Cramér's V = 0.3318 (computed over the 622 rows outside the OTHER family; the merged § 3.2 χ²(8) = 72.07 includes OTHER over n = 727 — the equal degrees of freedom are a coincidence of category counts).
 - **Ensemble resolution breakdown**: 424 unanimous, 235 majority, 9 three-way splits.
-- **Backward compatibility against earlier K2.5 + GLM-5.1 coding (bucket level, n = 668)**: 71.71 % exact match; Cohen's κ = **0.574** (moderate-to-substantial). The earlier coding yielded 47.3 % / 15.4 % / 31.9 pp on the full 676-case universe — within 0.2 pp of the current ensemble headline.
+- **Backward compatibility against earlier K2.5 + GLM-5.1 coding (bucket level, n = 668)**: 71.71 % exact match; Cohen's κ = **0.574** (0.41-0.80 span of the Landis & Koch scale). The earlier coding yielded 47.3 % / 15.4 % / 31.9 pp on the full 676-case universe — within 0.2 pp of the current ensemble headline.
 
 ### 3.5 What this layer establishes
 
-Three architecturally independent base classifiers, running the mechanism-classification task cold on the full pleading-loss universe, reach Fleiss' κ = 0.6292 on the four-bucket family schema — substantial cross-model agreement. The ensemble majority label is used as the primary mechanism-family classification in the Note. The broader pipeline's adjudication layer (Haiku / Sonnet) continues to govern the full 12-field per-claim extraction schema described in § 2 above; mechanism-family classification on the pleading-loss universe specifically is handled by this three-model majority-vote ensemble.
+Three separately run base classifiers from different providers, running the mechanism-classification task cold on the full pleading-loss universe, reach Fleiss' κ = 0.6292 on the four-bucket family schema — cross-model agreement in the 0.61-0.80 band of the Landis & Koch scale. The ensemble majority label is used as the primary mechanism-family classification in the Note. The broader pipeline's adjudication layer (Haiku / Sonnet) continues to govern the full 12-field per-claim extraction schema described in § 2 above; mechanism-family classification on the pleading-loss universe specifically is handled by this three-model majority-vote ensemble.
 
 **A directional default in the mechanism instrument.** Rule 3 of the frozen
 mechanism-classification prompt instructs coders that a pro se case dismissed at
@@ -136,9 +136,9 @@ Kimi K2.6 is one of the three base coders in the primary mechanism-family ensemb
 ### 4.3 Headline metrics
 
 - **Sample size (successful classifications)**: 150/150 (zero unparseable outputs).
-- **Bucket-level Cohen's κ (Kimi K2.6 vs. original)**: **0.6264** (substantial agreement).
-- **Family-level (atomic) κ**: 0.5751 (moderate-to-substantial).
-- **Atomic mechanism-code κ**: 0.3508 (fair; the mechanism-code level is the finest grain of the taxonomy and is accordingly noisier than the bucket level).
+- **Bucket-level Cohen's κ (Kimi K2.6 vs. original)**: **0.6264** (0.61-0.80 band of the Landis & Koch scale).
+- **Family-level (atomic) κ**: 0.5751 (0.41-0.80 span of the Landis & Koch scale).
+- **Atomic mechanism-code κ**: 0.3508 (0.21-0.40 band of the Landis & Koch scale; the mechanism-code level is the finest grain of the taxonomy and is accordingly noisier than the bucket level).
 - **TRANSLATION-share deltas (Kimi K2.6 vs. original)**: pro se −3.96 pp, represented −10.2 pp. The directional gap persists; the sample is too small (n = 150) to resolve the pro se / represented gap at high precision.
 
 ### 4.4 What this layer establishes
@@ -171,7 +171,7 @@ All 668 cases in the three-model ensemble universe were independently re-classif
 
 ### 5.3 Headline metrics
 
-- **Fourth-coder vs. primary ensemble bucket κ (n = 668)**: **0.6024** (at the Landis & Koch substantial-agreement threshold).
+- **Fourth-coder vs. primary ensemble bucket κ (n = 668)**: **0.6024** (at the Landis & Koch 0.61 threshold).
 - **Fourth-coder vs. earlier K2.5 + GLM-5.1 coding (n = 668)**: 0.4793 (moderate).
 - **Fourth-coder family-level κ vs. primary ensemble (n = 622)**: 0.5652.
 - **TRANSLATION-gap replay under fourth-coder labels**: pro se 44.62% (257/576), represented 15.38% (14/91), gap = **29.24 pp**, χ²(1) = 26.64, p = 2.45 × 10⁻⁷. 95 % CI on the gap = [20.78, 37.69].
@@ -202,7 +202,7 @@ Per-field match rates, tier-disaggregated agreement, and error anatomy are in [`
 - **Corrected aggregate exact match across 12 fields**: **81.5 %**.
 - **Cohen's κ range across 6 key fields**: 0.453 – 0.740.
 - **Outcome κ**: 0.561 (moderate under Landis & Koch).
-- **Party-identification κ**: 0.668 – 0.740 (substantial).
+- **Party-identification κ**: 0.668 – 0.740 (0.61-0.80 band of the Landis & Koch scale).
 - **Binary / boolean fields match rate**: 96 – 100 %.
 - **Tier-disaggregated agreement**: 83.3 % (Tier 0 unanimous) monotonically declining to 61.6 % (Tier 4 hardest) — a gradient consistent with the adjudication layer concentrating on genuinely difficult cases; the design cannot confirm that adjudication added no systematic error.
 - **Total audit cost**: $4.56.
@@ -219,7 +219,7 @@ An end-to-end re-classification by Opus 4.6 agrees with the primary pipeline at 
 | Claim | Depends on |
 |-------|------------|
 | Tier counts (T0 – T4; 3,366 / 2,690 / 1,900 / 739) | Layer 1 (primary pipeline); robust under Layer 2 and Layer 5 re-runs. |
-| Representation status (pro se / represented) | Directly observable from counsel-of-record in each opinion; does not depend on LLM classification. |
+| Representation status (pro se / represented) | Directly observable from counsel-of-record notations, but the dataset field was machine-extracted and separately audited against the opinion text (per-field agreement 88.5%-99.1% on determinate rows). |
 | Period boundaries (P1 / P2 / P3) | Derived from `date_filed` (= opinion-cluster filing date ≈ decision date; see [`../data/dictionaries/fha_unified_database.md`](../data/dictionaries/fha_unified_database.md) § Case Identification); does not depend on LLM classification. |
 | Three-period win-rate levels and trajectory | Layer 1 + observable representation + period metadata. Outcome κ = 0.561 places uncertainty on document-level levels and trajectory alike; the reported Part II series is the case-level census (qualifying-judgment rate essentially flat: 3.48 / 0.00 / 3.19 over the universal one-case-one-unit N 287/68/251) — the document-level tables are screening-level artifacts and are not reported as outcome findings. |
 | Case-level outcome series (Part II series of record) | The Part II outcome series is computed on the universal one-case-one-unit basis (N = 606: 287/68/251; multiple decided documents from the same case collapse to one case-level unit). Series artifact `results/series_2026-07.json`; verified by `scripts/validate_claims.py`. |

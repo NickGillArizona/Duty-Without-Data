@@ -409,7 +409,9 @@ for spec in ['SPECIFIC_DUTY', 'MIXED', 'OPEN_TEXTURED']:
         'year': s.get('year'),
         'claim_specificity': spec,
         'specificity_reasoning': s.get('supp', {}).get('specificity_reasoning', ''),
-        'key_holding': s.get('key_holding', '')[:200],
+        # The opinion-derived holding excerpt is deliberately not emitted: the published
+        # dataset is minimized (scripts/minimize_public_dataset.py) and the case name,
+        # year, and classification reasoning are what an auditor needs to check the label.
     } for s in sample]
     print(f"\n{spec} sample ({len(sample)} cases):")
     for v in validation[spec][:3]:

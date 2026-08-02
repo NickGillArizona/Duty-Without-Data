@@ -106,8 +106,8 @@ These are drafted by a JD candidate, not an attorney. They are templates meant t
 | 2023-02-27 | 30-day comment period closed |
 | 2023-06-13 | OIRA approved 2023 cycle (ref 202301-2535-001) |
 | 2026-04-18 | Research harvest; methodology memo and FOIA package drafted (citations and Alliance-standing content post-verified) |
-| 2026-06-30 | Current approval expires |
-| **Expected 2025/2026** | **60-day notice for the triennial renewal — NOT YET PUBLISHED as of 2026-04-18.** Absence is itself a publishable finding. See §12.11 and §24. |
+| 2026-06-12 | 60-day notice for the triennial renewal published (91 FR 35697) — proposes renewing the narrowed form unchanged; comments due 2026-08-11 |
+| 2026-06-30 | Displayed approval expiration passed; no OMB disposition posted as of 2026-08-01 — both outcomes remain open (see [CHRONOLOGY.md](CHRONOLOGY.md)) |
 
 ---
 

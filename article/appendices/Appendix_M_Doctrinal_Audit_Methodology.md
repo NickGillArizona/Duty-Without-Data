@@ -1,6 +1,6 @@
 # Appendix M: Doctrinal Audit Methodology
 
-**Cited by:** Note footnotes 87 (translation-family protocol), 141–142 (Part 121 reported-decision surface §§ M.2.1–M.2.2; annual-report audit), and 145 (transition-plan sweep). The 47-document AFH audit carries assurance level EXTENDED.
+**Cited by:** Note footnotes 87 (translation-family protocol), 141–142 (Part 121 reported-decision surface §§ M.2.1–M.2.2; annual-report audit), and 145 (transition-plan sweep). The 47-document AFH audit is supplementary descriptive analysis.
 **Scope:** Methodology archive — audit-file pointers, coding rules, and validation layers; findings carry the evidentiary posture of the Note sites they support.
 **Regeneration:** Not script-generated; each section names its underlying audit memorandum and run date.
 
@@ -92,7 +92,7 @@ Tier counts reflect the corpus refresh through the July 1, 2026 endpoint (pulled
 **Sources combined.**
 
 - eCFR snapshots of 24 C.F.R. Part 121 at three reference points: 2017 edition, September 27, 2022, and the current edition (April 2026).
-- Federal Register publication history for Part 121: 54 Fed. Reg. 3,278, 3,317 (Jan. 23, 1989), and subsequent non-substantive codification entries.
+- Federal Register publication history for Part 121: 54 Fed. Reg. 3,232, 3,278, 3,317 (Jan. 23, 1989), and subsequent non-substantive codification entries.
 - reginfo.gov ICR history for HUD information collections cross-referencing 24 C.F.R. Part 121.
 - a federal-opinion-database query universe for text-level verification.
 
@@ -114,15 +114,15 @@ Tier counts reflect the corpus refresh through the July 1, 2026 endpoint (pulled
 **Sources.**
 
 - 87 Fed. Reg. 58,524 (Sept. 27, 2022) — 60-Day Notice announcing intent to update Form HUD-27061 to "collect protected class data as required by the Fair Housing Act and HUD regulations at 24 CFR 121" and inviting comment on "particular data fields."
-- 87 Fed. Reg. 71,432 (Nov. 22, 2022) — 30-Day Notice.
-- 88 Fed. Reg. 32,089 (May 18, 2023) — Final Notice reverting to the narrower instrument.
+- 88 Fed. Reg. 5,370 (Jan. 27, 2023) — 30-Day Notice; carries the reversion to the narrower instrument.
+- OMB Notice of Action, ICR Ref. No. 202301-2535-001 (approved with change, June 13, 2023; expiration June 30, 2026) — the terminal action of the 2022–2023 cycle; no separate final notice appears in the Federal Register.
 - reginfo.gov ICR 2535-0113 supporting statements, public comments, and PRA approval history for the 2022–2023 cycle.
 - Public comments from AAPD, SAGE, Williams Institute, and others.
 
 **Verification findings.**
 
 - The 8,625-hour annual PRA respondent-burden estimate is identical in the 2022 proposal and the 2023 reversion. Neither notice identifies increased PRA respondent burden as the reason for narrowing the instrument. (This is the empirical spine of the Note's *State Farm* argument in Part III.C.)
-- The 2022 60-Day Notice expressly invokes "24 CFR 121" and expressly invites comment on "particular data fields." The 2023 Final Notice provides no paragraph-level explanation of why the disability and family-characteristics fields were not included in the final instrument.
+- The 2022 60-Day Notice expressly invokes "24 CFR 121" and expressly invites comment on "particular data fields." The 2023 30-Day Notice carries the reversion with no paragraph-level explanation of why the disability and family-characteristics fields were not included in the final instrument.
 
 ---
 
@@ -198,7 +198,7 @@ Tier counts reflect the corpus refresh through the July 1, 2026 endpoint (pulled
 
 **Sources.**
 
-- 54 Fed. Reg. 3,278, 3,278–79 (Jan. 23, 1989) (preamble).
+- 54 Fed. Reg. 3,232, 3,278–79 (Jan. 23, 1989) (preamble).
 - H.R. Rep. No. 100-711 (1988).
 - Relevant committee-report passages discussing disability-data integration into HUD's administrative collections under the 1988 Fair Housing Amendments.
 
@@ -228,7 +228,7 @@ Tier counts reflect the corpus refresh through the July 1, 2026 endpoint (pulled
 - Incentives only: 7.
 - None: 13.
 
-48 non-error records are classified above; 7 jurisdictions are flagged for manual review. Only two of 51 jurisdictions exceed § 504. That distribution supports the Note's feeder-program insight that stock-level accessibility is largely a floor-compliance regime at the LIHTC level.
+Of the 51 jurisdictions, 3 returned document-retrieval errors (Arizona, Massachusetts, West Virginia) and are excluded from classification; the four categories above sum over the 48 non-error records (2 + 26 + 7 + 13 = 48), and the 7 jurisdictions flagged for manual review are provisionally counted within the None category. Only two of 51 jurisdictions exceed § 504. That distribution supports the Note's feeder-program insight that stock-level accessibility is largely a floor-compliance regime at the LIHTC level.
 
 ---
 
@@ -420,7 +420,7 @@ Bucket-level Fleiss' κ is reported on the merged 728-case coded universe (0.629
 | Kimi K2.6 × DeepSeek V3.2 | 76.05% | **0.6466** |
 | GLM-5.1 × DeepSeek V3.2 | 73.95% | **0.6113** |
 
-Each pairing returns substantial agreement; no pair drops below 0.61. GLM-5.1 and DeepSeek V3.2 agree with Kimi K2.6 at essentially the same level they agree with each other. That symmetry is what defeats the shared-provider concern.
+No pairwise kappa drops below 0.61 (the floor of the Landis & Koch 0.61-0.80 band). GLM-5.1 and DeepSeek V3.2 agree with Kimi K2.6 at essentially the same level they agree with each other. That symmetry is what defeats the shared-provider concern.
 
 **Per-model agreement with ensemble consensus.**
 
@@ -464,9 +464,9 @@ The merged ensemble TRANSLATION gap (31.57 pp, p = 1.1 × 10⁻⁸) is essential
 | Original | 17.88% | 31.87% | −13.99 | 8.82 | 0.003 |
 | Ensemble (merged, n = 728) | 18.51% | 32.63% | −14.12 | 9.30 | 0.002 |
 
-### M.16.3 External validation — Full-universe blind fourth-coder re-read (Claude Opus 4.7, 22 independent coder seats)
+### M.16.3 External validation — Full-universe blind fourth-coder re-read (Claude Opus 4.7, one coder run across 22 parallel seats)
 
-**Design.** The prior two layers revalidate the gap under LLM re-coding but all classifiers are invoked through OpenRouter-provisioned API endpoints with closely matched prompts. To add a fourth independent read by a model from a different provider and a different prompt execution path, all 668 opinions in the three-model ensemble universe were re-coded by Claude Opus 4.7 across 22 independent coder seats. Each seat was given the verbatim mechanism prompt (`mechanism_prompt.txt`) and a blind manifest containing only `source_file` and `file_path` — no prior classifications from any model, no metadata about representation status, no hint of the gap being tested. Each seat was instructed to read every opinion file before classifying. The 668 cases were distributed round-robin across 22 chunks; chunk size ≈ 30 cases. Ten of the 22 seats returned server-side rate-limit errors on the first attempt and were re-run with identical blind manifests; all 22 completed with no case coded from incomplete reads.
+**Design.** The prior two layers revalidate the gap under LLM re-coding but all classifiers are invoked through OpenRouter-provisioned API endpoints with closely matched prompts. To add a fourth independent read by a model from a different provider and a different prompt execution path, all 668 opinions in the three-model ensemble universe were re-coded by Claude Opus 4.7 across 22 parallel coder seats (one model and one prompt configuration; the seats parallelize execution and are not independent coders). Each seat was given the verbatim mechanism prompt (`mechanism_prompt.txt`) and a blind manifest containing only `source_file` and `file_path` — no prior classifications from any model, no metadata about representation status, no hint of the gap being tested. Each seat was instructed to read every opinion file before classifying. The 668 cases were distributed round-robin across 22 chunks; chunk size ≈ 30 cases. Ten of the 22 seats returned server-side rate-limit errors on the first attempt and were re-run with identical blind manifests; all 22 completed with no case coded from incomplete reads.
 
 Scope note: this layer predates the July 2026 corpus refresh (which added 60 of the 728 ensemble-coded rows); all statistics in this subsection, including the ensemble comparison rows, are computed on the pre-refresh 668-case universe and are unchanged.
 

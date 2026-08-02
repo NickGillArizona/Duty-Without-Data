@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 486" width="760" height="486" role="img">
   <title>Pro se share and qualifying-judgment rate across periods P1 to P3, January 2022 to July 2026</title>
   <g font-family="Helvetica, Arial, sans-serif">
-    <text x="20" y="34" font-size="19" fill="#e6edf3" text-anchor="start" font-weight="bold">A pro se docket, rare counseled victories</text>
+    <text x="20" y="34" font-size="19" fill="#e6edf3" text-anchor="start" font-weight="bold">Case composition and qualifying-judgment rates</text>
     <text x="20" y="56" font-size="13" fill="#8b949e" text-anchor="start">Case-level census of 606 decided cases, Jan. 2022 - July 2026: the share brought without a lawyer (top line)</text>
     <text x="20" y="74" font-size="13" fill="#8b949e" text-anchor="start">rises to 76.1%, while the share ending in a qualifying plaintiff-side judgment (bottom line) never reaches 4%.</text>
     <line x1="70" y1="370.0" x2="560" y2="370.0" stroke="#30363d" stroke-width="1"/>
