@@ -213,14 +213,14 @@
       "size": 5935
     },
     "article/CLAIMS_INDEX.md": {
-      "sha256_bytes": "70d5c57513477b658ac93bf7a296893917f5e001ec635690797cfe3840b4a820",
-      "sha256_lf": "ba3e61b5964d64f441ef5ffdde6c10dc28e0c10fdd6c872e1e2b2facf1580003",
-      "size": 28624
+      "sha256_bytes": "7c935256fb66773ead143107890fda4bbb1e3ee2fbd99896f8a94618fc6e7dfb",
+      "sha256_lf": "7c935256fb66773ead143107890fda4bbb1e3ee2fbd99896f8a94618fc6e7dfb",
+      "size": 28409
     },
     "article/CLAIMS_LEDGER.csv": {
-      "sha256_bytes": "c85a6bb0c2697c017652937ded2c725d5b1b72142532886a53dab4ebafd4074f",
-      "sha256_lf": "77482d62141ead62054b242768adce8fb193a41aaec5b7caf15a3910578d08cb",
-      "size": 32295
+      "sha256_bytes": "b1134ddd5e3eb9544188e1c794ddf0432e315d55fec577cb2736707783075c35",
+      "sha256_lf": "b1134ddd5e3eb9544188e1c794ddf0432e315d55fec577cb2736707783075c35",
+      "size": 32516
     },
     "article/EVIDENCE_AND_LIMITS.md": {
       "sha256_bytes": "7c9232136f6bccbbccd35af35f8b3643342fee4cde5e19dc39d2b8a5caf756c9",
