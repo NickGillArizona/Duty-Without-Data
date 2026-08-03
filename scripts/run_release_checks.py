@@ -15,8 +15,8 @@ Runs, in order:
                                          technology;
 8. scripts/build_case_level_series.py --check — the registered case-level series reproduces
                                          from the published per-row census record;
-9. scripts/check_readme_budget.py    — keeps the repository front door within its editorial
-                                         budget and required routes;
+9. scripts/check_readme_budget.py    — keeps the repository front door and the argument
+                                         page within their editorial budgets and routes;
 10. scripts/recompute_verification.py — independent recomputation of the
                                          registered-baseline outputs against the committed CSVs;
 11. scripts/check_advocacy_claims.py   — the registered headline claims are present on the
@@ -71,7 +71,7 @@ CHECKS = [
     ("take-action kit canonicality", ["scripts/check_action_canonicality.py"]),
     ("accessibility contract", ["scripts/check_accessibility_contract.py"]),
     ("case-level census", ["scripts/build_case_level_series.py", "--check"]),
-    ("README editorial budget", ["scripts/check_readme_budget.py"]),
+    ("editorial budgets (README, THE_ARGUMENT)", ["scripts/check_readme_budget.py"]),
     ("strengthening recompute", ["scripts/recompute_verification.py"]),
     ("advocacy-surface claims", ["scripts/check_advocacy_claims.py"]),
     ("superseded-series denylist", ["scripts/denylist_superseded_series.py", "--report", "--strict"]),

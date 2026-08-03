@@ -30,6 +30,7 @@ claims listed below; every quotation is Tier 1 (verbatim from a source binary, v
 **REGENERATION.** Not script-generated. Source binaries and their hashes are in
 `record/hud-27061/`; to re-verify a quotation, extract the cited binary (`FRN60_2023.pdf`,
 `FRN30_2023.pdf`, `SSA_2023.docx`, `54FR3232_part_121_promulgation.pdf`,
+`54FR3278_part_121_preamble_data_response.pdf`,
 `icr_202301-2535-001.html`) and compare against `record/hud-27061/file_inventory.csv`.
 
 ---
@@ -50,7 +51,7 @@ notices and the RegInfo ICR history captures for OMB Control No. 2535-0113.
 | Date | Action | Data scope | Disposition | Source artifact |
 |---|---|---|---|---|
 | 1988-09-13 | Fair Housing Amendments Act adds 42 U.S.C. § 3614a (data-rule authority) and § 3604(f) disability duties; § 3608(e)(6) annual-report duty for handicap and family characteristics | handicap and family characteristics authorized | statute enacted | Pub. L. No. 100-430 |
-| 1989-01-23 | HUD promulgates 24 C.F.R. Part 121 ("Collection of Data"); preamble engages the charge that HUD "has failed to generate such data," responding that HUD "remains committed to that objective" | handicap and family characteristics named at § 121.2 | final rule | `54FR3232_part_121_promulgation.pdf` |
+| 1989-01-23 | HUD promulgates 24 C.F.R. Part 121 ("Collection of Data"); preamble engages the charge that HUD "has failed to generate such data," responding that HUD "remains committed to that objective" | handicap and family characteristics named at § 121.2 | final rule | `54FR3232_part_121_promulgation.pdf`; quoted exchange at 3,278–79: `54FR3278_part_121_preamble_data_response.pdf` |
 | 2003-06-13 / 2003-09-09 | First HUD-27061 clearance cycle (60-day / 30-day notices) | race and ethnicity | ICR 200302 concluded 2003-02-21 (approved without change); 200308 concluded 2003-10-17 (approved with change) | `longitudinal_tables.csv` (Table A/B) |
 | 2006-07-12 / 2006-09-18 | Renewal cycle | race and ethnicity | ICR 200609 concluded 2006-11-21 (approved without change); first cycle with attached Supporting Statement | `SSA_2006.txt`; `icr_200609-2535-001.html` |
 | 2009-11 / 2010 | Renewal cycles | race and ethnicity | 200911 concluded 2010-02-03 (not subject to PRA); 201004 concluded 2010-06-14 (approved without change) | `icr_200911-2535-002.html`; `icr_201004-2535-001.html` |
@@ -210,7 +211,7 @@ materials; each maps to a source preserved in this repository:
 
 | Exhibit | Material | Repository source |
 |---|---|---|
-| 1 | 24 C.F.R. § 121.2 text and the 1989 Part 121 preamble commitment | `record/hud-27061/54FR3232_part_121_promulgation.pdf`; `record/hud-27061/cfr_part121_analysis.md` |
+| 1 | 24 C.F.R. § 121.2 text and the 1989 Part 121 preamble commitment | `record/hud-27061/54FR3232_part_121_promulgation.pdf`; `record/hud-27061/54FR3278_part_121_preamble_data_response.pdf` (the quoted exchange, 3,278–79); `record/hud-27061/cfr_part121_analysis.md` |
 | 2 | 2022 60-day notice (Part 121 / FHA invocation) | `record/hud-27061/87FR58524_proposal.pdf` |
 | 3 | 2023 30-day notice (race-and-ethnicity narrowing; Title VI / Part 1) | `record/hud-27061/88FR5370_30day_notice.pdf` |
 | 4 | 2023 Supporting Statement A, Item 8, and terms of clearance | `record/hud-27061/SSA_2023.txt`; `record/hud-27061/icr_202301-2535-001.html` |

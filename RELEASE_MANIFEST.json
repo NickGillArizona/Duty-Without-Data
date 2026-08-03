@@ -1,6 +1,6 @@
 {
   "_note": "Authoritative release manifest: every git-tracked file except this manifest. sha256_bytes is the raw-byte hash; sha256_lf (text files) is the LF-normalized hash. Verify with scripts/check_release_manifest.py. Execution-era hash manifests in replication/comparator/ and method/preregistration/ are historical provenance only.",
-  "file_count": 526,
+  "file_count": 527,
   "files": {
     ".gitattributes": {
       "sha256_bytes": "75e25fbf8b26d0547a9fb0818c23c3a736811cc093f6a0302489d26c90b267dd",
@@ -243,9 +243,9 @@
       "size": 3692
     },
     "article/THE_ARGUMENT.md": {
-      "sha256_bytes": "b61f1c79cf51f359c63af3baff39f40afe3b79c5f9f4a30148a98d0d38b9feef",
-      "sha256_lf": "d33d5aa1d190b8167e6cc6a0123a42f15a378dc295352f3eb7f03510da9f426c",
-      "size": 21420
+      "sha256_bytes": "ccb142b54801d1ccc7d0381d3546daf99ad71fa4289dbcfef5b57eb0d63ca942",
+      "sha256_lf": "afbd8200cc8cb379ffbf2be7b1015e51e1999027dc45030537249df943f90c49",
+      "size": 21614
     },
     "article/appendices/Appendix_A4_Reproducibility_Audit.md": {
       "sha256_bytes": "05fbff080695c7b5403a81ab1a0b45f8870ba86b48618e9c3a920435b24916fb",
@@ -273,9 +273,9 @@
       "size": 2788
     },
     "article/appendices/Appendix_C_HUD_Administrative_Record.md": {
-      "sha256_bytes": "5730a586317877866fffbbaee97eb1f0780b49c1af4070f79f0a553b8be6d61e",
-      "sha256_lf": "bc8b386f1bde3f201d3771f55ffea19cd3bb5c981496547bf18c120f167a8a84",
-      "size": 23226
+      "sha256_bytes": "26662c366b3c7da3f9abf41c6276f70a3956caefee7f43939c2316601a1f544c",
+      "sha256_lf": "2851e0f308e3344be7ca081861a84709fbbb9567395e4929a5fc88b1ae95935e",
+      "size": 23453
     },
     "article/appendices/Appendix_D_Standing_Reviewability_Annex.md": {
       "sha256_bytes": "552c83375081e3526ec9804b01648ca3c551f59d2f1da154a6f2f3d324c3f1fa",
@@ -1053,6 +1053,10 @@
       "sha256_bytes": "764784479c3313d8e7d90a84ea0f4743b1e746700a7d3c399d6cf22c5bc44986",
       "size": 3386331
     },
+    "record/hud-27061/54FR3278_part_121_preamble_data_response.pdf": {
+      "sha256_bytes": "71daab964e68df87df4f854daed8fd5faa90365c1769b5bb937454b5e5f94375",
+      "size": 613586
+    },
     "record/hud-27061/87FR58524_proposal.pdf": {
       "sha256_bytes": "9f42ca6f24da4919a524daa428343e8b219d79bcf4961c9c708a593b2c03c656",
       "size": 203779
@@ -1078,9 +1082,9 @@
       "size": 2262447
     },
     "record/hud-27061/CHRONOLOGY.md": {
-      "sha256_bytes": "19b1ca0643e7ce1927c69017f79a3daf782070a15b7c9918c749c902d2a9cb4e",
-      "sha256_lf": "19b1ca0643e7ce1927c69017f79a3daf782070a15b7c9918c749c902d2a9cb4e",
-      "size": 4495
+      "sha256_bytes": "bb65c031323229648e05339fd7b170265355633bf7d82d50b5fa6a8fe8ddbd86",
+      "sha256_lf": "bb65c031323229648e05339fd7b170265355633bf7d82d50b5fa6a8fe8ddbd86",
+      "size": 4642
     },
     "record/hud-27061/FRN30_2023.pdf": {
       "sha256_bytes": "c55c5750b57b571bf944b1165d9be64d44c308705e9d228322ccf9f97f78c52a",
@@ -1394,9 +1398,9 @@
       "size": 244376
     },
     "record/hud-27061/source_manifest.csv": {
-      "sha256_bytes": "0cc95898a9cec3d535219799943da8bb3478165ae1e34caad0ba6b8c3bcd7f20",
-      "sha256_lf": "256781d94f9138dbefcc769ec9e36628bbdf432269095acb75a56ee059047fd4",
-      "size": 6729
+      "sha256_bytes": "f8887b424dcccda6419892493648bddca6a04531f6aa5a417d76689fe7afe7bb",
+      "sha256_lf": "45d2147b68e3f4b4e989a2d2b6287b17986f2959244718316a900e95ed07b5b9",
+      "size": 7124
     },
     "replication/CASE_LEVEL_RULES.md": {
       "sha256_bytes": "d3a9dac699f593c08a0587fc95228354e7644b190fbd875c4f52803166bded52",
@@ -2314,9 +2318,9 @@
       "size": 27193
     },
     "scripts/check_readme_budget.py": {
-      "sha256_bytes": "e2aff8658f8f5f949109eda2d1e5935fea67b643d902d68c5d236ab8fe19fc5e",
-      "sha256_lf": "48275dfe2fa0a8568e03c834f05a880accb5c8d3c588ad0a390fcbf1df7f9df9",
-      "size": 1682
+      "sha256_bytes": "16cbf86edbbcbb0db92829bab3ad6f0c6de83c322f63ea9d6b1f0a8338c30323",
+      "sha256_lf": "7b449afd90a3206e5880dabdb1a00b6523b1db1ee4e7a4a8f15b0f68550e5fa7",
+      "size": 2407
     },
     "scripts/check_release_manifest.py": {
       "sha256_bytes": "a12c19a3a01db6d0e1e847f591f4d5474ab50e42619c8f2e471f4b428a65563d",
@@ -2559,9 +2563,9 @@
       "size": 6461
     },
     "scripts/run_release_checks.py": {
-      "sha256_bytes": "f71911ef309eecf6bede018e6d4e61e105569858e20d933c545fdb9b8070a39a",
-      "sha256_lf": "b7aade2219ce495d653f3e7ef40ce246cfd60a1f44f3062cfaaa2909012bb3a0",
-      "size": 6601
+      "sha256_bytes": "d479818b1d0e57c5ea24b83f70d359034374a16efcd1f4780c792ea123f50611",
+      "sha256_lf": "e56303b1acf03e61163b1b99d087ba5de573d22833e272c438de1f7dbb704b00",
+      "size": 6634
     },
     "scripts/state_complaint_panel.py": {
       "sha256_bytes": "49292ed24ce1338bb23c9a0c30d56af1f1e3b0844a7c9e58744949538f7acf80",

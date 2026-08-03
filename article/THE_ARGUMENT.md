@@ -42,7 +42,8 @@ floor. If no one is required to record those facts, the rights persist on paper 
 The resulting problem is the space between enacted, enforceable duties and the records needed to
 verify them. That space is not empty — HUD's own instruments already touch these records — but it is
 **fragmented**: created unevenly program by program, reviewed episodically, and never brought into
-recurring cross-program view. Roughly 1.80 million disabled households live in HUD-assisted housing,
+recurring cross-program view. Roughly
+[1.80 million disabled households](appendices/Appendix_L_HUD_Administrative_Data.md) live in HUD-assisted housing,
 and no coordinated federal system verifies the disability duties those programs carry.
 (Introduction; Part I.)
 
@@ -129,8 +130,9 @@ family-characteristics reporting) in the same statute as the disability duties.
 
 **1989.** HUD promulgates 24 C.F.R. Part 121. The preamble engages commenters' assertion that HUD
 "has failed to generate such data" and responds that HUD "remains committed to that objective."
-54 Fed. Reg. 3,232 (Jan. 23, 1989).
-(Archived extract: [`../record/hud-27061/54FR3232_part_121_promulgation.pdf`](../record/hud-27061/54FR3232_part_121_promulgation.pdf).)
+54 Fed. Reg. 3,232, 3,278–79 (Jan. 23, 1989).
+(Archived: [`../record/hud-27061/54FR3232_part_121_promulgation.pdf`](../record/hud-27061/54FR3232_part_121_promulgation.pdf);
+[`../record/hud-27061/54FR3278_part_121_preamble_data_response.pdf`](../record/hud-27061/54FR3278_part_121_preamble_data_response.pdf).)
 
 **2022.** HUD proposes updating Form HUD-27061 "to collect protected class data as required by the
 Fair Housing Act and HUD regulations at 24 CFR 121." 87 Fed. Reg. 58,524 (Sept. 27, 2022).

@@ -1,4 +1,4 @@
-"""Fail closed if the public README grows beyond its editorial budget."""
+"""Fail closed if a budgeted editorial surface grows beyond its ceiling."""
 from __future__ import annotations
 
 import re
@@ -10,6 +10,12 @@ README = REPO / "README.md"
 # timeline, census statement with finality classes, action-kit table) while still forcing
 # a routing page rather than a second report.
 CEILING = 900
+ARGUMENT = REPO / "article" / "THE_ARGUMENT.md"
+# Anchored to the 2026-08-02 strengthened build (measured 2,926 visible words; the
+# author-ratified working hold is ~2,900 by plain word count). The page is the
+# fifteen-minute compression; this guard blocks silent regrowth into a second
+# manuscript rather than enforcing a design target.
+ARGUMENT_CEILING = 2950
 
 
 def visible_words(markdown: str) -> list[str]:
@@ -38,7 +44,13 @@ def main() -> int:
     if missing:
         print("FAIL: README is missing required route(s): " + ", ".join(missing))
         return 1
-    print(f"PASS: README has {len(words)} visible words (ceiling {CEILING}).")
+    argument_words = visible_words(ARGUMENT.read_text(encoding="utf-8"))
+    if len(argument_words) > ARGUMENT_CEILING:
+        print(f"FAIL: THE_ARGUMENT has {len(argument_words)} visible words; "
+              f"ceiling is {ARGUMENT_CEILING}.")
+        return 1
+    print(f"PASS: README has {len(words)} visible words (ceiling {CEILING}); "
+          f"THE_ARGUMENT has {len(argument_words)} (ceiling {ARGUMENT_CEILING}).")
     return 0
 
 
