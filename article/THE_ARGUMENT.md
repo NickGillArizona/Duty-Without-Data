@@ -7,6 +7,10 @@ have not read it. Every proposition here is developed, with full citations, in t
 point into it. It is orientation, not authority, and not legal advice (authorship and AI-use
 disclosure: [`../AI_USE.md`](../AI_USE.md)).
 
+Disability fair-housing rights are *record-dependent* — their ordinary proof turns on records of
+the regulated party's own conduct — and the remedy here is a rulemaking petition asking HUD for
+the minimum records that make existing duties verifiable.
+
 ## 1. The problem, in one case
 
 In May 2010, the Mobile Housing Board issued Donavette Ely a four-bedroom Section 8 voucher because
@@ -58,9 +62,9 @@ brought without a lawyer rose from 59.6% to 76.1%.
 </picture>
 <!-- /claim-block -->
 
-And the way unrepresented plaintiffs lose points at the missing records: among pleading-stage
-losses, factual narratives never translated into the legal elements courts screen for are more
-common in pro se losses than in represented ones; the coding is machine-based, so the finding is
+The missing records show up in how unrepresented plaintiffs lose: among pleading-stage losses,
+failure to translate a factual narrative into the legal elements courts screen for is more common
+in pro se losses than in represented ones. The coding is machine-based, so the finding is
 directional. Private enforcement does not substitute for administrative records; it depends on
 them. (Part II.E.)
 
@@ -88,13 +92,14 @@ analysis of appropriate data" — enacted in the same 1988 statute as the disabi
 data-rule anchor.
 
 **42 U.S.C. § 3608(e)(6) and § 3608(f).** Annual reporting on "handicap" and family
-characteristics, among enumerated categories, for persons served by HUD programs — and § 3608(f)
-enumerates § 504 among the civil-rights authorities whose coverage defines that reporting duty,
+characteristics, among enumerated categories, for persons served by HUD programs; § 3608(f)
+enumerates § 504 among the civil-rights authorities whose coverage defines that reporting duty —
 the statute's own tie between disability-data reporting and § 504.
 
 **24 C.F.R. Part 121 (§ 121.2).** HUD's own 1989 regulation directing program participants to
 furnish data concerning handicap and family characteristics as the Secretary determines necessary
-or appropriate. On the books, and essentially unused, since 1989.
+or appropriate. On the books since 1989; the located record shows fragmentation rather than use
+at scale.
 
 **5 U.S.C. § 553(e).** "[E]ach agency shall give an interested person the right to petition for
 the issuance, amendment, or repeal of a rule." HUD's petition procedure is 24 C.F.R. § 10.20. The
@@ -115,7 +120,7 @@ contested general mandate. (Parts III.A, III.E.)
 ## 4. HUD's own administrative record
 
 What turns the gap into an administrative-law claim is HUD's own paper trail. Each entry links to
-a primary document archived in this repository. (Part I.E.)
+a primary document; most are archived in this repository. (Part I.E.)
 
 **1988.** Congress enacts § 3614a (express data-rule authority) and § 3608(e)(6) (handicap and
 family-characteristics reporting) in the same statute as the disability duties.
@@ -124,7 +129,7 @@ family-characteristics reporting) in the same statute as the disability duties.
 
 **1989.** HUD promulgates 24 C.F.R. Part 121. The preamble engages commenters' assertion that HUD
 "has failed to generate such data" and responds that HUD "remains committed to that objective."
-54 Fed. Reg. 3,232 (Jan. 1989).
+54 Fed. Reg. 3,232 (Jan. 23, 1989).
 (Archived extract: [`../record/hud-27061/54FR3232_part_121_promulgation.pdf`](../record/hud-27061/54FR3232_part_121_promulgation.pdf).)
 
 **2022.** HUD proposes updating Form HUD-27061 "to collect protected class data as required by the
@@ -132,8 +137,8 @@ Fair Housing Act and HUD regulations at 24 CFR 121." 87 Fed. Reg. 58,524 (Sept. 
 (Archived: [`../record/hud-27061/87FR58524_proposal.pdf`](../record/hud-27061/87FR58524_proposal.pdf).)
 
 **2023.** The 30-day notice and the OMB approval narrow the collection to race and ethnicity,
-re-grounded in Title VI, with no contemporaneous explanation of where the proposed disability
-categories went. 88 Fed. Reg. 5,370 (Jan. 27, 2023).
+re-grounded in Title VI, with no contemporaneous explanation in the located record of where the
+proposed disability categories went. 88 Fed. Reg. 5,370 (Jan. 27, 2023).
 (Archived: [`../record/hud-27061/88FR5370_30day_notice.pdf`](../record/hud-27061/88FR5370_30day_notice.pdf);
 the approved form: [`../record/hud-27061/form_HUD-27061_current.pdf`](../record/hud-27061/form_HUD-27061_current.pdf).)
 
@@ -148,8 +153,7 @@ Two record features do particular work in the reviewability analysis (Part I.E):
 
 1. **The identical burden estimate.** HUD applied the same 8,625-hour annual burden estimate to both
    the broader 2022 proposal and the narrower 2023 collection. That does not show the broader
-   collection costless — but it forecloses respondent burden as the disclosed reason for the
-   narrowing.
+   collection costless — but the public record contains no burden rationale for the narrowing.
 2. **Described broader than built.** The 2026 renewal notice still carries the 2022 title and still
    describes the form as gathering protected-class data required by the Fair Housing Act — a scope
    the instrument does not field.
@@ -172,7 +176,7 @@ proposed rescinding the EEO-1 through EEO-6 recurring demographic reports, 91 Fe
 requests for reasonable accommodation, 29 C.F.R. §§ 1602.14, 1602.31, 1602.40. The Note's response
 is the distinction its Part III.E names **records, not reports**: what the petition seeks are
 transaction and asset records of regulated conduct, not recurring demographic reports, and none of
-the 2026 actions questions the statutory footing — § 3604(f)(3), § 3608(e)(6), § 3614a, § 504's
+the 2026 actions addresses the statutory footing — § 3604(f)(3), § 3608(e)(6), § 3614a, § 504's
 express rulemaking command — on which each requested module independently stands. The same
 landscape supplies two of the objections answered in section 6. (Introduction; Part III.E; Part
 IV.D.)
@@ -190,7 +194,7 @@ regulator-only matching module under Privacy Act treatment. A ground for denying
 ground for denying another. The petition's *policy* object is the rule. Its *legal* object is
 narrower: a reasoned agency decision. (Part IV.A.)
 
-The sequence: the petition places a defined administrative record before HUD. Section 555(b) requires
+The petition places a defined administrative record before HUD. Section 555(b) requires
 HUD to conclude the matter within a reasonable time; § 555(e) requires a statement of the grounds for
 any denial. If HUD grants, HUD — not any court — designs the rule. If HUD denies, the denial is final
 agency action under *Bennett v. Spear*, 520 U.S. 154, 177–78 (1997), and gets ordinary
@@ -201,14 +205,14 @@ IV.A–IV.C.)
 
 The limiting principle is **reinforcement, not replication**: make duties Congress already enacted
 verifiable; derive no new obligations. Nothing in the argument rests on § 3608(e)(5)'s open-textured
-planning language — the provision whose contested readings produced the AFFH whiplash. (Parts I,
-III.A, IV.)
+planning language — the provision whose contested readings produced the AFFH rule's repeated
+reversals. (Parts I, III.A, IV.)
 
 And the argument is built for the deferential standard, not in spite of it. Petition-denial review
 overturns denials only in "the rarest and most compelling of circumstances." *Am. Horse Prot. Ass'n
 v. Lyng*, 812 F.2d 1, 4–5 (D.C. Cir. 1987). The petition is designed against that threshold: express
 statutory data authority; HUD's own regulatory text and 1989 preamble commitment; the 2022–2026
-record; § 504/Part 8 duties that presuppose the records sought; the litigation-dataset composition
+record; § 504/Part 8 duties that presuppose the records sought; the census composition
 findings; and a privacy-and-phasing design (HMDA-style tiered disclosure; no diagnoses or medical
 narratives; no public tenant-unit matching) that pre-answers the strongest objection. Under *State
 Farm*, a denial that does not engage those materials fails the requirement to consider the
@@ -240,16 +244,16 @@ review of rulemaking-petition denials, and *Massachusetts v. EPA* confirms their
 
 **"Part 121 is fragmented and discretionary."** The "necessary or appropriate" qualifier preserves
 Secretarial discretion — the Note concedes that. But discretion does not foreclose
-reasoned-explanation review of a data category the agency itself invoked in 2022 and then abandoned
-without explanation. Part 121's fragmented, program-specific implementation is part of the problem
+reasoned-explanation review of a data category the agency itself invoked in 2022 and then dropped
+without explanation in the located record. Part 121's fragmented, program-specific implementation is part of the problem
 the petition puts to the agency, not a defense to answering it.
 
 **"ADAPT v. HUD forecloses this."** *ADAPT v. HUD*, 170 F.3d 381 (3d Cir. 1999), rejected a
 generalized effort to compel HUD disability enforcement. The Note distinguishes it on three grounds:
 (1) this claim targets a discrete rulemaking petition, not generalized enforcement compulsion;
 (2) ADAPT pressed § 3608(e)(6) and Part 121 only as law to apply against discretionary enforcement —
-the *Chaney* axis — and § 3614a was never invoked; and (3) the 2022–2026 PRA record did not exist in
-1998.
+the *Chaney* axis — and § 3614a was never invoked; and (3) the 2022–2026 PRA record did not exist when
+ADAPT was litigated.
 
 **"Privacy, cost, and burden."** The proposed rule publishes aggregate compliance facts under
 HMDA-style disclosure tiers, not medical records; the petition seeks a phased, assisted-housing
