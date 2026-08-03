@@ -18,7 +18,7 @@
   <meta property="og:image:height" content="640">
   <meta name="twitter:card" content="summary_large_image">
 </head>
-<body>
+<body{% if page.page_class %} class="{{ page.page_class | escape }}"{% endif %}>
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="wrap">
@@ -28,9 +28,9 @@
           <li><a href="{{ '/' | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>Overview</a></li>
           <li><a href="{{ '/argument/' | relative_url }}"{% if page.url == "/argument/" %} aria-current="page"{% endif %}>Argument</a></li>
           <li><a href="{{ '/evidence-and-limits/' | relative_url }}"{% if page.url == "/evidence-and-limits/" %} aria-current="page"{% endif %}>Evidence</a></li>
-          <li><a href="{{ '/administrative-record/' | relative_url }}"{% if page.url == "/administrative-record/" %} aria-current="page"{% endif %}>Record</a></li>
+          <li><a href="{{ '/administrative-record/' | relative_url }}"{% if page.url == "/administrative-record/" %} aria-current="page"{% endif %}>HUD record</a></li>
           <li><a href="{{ '/methods-and-replication/' | relative_url }}"{% if page.url == "/methods-and-replication/" %} aria-current="page"{% endif %}>Methods</a></li>
-          <li><a href="{{ '/download-and-cite/' | relative_url }}"{% if page.url == "/download-and-cite/" %} aria-current="page"{% endif %}>Download</a></li>
+          <li><a href="{{ '/download-and-cite/' | relative_url }}"{% if page.url == "/download-and-cite/" %} aria-current="page"{% endif %}>Read &amp; cite</a></li>
         </ul>
       </nav>
     </div>
@@ -40,27 +40,35 @@
     <nav aria-label="Breadcrumb" class="breadcrumb">
       <ol>
         <li><a href="{{ '/' | relative_url }}">Overview</a></li>
-        <li aria-current="page">{{ page.breadcrumb | default: page.title }}</li>
+        <li aria-current="page">{% if page.part %}{{ page.part }} · {% endif %}{{ page.breadcrumb | default: page.title }}</li>
       </ol>
     </nav>
     {% endif %}
     <main id="main">
+      {% if page.part %}<p class="page-part">{{ page.part }}</p>{% endif %}
       {{ content }}
     </main>
+    {% if page.part_prev_url or page.part_next_url %}
+    <nav class="pager" aria-label="Series navigation">
+      {% if page.part_prev_url %}<a class="pager-prev" href="{{ page.part_prev_url }}"><span class="pager-dir">Previous</span>{{ page.part_prev_title }}</a>{% endif %}
+      {% if page.part_next_url %}<a class="pager-next" href="{{ page.part_next_url }}"><span class="pager-dir">Next</span>{{ page.part_next_title }}</a>{% endif %}
+    </nav>
+    {% endif %}
   </div>
   <footer class="site-footer">
     <div class="wrap">
       <nav aria-label="Footer">
         <ul>
           <li><a href="{{ '/accessibility/' | relative_url }}">Accessibility</a></li>
-          <li><a href="https://github.com/NickGillArizona/Duty-Without-Data">Repository</a></li>
-          <li><a href="https://github.com/NickGillArizona/Duty-Without-Data/releases">Version history</a></li>
-          <li><a href="https://github.com/NickGillArizona/Duty-Without-Data/tree/main/action">Action archive (dated)</a></li>
+          <li><a href="https://github.com/NickGillArizona/Duty-Without-Data">Research record</a></li>
+          <li><a href="https://github.com/NickGillArizona/Duty-Without-Data/releases">Fixed releases</a></li>
+          <li><a href="https://github.com/NickGillArizona/Duty-Without-Data/tree/main/action">Dated action materials</a></li>
         </ul>
       </nav>
       <p class="footer-note">Nicholas Gill, <em>Duty Without Data: Disability Fair Housing and the
       Record-Dependent Right</em>, forthcoming, Arizona Law Review (2026). Nothing on this site is
       legal advice. Licensing: <a href="https://github.com/NickGillArizona/Duty-Without-Data/blob/main/LICENSING.md">licensing guide</a>.</p>
+      {% if site.github.build_revision %}<p class="footer-build">Built from commit {{ site.github.build_revision | slice: 0, 7 }} · {{ site.time | date: "%Y-%m-%d" }}</p>{% endif %}
     </div>
   </footer>
 </body>

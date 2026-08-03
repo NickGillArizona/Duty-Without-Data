@@ -4,6 +4,8 @@
 
 Nicholas Gill · Forthcoming, **Arizona Law Review** (2026)
 
+**Web companion:** [five-minute version](https://nickgillarizona.github.io/Duty-Without-Data/).
+
 > [!IMPORTANT]
 > Federal disability fair-housing rights depend on records—requests, decisions, accessible units, occupancy—that HUD systems create only in fragments and no identified cross-program system reliably links, transmits, or makes accessible.
 
@@ -71,10 +73,10 @@ Use GitHub’s **Cite this repository** control or the [citation guide](CITATION
 
 ## AI disclosure
 
-Language models assisted document classification, code development, analysis, and editing. The author reviewed the case-level census, made all legal and interpretive judgments, and is responsible for the manuscript and repository; no model output is cited as legal authority. Raw outputs are published for the headline validation ensemble, adjudication-tier metadata for the primary pipeline (boundary: [system map](method/SYSTEM_MAP.md)). Full roles, instruments, and limitations: [AI_USE.md](AI_USE.md); attributions: [third-party notices](THIRD_PARTY_NOTICES.md).
+Language models assisted classification, code development, analysis, and editing. The author reviewed the case-level census, made all legal and interpretive judgments, and is responsible for the manuscript and repository; no model output is cited as legal authority. Raw outputs are published for the headline validation ensemble, adjudication-tier metadata for the primary pipeline (boundary: [system map](method/SYSTEM_MAP.md)). Full roles, instruments, limitations: [AI_USE.md](AI_USE.md); attributions: [third-party notices](THIRD_PARTY_NOTICES.md).
 
 ## About the author
 
-J.D. candidate, Class of 2027, University of Arizona James E. Rogers College of Law. Corrections and questions: email [nickgill@arizona.edu](mailto:nickgill@arizona.edu) or [open an issue](https://github.com/NickGillArizona/Duty-Without-Data/issues).
+J.D. candidate, Class of 2027, University of Arizona James E. Rogers College of Law. Corrections: [nickgill@arizona.edu](mailto:nickgill@arizona.edu) or [open an issue](https://github.com/NickGillArizona/Duty-Without-Data/issues).
 
 This archive is about disability rights, so its pages must stay usable with assistive technology; anything hard to use through a screen reader is a bug—report it.

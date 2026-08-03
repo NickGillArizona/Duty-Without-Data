@@ -2,6 +2,11 @@
 layout: default
 title: "The Administrative Record"
 permalink: /administrative-record/
+part: "Part III"
+part_prev_title: "Part II · Evidence and Limits"
+part_prev_url: "https://nickgillarizona.github.io/Duty-Without-Data/evidence-and-limits/"
+part_next_title: "Part IV · Methods and Replication"
+part_next_url: "https://nickgillarizona.github.io/Duty-Without-Data/methods-and-replication/"
 description: "The dated Form HUD-27061 administrative record, 1988 to 2026: proposed with disability categories, approved without them, renewal proposed unchanged."
 ---
 

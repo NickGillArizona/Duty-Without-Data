@@ -2,13 +2,17 @@
 layout: default
 title: "The Argument"
 permalink: /argument/
+part: "Part I"
+part_next_title: "Part II · Evidence and Limits"
+part_next_url: "https://nickgillarizona.github.io/Duty-Without-Data/evidence-and-limits/"
 description: "The legal argument of Duty Without Data in brief: record-dependent rights, HUD's own administrative record, and a narrow Section 553(e) petition."
 ---
 
 # The Argument
 
 The Note's legal argument, in brief; the full fifteen-minute version and the manuscript carry the
-citations.
+citations. Its center: for a record-dependent right, a minimally sufficient, claimant-accessible
+record is not an added benefit — it is what makes the right usable.
 
 In 2010, a housing authority issued Donavette Ely a larger Section 8 voucher because of her son's
 disability — its own written explanation said so. When she later needed more time to use it, the

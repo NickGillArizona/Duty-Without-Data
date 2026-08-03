@@ -2,6 +2,11 @@
 layout: default
 title: "Evidence and Limits"
 permalink: /evidence-and-limits/
+part: "Part II"
+part_prev_title: "Part I · Argument"
+part_prev_url: "https://nickgillarizona.github.io/Duty-Without-Data/argument/"
+part_next_title: "Part III · Administrative Record"
+part_next_url: "https://nickgillarizona.github.io/Duty-Without-Data/administrative-record/"
 description: "What the Duty Without Data archive establishes, what requires judgment, the adverse preregistered findings, and the structural limits of the evidence."
 ---
 

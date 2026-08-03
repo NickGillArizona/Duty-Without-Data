@@ -1,6 +1,6 @@
 {
   "_note": "Authoritative release manifest: every git-tracked file except this manifest. sha256_bytes is the raw-byte hash; sha256_lf (text files) is the LF-normalized hash. Verify with scripts/check_release_manifest.py. Execution-era hash manifests in replication/comparator/ and method/preregistration/ are historical provenance only.",
-  "file_count": 522,
+  "file_count": 526,
   "files": {
     ".gitattributes": {
       "sha256_bytes": "75e25fbf8b26d0547a9fb0818c23c3a736811cc093f6a0302489d26c90b267dd",
@@ -93,9 +93,9 @@
       "size": 258
     },
     "README.md": {
-      "sha256_bytes": "ae16b2f18e4ec312d5149421814efa2eb392169272be155de86b9b19dcbf0e81",
-      "sha256_lf": "47fce668386fa689efa4d0a17de56feaed68a08d71eadbb493ab6cdc6c2ba8c7",
-      "size": 8803
+      "sha256_bytes": "20521890375013bbd32fa3695edf006275f79b5fd6edb61a8fed0bf483a370f0",
+      "sha256_lf": "f8eaff4b554b3a0fd5baf9400860af3e7fff1c471e7a514095f6523e4c4bc4f6",
+      "size": 8867
     },
     "TAKE_ACTION.md": {
       "sha256_bytes": "4250069b959687aeec40e99e498c66e07997cfacd9c0515292ef0bf7b8c3e4b4",
@@ -118,9 +118,9 @@
       "size": 841
     },
     "_layouts/default.html": {
-      "sha256_bytes": "e785466d26ecc1764e0704f11a7157f8649a2b80fe73801f3ae3ab8dc819fb9e",
-      "sha256_lf": "03c2f3c06010bce4fdaf3a13790d9f61bebcf414b8745c720aa3d8ba60a0e185",
-      "size": 3852
+      "sha256_bytes": "59b114a34b865ce724b13aedd9b0817b61d641d5f8064d1d7fe3786d312cbd96",
+      "sha256_lf": "59b114a34b865ce724b13aedd9b0817b61d641d5f8064d1d7fe3786d312cbd96",
+      "size": 4649
     },
     "_pages/accessibility.md": {
       "sha256_bytes": "fa6ae2b13ad5530c442b51218da9183a446542f04f7db769ba36e4a023659d66",
@@ -128,14 +128,14 @@
       "size": 2556
     },
     "_pages/administrative-record.md": {
-      "sha256_bytes": "af98877d0bc2abfdc8f71f0f22e127e8c681e0a3839251fc44fc176a3a374854",
-      "sha256_lf": "d79f90bf4cd6d60544fe2a70f0f6e33fd8dd63b94fae16d48f96eb08bf5b3aa7",
-      "size": 3406
+      "sha256_bytes": "50b82e7d43401c95f7c469db4b756163f8675d854cf289dcbce84fcde9a5fb39",
+      "sha256_lf": "589c722a8047a806a11bda571b5034ff8635f6febe89ade5a354acc06980cbb7",
+      "size": 3711
     },
     "_pages/argument.md": {
-      "sha256_bytes": "e9619832a576806953288ee5e57f440dc9e6b51b4b121c1655e455ec0001d860",
-      "sha256_lf": "1ff733e82baa93085d453a1c9aae58c5c8806900d74819df1ead59d4a1bd1744",
-      "size": 3235
+      "sha256_bytes": "2a71d7e3e8e1c533cb0db26505f23af83b0216948c3333aabca653cecca3d069",
+      "sha256_lf": "f3089b1d9d120de09fa59f77f38c06ab16be68abe56a43d3bd5b5d6f12c0497a",
+      "size": 3550
     },
     "_pages/download-and-cite.md": {
       "sha256_bytes": "c9bdbd4b50cb211119613846318949cb30e4e9902a3be1d844eb16940dbc28d5",
@@ -143,14 +143,14 @@
       "size": 2217
     },
     "_pages/evidence-and-limits.md": {
-      "sha256_bytes": "f014a370373bd3fa8a433febb3fadb3bf93f56f533e2263fdf0bf9bc00325f8f",
-      "sha256_lf": "9e42c6bd512ff2a99a6d1d3e0ba1ff95bd0bd407726c1ad75d50f1d1045750f8",
-      "size": 3536
+      "sha256_bytes": "d941e02ee9e6627bb7333932129ee10363b8ad6ea4c144d8ccae6a84e7fa30ec",
+      "sha256_lf": "03ad4a0645bdaab0ee5bafedb4a104ba58d117d620a8f712567098c4fb541ae6",
+      "size": 3814
     },
     "_pages/methods-and-replication.md": {
-      "sha256_bytes": "b0c046f132b649bfe6ac39de04e1f4f1dc537d46e4fa94e150adaa0596b6ee0a",
-      "sha256_lf": "39fb20c08bff7d952f7cf790c00243f06f07c3d908f14cb2335aa52b706db5f9",
-      "size": 3345
+      "sha256_bytes": "2505279b3c0f925e71951c1053ef57a6fc5f47df227c75841a0301070a3231a1",
+      "sha256_lf": "7bca5e9bef66dada73b6ae73b89314d684e963c026a81df4d704b51700d82392",
+      "size": 3506
     },
     "action/2026_comment_template.md": {
       "sha256_bytes": "d4294a41384d14148d82e46aa59747bf70702d6542d0b6133715fa18b1ddb6e3",
@@ -213,14 +213,14 @@
       "size": 5935
     },
     "article/CLAIMS_INDEX.md": {
-      "sha256_bytes": "7c935256fb66773ead143107890fda4bbb1e3ee2fbd99896f8a94618fc6e7dfb",
+      "sha256_bytes": "4f3f0d6848ee0d986f295ff0c0bcdd6873e4a2d9cf5d2765add640aa2b70c1d2",
       "sha256_lf": "7c935256fb66773ead143107890fda4bbb1e3ee2fbd99896f8a94618fc6e7dfb",
-      "size": 28409
+      "size": 28899
     },
     "article/CLAIMS_LEDGER.csv": {
-      "sha256_bytes": "b1134ddd5e3eb9544188e1c794ddf0432e315d55fec577cb2736707783075c35",
+      "sha256_bytes": "2d6b217c67a9336d516bdf96851d658a772d1a27d9cb160fc555deb316aaaf65",
       "sha256_lf": "b1134ddd5e3eb9544188e1c794ddf0432e315d55fec577cb2736707783075c35",
-      "size": 32516
+      "size": 32570
     },
     "article/EVIDENCE_AND_LIMITS.md": {
       "sha256_bytes": "7c9232136f6bccbbccd35af35f8b3643342fee4cde5e19dc39d2b8a5caf756c9",
@@ -377,14 +377,34 @@
       "size": 2951
     },
     "assets/css/site.css": {
-      "sha256_bytes": "884853fd293e5581774f036b61a01eb1381b4840d6439b0908a10c21c8e6de22",
-      "sha256_lf": "0c24eb9c1877a8df8ebca1b6625b6729c9c6a038ee37b1483d51f966d94c2780",
-      "size": 6201
+      "sha256_bytes": "e0b45fefdd4253814a313cdbbbcdf70372386dd44ef9daf37bb97d652ffb2596",
+      "sha256_lf": "fcd2e345eb8b2598f6c9c96206282985a9a680e54e7e4b5d19d5ed56c093fb9a",
+      "size": 23137
     },
     "assets/favicon.svg": {
       "sha256_bytes": "7a37670c357302a6b46334bfdc1ecb34c340c743ec334d0b05f42811bd5d3d2c",
       "sha256_lf": "a32516d529f63b5462373fde608c0650482adcb657607f692fa982a0d0446691",
       "size": 618
+    },
+    "assets/figures/fig1_composition_dark.svg": {
+      "sha256_bytes": "ec6834acd30e5e4f2a1da76d2ba19c75767ea0545998364fed7e0443ed0a9dfd",
+      "sha256_lf": "ec6834acd30e5e4f2a1da76d2ba19c75767ea0545998364fed7e0443ed0a9dfd",
+      "size": 5574
+    },
+    "assets/figures/fig1_composition_light.svg": {
+      "sha256_bytes": "75d0e14f1b577fde21b9f6b82bf365e9e680513baa72e156c421c60e8290259f",
+      "sha256_lf": "75d0e14f1b577fde21b9f6b82bf365e9e680513baa72e156c421c60e8290259f",
+      "size": 5574
+    },
+    "assets/figures/fig1_composition_mobile_dark.svg": {
+      "sha256_bytes": "ae08562753690cd09e4aa981433a5c29c91ecfbcbe6783bbf281461a2bcf8e6e",
+      "sha256_lf": "bd9e0f2646d1d0b4d04465525062145800e3133d6109ea55512653a481200000",
+      "size": 4895
+    },
+    "assets/figures/fig1_composition_mobile_light.svg": {
+      "sha256_bytes": "d4a12a0510a192230ae7110864c9b5ad074c72da640c3db0bef3b9a49c7e7d52",
+      "sha256_lf": "4d6b499d9034c06b7f5e9fbdf8dfe60e223ec4d277ba815ef4a0d7e3ff701489",
+      "size": 4895
     },
     "assets/social-preview-source.svg": {
       "sha256_bytes": "20081132c2b8cd6eaae06c2b1357e7323fe7bf39f71196dddbc297e2fc9e0f06",
@@ -532,9 +552,9 @@
       "size": 1042722
     },
     "index.md": {
-      "sha256_bytes": "6b55f2841187020af2785b47cbd17de44fef1e7821980363ca29e1dd1f7ecfb0",
-      "sha256_lf": "074c61c142705dba920be479d1fd65dc0c866ca93921e1edfa23246fcc6d81ed",
-      "size": 11872
+      "sha256_bytes": "889684a46b924d83c9c993850c791520aa4bdc81e8227f8b11bb1905074190af",
+      "sha256_lf": "889684a46b924d83c9c993850c791520aa4bdc81e8227f8b11bb1905074190af",
+      "size": 14191
     },
     "manuscript/Duty_Without_Data.md": {
       "sha256_bytes": "fabb727f19063cb664d3bf450d5f6ef05eefe4a9c529e479f44097778a016486",

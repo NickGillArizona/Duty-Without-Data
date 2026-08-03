@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="660" viewBox="0 0 390 660" role="img" aria-labelledby="title desc">
+  <title id="title">Case composition and qualifying-judgment rates</title>
+  <desc id="desc">Mobile summary of the case-level census. Periods: P1 January 2022 to June 2024, P2 June 2024 to February 2025, P3 February 2025 to July 2026. The pro se share is 59.6 percent in P1, 55.9 percent in P2, and 76.1 percent in P3. Qualifying-judgment rates are 3.48 percent, zero, and 3.19 percent. Eighteen qualifying judgments occurred in all; every one involved a represented plaintiff and none was pro se.</desc>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+    <text x="20" y="32" fill="#f0f6fc" font-family="Georgia, Cambria, serif" font-size="22" font-weight="700">Composition and judgment rates</text>
+    <text x="20" y="56" fill="#8c959f" font-size="13">Case-level census · July 2026</text>
+
+    <rect x="16" y="78" width="358" height="248" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="32" y="108" fill="#8c959f" font-size="12" font-weight="700" letter-spacing="1.2">PRO SE SHARE OF DECIDED CASES</text>
+
+    <text x="32" y="153" fill="#f0f6fc" font-size="14" font-weight="700">P1</text>
+    <rect x="70" y="140" width="236" height="16" rx="8" fill="#30363d"/>
+    <rect x="70" y="140" width="141" height="16" rx="8" fill="#f0883e"/>
+    <text x="338" y="154" fill="#f0883e" font-size="16" font-weight="700" text-anchor="end">59.6%</text>
+
+    <text x="32" y="207" fill="#f0f6fc" font-size="14" font-weight="700">P2</text>
+    <rect x="70" y="194" width="236" height="16" rx="8" fill="#30363d"/>
+    <rect x="70" y="194" width="132" height="16" rx="8" fill="#f0883e"/>
+    <text x="338" y="208" fill="#f0883e" font-size="16" font-weight="700" text-anchor="end">55.9%</text>
+
+    <text x="32" y="261" fill="#f0f6fc" font-size="14" font-weight="700">P3</text>
+    <rect x="70" y="248" width="236" height="16" rx="8" fill="#30363d"/>
+    <rect x="70" y="248" width="180" height="16" rx="8" fill="#f0883e"/>
+    <text x="338" y="262" fill="#f0883e" font-size="16" font-weight="700" text-anchor="end">76.1%</text>
+
+    <text x="32" y="302" fill="#8c959f" font-size="12">The decided docket becomes increasingly pro se.</text>
+
+    <rect x="16" y="342" width="358" height="200" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="32" y="372" fill="#8c959f" font-size="12" font-weight="700" letter-spacing="1.05">QUALIFYING-JUDGMENT RATE</text>
+
+    <g transform="translate(30 393)">
+      <rect width="100" height="118" rx="9" fill="#0d1117" stroke="#30363d"/>
+      <text x="50" y="25" fill="#8c959f" font-size="13" font-weight="700" text-anchor="middle">P1 · N 287</text>
+      <text x="50" y="59" fill="#58a6ff" font-size="23" font-weight="700" text-anchor="middle">3.48%</text>
+      <text x="50" y="84" fill="#3fb950" font-size="12" font-weight="700" text-anchor="middle">10 judgments</text>
+      <text x="50" y="103" fill="#8c959f" font-size="11" text-anchor="middle">represented</text>
+    </g>
+
+    <g transform="translate(145 393)">
+      <rect width="100" height="118" rx="9" fill="#0d1117" stroke="#30363d"/>
+      <text x="50" y="25" fill="#8c959f" font-size="13" font-weight="700" text-anchor="middle">P2 · N 68</text>
+      <text x="50" y="59" fill="#58a6ff" font-size="23" font-weight="700" text-anchor="middle">0.00%</text>
+      <text x="50" y="84" fill="#3fb950" font-size="12" font-weight="700" text-anchor="middle">0 judgments</text>
+      <text x="50" y="103" fill="#8c959f" font-size="11" text-anchor="middle">short window</text>
+    </g>
+
+    <g transform="translate(260 393)">
+      <rect width="100" height="118" rx="9" fill="#0d1117" stroke="#30363d"/>
+      <text x="50" y="25" fill="#8c959f" font-size="13" font-weight="700" text-anchor="middle">P3 · N 251</text>
+      <text x="50" y="59" fill="#58a6ff" font-size="23" font-weight="700" text-anchor="middle">3.19%</text>
+      <text x="50" y="84" fill="#3fb950" font-size="12" font-weight="700" text-anchor="middle">8 judgments</text>
+      <text x="50" y="103" fill="#8c959f" font-size="11" text-anchor="middle">represented</text>
+    </g>
+
+    <rect x="16" y="560" width="358" height="58" rx="10" fill="#2d1b0e" stroke="#f0883e" stroke-width="1.5"/>
+    <text x="195" y="586" fill="#f0883e" font-family="Georgia, Cambria, serif" font-size="19" font-weight="700" text-anchor="middle">18 judgments total</text>
+    <text x="195" y="607" fill="#c9d1d9" font-size="13" font-weight="700" text-anchor="middle">all represented · none pro se</text>
+
+    <text x="20" y="636" fill="#8c959f" font-size="11">P1 Jan 2022 - Jun 2024 · P2 Jun 2024 - Feb 2025</text>
+    <text x="20" y="652" fill="#8c959f" font-size="11">P3 Feb 2025 - Jul 2026 · one case, one unit</text>
+  </g>
+</svg>

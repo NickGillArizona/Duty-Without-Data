@@ -298,3 +298,880 @@ hr {
     word-break: break-all;
   }
 }
+
+/* -------------------------------------------------------------------------
+   Landing page + publication furniture.
+
+   Design system notes (round-3 panel synthesis):
+   - Masthead double-rule (thick/thin) tops every page: legal-periodical
+     front matter.
+   - Signature motif: THE GAP IN THE RULE. Every structural hairline carries
+     one 2rem break at 62% of its width -- the page about a record that
+     failed to travel is divided by lines that fail to travel. The gap is
+     transparency, so dark mode needs no extra work. The pull-quote's left
+     rule breaks vertically: the one expressive use.
+   - The census band and Figure 1 read as one evidentiary movement; the
+     figure is framed as an exhibit with crop ticks and a hanging label.
+   - Small caps (not uppercase sans) is the register of printed scholarship.
+   - Print is a first-class medium: the band inverts to a ruled findings
+     table; archive links expose their URLs.
+   ------------------------------------------------------------------------- */
+
+.landing {
+  --band: #243d5a;
+  --band-text: #fbfaf7;
+  --band-muted: #c9d2dd;
+  --band-rule: rgba(251, 250, 247, 0.38);
+  width: 100%;
+}
+
+@media (prefers-color-scheme: dark) {
+  .landing {
+    --band: #2c4a6e;
+    --band-text: #ece9e2;
+    --band-muted: #b9c4d2;
+    --band-rule: rgba(236, 233, 226, 0.32);
+  }
+}
+
+/* Masthead double-rule: every page of the publication opens with it. */
+.site-header::before {
+  content: "";
+  display: block;
+  height: 6px;
+  margin-bottom: 10px;
+  background:
+    linear-gradient(to bottom,
+      var(--accent) 0 3px,
+      transparent 3px 5px,
+      var(--accent) 5px 6px);
+}
+
+/* The gap in the rule -- capped to two expressive loci (the hero rule and the
+   pull-quote); a signature works by scarcity. All other rules run solid. */
+.gap-rule {
+  display: block;
+  height: 1px;
+  border: 0;
+  background:
+    linear-gradient(to right,
+      var(--border) 0 62%,
+      transparent 62% calc(62% + 2rem),
+      var(--border) calc(62% + 2rem) 100%);
+}
+
+.landing-section::after,
+.figure-band::after {
+  content: "";
+  display: block;
+  height: 1px;
+  border: 0;
+  background: var(--border);
+}
+
+body.landing-page main {
+  max-width: none;
+  padding: 0 0 32px;
+}
+
+body.landing-page .site-footer { margin-top: 0; }
+
+.landing-shell {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.landing-hero {
+  padding: 64px 0 56px;
+}
+
+.landing .eyebrow,
+.landing .panel-label,
+.landing .route-kicker,
+.figure-label {
+  margin: 0 0 8px;
+  color: var(--accent-2);
+  font-size: 0.85rem;
+  font-weight: 700;
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.12em;
+  line-height: 1.4;
+}
+
+.landing h1 {
+  max-width: 14ch;
+  margin: 0 0 24px;
+  font-size: clamp(2.9rem, 6vw, 4.8rem);
+  letter-spacing: -0.02em;
+  line-height: 1.02;
+}
+
+.landing .hero-lead {
+  max-width: 30ch;
+  margin: 0 0 24px;
+  color: var(--text);
+  font-family: var(--font-heading);
+  font-size: clamp(1.35rem, 2.5vw, 1.8rem);
+  line-height: 1.35;
+}
+
+/* Editorial hero split: deck left, metadata column right, first gap-rule.
+   DOM order is meta-then-deck (author and actions read first on mobile);
+   grid areas place the deck left on wide screens. */
+.hero-lower {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(17rem, 0.5fr);
+  grid-template-areas: "deck meta";
+  align-items: start;
+  gap: 32px 56px;
+  margin-top: 8px;
+  padding-top: 28px;
+  background:
+    linear-gradient(to right,
+      var(--border) 0 62%,
+      transparent 62% calc(62% + 2rem),
+      var(--border) calc(62% + 2rem) 100%)
+    top left / 100% 1px no-repeat;
+}
+
+.hero-lower .hero-deck { grid-area: deck; }
+
+.hero-lower .hero-meta { grid-area: meta; }
+
+.landing .hero-deck {
+  max-width: 58ch;
+  margin: 0;
+  color: var(--muted);
+  font-size: 1.03rem;
+}
+
+.hero-meta {
+  align-self: start;
+  border-left: 2px solid var(--accent);
+  padding-left: 24px;
+}
+
+.landing .byline {
+  margin: 0 0 16px;
+  color: var(--muted);
+  font-size: 0.94rem;
+  line-height: 1.55;
+}
+
+.landing .byline strong {
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.06em;
+  font-size: 1.05rem;
+}
+
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 16px;
+  align-items: center;
+}
+
+main a.button {
+  display: inline-block;
+  border: 1px solid var(--accent);
+  padding: 9px 14px;
+  color: var(--accent);
+  font-size: 0.92rem;
+  font-weight: 650;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
+main a.button:hover {
+  border-color: var(--accent-2);
+  color: var(--accent-2);
+}
+
+main a.button-primary {
+  background: var(--accent);
+  color: var(--bg);
+}
+
+main a.button-primary:hover {
+  background: var(--accent-2);
+  color: var(--bg);
+}
+
+main a.text-link {
+  font-size: 0.92rem;
+  font-weight: 650;
+}
+
+/* Comment-window strip: a dated docket entry, not a banner. */
+.current-note {
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.current-note-inner {
+  padding: 14px 0;
+  border-left: 3px solid var(--accent-2);
+  padding-left: 20px;
+}
+
+.current-note p {
+  margin: 0;
+  font-size: 0.92rem;
+  font-variant-numeric: lining-nums;
+}
+
+/* --- The evidentiary movement: census band + exhibit ---------------------- */
+
+.headline-findings {
+  padding: 56px 0 48px;
+  background: var(--band);
+  color: var(--band-text);
+}
+
+.headline-findings h2,
+.headline-findings .eyebrow,
+.headline-findings .proof-value {
+  color: var(--band-text);
+}
+
+.headline-findings .eyebrow {
+  opacity: 0.85;
+}
+
+.section-intro {
+  max-width: 68ch;
+  margin: 0 0 32px;
+}
+
+.section-intro h2 {
+  margin: 0 0 12px;
+  font-size: clamp(1.9rem, 4vw, 2.4rem);
+  letter-spacing: -0.015em;
+  line-height: 1.15;
+  text-wrap: balance;
+}
+
+.section-intro > p:last-child { margin-bottom: 0; }
+
+.compact-intro {
+  max-width: 62ch;
+  margin-bottom: 28px;
+}
+
+/* The census as ledger entries: label column left, ruled rows right. */
+.band-grid {
+  display: grid;
+  grid-template-columns: minmax(15rem, 0.72fr) minmax(0, 1.28fr);
+  gap: 32px 72px;
+  align-items: start;
+}
+
+.band-intro .eyebrow { margin-bottom: 12px; }
+
+.band-intro h2 {
+  margin: 0 0 12px;
+  font-size: clamp(1.9rem, 4vw, 2.4rem);
+  letter-spacing: -0.015em;
+  line-height: 1.15;
+  text-wrap: balance;
+}
+
+.band-intro p:last-child {
+  margin: 0;
+  opacity: 0.9;
+}
+
+.proof-grid {
+  border-bottom: 1px solid var(--band-rule);
+}
+
+.proof-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.05fr);
+  gap: 8px 24px;
+  padding: 20px 0;
+  border-top: 1px solid var(--band-rule);
+}
+
+.proof-card p:last-child {
+  margin: 0;
+  max-width: 42ch;
+  opacity: 0.88;
+  font-size: 0.9rem;
+}
+
+.proof-value {
+  margin: 0;
+  font-family: var(--font-heading);
+  font-size: clamp(1.4rem, 2.2vw, 1.75rem);
+  font-weight: 700;
+  font-variant-numeric: lining-nums tabular-nums;
+  line-height: 1.15;
+}
+
+.finding-caveat {
+  max-width: 78ch;
+  margin: 24px 0 0;
+  padding-top: 12px;
+  color: var(--band-muted);
+  font-size: 0.85rem;
+  background:
+    linear-gradient(to right, var(--band-rule) 0 96px, transparent 96px)
+    top left / 100% 1px no-repeat;
+}
+
+.figure-band {
+  padding: 40px 0 48px;
+  background: var(--surface);
+}
+
+.figure-plate {
+  margin: 0;
+}
+
+.exhibit {
+  position: relative;
+  padding: 16px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+}
+
+.exhibit::before,
+.exhibit::after {
+  content: "";
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  border: 0 solid var(--accent-2);
+}
+
+.exhibit::before {
+  top: -1px;
+  left: -1px;
+  border-top-width: 2px;
+  border-left-width: 2px;
+}
+
+.exhibit::after {
+  right: -1px;
+  bottom: -1px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+}
+
+.exhibit img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.figure-caption {
+  display: grid;
+  grid-template-columns: 9ch minmax(0, 1fr);
+  gap: 4px 16px;
+  max-width: 76ch;
+  margin: 16px 0 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.figure-caption .figure-label {
+  margin: 0;
+  font-variant-numeric: lining-nums;
+}
+
+/* --- Editorial sections --------------------------------------------------- */
+
+.landing-section {
+  padding: 80px 0;
+}
+
+.narrative-grid,
+.response-grid,
+.about-grid {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.72fr) minmax(0, 1.28fr);
+  gap: 64px;
+  align-items: start;
+}
+
+.narrative-grid .section-intro,
+.response-grid .section-intro,
+.about-grid .section-intro {
+  margin-bottom: 0;
+}
+
+.reading-column {
+  max-width: 68ch;
+}
+
+.reading-column cite,
+.module-list cite,
+.figure-caption cite {
+  font-style: italic;
+  padding-right: 0.1em;
+}
+
+.pull-quote {
+  position: relative;
+  margin: 32px 0;
+  padding: 24px 0 24px 28px;
+  color: var(--accent);
+  font-family: var(--font-heading);
+  font-size: clamp(1.55rem, 3vw, 2.3rem);
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.25;
+}
+
+/* The one expressive use of the motif: the rule beside the verdict breaks. */
+.pull-quote::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 4px;
+  background:
+    linear-gradient(to bottom,
+      var(--accent-2) 0 42%,
+      transparent 42% calc(42% + 1.25rem),
+      var(--accent-2) calc(42% + 1.25rem) 100%);
+}
+
+.artifact-list {
+  margin: 0 0 24px;
+  padding: 0;
+  list-style: none;
+}
+
+.artifact-list li {
+  margin: 0;
+  padding: 10px 0;
+  border-top: 1px solid var(--border);
+  font-size: 0.95rem;
+}
+
+.artifact-list li:last-child {
+  border-bottom: 1px solid var(--border);
+}
+
+.footer-build {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.response-section {
+  background: var(--surface);
+  border-top: 5px solid var(--accent);
+}
+
+/* Publication link grammar inside reading contexts. */
+.reading-column a,
+.response-main a,
+.figure-caption a,
+.current-note a {
+  text-decoration-line: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.17em;
+}
+
+.reading-column a:hover,
+.response-main a:hover,
+.figure-caption a:hover,
+.current-note a:hover {
+  text-decoration-thickness: 0.14em;
+}
+
+.response-body {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 18rem;
+  gap: 24px 48px;
+  align-items: start;
+}
+
+.response-main > p:last-child { margin-bottom: 0; }
+
+.module-list {
+  margin: 0 0 32px;
+  padding: 0;
+  list-style: none;
+  counter-reset: module;
+}
+
+.module-list li {
+  position: relative;
+  margin: 0;
+  padding: 16px 0 16px 3.2rem;
+  border-top: 1px solid var(--border);
+  counter-increment: module;
+}
+
+.module-list li::before {
+  content: "0" counter(module);
+  position: absolute;
+  left: 0;
+  top: 18px;
+  color: var(--accent-2);
+  font-family: var(--font-heading);
+  font-size: 1.05rem;
+  font-weight: 700;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.module-list li:last-child {
+  border-bottom: 1px solid var(--border);
+}
+
+/* The limiting principle: a stipulation set beside what it constrains. */
+.limiting-principle {
+  padding: 16px 0 12px;
+  border-top: 3px solid var(--accent-2);
+  border-bottom: 1px solid var(--accent-2);
+}
+
+.limiting-principle p:last-child { margin-bottom: 0; }
+
+/* --- Routes as a numbered table of contents ------------------------------- */
+
+.route-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: route;
+}
+
+.route-list li {
+  border-top: 1px solid var(--border);
+  counter-increment: route;
+}
+
+.route-list li:last-child {
+  border-bottom: 1px solid var(--border);
+}
+
+main .route-list a {
+  display: grid;
+  grid-template-columns: 3ch minmax(160px, 0.36fr) minmax(0, 1.6fr);
+  gap: 8px 32px;
+  padding: 24px 0;
+  color: var(--text);
+  text-decoration: none;
+}
+
+main .route-list a::before {
+  content: counter(route, upper-roman);
+  color: var(--accent-2);
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  font-weight: 700;
+  font-variant-numeric: lining-nums;
+  line-height: 1.4;
+}
+
+.route-list .route-kicker {
+  margin: 5px 0 0;
+}
+
+.route-list strong {
+  display: block;
+  color: var(--accent);
+  font-family: var(--font-heading);
+  font-size: 1.28rem;
+  line-height: 1.3;
+}
+
+.route-list a:hover {
+  background: var(--bg);
+}
+
+.route-list a:hover strong {
+  color: var(--accent-2);
+  text-decoration: underline;
+}
+
+.route-list a > span:last-child {
+  grid-column: 3;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.about-section::after { display: none; }
+
+.about-section .reading-column > p:first-child {
+  font-family: var(--font-heading);
+  font-size: 1.16rem;
+}
+
+/* --- Subpage publication furniture ---------------------------------------- */
+
+.page-part {
+  margin: 24px 0 -8px;
+  color: var(--accent-2);
+  font-size: 0.85rem;
+  font-weight: 700;
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.12em;
+}
+
+.breadcrumb li[aria-current] {
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.06em;
+}
+
+.pager {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  max-width: 70ch;
+  margin: 48px 0 16px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+
+.pager a {
+  display: block;
+  color: var(--accent);
+  font-family: var(--font-heading);
+  font-size: 1.02rem;
+  text-decoration: none;
+}
+
+.pager a:hover { text-decoration: underline; }
+
+.pager-next { margin-left: auto; text-align: right; }
+
+.pager .pager-dir {
+  display: block;
+  margin-bottom: 2px;
+  color: var(--muted);
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  font-weight: 700;
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.12em;
+}
+
+/* --- Craft details -------------------------------------------------------- */
+
+::selection {
+  background: rgba(154, 79, 53, 0.25);
+}
+
+:focus-visible {
+  outline: 3px solid var(--accent-2);
+  outline-offset: 4px;
+}
+
+.skip-link {
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.08em;
+}
+
+/* --- Responsive ----------------------------------------------------------- */
+
+@media (max-width: 860px) {
+  .narrative-grid,
+  .response-grid,
+  .about-grid,
+  .band-grid {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .hero-lower {
+    grid-template-columns: 1fr;
+    grid-template-areas: "meta" "deck";
+  }
+
+  .response-body {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-meta {
+    border-left: 0;
+    border-top: 2px solid var(--accent);
+    padding-left: 0;
+    padding-top: 20px;
+  }
+
+  main .route-list a {
+    grid-template-columns: 3ch minmax(0, 1fr);
+  }
+
+  .route-list a > span:last-child {
+    grid-column: 2;
+  }
+}
+
+@media (max-width: 600px) {
+  .landing-hero {
+    padding: 44px 0 36px;
+  }
+
+  .landing h1 {
+    max-width: none;
+    font-size: 2.9rem;
+  }
+
+  .landing .hero-lead {
+    font-size: 1.35rem;
+  }
+
+  .headline-findings,
+  .landing-section {
+    padding: 48px 0;
+  }
+
+  .figure-band {
+    padding: 28px 0 36px;
+  }
+
+  .figure-caption {
+    grid-template-columns: 1fr;
+  }
+
+  .proof-card {
+    grid-template-columns: 1fr;
+    gap: 6px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .landing * {
+    transition: none;
+  }
+}
+
+/* --- Print: the reprint --------------------------------------------------- */
+
+@media print {
+  @page {
+    margin: 2cm;
+  }
+
+  body.landing-page main { padding: 0; }
+
+  .landing-hero,
+  .headline-findings,
+  .figure-band,
+  .landing-section {
+    padding: 18pt 0;
+    background: #fff;
+    color: #000;
+  }
+
+  .landing-section::after,
+  .figure-band::after {
+    background: #999;
+  }
+
+  /* The navy flood inverts to a ruled findings table. */
+  .headline-findings {
+    border-top: 1.5pt solid #000;
+    border-bottom: 1.5pt solid #000;
+  }
+
+  .headline-findings h2,
+  .headline-findings .eyebrow,
+  .headline-findings .proof-value,
+  .proof-card p,
+  .finding-caveat {
+    color: #000;
+    opacity: 1;
+  }
+
+  .proof-grid {
+    border-color: #000;
+  }
+
+  .proof-card + .proof-card {
+    border-left-color: #999;
+  }
+
+  .finding-caveat {
+    background: linear-gradient(to right, #999 0 96px, transparent 96px)
+      top left / 100% 1px no-repeat;
+  }
+
+  .exhibit {
+    border-color: #999;
+  }
+
+  .exhibit::before,
+  .exhibit::after {
+    display: none;
+  }
+
+  .site-header .primary-nav {
+    display: none;
+  }
+
+  .current-note {
+    background: #fff;
+    border-color: #999;
+  }
+
+  main a.button {
+    border: 0;
+    padding: 0;
+    background: transparent;
+    color: #000;
+    font-weight: 650;
+    text-decoration: underline;
+  }
+
+  h1,
+  h2,
+  h3 {
+    break-after: avoid;
+  }
+
+  p {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .pull-quote { color: #000; }
+
+  .pull-quote::before {
+    background:
+      linear-gradient(to bottom,
+        #000 0 42%,
+        transparent 42% calc(42% + 1.25rem),
+        #000 calc(42% + 1.25rem) 100%);
+  }
+
+  .proof-card,
+  .limiting-principle,
+  .pull-quote,
+  .exhibit,
+  .module-list li,
+  .route-list li {
+    break-inside: avoid;
+  }
+
+  main a[href*="github.com"]::after,
+  main a[href*="nickgillarizona.github.io"]::after {
+    content: " (" attr(href) ")";
+    font-size: 8pt;
+    color: #444;
+  }
+
+  .narrative-grid,
+  .response-grid,
+  .about-grid,
+  .response-body,
+  .proof-grid {
+    display: block;
+  }
+
+  .limiting-principle {
+    margin: 12pt 0;
+    border-color: #000;
+  }
+}

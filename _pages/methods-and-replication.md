@@ -2,6 +2,9 @@
 layout: default
 title: "Methods and Replication"
 permalink: /methods-and-replication/
+part: "Part IV"
+part_prev_title: "Part III · Administrative Record"
+part_prev_url: "https://nickgillarizona.github.io/Duty-Without-Data/administrative-record/"
 description: "How the Duty Without Data case dataset was built, how it was validated, and how to reproduce every registered number."
 ---
 
