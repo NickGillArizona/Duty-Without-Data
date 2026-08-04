@@ -46,15 +46,28 @@ Database. From the database comes T2: 1,900 disability-screened, and from T2 com
 T3: 1,347 disability-wave and T4: 739 pleading-loss universe. The database also feeds the
 analysis scripts in `scripts/`, which write to `results/`.*
 
+One pipeline stage sits outside the validation layers below: screening. The screening pass is a
+single model — Google Gemini 3.1 Flash Lite at temperature 0.0, answering a binary YES/NO
+relevance question under the committed prompt ([`prompts/fha_screening_prompt.txt`](prompts/fha_screening_prompt.txt);
+configuration in [`pipeline/model_configuration.md`](pipeline/model_configuration.md)) — and records
+screened out do not enter T1 or any validation layer, so screening false negatives are unmeasured.
+The screened-out records remain in the committed database with their screening labels, so the stage
+can be re-run or audited by any reader.
+
 ### Validation: five layers, nine models
 
-| Layer | Design | Result |
-|---|---|---|
-| 1 — Primary pipeline | MiniMax M2.7 + DeepSeek V3.2 + Kimi K2.5, tiered Haiku 4.5 / Sonnet 4.6 adjudication | Produces `data/FHA_Unified_Database.json` |
-| 2 — Three-model ensemble | Kimi K2.6 + GLM-5.1 + DeepSeek V3.2 majority vote; 668 of 676 pleading-loss cases as-run, 728 of 739 in the merged July 2026 corpus | Fleiss' κ = 0.6292 as-run / 0.6297 merged (substantial); primary source of the 45.3% / 13.7% ensemble figures (directional) |
-| 3 — Single-model re-read | Kimi K2.6, stratified 150-case sample | Cohen's κ = 0.6264 |
-| 4 — Blind fourth coder | Claude Opus 4.7 full-universe re-read, 668 cases via 22 parallel subagents | κ = 0.60 vs. the ensemble; κ = 0.80 in the Opus-as-resolver sensitivity |
-| 5 — Independent audit | Claude Opus 4.6 end-to-end reclassification, stratified 50-opinion sample | 81.5% exact match across the full 12-field schema; κ = 0.561 |
+| Layer | Design | Raw outputs published? | Result |
+|---|---|---|---|
+| 1 — Primary pipeline | MiniMax M2.7 + DeepSeek V3.2 + Kimi K2.5, tiered Haiku 4.5 / Sonnet 4.6 adjudication | Adjudication-tier metadata ([`pipeline/adjudication_metadata.json`](pipeline/adjudication_metadata.json)) in place of per-model raws | Produces `data/FHA_Unified_Database.json` |
+| 2 — Three-model ensemble | Kimi K2.6 + GLM-5.1 + DeepSeek V3.2 majority vote; 668 of 676 pleading-loss cases as-run, 728 of 739 in the merged July 2026 corpus | Yes — three per-model JSONs in [`validation_three_model/`](validation_three_model/) | Fleiss' κ = 0.6292 as-run / 0.6297 merged — the floor of the Landis & Koch 0.61–0.80 "substantial" band; primary source of the 45.3% / 13.7% ensemble figures (directional) |
+| 3 — Single-model re-read | Kimi K2.6, stratified 150-case sample | Yes — [`validation_kimi_k2_6/`](validation_kimi_k2_6/) | Cohen's κ = 0.6264 |
+| 4 — Blind fourth coder | Claude Opus 4.7 full-universe re-read, 668 cases via 22 parallel subagents | Yes — 22 seat outputs in [`validation_four_coder_full/`](validation_four_coder_full/) | κ = 0.60 vs. the ensemble; κ = 0.80 when Opus 4.7 instead directly adjudicates the 244 non-unanimous ensemble cases (sensitivity) |
+| 5 — Independent audit | Claude Opus 4.6 end-to-end reclassification, stratified 50-opinion sample | Per-field metrics and error anatomy in [`../article/appendices/Appendix_A4_Reproducibility_Audit.md`](../article/appendices/Appendix_A4_Reproducibility_Audit.md); no per-opinion raws | 81.5% exact match across the full 12-field schema; κ = 0.561 — the lowest of the five layers, as expected from the most conservative design (full end-to-end re-run) |
+
+Vendor overlap, stated plainly: Layer 2 shares DeepSeek V3.2 with Layer 1, and Kimi K2.6 (Layers
+2–3) comes from the same lab as Kimi K2.5 (Layer 1), so cross-layer agreement is not fully
+independent evidence; the merged 2015-component tiebreaker (MiniMax) shares a model family with a
+Layer 1 classifier; the Layer 4–5 auditors share no lab with any classifier or adjudicator.
 
 Who checks whom — classifiers, adjudicators, and their cross-vendor auditors:
 
@@ -141,7 +154,7 @@ reusable pieces in this repository.
    lab.
 5. **Publish the disagreement, not just the agreement.** Raw per-model outputs, adjudication logs,
    and the kappas — committed, not summarized. The credibility of an LLM-coded dataset comes from
-   the audit trail, not from the headline agreement number. The four
+   the audit trail, not from the headline agreement number. The three
    [`validation_*/`](validation_three_model/) directories are the pattern. In this archive that
    standard is met in full by the validation and mechanism-ensemble passes; the primary database
    pipeline publishes its adjudication tier metadata in place of per-model raw outputs — the
@@ -175,7 +188,7 @@ The Note cites empirical material in three postures. The ledger makes each postu
 
 - **Directly observed administrative-record claims.** The 2022–2023 Form HUD-27061 PRA cycle, the identical 8,625-hour burden estimate, HUD's 2023 Title VI / 24 C.F.R. Part 1 framing, the 1989 Part 121 preamble, and the 2023 NSPIRE final-rule concession that NSPIRE compliance does not establish § 504 accessibility compliance. These rest on the Federal Register, reginfo.gov, and HUD's published rule text. The archive preserves the queries, retrieval dates, and text excerpts.
 - **Audit-replicable crosswalk claims.** The 17-category NSPIRE / UFAS crosswalk, the Part 8 stock-level verification-gap derivation, the 51-jurisdiction LIHTC QAP accessibility audit, the 47-AFH disability-depth audit, the FY 1989 – FY 2023 HUD annual-report longitudinal audit, the HMDA disclosure-effect meta-analysis, and the Australia SDA comparative note. Each is documented by a human-authored memorandum keyed to a retrievable public source.
-- **Classification-dependent stakes claims.** Stakes evidence drawn from the litigation database described above, including the 739-case pleading-loss universe and the TRANSLATION-family split — ensemble figures 45.3% pro se / 13.7% represented, directional only — (primary coding by the three-model majority-vote ensemble on the 728 of 739 cases that returned parseable output from every coder; see [`VALIDATION.md`](VALIDATION.md) § 3). The Note cites these as *stakes evidence*, not as the administrative-record predicate for the APA claim.
+- **Classification-dependent stakes claims.** Stakes evidence drawn from the litigation database described above, including the 739-case pleading-loss universe and the TRANSLATION-family split — ensemble figures 45.3% pro se / 13.7% represented, directional only — (primary coding by the three-model majority-vote ensemble on 728 of the 739-row universe — 738 rows entered coding, one residual row did not, and ten were dropped where at least one coder returned unparseable output; row-by-row accounting in [`../replication/SAMPLE_DEFINITIONS.md`](../replication/SAMPLE_DEFINITIONS.md) § 2 and [`VALIDATION.md`](VALIDATION.md) § 3). The Note cites these as *stakes evidence*, not as the administrative-record predicate for the APA claim.
 
 ---
 
@@ -197,9 +210,9 @@ Every number below is computed on `data/FHA_Unified_Database.json` and reproduce
 
 - 3,366 raw federal FHA records; 2,690 screened-in FHA opinions; **1,900** disability-screened opinions (T2); **995 dated-decided** (P1 = 476, P2 = 120, P3 = 399). T2-narrow yields 1,849 / 972.
 - P3 is a finite database period: February 5, 2025 through the database endpoint, July 1, 2026.
-- **Two levels of counting.** The scripted tables in `results/` count opinion **documents**; the Note's reported Part II outcome figures count **cases**, built from a full case-level census of the 995-row decided universe under the universal one-case-one-unit rule (multiple decided documents from the same case collapse to a single case-level unit). The case-level series is the series of record.
+- **Two levels of counting.** The scripted tables in `results/` count opinion **documents**; the Note's reported Part II outcome figures count **cases**, built from a full case-level census of the 995-row decided universe under the universal one-case-one-unit rule (multiple decided documents from the same case collapse to a single case-level unit). The census was adjudicated case by case by the author, with final inclusion and finality determinations ([`../AI_USE.md`](../AI_USE.md)); the collapse from the published per-row record to the registered series is deterministic and gate-checked ([`../replication/CASE_LEVEL_RULES.md`](../replication/CASE_LEVEL_RULES.md)). The case-level series is the series of record.
 - Case-level series ([`../results/series_2026-07.json`](../results/series_2026-07.json)): decided N = 287 / 68 / 251 (pooled **606**); **eighteen qualifying plaintiff-side judgments** (10 / 0 / 8; nine final contested, two final defaults, seven liability-only with remedy unresolved), a qualifying-judgment rate of **3.48% / 0.00% / 3.19%** (broad favorable 4.18 / 0.00 / 3.59); **zero pro se qualifying judgments** in any period (0 of 400 pooled; represented 18 of 206, 8.7%); case-level pro se docket share **59.6% / 55.9% / 76.1%**.
-- 739-case pleading-loss universe; 728 cases received three-model ensemble mechanism coding (Kimi K2.6 + GLM-5.1 + DeepSeek V3.2 majority vote). Pro se TRANSLATION-family failures = **45.3%** (286/632); represented TRANSLATION-family failures = **13.7%** (13/95); pro se / represented gap = **31.6 percentage points** (χ²(1) = 32.70, p = 1.1 × 10⁻⁸; 95% CI [23.6, 39.5]). Fleiss' κ across the three coders = 0.6297 (substantial). The finding is directional and machine-based.
+- 739-case pleading-loss universe; 728 cases received three-model ensemble mechanism coding (Kimi K2.6 + GLM-5.1 + DeepSeek V3.2 majority vote). Pro se TRANSLATION-family failures = **45.3%** (286/632); represented TRANSLATION-family failures = **13.7%** (13/95); pro se / represented gap = **31.6 percentage points** (χ²(1) = 32.70, p = 1.1 × 10⁻⁸; 95% CI [23.6, 39.5]). Fleiss' κ across the three coders = 0.6297 — the floor of the Landis & Koch 0.61–0.80 "substantial" band. Representation contingencies report 727 rows — 632 pro se, 95 represented — because one coded case (source-file ID 11267607 in the committed per-model results) carries an unknown representation status; the row-by-row accounting (739 rows; 738 entered coding; 728 coded; 727 in representation contingencies) is in [`../replication/SAMPLE_DEFINITIONS.md`](../replication/SAMPLE_DEFINITIONS.md) § 2. The χ² and confidence interval quantify sampling error only, not classification uncertainty; the blind fourth-coder replay reproduces the gap at 29.2 pp with a 20.8 pp lower 95% bound ([`VALIDATION.md`](VALIDATION.md) §§ 5.3–5.4). The finding is directional and machine-based.
 
 </details>
 

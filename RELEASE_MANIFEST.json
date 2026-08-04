@@ -562,9 +562,9 @@
       "size": 119242
     },
     "method/METHODOLOGY.md": {
-      "sha256_bytes": "730fcd4f1c307532d365e3bb065d30d554b3cd386f6f330be70151ccb77568b8",
-      "sha256_lf": "a43c2e7e242e27b93aae751f79bf0fd5bc6fc50989f3421e1b1738ef95ebec4a",
-      "size": 24081
+      "sha256_bytes": "2f5f70500e24a420807642ba3ac27d4684de99ef92daaee68b4ad20c20a7a1bf",
+      "sha256_lf": "0e2cc9f51147593cecd3d67e1ca15d3ac239e00f574eec7987795dc060840442",
+      "size": 27140
     },
     "method/METHOD_SPECIFICATION.md": {
       "sha256_bytes": "ed7a9c4cca78305f38cafdfe76dd87830d103d9899d05f637fd708475cf36c3f",
@@ -582,9 +582,9 @@
       "size": 7342
     },
     "method/VALIDATION.md": {
-      "sha256_bytes": "ac10f71c380393e4acc59fefaf8575beff951b7c6a434a97f4fed035684eb26d",
-      "sha256_lf": "291828ba39269122940f389f09e2720135f649d29d4ba8a077e61fc3d492c355",
-      "size": 27858
+      "sha256_bytes": "4efe4cd51eccfa81b98efda7ea50ae196e82912a9e62c3988db8b21187acc2d6",
+      "sha256_lf": "f56cda894dc60c9cfb8721e80c47c61f0daa81f56f4d8ce89edef28a31b787e1",
+      "size": 28313
     },
     "method/comparator_validation.md": {
       "sha256_bytes": "c92494ff21328f2730bade8d9313b051c7da34e1bd4864a7eb646ee3eca7c1fe",
@@ -1423,9 +1423,9 @@
       "size": 23385
     },
     "replication/SAMPLE_DEFINITIONS.md": {
-      "sha256_bytes": "1a1d43061b6081d75bf11b114577f24540fb3ac08c9614829bd0ab57ad7185e1",
-      "sha256_lf": "8c42580113c9a17eb5fea8702cec553c6a6def25cedbf583f854c0e68346e665",
-      "size": 10125
+      "sha256_bytes": "0a0afe9aa2df4e62f44442f5d41988604b410e8df5d20435fba329468c498b68",
+      "sha256_lf": "3722b8d0a5a0543dbc0827a30627b72d1c38641d15e0dd2381c902f3acfbe47d",
+      "size": 10327
     },
     "replication/VERIFY_ONE_CLAIM.md": {
       "sha256_bytes": "5933b099bd1039d1710feb1c0e35f9a406e0a38046e2dbe4e3f5a0baeb023f27",
@@ -2598,5 +2598,5 @@
       "size": 11510
     }
   },
-  "generated_date": "2026-08-02"
+  "generated_date": "2026-08-04"
 }
