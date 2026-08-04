@@ -71,7 +71,7 @@ To guard against the concern that the canonical filter is selected to produce a 
 The per-claim mapping is specified in [`../article/CLAIMS_LEDGER.csv`](../article/CLAIMS_LEDGER.csv). The pattern is:
 
 - **Stock and flow counts** (e.g., "1,900 disability opinions"): T2.
-- **Win-rate levels and trajectory**: T2 dated-decided (n = 995 document rows) at the document level; the reported outcome figures are the case-level series over the universal one-case-one-unit collapsed core (N = 606: 287/68/251).
+- **Win-rate levels and trajectory**: T2 dated-decided (n = 995 document rows) at the document level; the reported outcome figures are the case-level series over the universal one-case-one-unit collapsed core (N = 598: 283/65/250).
 - **Kitagawa–Oaxaca–Blinder decomposition** (document-level archive; not reported in the Note — its fn 71): T2 dated-decided; pro se / represented strata defined by `is_pro_se` field.
 - **Three-period analyses**: T2 dated-decided partitioned by `date_filed` on the period boundaries in § 3.
 - **Pleading-failure mechanism analysis** (TRANSLATION family, 45.3% / 13.7% split, ≈ 32 pp gap under the merged three-model majority-vote ensemble primary on 727 contingency rows of 728 ensemble-coded cases; the finding is directional and machine-based): T4 (739-row pleading-loss universe, of which 736 classified).

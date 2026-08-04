@@ -3,8 +3,8 @@
 
 
 **Machine-classified robustness appendix. The fn 90 selection audit, computed on the
-universal one-case-one-unit (606) series, is inconclusive under the registered rule
-(largest registered-dimension shift +11.67 percentage points, past the ten-point bounding
+universal one-case-one-unit (598) series, is inconclusive under the registered rule
+(largest registered-dimension shift +12.77 percentage points, past the ten-point bounding
 threshold); the earlier registered document-level pipeline run stayed within bounds. Every
 number independently recomputed from the canonical database.**
 
@@ -18,7 +18,7 @@ analytics. First, footnote 90 concedes that the stable represented win rate coul
 counsel selecting safer cases after the 2024-2025 shocks rather than genuine stability; the
 selection audit tests the observable implication; on the case-level series fn 90
 reports, the registered rule returns INDETERMINATE - its middle category, which the
-manuscript reports as "inconclusive" (largest disclosed-dimension shift +11.67
+manuscript reports as "inconclusive" (largest disclosed-dimension shift +12.77
 percentage points) - while the registered document-level pipeline run stays within bounds
 (8.6 or less) - the audit bounds, but does not rule out, compositional movement. Second, the intermediary-contraction premise implies institutional plaintiffs should be
 disappearing from the docket; the participation series shows exactly that, in every arm:
@@ -50,7 +50,7 @@ in the registration. Bootstrap intervals: 2,000 reps, seed 20260708.
 
 ## A-7.3 The fn 90 selection audit
 
-[Computed on the universal one-case-one-unit 606/206 series. Figures independently derived and
+[Computed on the universal one-case-one-unit 598/201 series (governing cell restated 2026-08-04, D-QV5). Figures independently derived and
 confirmed by a second-model comparison.]
 
 Registered rule: SUPPORTS-BOUNDING only if every dimension shifts 10 percentage points or
@@ -61,22 +61,25 @@ below returned SUPPORTS-BOUNDING.
 
 CASE-LEVEL SERIES (the series the manuscript's fn 90 reports; the universal
 one-case-one-unit basis of record). Universe: the case-level census's represented
-decided disability cases - P1 n=116, P3 n=60 (P2 n=30, descriptive only; case-level N
-287/68/251 = 606, represented pooled 206). This recompute is a post-registration
+decided disability cases - P1 n=113, P3 n=60 (P2 n=28, descriptive only; case-level N
+283/65/250 = 598, represented pooled 201). This recompute is a post-registration
 re-computation of the registered series - a disclosed deviation from the registered
 document-level unit of analysis, not a preregistered confirmation; the registered
 document-level run is retained below. Full cells with exact two-sided 95% Clopper-Pearson
 bounds:
 [`results/comparator_arms_case_level_2026-07.json`](../../results/comparator_arms_case_level_2026-07.json).
 
-Governing cell: the summary-judgment posture share among represented cases rose from 25.0%
-(29/116) to 36.7% (22/60), a shift of +11.67 percentage points - past the registered
+Governing cell: the summary-judgment posture share among represented cases rose from 23.9%
+(27/113) to 36.7% (22/60), a shift of +12.77 percentage points - past the registered
 10-point bounding threshold, so the registered rule returns INDETERMINATE. The
 private-landlord defendant-type shift computes to -8.39 points (26.7% to 18.3%). Because
 the governing cell's
-two exact 95% intervals overlap ([17.4, 33.9] and [24.6, 50.1]), the audit records this as
+two exact 95% intervals overlap (([16.4, 32.8] and [24.6, 50.1])), the audit records this as
 an unresolved docket-composition signal - neither case-mix stability nor a demonstrated
 selection effect.
+
+
+> **Restatement note (2026-08-04, D-QV5).** Eight cross-caption same-action appellate units were merged into their district-action units (N 606 -> 598; represented pools P1 116 -> 113, P3 60 -> 60; see `../../ERRATA.md`). The governing cell above is restated on the corrected census: 23.9% (27/113) to 36.7% (22/60), +12.77pp. The 43-cell dimension table below and `results/comparator_arms_case_level_2026-07.json` remain AS REGISTERED on the pre-merger 606/206 basis; their re-derivation is queued. The registered rule's verdict is unchanged: the restated governing shift remains past the 10-point bounding threshold with overlapping exact intervals, so the audit still returns INDETERMINATE.
 
 All 43 dimension-category cells, sorted by absolute shift (shares are counts over the
 represented denominators, P1 n=116 and P3 n=60):
@@ -205,7 +208,7 @@ natural route.
 ## A-7.5 Status summary and reproducibility
 
 - Selection audit (A-7.3): supplementary descriptive analysis (machine-classified); case-level result INDETERMINATE (max
-  registered-dimension shift +11.67pp); the registered document-level run returned
+  registered-dimension shift +12.77pp, restated); the registered document-level run returned
   SUPPORTS-BOUNDING.
 - Institutional participation and exit (A-7.4): supplementary descriptive analysis (machine-classified); no
   support threshold was registered.

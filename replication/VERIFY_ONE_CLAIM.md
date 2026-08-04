@@ -2,7 +2,7 @@
 
 Ten minutes, mechanically checkable. This walkthrough verifies the article's headline
 outcome claim -- that qualifying plaintiff-side judgments occur in about 3% of
-decided cases (18 of 606), none of them pro se -- from the public per-row record
+decided cases (18 of 598), none of them pro se -- from the public per-row record
 through the generated artifact and the release gate.
 
 Requirements: a clone of this repository and Python 3.11+. No API keys, no
@@ -36,8 +36,8 @@ outcome, period, and representation from the row-level fields under the publishe
 rules, recomputes every registered series value, compares against
 [`../results/series_2026-07.json`](../results/series_2026-07.json), and exits
 nonzero on any mismatch. The run prints all eleven registered cells beside the
-registered values -- 606 decided cases; 287/68/251 across the three windows; 206
-represented and 400 pro se; eighteen qualifying judgments (10/0/8); zero pro se
+registered values -- 598 decided cases; 283/65/250 across the three windows; 201
+represented and 397 pro se; eighteen qualifying judgments (10/0/8); zero pro se
 victories -- and ends with an OK line.
 
 ## 4. Run the release gate

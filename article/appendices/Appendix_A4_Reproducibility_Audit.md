@@ -222,41 +222,42 @@ membership adjudicated individually: distinct-victory clusters are adjudicated c
 and duplicate, out-of-window, out-of-cohort (non-disability), and procedural-only documents are
 excluded on both the favorable and the loss sides. The loss-side census covers 97.3% of recorded
 losses. The unit of analysis is the distinct case: multiple decided documents from the same case
-collapse to a single case-level unit. On that rule the analytic universe is 606 decided cases:
-287 (P1), 68 (P2), 251 (P3).
+collapse to a single case-level unit. On that rule the analytic universe is 598 decided cases:
+283 (P1), 65 (P2), 250 (P3). [Restated 2026-08-04, D-QV5: eight cross-caption
+same-action appellate units merged into their district-action units; see ERRATA.md.]
 
 **Results.** Eighteen qualifying plaintiff-side judgments (the dataset's distinct-victory
 field), separately classified by finality: nine final contested judgments awarding relief,
 two final default judgments awarding relief, and seven liability determinations with the
-remedy unresolved. Per window: 10 of 287 (P1), 0 of 68 (P2), 8 of 251 (P3) - qualifying-judgment
-rates 3.48% / 0.00% / 3.19%; broad favorable rates 4.18% / 0.00% / 3.59%. The liability-only
+remedy unresolved. Per window: 10 of 283 (P1), 0 of 65 (P2), 8 of 250 (P3) - qualifying-judgment
+rates 3.53% / 0.00% / 3.20%; broad favorable rates 4.24% / 0.00% / 3.60%. The liability-only
 class includes *CareOne at Birchwood* (D.N.J. 2024), P1,
 *Robins v. Waterford at Aberdeen* (S.D. Fla. 2026), P3, and *Millerborg v. Blue Bonnet Trail*
 (N.D. Tex. 2026), P3. A sensitivity excluding the liability-only class leaves eleven qualifying
-judgments and changes no qualitative statement; the under-call sensitivity is 1 of 606 (exact
-95% upper bound 0.92%). In every judgment counsel had appeared for the plaintiff by
-the qualifying disposition (represented cells 10/116, 0/30, 8/60; pro se cells 0/171, 0/38,
-0/191). Pooled across the window, 18 of 206 represented cases ended in a qualifying judgment
-(8.7%; exact 95% interval 5.3% to 13.5%) versus 0 of 400 pro se cases (exact 95% upper
+judgments and changes no qualitative statement; the under-call sensitivity is 1 of 598 (exact
+95% upper bound 0.93%). In every judgment counsel had appeared for the plaintiff by
+the qualifying disposition (represented cells 10/113, 0/28, 8/60; pro se cells 0/170, 0/37,
+0/190). Pooled across the window, 18 of 201 represented cases ended in a qualifying judgment
+(9.0%; exact 95% interval 5.4% to 13.8%) versus 0 of 397 pro se cases (exact 95% upper
 bound 0.9%).
 
-**Inference.** The P1-versus-P3 aggregate strict difference is -0.30 percentage points, a
+**Inference.** The P1-versus-P3 aggregate strict difference is -0.33 percentage points, a
 difference with no interpretable sign (the zero cell in P2 and the small victory numerators
 leave zero-cell exact intervals) - no aggregate decline appears, which is why the Note reports
 no rate decomposition (its fn 71: a composition share of a near-zero total change is
 ill-conditioned).
 
 **Institutional-status inputs (the Note's fn 76).** No logistic model of reaching the merits on
-institutional status has been estimated on the 606-case basis, and the manuscript prints no odds
+institutional status has been estimated on the 598-case basis, and the manuscript prints no odds
 ratio: it reports descriptive gate counts only. The four fields such a model would take as
 inputs - institutional status, merits-reached, pro se status, and defendant category - were
 separately blind-revalidated against opinion text at 88.5% to 99.1% agreement on determinate
 rows; the per-field record is in [`FN76_AGREEMENT.md`](FN76_AGREEMENT.md).
 
 **Pro se share.** On the case-level basis (the series printed in Table 1), the pro se
-share of the decided docket is 59.6% (171/287, P1) / 55.9% (38/68, P2) / 76.1% (191/251, P3).
+share of the decided docket is 60.1% (170/283, P1) / 56.9% (37/65, P2) / 76.0% (190/250, P3).
 Disposition-lag sensitivity on the same basis: dropping the final
-six months of P3, the pro se share is 77.7% (129/166), so the composition rise survives the
+six months of P3, the pro se share is 77.6% (128/165), so the composition rise survives the
 lag test.
 
 **Published artifacts.** [`results/series_2026-07.json`](../../results/series_2026-07.json)

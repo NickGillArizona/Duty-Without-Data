@@ -11,8 +11,8 @@ replication/CASE_LEVEL_RULES.md, and recomputes the registered series.
 
 --check asserts three things and exits nonzero if any of them fails:
 
-  1. Structural invariants of the record: 730 kept opinion rows, 606 case units,
-     105 multi-row units, 501 singletons, closed field vocabularies, ISO dates,
+  1. Structural invariants of the record: 730 kept opinion rows, 598 case units,
+     111 multi-row units, 487 singletons, closed field vocabularies, ISO dates,
      unique row keys, and unit-level columns constant within each unit.
   2. Rule re-derivation. Every unit's outcome, period and representation is
      re-derived from the row-level fields alone -- including the terminal-row
@@ -44,9 +44,9 @@ SERIES = os.path.join(REPO, "results", "series_2026-07.json")
 
 # Structural invariants of the published record (shape, not series values).
 EXPECT_ROWS = 730
-EXPECT_UNITS = 606
-EXPECT_MULTIROW = 105
-EXPECT_SINGLETON = 501
+EXPECT_UNITS = 598
+EXPECT_MULTIROW = 111
+EXPECT_SINGLETON = 487
 
 PERIODS = ("P1", "P2", "P3")
 OUTCOMES = ("VICTORY", "TRUE_BROAD", "NONFAV")

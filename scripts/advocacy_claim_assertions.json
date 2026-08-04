@@ -111,7 +111,7 @@
   {
    "id": "F-OLD-PROSE-POOL",
    "pattern": "0\\s+of\\s+467",
-   "rationale": "superseded pro se pool (universal basis: 0 of 400)"
+   "rationale": "superseded pro se pool (universal basis: 0 of 397)"
   },
   {
    "id": "F-DOCLEVEL-SHARES",
@@ -138,20 +138,20 @@
   {
    "id": "R-ARG-18",
    "page": "article/THE_ARGUMENT.md",
-   "pattern": "eighteen of 606 decided cases, or 3\\.0%",
+   "pattern": "eighteen of 598 decided cases, or 3\\.0%",
    "rationale": "eighteen-judgment census headline (terminology conformed to the manuscript at the 2026-07-31 curation: qualifying plaintiff-side judgments, not dataset-field victories)"
   },
   {
    "id": "R-ARG-RATES",
    "page": "article/THE_ARGUMENT.md",
-   "pattern": "3\\.48%, 0\\.00%, and 3\\.19%",
-   "rationale": "strict series of record (universal 606 basis) in the Figure 1 alt text"
+   "pattern": "3\\.53%, 0\\.00%, and 3\\.20%",
+   "rationale": "strict series of record (universal 598 basis) in the Figure 1 alt text"
   },
   {
    "id": "R-ARG-PROSE",
    "page": "article/THE_ARGUMENT.md",
-   "pattern": "59\\.6% to 76\\.1%",
-   "rationale": "case-level pro se docket-share rise (universal 606 basis)"
+   "pattern": "60\\.1% to 76\\.0%",
+   "rationale": "case-level pro se docket-share rise (universal 598 basis)"
   },
   {
    "id": "R-README-18",
@@ -162,32 +162,32 @@
   {
    "id": "R-README-RATES",
    "page": "README.md",
-   "pattern": "3\\.48% / 0\\.00% / 3\\.19%",
-   "rationale": "strict series of record (universal 606 basis)"
+   "pattern": "3\\.53% / 0\\.00% / 3\\.20%",
+   "rationale": "strict series of record (universal 598 basis)"
   },
   {
    "id": "R-README-N606",
    "page": "README.md",
-   "pattern": "606 decided cases",
+   "pattern": "598 decided cases",
    "rationale": "universal one-case-one-unit case-level N"
   },
   {
    "id": "R-README-REPCELL",
    "page": "README.md",
-   "pattern": "18 of 206 \\(8\\.7%\\)",
+   "pattern": "18 of 201 \\(9\\.0%\\)",
    "rationale": "represented victory cell on the universal basis"
   },
   {
    "id": "R-README-PROSE",
    "page": "README.md",
-   "pattern": "59\\.6% to 76\\.1%",
-   "rationale": "case-level pro se docket-share rise (universal 606 basis)"
+   "pattern": "60\\.1% to 76\\.0%",
+   "rationale": "case-level pro se docket-share rise (universal 598 basis)"
   },
   {
    "id": "R-README-REPRESENTED",
    "page": "README.md",
    "pattern": "counsel had appeared in every one of the eighteen qualifying plaintiff-side judgments",
-   "rationale": "zero pro se qualifying judgments (0 of 400 pro se decided cases)"
+   "rationale": "zero pro se qualifying judgments (0 of 397 pro se decided cases)"
   },
   {
    "id": "R-INDEX-18",
@@ -204,8 +204,8 @@
   {
    "id": "R-INDEX-PROSE",
    "page": "index.md",
-   "pattern": "59\\.6% to 76\\.1%",
-   "rationale": "case-level pro se docket-share rise (universal 606 basis)"
+   "pattern": "60\\.1% to 76\\.0%",
+   "rationale": "case-level pro se docket-share rise (universal 598 basis)"
   },
   {
    "id": "R-README-FINALITY",

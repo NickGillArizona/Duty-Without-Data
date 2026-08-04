@@ -18,8 +18,8 @@ appendices; the private research records behind them are described in
 
 ## The series of record, and what was superseded
 
-The reported Part II outcome series is the **case-level census**: 606 decided cases (one
-case, one unit; 287/68/251 across P1/P2/P3), eighteen qualifying plaintiff-side judgments
+The reported Part II outcome series is the **case-level census**: 598 decided cases (one
+case, one unit; 283/65/250 across P1/P2/P3), eighteen qualifying plaintiff-side judgments
 (3.48% / 0.00% / 3.19% per period), none pro se, with **no aggregate trend asserted in
 either direction**. An earlier document-level analysis (995 decided document rows; 730
 consolidation-input rows) supported decline framings that the case-level census does not:

@@ -31,14 +31,14 @@ The Note proposes a narrow response: petition HUD under 5 U.S.C. § 553(e), requ
 ## What the archive shows
 
 <!-- claim-block: census-headline -->
-From an original corpus of 1,900 screened federal opinion and order records, a one-case-one-unit census of the **606 decided cases** found **eighteen qualifying plaintiff-side judgments**—nine final contested judgments awarding relief, two final default judgments awarding relief, and seven liability determinations with the remedy still unresolved. About 3% of decided cases; across the per-period rates, **3.48% / 0.00% / 3.19%**, no decline or increase was detected (no equivalence is claimed). What moved is who fills the docket: the pro se share of decided cases rose from **59.6% to 76.1%**—and counsel had appeared in every one of the eighteen qualifying plaintiff-side judgments. **18 of 206 (8.7%)** represented cases ended in a qualifying judgment; **0 of 400** pro se cases did.
+From an original corpus of 1,900 screened federal opinion and order records, a one-case-one-unit census of the **598 decided cases** found **eighteen qualifying plaintiff-side judgments**—nine final contested judgments awarding relief, two final default judgments awarding relief, and seven liability determinations with the remedy still unresolved. About 3% of decided cases; across the per-period rates, **3.53% / 0.00% / 3.20%**, no decline or increase was detected (no equivalence is claimed). What moved is who fills the docket: the pro se share of decided cases rose from **60.1% to 76.0%**—and counsel had appeared in every one of the eighteen qualifying plaintiff-side judgments. **18 of 201 (9.0%)** represented cases ended in a qualifying judgment; **0 of 397** pro se cases did.
 <!-- /claim-block -->
 
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="results/figures/fig1_composition_mobile_dark.svg">
   <source media="(max-width: 600px)" srcset="results/figures/fig1_composition_mobile_light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="results/figures/fig1_composition_dark.svg">
-  <img src="results/figures/fig1_composition_light.svg" width="760" alt="Across three periods, the pro se share of decided cases rises from 59.6 percent to 76.1 percent while qualifying plaintiff-side judgments remain rare; none of the eighteen qualifying judgments was pro se.">
+  <img src="results/figures/fig1_composition_light.svg" width="760" alt="Across three periods, the pro se share of decided cases rises from 60.1 percent to 76.0 percent while qualifying plaintiff-side judgments remain rare; none of the eighteen qualifying judgments was pro se.">
 </picture>
 
 *Figure 1. Case-level census from the registered July 2026 series, across periods P1–P3. P2 is a short window; all rates use one case as one unit.*
@@ -54,7 +54,7 @@ From an original corpus of 1,900 screened federal opinion and order records, a o
 Every reported number should resolve to a registered claim, its analytical unit, and its generating artifact.
 
 1. Find the statement in the [claims ledger](article/CLAIMS_LEDGER.csv).
-2. Follow the complete [18-of-606 worked example](replication/VERIFY_ONE_CLAIM.md).
+2. Follow the complete [18-of-598 worked example](replication/VERIFY_ONE_CLAIM.md).
 3. Check the [sample and denominator definitions](replication/SAMPLE_DEFINITIONS.md).
 4. Re-run the documented route in the [reproduction guide](replication/REPRODUCE.md).
 

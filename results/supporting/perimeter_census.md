@@ -1,4 +1,6 @@
 # Perimeter Census: Program-Nexus Classification of the 606 Decided Cases
+> **Basis note (2026-08-04, D-QV5).** This classification is REGISTERED on the pre-merger 606-unit census. The census was restated to 598 units by merging eight cross-caption same-action appellate units (see `../../ERRATA.md`); the perimeter re-classification on the 598 basis is queued and the class counts below are unchanged registered figures.
+
 
 **Assurance: EXTENDED -- two-coder machine classification with a human review gate; a
 coverage description, not an outcome finding.**

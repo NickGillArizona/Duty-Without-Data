@@ -52,14 +52,14 @@ The enforcement backdrop makes the gap concrete. In an original corpus of 1,900 
 opinion and order records, a case-level census of every decided case found eighteen qualifying
 plaintiff-side judgments — nine final contested judgments awarding relief, two final default
 judgments, and seven liability determinations with the remedy unresolved — across four and a
-half years: eighteen of 606 decided cases, or 3.0% (3.48% / 0.00% / 3.19% per period, none in
+half years: eighteen of 598 decided cases, or 3.0% (3.53% / 0.00% / 3.20% per period, none in
 the short P2 window). In every one of the eighteen, counsel had appeared for the plaintiff by
 the qualifying disposition; not one arose in a pro se case. Meanwhile the share of decided cases
-brought without a lawyer rose from 59.6% to 76.1%.
+brought without a lawyer rose from 60.1% to 76.0%.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../results/figures/fig1_composition_dark.svg">
-  <img src="../results/figures/fig1_composition_light.svg" width="760" alt="Line chart across three periods: the pro se share of the decided docket rises from 59.6% to 76.1%, while the qualifying-judgment rate runs at 3.48%, 0.00%, and 3.19% across the three periods; eighteen qualifying plaintiff-side judgments in all, none pro se.">
+  <img src="../results/figures/fig1_composition_light.svg" width="760" alt="Line chart across three periods: the pro se share of the decided docket rises from 60.1% to 76.0%, while the qualifying-judgment rate runs at 3.53%, 0.00%, and 3.20% across the three periods; eighteen qualifying plaintiff-side judgments in all, none pro se.">
 </picture>
 <!-- /claim-block -->
 

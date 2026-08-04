@@ -1,8 +1,8 @@
 {
   "_status": "Case-level outcome series of record for the Note's Part II. Base counts recomputed from the published per-row census record (replication/case_level_census.csv) by scripts/build_case_level_series.py.",
-  "_provenance": "Case-level outcome series on the UNIVERSAL one-case-one-unit basis. The base counts are recomputed deterministically by scripts/build_case_level_series.py --check from replication/case_level_census.csv under the rules published in replication/CASE_LEVEL_RULES.md; the derived percentages and exact Clopper-Pearson intervals in this file are asserted by scripts/validate_claims.py. Victory census: EIGHTEEN qualifying plaintiff-side judgments (10/0/8), zero pro se, classes 9 contested / 2 default / 7 liability-only.",
+  "_provenance": "Case-level outcome series on the UNIVERSAL one-case-one-unit basis. The base counts are recomputed deterministically by scripts/build_case_level_series.py --check from replication/case_level_census.csv under the rules published in replication/CASE_LEVEL_RULES.md; the derived percentages and exact Clopper-Pearson intervals in this file are asserted by scripts/validate_claims.py. Victory census: EIGHTEEN qualifying plaintiff-side judgments (10/0/8), zero pro se, classes 9 contested / 2 default / 7 liability-only. Restated 2026-08-04 (D-QV5): eight cross-caption same-action appellate units merged into their district-action units; N 606 -> 598. See ERRATA.md.",
   "_basis_notes": {
-    "case_level_n_decided": "collapsed from the kept opinion rows in replication/case_level_census.csv (730 rows -> 606 case units); rules in replication/CASE_LEVEL_RULES.md",
+    "case_level_n_decided": "collapsed from the kept opinion rows in replication/case_level_census.csv (730 rows -> 598 case units (D-QV5 2026-08-04: eight caption-split appellate units merged)); rules in replication/CASE_LEVEL_RULES.md",
     "strict_qualifying_rate_pct": "Distinct case-level qualifying plaintiff-side judgments divided by case-level N. Finality classes: 9 final contested, 2 final default, 7 liability-only with remedy unresolved.",
     "victories_per_month": "OMITTED: no victories-per-month presentation is part of the series of record.",
     "strict_rate_floor_pct": "OMITTED: no leave-to-amend floor value is part of the series of record; the floor family has not been computed on the 606 basis.",
@@ -19,11 +19,11 @@
     16.9
   ],
   "case_level_n_decided": [
-    287,
-    68,
-    251
+    283,
+    65,
+    250
   ],
-  "case_level_n_pooled": 606,
+  "case_level_n_pooled": 598,
   "distinct_qualifying_judgments": [
     10,
     0,
@@ -41,51 +41,51 @@
     0
   ],
   "strict_qualifying_rate_pct": [
-    3.48,
+    3.53,
     0.0,
-    3.19
+    3.2
   ],
-  "strict_qualifying_rate_pooled_pct": 2.97,
+  "strict_qualifying_rate_pooled_pct": 3.01,
   "broad_favorable_numerators": [
     12,
     0,
     9
   ],
   "broad_favorable_rate_pct": [
-    4.18,
+    4.24,
     0.0,
-    3.59
+    3.6
   ],
   "represented_per_window": [
-    116,
-    30,
+    113,
+    28,
     60
   ],
-  "represented_pooled": 206,
+  "represented_pooled": 201,
   "pro_se_per_window": [
-    171,
-    38,
-    191
+    170,
+    37,
+    190
   ],
-  "pro_se_pooled": 400,
+  "pro_se_pooled": 397,
   "represented_victory_cell": {
     "numerator": 18,
-    "denominator": 206,
-    "pct": 8.7,
+    "denominator": 201,
+    "pct": 9.0,
     "ci95_pct": [
-      5.261,
-      13.458
+      5.394,
+      13.784
     ]
   },
   "pro_se_victory_cell": {
     "numerator": 0,
-    "denominator": 400,
-    "exact_upper_bound_pct": 0.918
+    "denominator": 397,
+    "exact_upper_bound_pct": 0.925
   },
   "pro_se_docket_share_case_level_pct": [
-    59.6,
-    55.9,
-    76.1
+    60.1,
+    56.9,
+    76.0
   ],
   "fn140_pleading_share": {
     "numerators": [
@@ -102,42 +102,43 @@
       48.8,
       73.5,
       57.0
-    ]
+    ],
+    "_basis": "REGISTERED ON THE PRE-MERGER 606-BASIS CENSUS (287/68/251). The floors' per-case lane-union flag list is not derivable from the published record, so they are NOT restated on the 598 basis; re-derivation queued under D-QV5 (2026-08-04). Lower-bound status and the no-cross-period-trend disclaimer are unchanged."
   },
   "under_call_bound": {
     "numerator": 1,
-    "denominator": 606,
-    "exact_upper_bound_pct": 0.916
+    "denominator": 598,
+    "exact_upper_bound_pct": 0.928
   },
-  "p1_vs_p3_strict_diff_pp": -0.3,
+  "p1_vs_p3_strict_diff_pp": -0.33,
   "clopper_pearson_95_pct": {
-    "10_287": [
-      1.6833,
-      6.3143
+    "10_283": [
+      1.7073,
+      6.4022
     ],
-    "0_68": [
+    "0_65": [
       0.0,
-      5.2803
+      5.5172
     ],
-    "8_251": [
-      1.3859,
-      6.1833
+    "8_250": [
+      1.3915,
+      6.2077
     ],
-    "18_606": [
-      1.7697,
-      4.6538
+    "18_598": [
+      1.7935,
+      4.7155
     ],
-    "18_206": [
-      5.261,
-      13.458
+    "18_201": [
+      5.394,
+      13.784
     ],
-    "0_400": [
+    "0_397": [
       0.0,
-      0.918
+      0.925
     ],
-    "1_606": [
+    "1_598": [
       0.0042,
-      0.916
+      0.928
     ]
   },
   "document_level_recorded_n_decided": [
