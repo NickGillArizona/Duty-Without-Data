@@ -33,9 +33,9 @@
       "size": 488
     },
     ".github/workflows/release-checks.yml": {
-      "sha256_bytes": "758c17580c539bc2daaf7750904a383c3352531227aafca4c8e66a98b26c6050",
-      "sha256_lf": "08e1f9074d45a7f5ce8a64a1eab3168f2697ac85654547bb937a34f8721ef06e",
-      "size": 1656
+      "sha256_bytes": "b5d440b33db75c38be9d3e2a0f9250d869ce67f781a02bbc5b7e0f2f4d9677ea",
+      "sha256_lf": "74b1f93483258b26d41719103780b83d1e82eb565d67b7fe84be1b6f2fbf820e",
+      "size": 1664
     },
     ".gitignore": {
       "sha256_bytes": "4e93f4fe47cf4cf358946e5ff14f161a310d2ba94bdc99a42c1b288740360bf4",
