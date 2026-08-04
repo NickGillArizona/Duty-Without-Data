@@ -48,8 +48,8 @@
       "size": 3583
     },
     "CITATION.cff": {
-      "sha256_bytes": "c0e6370d29b97bfbefa090c389702b2c77c13f30db574f3d3839015edeac912f",
-      "sha256_lf": "3cf68d563441679fef44ea2777ccbed4b1b10eebbbdb679b98fb12f97b11e390",
+      "sha256_bytes": "0e992a0489b71b0c4a87489b5414d63554ed76598e422f2a67f58d24c0b163c3",
+      "sha256_lf": "f63875373a9911a5811cf570d226d3a7aefa10d279dcf5341a6af3b13484a5c0",
       "size": 1460
     },
     "CITATION_GUIDE.md": {
@@ -1853,9 +1853,9 @@
       "size": 765
     },
     "results/README.md": {
-      "sha256_bytes": "1387dbca9b7a13f8014f0757f8338c3fdec5099bfbba0acb7773ff68c4eb2cff",
-      "sha256_lf": "2b944b45b3bb55634f9ab2a43976628aa951fef0ae5df1f6301cc0a98f57bc3d",
-      "size": 6857
+      "sha256_bytes": "e66d96f589ea90782a8c13f8b7338d784694b92789c113c4b5aa24474ee9e8d2",
+      "sha256_lf": "16179eb9b80fc3d0eb0013a076dcc79069ff6f18b8366acd795ac0d584263d91",
+      "size": 6963
     },
     "results/ahs_2023_accessibility_results.json": {
       "sha256_bytes": "bb43bc1dfacf331ebdd605e09b5750a21f76898b8c6f3f7192414c37aba0f109",

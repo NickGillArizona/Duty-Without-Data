@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this archive, please cite as below."
 title: "Duty Without Data: Research and Replication Archive"
-version: "1.0.0"
+version: "1.1.0"
 authors:
   - family-names: Gill
     given-names: Nicholas
     email: "nickgill@arizona.edu"
     affiliation: "J.D. Candidate, 2027, University of Arizona James E. Rogers College of Law"
 type: dataset
-date-released: "2026-07-31"
+date-released: "2026-08-02"
 url: "https://github.com/NickGillArizona/Duty-Without-Data"
 repository-code: "https://github.com/NickGillArizona/Duty-Without-Data"
 abstract: >-

@@ -73,7 +73,7 @@ Source URLs, retrieval dates, and redistribution scope for all external inputs a
 
 ## 3. As-run validation records — the run directories
 
-Three subdirectories are frozen records of validation and audit runs. Their contents are
+Two subdirectories here are frozen records of validation and audit runs. Their contents are
 kept byte-stable as evidence of what was done, and their internal wording is the as-run
 vocabulary of the run they document — do not normalize it. Historical and superseded
 outcome material (the document-level series) is labeled where it appears; the canonical
@@ -82,9 +82,15 @@ statement of what was superseded is
 
 | Directory | What it records | Where it is summarized |
 |---|---|---|
-| [`comparator_analysis_2026-07/`](comparator_analysis_2026-07/) | The preregistered comparator verification run of July 2026, including the `recoding_2026-07-07/` re-coding record | [`../method/comparator_validation.md`](../method/comparator_validation.md); [Appendix A-6](../article/appendices/Appendix_A6_Comparator_Analysis.md) |
 | [`counsel_timing_audit/`](counsel_timing_audit/) | The docket-level counsel-timing audit over the eighteen qualifying cases (cited by the manuscript; also current citable through its README) | [`counsel_timing_audit/README.md`](counsel_timing_audit/README.md) |
 | [`specificity_threelayer/`](specificity_threelayer/) | The three-layer claim-specificity comparison behind the failed-validation disclosure | [`specificity_threelayer/THREELAYER_SUMMARY.md`](specificity_threelayer/THREELAYER_SUMMARY.md); [Appendix E § E.1](../article/appendices/Appendix_E_Accommodation_Defendant_Analysis.md) |
+
+A third as-run record of the same kind is published outside this directory: the
+preregistered comparator verification run of July 2026, including the
+`recoding_2026-07-07/` re-coding record, is at
+[`../replication/comparator/`](../replication/comparator/) and is summarized in
+[`../method/comparator_validation.md`](../method/comparator_validation.md) and
+[Appendix A-6](../article/appendices/Appendix_A6_Comparator_Analysis.md).
 
 ## Where the live HUD-27061 status lives
 
