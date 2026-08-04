@@ -82,11 +82,12 @@ byte-identical reruns.
 
 ## Public / non-public boundary
 
-Public: the unified database, all frozen instruments, the mechanism ensemble's raw
+Public: the unified database, all frozen instruments, the mechanism ensemble's as-run raw
 per-model outputs and disagreement log, the primary pipeline's tier metadata,
 validation reports, the case-level census record, every script,
 and the administrative record (`record/hud-27061/`). Not mirrored here: the primary
-pipeline's per-model raw outputs, large public
+pipeline's per-model raw outputs, the July 2026 mechanism-extension per-case raw coding input
+(its merged result is published as `mechanism_merged_summary.json`), large public
 datasets and externally hosted public PDFs that the archive links rather than copies,
 and opinion text whose redistribution is limited by its source; for each,
 `replication/DATA_PROVENANCE.md` gives the source URL, the retrieval date, and the

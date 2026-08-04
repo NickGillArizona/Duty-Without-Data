@@ -562,9 +562,9 @@
       "size": 119242
     },
     "method/METHODOLOGY.md": {
-      "sha256_bytes": "2f5f70500e24a420807642ba3ac27d4684de99ef92daaee68b4ad20c20a7a1bf",
-      "sha256_lf": "0e2cc9f51147593cecd3d67e1ca15d3ac239e00f574eec7987795dc060840442",
-      "size": 27140
+      "sha256_bytes": "60deb408926d41acc050c173a83118d78ffc21cb5ac54b681699dbae1d031134",
+      "sha256_lf": "4721e1c37420704d62d0a9d93c8307b3851672ec4b1c10a1873e14022ac490b5",
+      "size": 28396
     },
     "method/METHOD_SPECIFICATION.md": {
       "sha256_bytes": "ed7a9c4cca78305f38cafdfe76dd87830d103d9899d05f637fd708475cf36c3f",
@@ -577,9 +577,9 @@
       "size": 1492
     },
     "method/SYSTEM_MAP.md": {
-      "sha256_bytes": "631cdfdeaf7e4c1cb4ec465ba4b1b44dedc10b0c51e102f03caa3cb6ca3b8b49",
-      "sha256_lf": "ed54a732446d942db77215bc5f17ee69a53f2fdf77bac46a8286c78116e20615",
-      "size": 7342
+      "sha256_bytes": "59a16f01f7ff7c880d4ba03c269c38fcc852fc9ba883e352d3bb3a7d53921ef5",
+      "sha256_lf": "9e168745662cdd1f694777d84c53519bccf3bd35546b87841c2629287a0268d6",
+      "size": 7479
     },
     "method/VALIDATION.md": {
       "sha256_bytes": "4efe4cd51eccfa81b98efda7ea50ae196e82912a9e62c3988db8b21187acc2d6",
@@ -1423,9 +1423,9 @@
       "size": 23385
     },
     "replication/SAMPLE_DEFINITIONS.md": {
-      "sha256_bytes": "0a0afe9aa2df4e62f44442f5d41988604b410e8df5d20435fba329468c498b68",
-      "sha256_lf": "3722b8d0a5a0543dbc0827a30627b72d1c38641d15e0dd2381c902f3acfbe47d",
-      "size": 10327
+      "sha256_bytes": "4e79acb1445a55757f47949ee9bcff82abfae93a6f734ecd452ac559bc9897a3",
+      "sha256_lf": "dff27c0c71b6c213ebc53c44b7df9a939db81fa45f17d608e5790448860d310f",
+      "size": 10503
     },
     "replication/VERIFY_ONE_CLAIM.md": {
       "sha256_bytes": "5933b099bd1039d1710feb1c0e35f9a406e0a38046e2dbe4e3f5a0baeb023f27",
