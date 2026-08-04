@@ -128,9 +128,9 @@
       "size": 2556
     },
     "_pages/administrative-record.md": {
-      "sha256_bytes": "50b82e7d43401c95f7c469db4b756163f8675d854cf289dcbce84fcde9a5fb39",
-      "sha256_lf": "589c722a8047a806a11bda571b5034ff8635f6febe89ade5a354acc06980cbb7",
-      "size": 3711
+      "sha256_bytes": "7093b0d2a3712a91e37de8ce41bf57a1d88bd72d2acdeb34557820997fdfca13",
+      "sha256_lf": "a16f5f44c67cd5d0c38a9d02f689c40d89e2c7f0a411b14ad600b568baf4e835",
+      "size": 3736
     },
     "_pages/argument.md": {
       "sha256_bytes": "2a71d7e3e8e1c533cb0db26505f23af83b0216948c3333aabca653cecca3d069",
@@ -148,9 +148,9 @@
       "size": 3814
     },
     "_pages/methods-and-replication.md": {
-      "sha256_bytes": "2505279b3c0f925e71951c1053ef57a6fc5f47df227c75841a0301070a3231a1",
-      "sha256_lf": "7bca5e9bef66dada73b6ae73b89314d684e963c026a81df4d704b51700d82392",
-      "size": 3506
+      "sha256_bytes": "6b92100124e6b16eac6d1e3a29e900d613aca5c5f38e9963901578cc07c788f4",
+      "sha256_lf": "babeb91d12fedc67ea810629572b49d82bfd4dbcd8bb8bf7025fe21ead7b806e",
+      "size": 3520
     },
     "action/2026_comment_template.md": {
       "sha256_bytes": "d4294a41384d14148d82e46aa59747bf70702d6542d0b6133715fa18b1ddb6e3",
@@ -243,9 +243,9 @@
       "size": 3692
     },
     "article/THE_ARGUMENT.md": {
-      "sha256_bytes": "ccb142b54801d1ccc7d0381d3546daf99ad71fa4289dbcfef5b57eb0d63ca942",
-      "sha256_lf": "afbd8200cc8cb379ffbf2be7b1015e51e1999027dc45030537249df943f90c49",
-      "size": 21614
+      "sha256_bytes": "19a418d01f27b457e6eb97565b6d1647e9428fbc4abba4046c31f8b0867ac049",
+      "sha256_lf": "f750aa991a7fccd04c5126500d5238d150d71c72748f2507a829e1a530a2c718",
+      "size": 21616
     },
     "article/appendices/Appendix_A4_Reproducibility_Audit.md": {
       "sha256_bytes": "05fbff080695c7b5403a81ab1a0b45f8870ba86b48618e9c3a920435b24916fb",
@@ -562,8 +562,8 @@
       "size": 119242
     },
     "method/METHODOLOGY.md": {
-      "sha256_bytes": "60deb408926d41acc050c173a83118d78ffc21cb5ac54b681699dbae1d031134",
-      "sha256_lf": "4721e1c37420704d62d0a9d93c8307b3851672ec4b1c10a1873e14022ac490b5",
+      "sha256_bytes": "3916f5727fa7821eaa8643a0bcc85734d84a54daf473447d6abb6e19c447a848",
+      "sha256_lf": "a8b914c87df467987e9c1a5777e5dff74794052b64576a957da91efad039503c",
       "size": 28396
     },
     "method/METHOD_SPECIFICATION.md": {

@@ -167,7 +167,7 @@ a fresh 2026 record, and an unrepaired expiration leaves enacted disability duti
 cross-program collection at all. Neither branch supplies the missing architecture, and neither
 displaces the petition. (Part I.E.)
 
-### The summer-2026 landscape
+### What changed in summer 2026
 
 Three 2026 federal actions reframed the field the Note writes into. On June 18, 2026, the Office
 of Legal Counsel concluded that the HHS and DOJ integration

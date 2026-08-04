@@ -49,7 +49,7 @@ re-derives the registered series from the committed record:
 - [Sample and denominator definitions](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/replication/SAMPLE_DEFINITIONS.md)
   — executable predicates for every population the paper counts.
 
-## The boundary
+## Where replication stops
 
 Full case texts are not redistributed; source identifiers and hashes are preserved so each text
 can be re-obtained. End-to-end corpus reconstruction requires upstream working files retained

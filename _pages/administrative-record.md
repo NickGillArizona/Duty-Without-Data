@@ -20,7 +20,7 @@ one-page cross-program demographic form. Its recent sequence is the clearest cur
 of the record gap. Each event below is documented by a hash-verified primary source in the
 repository's [record directory](https://github.com/NickGillArizona/Duty-Without-Data/tree/main/record/hud-27061).
 
-## The sequence
+## From statute to renewal, 1988–2026
 
 **1988.** Congress enacts the Fair Housing Amendments Act: the disability duties, an express
 data-rule authority (42 U.S.C. § 3614a), and an annual reporting duty that names "handicap"
@@ -50,7 +50,7 @@ before. Either outcome leaves the argument intact: a completed renewal re-ratifi
 omission in a fresh record, and an unrepaired expiration leaves the enacted duties with no
 approved cross-program collection at all.
 
-## The primary sources
+## Primary sources
 
 - [The full chronology, with citations and archived documents](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/record/hud-27061/CHRONOLOGY.md)
 - [Appendix C — the assembled administrative record](https://github.com/NickGillArizona/Duty-Without-Data/blob/main/article/appendices/Appendix_C_HUD_Administrative_Record.md),
