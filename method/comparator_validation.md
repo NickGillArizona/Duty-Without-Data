@@ -8,6 +8,16 @@ the consolidated QA register is
 For the pro se mechanism coding behind fn 87, see [`VALIDATION.md`](VALIDATION.md) — a
 separate validation program.
 
+## Underlying rationale coding (app. A-6)
+
+The codes under verification came from a reuse of the Layer-2 ensemble architecture of
+the core validation record ([`VALIDATION.md`](VALIDATION.md) § 3) — Kimi K2.6 + GLM-5.1 +
+DeepSeek V3.2, majority vote, raw outputs preserved — run on class-masked
+dismissal-rationale passages: Fleiss kappa 0.729 (n = 475), with a MiniMax M2.7
+stratified re-read at kappa 0.608 (n = 143). Masking leakage was measured and reported,
+not assumed (61.3% lexicon-level; 70.8% model class-guess; 96.6% in the record-dependent
+arm).
+
 ## Protocol (pre-registered, AI-only, no human recode)
 
 Triggers and thresholds were fixed and hash-registered before any verification call.
@@ -15,9 +25,10 @@ Two independent full-opinion-text runs replaced the originally planned human che
 
 - **R1 — decisive-row blind audit.** 96 rows (all 26 consensus Family-A rows, all
   no-consensus and misfilter rows, the B/C review-set rows, and a seeded 36-row B/C control)
-  blindly recoded from full opinion text by three models from three labs, each required
-  to return a verbatim evidence quote that was programmatically matched; panel
-  disagreements adjudicated by a fourth model with the same quote requirement.
+  blindly recoded from full opinion text by three models from three labs (Claude
+  Sonnet 5, GPT-5.5, Gemini 3.1 Pro), each required to return a verbatim evidence quote
+  that was programmatically matched; panel disagreements adjudicated by a fourth model
+  (Claude Opus 4.8) with the same quote requirement.
 - **R2 — full-universe robustness.** All 476 rows recoded from full opinion text by an
   independent three-model trio, majority vote.
 
@@ -29,7 +40,8 @@ A 27-check completeness gate passed before any trigger was evaluated.
   RD-PURE 13.6% [7.6, 20.3] vs DT-PURE 0.8% [0.0, 2.3] vs RACE-DT 0.6% [0.0, 1.9]
   (the RD-PURE estimate came down from 16.4% to 13.6% under verification, and the
   separation widened because the comparators' rates fell further).
-- The raw-text run independently reproduces the concentration: 12.2% / 0.0% / 1.9%.
+- The raw-text run independently reproduces the concentration: 12.2% / 0.0% / 1.9%
+  (Fleiss kappa 0.687 across the trio; cross-substrate row agreement 86%).
 - Control stability: 1 of 36 B/C control rows flipped into A (2.8%).
 - All three pre-committed triggers passed; the inversion guard did not fire.
 

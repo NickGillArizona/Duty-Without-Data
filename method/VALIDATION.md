@@ -2,6 +2,8 @@
 
 This document consolidates the five validation layers that underlie the empirical claims in the Note. Each layer is described in full, with artifacts, metrics, and the interpretation the archive authorizes. The reader can reproduce every headline number by running the scripts listed under each layer.
 
+**Scope.** This page is the validation record for the primary classification pipeline and the mechanism-family coding behind the Note's fn 87 — the machinery that produces `data/FHA_Unified_Database.json` and the Part II analyses (cited by fns 1, 68, and 87). Two appendix studies carry separate validation records of their own: the fn 89 comparator rationale-coding verification ([`comparator_validation.md`](comparator_validation.md)) and the fn 90 counsel-selection audit with the adverse A-6.9 pre-trend check ([`selection_and_pretrend.md`](selection_and_pretrend.md)). The five layers below do not cover those studies; § 10 is a pointer.
+
 **Contents.** [§ 1 What the archive does and does not claim](#1-what-the-archive-claims--and-does-not-claim) · [§ 2 Layer 1 — multi-model consensus pipeline](#2-layer-1--multi-model-consensus-pipeline-primary-classification) · [§ 3 Layer 2 — three-model majority-vote ensemble](#3-three-model-majority-vote-ensemble--primary-mechanism-family-classification-668-of-676-pleading-loss-cases) · [§ 4 Layer 3 — Kimi K2.6 single-model re-read](#4-layer-3--kimi-k26-independent-single-model-re-read-stratified-150-case-sample) · [§ 5 Layer 4 — fourth-coder blind re-read](#5-layer-4--four-coder-blind-full-universe-re-read-668-cases) · [§ 6 Layer 5 — Opus 4.6 50-opinion audit](#6-layer-5--opus-46-stratified-50-opinion-independent-classification-audit-reproducibility-audit) · [§ 7 Which claims depend on which layer](#7-which-claims-depend-on-which-validation-layer) · [§ 8 What validation does not prove](#8-what-the-validation-does-not-prove) · [§ 9 Replicating every number](#9-replicating-every-number-in-this-document)
 
 ```mermaid
@@ -254,19 +256,11 @@ Each script reads from the committed `data/FHA_Unified_Database.json` and writes
 
 ## 10. Comparator rationale coding and its verification (apps. A-6 / A-7)
 
-The comparator appendix's rationale coding (app. A-6) reuses the Layer-2 ensemble architecture -
-Kimi K2.6 + GLM-5.1 + DeepSeek V3.2, majority vote, raw outputs preserved - on class-masked
-dismissal-rationale passages (Fleiss kappa 0.729, n = 475; MiniMax M2.7 stratified re-read kappa
-0.608, n = 143). Masking leakage is measured and reported, not assumed (61.3% lexicon-level;
-70.8% model class-guess; 96.6% in the record-dependent arm). The load-bearing Family-A codes
-were then verified by a blind full-opinion audit: three strong models from three labs (Claude
-Sonnet 5, GPT-5.5, Gemini 3.1 Pro) with programmatic verbatim-quote matching (87.2%), a
-fourth-model adjudicator (Claude Opus 4.8), a 36-row control sample (1 flip into A), and a
-full-universe raw-text recode (Fleiss kappa 0.687; cross-substrate row agreement 86%). The
-verification protocol and decision thresholds were pre-registered and hash-logged before any
-verification call; all three thresholds passed. No human coded any row, consistent with section
-1's reproducibility posture. Artifacts: replication/comparator/recoding_2026-07-07/ and
-replication/comparator/provenance/VERIFICATION_CLOSURE.md. The selection-audit and participation series in
-app. A-7 are deterministic tabulations (no classifier) and carry their own registration and
-independent recompute verification (scripts/recompute_verification.py; outputs in
-results/supporting/).
+The comparator study (fn 89) carries its own validation record, separate from the five
+layers above: a pre-registered, AI-only verification protocol summarized at
+[`comparator_validation.md`](comparator_validation.md), with the closure memo of record at
+[`../replication/comparator/provenance/VERIFICATION_CLOSURE.md`](../replication/comparator/provenance/VERIFICATION_CLOSURE.md).
+The selection-audit and participation series in app. A-7 are deterministic tabulations
+(no classifier) with their own registration and independent recompute verification,
+summarized — with the adverse A-6.9 pre-trend check — at
+[`selection_and_pretrend.md`](selection_and_pretrend.md).
