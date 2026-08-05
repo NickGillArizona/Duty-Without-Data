@@ -9,6 +9,17 @@ updates:
       python-dependencies:
         patterns:
           - "*"
+    # numpy 2.5.0 is the first release to require Python >=3.12, so any bump at or
+    # above it makes requirements.txt unsatisfiable on the release-checks
+    # "supported-floor" job (Python 3.11) and the group PR cannot install at all.
+    # The floors in requirements.txt are supported minimums, not pins; the versions
+    # the published numbers were regenerated under are in requirements-lock.txt.
+    # Remove this entry only together with raising the supported Python floor past
+    # 3.11 in .github/workflows/release-checks.yml -- that is a support-matrix
+    # decision, not a dependency bump.
+    ignore:
+      - dependency-name: "numpy"
+        versions: [">=2.5"]
     labels:
       - "dependencies"
   - package-ecosystem: "github-actions"

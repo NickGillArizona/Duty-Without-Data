@@ -28,9 +28,9 @@
       "size": 1158
     },
     ".github/dependabot.yml": {
-      "sha256_bytes": "182803cedf0e9fa5c57de15e194f0057557126ec05f725df154dbdc27bbf866b",
-      "sha256_lf": "182803cedf0e9fa5c57de15e194f0057557126ec05f725df154dbdc27bbf866b",
-      "size": 488
+      "sha256_bytes": "56cd1d8dbefc56d44bacf0348c163b5acf10577a98761644c040ab2b9f1e902d",
+      "sha256_lf": "56cd1d8dbefc56d44bacf0348c163b5acf10577a98761644c040ab2b9f1e902d",
+      "size": 1166
     },
     ".github/workflows/release-checks.yml": {
       "sha256_bytes": "b5d440b33db75c38be9d3e2a0f9250d869ce67f781a02bbc5b7e0f2f4d9677ea",
