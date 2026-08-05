@@ -39,7 +39,7 @@ the repository materials that support each passage — see
 
 - The subscription-database citation-sweep methodology behind the Part 121 / DOJ § 3604(f)(3) / § 3614a reported-decision sweeps (fn 141; the Note prints the seven-decision, all-proximity-artifact result and no substantive Part 121 invocation) is at app. M §§ M.2.1–M.2.2.
 - The methodology of the disability-depth coding of fifteen Analyses of Impediments (the AFH audit; "AI" there abbreviates Analysis of Impediments, not artificial intelligence) is at app. M § M.11 (supplementary; not directly cited by a footnote).
-- The institutional pre-suit record-building audit (48 of 60) and the voucher record-flow audit, cited at manuscript fns 178/180, are at app. M § M.17; the extended privacy-and-implementation comparator catalogue, cited at fns 104/162, is at Appendix P; the *Alliance* information-collection aside and the PRA-comment record-evidence note, cited at fns 119/121, are at app. D § D.6.
+- The institutional pre-suit record-building audit (48 of 59) and the voucher record-flow audit, cited at manuscript fns 178/180, are at app. M § M.17; the extended privacy-and-implementation comparator catalogue, cited at fns 104/162, is at Appendix P; the *Alliance* information-collection aside and the PRA-comment record-evidence note, cited at fns 119/121, are at app. D § D.6.
 
 ---
 

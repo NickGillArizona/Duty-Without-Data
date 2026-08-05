@@ -4,8 +4,8 @@
 > Outcome rates in this appendix are **document-level** pipeline output (T2 canonical
 > population; document-row denominators). The Note's reported Part II outcome series is the
 > case-level census in [`results/series_2026-07.json`](../../results/series_2026-07.json)
-> (strict rates 3.55 / 0.00 / 3.21 over the universal one-case-one-unit N 282/63/249, pooled
-> N = 594; eighteen victories, none pro se); the
+> (strict rates 3.53 / 0.00 / 3.21 over the universal one-case-one-unit N 283/63/249, pooled
+> N = 595; eighteen victories, none pro se); the
 > Note's fn 66 describes the case-level construction.
 
 **Cited by:** Note footnote 86 (§ E.1, cited for the grounds on which no claim-specificity outcome analysis is reported).

@@ -1,4 +1,4 @@
-# Historical 606-basis recount; fn140 rows rederived on the final 594-case D-QV5-2 spine.
+# Historical 606-basis recount; fn140 rows rederived on the final 595-case W1B-ADJ spine.
 # The base counts recompute from replication/case_level_census.csv via
 # scripts/build_case_level_series.py --check; rules in replication/CASE_LEVEL_RULES.md.
 # Lines beginning with '#' are comments and are skipped by the parser.
@@ -21,8 +21,8 @@ pro_se_victory_cell,pooled,0,400,0.00,0.0000,0.9180,exact 95% upper bound 0.92%
 pro_se_docket_share,P1,171,287,59.6,,,case-level share series
 pro_se_docket_share,P2,38,68,55.9,,,case-level share series
 pro_se_docket_share,P3,191,251,76.1,,,case-level share series
-fn140_pleading_share,P1,141,282,50.0,,,"A08 basis (census flag OR FULL_SWEEP PLEADING_LOSS stem; favorable rows excluded), case-collapsed on final D-QV5-2 spine (any-member rule)"
-fn140_pleading_share,P2,48,63,76.2,,,"A08 basis (census flag OR FULL_SWEEP PLEADING_LOSS stem; favorable rows excluded), case-collapsed on final D-QV5-2 spine (any-member rule)"
-fn140_pleading_share,P3,143,249,57.4,,,"A08 basis (census flag OR FULL_SWEEP PLEADING_LOSS stem; favorable rows excluded), case-collapsed on final D-QV5-2 spine (any-member rule)"
+fn140_pleading_share,P1,142,283,50.2,,,"A08 basis (census flag OR FULL_SWEEP PLEADING_LOSS stem; favorable rows excluded), case-collapsed on final W1B-ADJ 595 spine (any-member rule)"
+fn140_pleading_share,P2,48,63,76.2,,,"A08 basis (census flag OR FULL_SWEEP PLEADING_LOSS stem; favorable rows excluded), case-collapsed on final W1B-ADJ 595 spine (any-member rule)"
+fn140_pleading_share,P3,144,249,57.8,,,"A08 basis (census flag OR FULL_SWEEP PLEADING_LOSS stem; favorable rows excluded), case-collapsed on final W1B-ADJ 595 spine (any-member rule)"
 under_call_bound,pooled,1,606,0.17,,0.9160,exact 95% upper endpoint 0.92%
 p1_vs_p3_strict_diff_pp,,,,-0.30,,,

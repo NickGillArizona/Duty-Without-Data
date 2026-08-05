@@ -5,8 +5,8 @@
 > population; document-row denominators), published as reproducibility targets for the
 > archived scripts. The Note's reported Part II outcome series is the case-level census in
 > [`results/series_2026-07.json`](../../results/series_2026-07.json) (qualifying-judgment
-> rates 3.55 / 0.00 / 3.21 over the universal one-case-one-unit N 282/63/249, pooled
-> N = 594; eighteen qualifying plaintiff-side judgments, none pro se); the Note's fn 66
+> rates 3.53 / 0.00 / 3.21 over the universal one-case-one-unit N 283/63/249, pooled
+> N = 595; eighteen qualifying plaintiff-side judgments, none pro se); the Note's fn 66
 > describes the case-level construction.
 >
 > In the procedural-posture tables, "PW Strict" records a plaintiff-favorable disposition at the
@@ -108,13 +108,13 @@
 
 ### H.5.3 Pleading-Stage Defense-Win Lower Bounds (the Note's fn 140)
 
-The pleading-stage defense-win floors on the final 594-case census are:
+The pleading-stage defense-win floors on the final 595-case census are:
 
 | Window | Pleading-stage defense wins / decided cases | Lower-bound rate |
 |--------|---------------------------------------------|------------------|
-| P1 | 141/282 | 50.0% |
+| P1 | 142/283 | 50.2% |
 | P2 | 48/63 | 76.2% |
-| P3 | 143/249 | 57.4% |
+| P3 | 144/249 | 57.8% |
 
 These floors apply the registered A08 any-member pleading-loss rule to the final
 D-QV5-2 case spine (594 = 282/63/249; see `../../ERRATA.md`). The reconstruction

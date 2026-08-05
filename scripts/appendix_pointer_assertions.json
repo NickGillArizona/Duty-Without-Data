@@ -54,14 +54,14 @@
    "raw_footnote": "140",
    "target_file": "article/appendices/Appendix_H_Supplementary_Data.md",
    "target_heading": "### H.5.3 Pleading-Stage Defense-Win Lower Bounds (the Note's fn 140)",
-   "required_literals": ["141/282", "48/63", "143/249"],
+   "required_literals": ["142/283", "48/63", "144/249"],
    "note": "lower-bound floors as printed"
   },
   {
    "raw_footnote": "140",
    "target_file": "article/appendices/Appendix_B_Results_Tables.md",
    "target_heading": null,
-   "required_literals": ["141/282"],
+   "required_literals": ["142/283"],
    "note": "same floors restated with the document-level tables fenced off"
   },
   {

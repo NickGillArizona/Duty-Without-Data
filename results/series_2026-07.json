@@ -1,8 +1,8 @@
 {
   "_status": "Case-level outcome series of record for the Note's Part II. Base counts recomputed from the published per-row census record (replication/case_level_census.csv) by scripts/build_case_level_series.py.",
-  "_provenance": "Case-level outcome series on the UNIVERSAL one-case-one-unit basis. The base counts are recomputed deterministically by scripts/build_case_level_series.py --check from replication/case_level_census.csv under the rules published in replication/CASE_LEVEL_RULES.md; the derived percentages and exact Clopper-Pearson intervals in this file are asserted by scripts/validate_claims.py. Victory census: EIGHTEEN qualifying plaintiff-side judgments (10/0/8), zero pro se, classes 9 contested / 2 default / 7 liability-only. Restated 2026-08-04 (D-QV5): eight cross-caption same-action appellate units merged into their district-action units; N 606 -> 598 -> 594 (D-QV5-2 residual lane, same date) -> 594 (D-QV5-2 residual lane, same date) -> 594 (D-QV5-2 residual lane, same date). See ERRATA.md.",
+  "_provenance": "Case-level outcome series on the UNIVERSAL one-case-one-unit basis. The base counts are recomputed deterministically by scripts/build_case_level_series.py --check from replication/case_level_census.csv under the rules published in replication/CASE_LEVEL_RULES.md; the derived percentages and exact Clopper-Pearson intervals in this file are asserted by scripts/validate_claims.py. Victory census: EIGHTEEN qualifying plaintiff-side judgments (10/0/8), zero pro se, classes 9 contested / 2 default / 7 liability-only. Restated 2026-08-04 (D-QV5): eight cross-caption same-action appellate units merged into their district-action units; N 606 -> 598 (D-QV5) -> 594 (D-QV5-2 residual lane, same date) -> 595 (W1B-ADJ docket-identity sweep, same date: one same-docket under-merge cured by merger, two serial-filer over-merged units split). See ERRATA.md.",
   "_basis_notes": {
-    "case_level_n_decided": "collapsed from the kept opinion rows in replication/case_level_census.csv (730 rows -> 594 case units (D-QV5 + D-QV5-2 2026-08-04: twelve caption-split merges cured, four over-merged units split)); rules in replication/CASE_LEVEL_RULES.md",
+    "case_level_n_decided": "collapsed from the kept opinion rows in replication/case_level_census.csv (730 rows -> 595 case units (D-QV5 + D-QV5-2 + W1B-ADJ 2026-08-04: seventeen same-action merges cured, six over-merged units split)); rules in replication/CASE_LEVEL_RULES.md",
     "strict_qualifying_rate_pct": "Distinct case-level qualifying plaintiff-side judgments divided by case-level N. Finality classes: 9 final contested, 2 final default, 7 liability-only with remedy unresolved.",
     "victories_per_month": "OMITTED: no victories-per-month presentation is part of the series of record.",
     "strict_rate_floor_pct": "OMITTED: no leave-to-amend floor value is part of the series of record; the floor family has not been computed on the 606 basis.",
@@ -19,11 +19,11 @@
     16.9
   ],
   "case_level_n_decided": [
-    282,
+    283,
     63,
     249
   ],
-  "case_level_n_pooled": 594,
+  "case_level_n_pooled": 595,
   "distinct_qualifying_judgments": [
     10,
     0,
@@ -41,7 +41,7 @@
     0
   ],
   "strict_qualifying_rate_pct": [
-    3.55,
+    3.53,
     0.0,
     3.21
   ],
@@ -52,69 +52,69 @@
     9
   ],
   "broad_favorable_rate_pct": [
-    4.26,
+    4.24,
     0.0,
     3.61
   ],
   "represented_per_window": [
     113,
-    26,
+    25,
     60
   ],
-  "represented_pooled": 199,
+  "represented_pooled": 198,
   "pro_se_per_window": [
-    169,
-    37,
+    170,
+    38,
     189
   ],
-  "pro_se_pooled": 395,
+  "pro_se_pooled": 397,
   "represented_victory_cell": {
     "numerator": 18,
-    "denominator": 199,
-    "pct": 9.0,
+    "denominator": 198,
+    "pct": 9.1,
     "ci95_pct": [
-      5.449,
-      13.919
+      5.477,
+      13.987
     ]
   },
   "pro_se_victory_cell": {
     "numerator": 0,
-    "denominator": 395,
-    "exact_upper_bound_pct": 0.93
+    "denominator": 397,
+    "exact_upper_bound_pct": 0.925
   },
   "pro_se_docket_share_case_level_pct": [
-    59.9,
-    58.7,
+    60.1,
+    60.3,
     75.9
   ],
   "fn140_pleading_share": {
     "numerators": [
-      141,
+      142,
       48,
-      143
+      144
     ],
     "denominators": [
-      282,
+      283,
       63,
       249
     ],
     "pct": [
-      50.0,
+      50.2,
       76.2,
-      57.4
+      57.8
     ],
-    "_basis": "Registered A08 row flags (CENSUS pleading_stage_defense_win OR FULL_SWEEP PLEADING_LOSS; favorable rows excluded), case-collapsed by the any-member rule on the final D-QV5-2 594-case spine. The historical 606-case replay reproduces 140/50/143 before the final series yields 141/48/143. Lower-bound status and the no-cross-period-trend disclaimer are unchanged."
+    "_basis": "Registered A08 row flags (CENSUS pleading_stage_defense_win OR FULL_SWEEP PLEADING_LOSS; favorable rows excluded), case-collapsed by the any-member rule on the final W1B-ADJ 595-case spine. Both historical anchors reproduce before the final series: the row anchor 167/59/151 and the 606-case replay 140/50/143; the D-QV5-2 594 spine yielded 141/48/143. Lower-bound status and the no-cross-period-trend disclaimer are unchanged."
   },
   "under_call_bound": {
     "numerator": 1,
-    "denominator": 594,
-    "exact_upper_bound_pct": 0.934
+    "denominator": 595,
+    "exact_upper_bound_pct": 0.933
   },
-  "p1_vs_p3_strict_diff_pp": -0.33,
+  "p1_vs_p3_strict_diff_pp": -0.32,
   "clopper_pearson_95_pct": {
-    "10_282": [
-      1.7134,
-      6.4246
+    "10_283": [
+      1.7073,
+      6.4022
     ],
     "0_63": [
       0.0,
@@ -124,21 +124,21 @@
       1.3971,
       6.2322
     ],
-    "18_594": [
-      1.8056,
-      4.747
+    "18_595": [
+      1.8026,
+      4.7391
     ],
-    "18_199": [
-      5.449,
-      13.919
+    "18_198": [
+      5.477,
+      13.987
     ],
-    "0_395": [
+    "0_397": [
       0.0,
-      0.93
+      0.925
     ],
-    "1_594": [
+    "1_595": [
       0.0043,
-      0.934
+      0.933
     ]
   },
   "document_level_recorded_n_decided": [

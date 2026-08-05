@@ -482,7 +482,7 @@ the primary source itself (see
 
 ### C57 — Part II.C Table 1; fns 70-71
 
-> Pooled case-level census: eighteen qualifying plaintiff-side judgments among 594 decided cases (3.0%) - nine final contested judgments, two final defaults, seven liability determinations with remedy unresolved; per-window 10/282 (3.55%), 0/63 (0.00%), 8/249 (3.21%); represented 18/199 (9.0%); pro se 0/395 (upper bound 0.9%); case-level pro se share 59.9% -> 75.9%; no aggregate trend asserted in either direction
+> Pooled case-level census: eighteen qualifying plaintiff-side judgments among 595 decided cases (3.0%) - nine final contested judgments, two final defaults, seven liability determinations with remedy unresolved; per-window 10/283 (3.53%), 0/63 (0.00%), 8/249 (3.21%); represented 18/198 (9.1%); pro se 0/397 (upper bound 0.9%); case-level pro se share 60.1% -> 75.9%; no aggregate trend asserted in either direction
 
 - **Source type:** deterministic
 - **Primary source / tier:** results/series_2026-07.json (case-level series of record); article/appendices/Appendix_A4_Reproducibility_Audit.md SS A-4.11

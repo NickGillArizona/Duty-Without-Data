@@ -1,13 +1,13 @@
 source_file,case_name,court,year,courtlistener_cluster_id,courtlistener_url,database_sources,source_text_status,sha256_lf
 025 - Arrington v MZ 2640 OWNER LLP,Arrington v. MZ 2640 OWNER LLP,S.D.N.Y.,2024,,,3604; claims; csv,on file with author,d1771333a58432ae8bce4ca9e39a75e30f035e0152f861e6a702cb1a3d4aa8ed
-025 - MATTER OF HART v New York City Hous Auth 2,Matter of Hart v. New York City Hous. Auth.,"N.Y. App. Div., 2d Dep't",2024,,,3604; claims; dates_resolved,,
-025 - MATTER OF HART v New York City Housing Authority,Matter of Hart v New York City Housing Authority,"N.Y. App. Div., 2d Dep't",2024,,,3604; claims; dates_resolved,,
+025 - MATTER OF HART v New York City Hous Auth 2,Matter of Hart v. New York City Hous. Auth.,"N.Y. App. Div., 2d Dep't",2024,9884278,https://www.courtlistener.com/api/rest/v4/clusters/9884278/,3604; claims; dates_resolved,,
+025 - MATTER OF HART v New York City Housing Authority,Matter of Hart v New York City Housing Authority,"N.Y. App. Div., 2d Dep't",2024,9884278,https://www.courtlistener.com/api/rest/v4/clusters/9884278/,3604; claims; dates_resolved,,
 025 - United States v FOX RUN APARTMENTS LLC,"United States v. Fox Run Apartments, LLC",D. Kan.,2024,,,3604; claims; csv,,
 025 - Williams v BINGHAMTON CITY POLICE,,,,,,3604; claims,,
 025 - Williams v BINGHAMTON UHS,,,,,,3604; claims,,
 034 - CLOVER COMMUNITIES BEAVERCREEK LLC v MUSSACHIO ARCHITECTS PC,"CLOVER COMMUNITIES BEAVERCREEK, LLC v. MUSSACHIO ARCHITECTS PC",N.D.N.Y.,2024,,,3604; claims; csv; phase2_extraction; dates_resolved,,
 034 - Collins v TEAM MANAGEMENT LLC,Collins v. TEAM MANAGEMENT LLC,E.D. Wis.,2025,,,3604; claims; csv; phase2_extraction,,
-10000566_2024_Robinson v. District of Columbia_dcd,Robinson v. District of Columbia,D.D.C.,2024,10000566,https://www.courtlistener.com/api/rest/v4/clusters/10000566/,3604; claims; csv; iqbal,on file with author,2f00fe16d20a55aad5f20adc915b16dadd87b33bc55dc6c61c3307085b7f536d
+10000566_2024_Robinson v. District of Columbia_dcd,Robinson v. District of Columbia,D.D.C.,2024,9533953,https://www.courtlistener.com/api/rest/v4/clusters/9533953/,3604; claims; csv; iqbal,on file with author,2f00fe16d20a55aad5f20adc915b16dadd87b33bc55dc6c61c3307085b7f536d
 10005587_2024_Allentown Victory Church v. City of Allentown_ca3,Allentown Victory Church v. City of Allentown,3d Cir.,2024,10005587,https://www.courtlistener.com/api/rest/v4/clusters/10005587/,RA; 3604; claims; csv,,
 10006353_2024_David Q. Webb v. Miami-Dade County Government_ca11,David Q. Webb v. Miami-Dade County Government,11th Cir.,2024,10006353,https://www.courtlistener.com/api/rest/v4/clusters/10006353/,RA; claims; csv,on file with author,4c16d49015b3de7d8dfc89688c727093653de772b6f3b75d850dc5f4d970e033
 10006778_2024_Celia Litman v. Jennifer Guckin_ca3,Celia Litman; et al. v. Jennifer Guckin; Township of Towamencin,3d Cir.,2024,10006778,https://www.courtlistener.com/api/rest/v4/clusters/10006778/,RA; claims; csv,,
@@ -594,7 +594,7 @@ source_file,case_name,court,year,courtlistener_cluster_id,courtlistener_url,data
 10453952_2025_Maponga v. Hall Park Hotel_txed,"Stansly T. Maponga v. Hall Park Hotel, et al.",E.D. Tex.,2025,10453952,https://www.courtlistener.com/api/rest/v4/clusters/10453952/,RA; 3604; claims; csv; phase1_patch,on file with author,267b94c926b6679626cc4693f2f8f6deb8150718a8206ecb60584b9c92bc4cf6
 10454487_2025_Ballentine v. Bowery Residence Committee_nysd,Quintin J. Ballentine v. Bowery Residence Committee,S.D.N.Y.,2025,10454487,https://www.courtlistener.com/api/rest/v4/clusters/10454487/,RA; claims; csv; phase1_patch,,
 10458286_2025_National Urban League v. Trump_dcd,National Urban League et al. v. Trump,D.D.C.,2025,10458286,https://www.courtlistener.com/api/rest/v4/clusters/10458286/,RA; claims; csv; phase1_patch,,
-10464414_2024_Sandpiper Residents Association v. HUD_cadc,Sandpiper Residents Association v. United States Department of Housing & Urban Development,D.C. Cir.,2024,10464414,https://www.courtlistener.com/api/rest/v4/clusters/10464414/,3604; claims; csv; dates_resolved,,
+10464414_2024_Sandpiper Residents Association v. HUD_cadc,Sandpiper Residents Association v. United States Department of Housing & Urban Development,D.C. Cir.,2024,9997813,https://www.courtlistener.com/api/rest/v4/clusters/9997813/,3604; claims; csv; dates_resolved,,
 10465864_2024_United States v. Hysen Sherifi_ca4,,,,10465864,https://www.courtlistener.com/api/rest/v4/clusters/10465864/,3604; claims,,
 "10467696_2024_Pietrangelo v. Refresh Club, Inc_dcd",,,,10467696,https://www.courtlistener.com/api/rest/v4/clusters/10467696/,3604; claims,,
 10528545_2025_Trujillo v. Amity Plaza LLC_cod,"Katherine Trujillo v. Amity Plaza, LLC, Housing Authority of the City of Littleton, d/b/a South Metro Housing Options, and Frank Martinez",D. Colo.,2025,10528545,https://www.courtlistener.com/api/rest/v4/clusters/10528545/,RA; 3604; claims; csv,,
@@ -1818,7 +1818,7 @@ source_file,case_name,court,year,courtlistener_cluster_id,courtlistener_url,data
 "9344939_2022_Joseph Phillips, Jr. v. City of Pittsburgh_ca3","Joseph D.S. Phillips, Jr. v. City of Pittsburgh",3rd Cir.,2022,9344939,https://www.courtlistener.com/api/rest/v4/clusters/9344939/,RA; claims; csv; phase1_patch,,
 9354015_2022_Jackson v. Siegel Group_ca5,"Corla Jackson v. Siegel Group, L.L.C.",5th Cir.,2022,9354015,https://www.courtlistener.com/api/rest/v4/clusters/9354015/,RA; claims; csv,,
 9356049_2022_McLamore v. Winn Companies_dcd,,,,9356049,https://www.courtlistener.com/api/rest/v4/clusters/9356049/,RA; claims; csv,,
-"9363862_2023_Socal Recovery, LLC v. City of Costa Mesa_ca9","SoCal Recovery, LLC v. City of Costa Mesa",9th Cir.,2023,9363862,https://www.courtlistener.com/api/rest/v4/clusters/9363862/,3604; claims; csv,,
+"9363862_2023_Socal Recovery, LLC v. City of Costa Mesa_ca9","SoCal Recovery, LLC v. City of Costa Mesa",9th Cir.,2023,9368386,https://www.courtlistener.com/api/rest/v4/clusters/9368386/,3604; claims; csv,,
 9367727_2022_ASHLEY MCCLENDON V. PETER BRESLER_ca9,Ashley Christina McClendon v. Peter Bresler,9th Cir.,2022,9367727,https://www.courtlistener.com/api/rest/v4/clusters/9367727/,3604; claims; csv,,
 "9368386_2023_Socal Recovery, LLC v. City of Costa Mesa_ca9","SoCal Recovery, LLC v. City of Costa Mesa",9th Cir.,2023,9368386,https://www.courtlistener.com/api/rest/v4/clusters/9368386/,RA; claims; csv,,
 9368693_2023_Benedict Mohit v. Morris West_ca11,,,,9368693,https://www.courtlistener.com/api/rest/v4/clusters/9368693/,RA; claims; csv,,

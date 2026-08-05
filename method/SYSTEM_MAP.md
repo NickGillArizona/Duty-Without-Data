@@ -39,7 +39,7 @@ disability tier is not a screening output but a downstream filter applied to the
 classified database. From that tier, two separate tracks produce the published
 findings: a distinct three-model ensemble codes the headline pleading-failure
 mechanism, and a documented one-case-one-unit collapse of the kept opinion rows
-produces the 594-case outcome census.
+produces the 595-case outcome census.
 Deterministic scripts regenerate
 every registered statistic from those inputs. Five validation layers re-read the
 classifications and report agreement. A twenty-check release gate re-verifies the

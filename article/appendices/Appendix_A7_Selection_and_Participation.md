@@ -3,7 +3,7 @@
 
 
 **Machine-classified robustness appendix. The fn 90 selection audit, computed on the
-universal one-case-one-unit (594) series, is inconclusive under the registered rule
+universal one-case-one-unit (595) series, is inconclusive under the registered rule
 (largest registered-dimension shift +12.77 percentage points, past the ten-point bounding
 threshold); the earlier registered document-level pipeline run stayed within bounds. Every
 number independently recomputed from the canonical database.**
@@ -62,7 +62,7 @@ below returned SUPPORTS-BOUNDING.
 CASE-LEVEL SERIES (the series the manuscript's fn 90 reports; the universal
 one-case-one-unit basis of record). Universe: the case-level census's represented
 decided disability cases - P1 n=113, P3 n=60 (P2 n=26, descriptive only; case-level N
-282/63/249 = 594, represented pooled 199). This recompute is a post-registration
+283/63/249 = 595, represented pooled 198). This recompute is a post-registration
 re-computation of the registered series - a disclosed deviation from the registered
 document-level unit of analysis, not a preregistered confirmation; the registered
 document-level run is retained below. Full cells with exact two-sided 95% Clopper-Pearson

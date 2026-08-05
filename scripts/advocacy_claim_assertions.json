@@ -138,20 +138,20 @@
   {
    "id": "R-ARG-18",
    "page": "article/THE_ARGUMENT.md",
-   "pattern": "eighteen of 594 decided cases, or 3\\.0%",
+   "pattern": "eighteen of 595 decided cases, or 3\\.0%",
    "rationale": "eighteen-judgment census headline (terminology conformed to the manuscript at the 2026-07-31 curation: qualifying plaintiff-side judgments, not dataset-field victories)"
   },
   {
    "id": "R-ARG-RATES",
    "page": "article/THE_ARGUMENT.md",
-   "pattern": "3\\.55%, 0\\.00%, and 3\\.21%",
-   "rationale": "strict series of record (universal 594 basis) in the Figure 1 alt text"
+   "pattern": "3\\.53%, 0\\.00%, and 3\\.21%",
+   "rationale": "strict series of record (universal 595 basis) in the Figure 1 alt text"
   },
   {
    "id": "R-ARG-PROSE",
    "page": "article/THE_ARGUMENT.md",
-   "pattern": "59\\.9% to 75\\.9%",
-   "rationale": "case-level pro se docket-share rise (universal 594 basis)"
+   "pattern": "60\\.1% to 75\\.9%",
+   "rationale": "case-level pro se docket-share rise (universal 595 basis)"
   },
   {
    "id": "R-README-18",
@@ -162,26 +162,26 @@
   {
    "id": "R-README-RATES",
    "page": "README.md",
-   "pattern": "3\\.55% / 0\\.00% / 3\\.21%",
-   "rationale": "strict series of record (universal 594 basis)"
+   "pattern": "3\\.53% / 0\\.00% / 3\\.21%",
+   "rationale": "strict series of record (universal 595 basis)"
   },
   {
    "id": "R-README-N606",
    "page": "README.md",
-   "pattern": "594 decided cases",
+   "pattern": "595 decided cases",
    "rationale": "universal one-case-one-unit case-level N"
   },
   {
    "id": "R-README-REPCELL",
    "page": "README.md",
-   "pattern": "18 of 199 \\(9\\.0%\\)",
+   "pattern": "18 of 198 \\(9\\.1%\\)",
    "rationale": "represented victory cell on the universal basis"
   },
   {
    "id": "R-README-PROSE",
    "page": "README.md",
-   "pattern": "59\\.9% to 75\\.9%",
-   "rationale": "case-level pro se docket-share rise (universal 594 basis)"
+   "pattern": "60\\.1% to 75\\.9%",
+   "rationale": "case-level pro se docket-share rise (universal 595 basis)"
   },
   {
    "id": "R-README-REPRESENTED",
@@ -204,8 +204,8 @@
   {
    "id": "R-INDEX-PROSE",
    "page": "index.md",
-   "pattern": "59\\.9% to 75\\.9%",
-   "rationale": "case-level pro se docket-share rise (universal 594 basis)"
+   "pattern": "60\\.1% to 75\\.9%",
+   "rationale": "case-level pro se docket-share rise (universal 595 basis)"
   },
   {
    "id": "R-README-FINALITY",

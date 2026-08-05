@@ -5,6 +5,57 @@ Each entry states what changed, why, the evidence, and which artifacts were rest
 Registered figures that deliberately remain on a superseded basis are listed with
 their basis notes rather than silently rewritten.
 
+## 2026-08-04 (third entry, same day) — Census restated 594 → 595 (W1B-ADJ: docket-identity sweep)
+
+An author-commissioned bidirectional identity sweep re-keyed every case unit on
+archived RECAP/CourtListener docket metadata — an identity source independent of the
+caption and opinion-text keying used by the two earlier audits. The sweep's detector
+was control-tested against all twenty previously executed corrections on
+reconstructed pre-correction keying (16/20 recovered; every non-recovery explained at
+the field level; hard-expected gate 14/14), and every candidate was verified by a
+separate adversarial pass against the archived originals (110 string checks, 0
+substantive mismatches). **The under-merge direction returned zero new candidates —
+the third audit to converge on the current unit spine.** Three corrections were
+adopted:
+
+| Correction | Units | Identity evidence |
+|---|---|---|
+| MERGE: Torres v. MMS Group (S.D.N.Y. 1:22-cv-06142) | FH0801 dissolved into FH0130 | one docket (63602226) carries both units' opinions as its own entries 127 and 188; the differing captions are the full versus short party list of one action |
+| SPLIT: Bell v. Weinreb Mgmt. (E.D.N.Y.) | 2025 action (1:25-cv-04207) out of FH0349 to a new unit | the court deciding the 2025 case describes the 2024 case (1:24-cv-02979, transferred in from S.D.N.Y. 1:24-cv-02436) as "a separate action pending before this Court" |
+| SPLIT: Jones v. Blue Ocean Realty (D. Md.) | 8:23-cv-02739 rows out of FH1911 to a new unit | two actions with different judges, different office prefixes, separate terminations; full-coverage dockets show no consolidation |
+
+Net: 594 − 1 + 2 = **595** (283/63/249; represented 198, pro se 397). A fourth
+flag — the two Ninth Circuit docket numbers inside victory unit V13 (McClendon v.
+Bresler) — was investigated and REJECTED: the second memorandum recites "on remand
+from … McClendon I," and both dispositions are entries of the single district action
+C.D. Cal. 2:20-cv-07758. There is no nineteenth victory.
+
+**What did NOT change.** The eighteen qualifying plaintiff-side judgments (10/0/8;
+nine contested, two default, seven liability-only), zero qualifying judgments in pro
+se cases, and the sensitivity excluding the liability-only class (eleven).
+
+**Restated figures** (all recomputed deterministically from the corrected
+`replication/case_level_census.csv` by `scripts/build_case_level_series.py`):
+
+| Quantity | Before | After |
+|---|---|---|
+| Decided case units | 594 (282/63/249) | 595 (283/63/249) |
+| Represented / pro se units | 199 / 395 | 198 / 397 |
+| Qualifying-judgment rate | 3.0% pooled; 3.55/0.00/3.21 | 3.0% pooled; 3.53/0.00/3.21 |
+| Represented cell | 18 of 199 (9.0%) | 18 of 198 (9.1%) |
+| Pro se cell | 0 of 395 (upper bound 0.9%) | 0 of 397 (upper bound 0.9%) |
+| Case-level pro se share P1 → P3 | 59.9% → 75.9% | 60.1% → 75.9% |
+| P1-vs-P3 strict difference | −0.33 pp | −0.32 pp |
+| Within-corpus under-call bound | 1 of 594 (0.93%) | 1 of 595 (0.93%) |
+| fn 140 pleading-stage floors | 141/282, 48/63, 143/249 | 142/283, 48/63, 144/249 (both historical anchors reproduce first: rows 167/59/151; 606-case replay 140/50/143) |
+
+Provenance corrections adopted in the same motion: four census rows whose recorded
+`courtlistener_cluster_id` resolved to unrelated cases (a numeric-filename-prefix
+artifact) are re-pointed to their verified clusters — Hart (9884278), Sandpiper
+(9997813), SoCal Recovery (9368386), Robinson (9533953). Full sweep record,
+per-candidate evidence, and verification files: the project's
+`w1b_identity_sweep_2026-08-04` lane (private research records).
+
 ## 2026-08-04 — Case-level census restated 606 → 598 (caption-split unit merges, D-QV5)
 
 **What changed.** Eight case units in `replication/case_level_census.csv` were

@@ -44,15 +44,15 @@ def fig1_composition(series, pal):
     n_case = series["case_level_n_decided"]
     periods = series["periods"]
 
-    guard("P1 pro se share", pro[0], 59.6)
-    guard("P3 pro se share", pro[2], 76.1)
-    guard("P1 qualifying-judgment rate", rate[0], 3.48)
-    guard("P3 qualifying-judgment rate", rate[2], 3.19)
-    guard("P1 N", n_case[0], 287, tol=0)
-    guard("P3 N", n_case[2], 251, tol=0)
+    guard("P1 pro se share", pro[0], 60.1)
+    guard("P3 pro se share", pro[2], 75.9)
+    guard("P1 qualifying-judgment rate", rate[0], 3.53)
+    guard("P3 qualifying-judgment rate", rate[2], 3.21)
+    guard("P1 N", n_case[0], 283, tol=0)
+    guard("P3 N", n_case[2], 249, tol=0)
     guard("total qualifying judgments", sum(wins), 18, tol=0)
     guard("pro se victories", sum(series["pro_se_victories"]), 0, tol=0)
-    guard("pooled case-level N", series["case_level_n_pooled"], 606, tol=0)
+    guard("pooled case-level N", series["case_level_n_pooled"], 595, tol=0)
     if max(rate) >= 4.0:
         fail("subtitle claim 'never reaches 4%' violated by the rate series")
 

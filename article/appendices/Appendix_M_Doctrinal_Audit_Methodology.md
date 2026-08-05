@@ -606,14 +606,14 @@ and the underlying audit record of July 27, 2026. Provenance: the prespecified
 two-coder instruments, adjudication records, and citation-and-quotation verification
 preserved with the project archive (verification run July 26, 2026).
 
-### M.17.1 Institutional pre-suit record-building (60-unit audit)
+### M.17.1 Institutional pre-suit record-building (59-unit audit)
 
 The mechanism is measurable in the litigation record. In the author's audit of the
 institutional plaintiffs in the case census -- every government,
 fair-housing-organization, and group-home-operator unit with a resolvable opinion,
-sixty in all, coded fresh under a prespecified two-coder protocol with adjudicated
+fifty-nine in all, coded fresh under a prespecified two-coder protocol with adjudicated
 disagreements --
-forty-eight of sixty opinions expressly describe pre-suit record-building by the
+forty-eight of the fifty-nine expressly describe pre-suit record-building by the
 institutional plaintiff -- described exchanges with the respondent, formal
 accommodation demands, organizational investigations, fair-housing testing,
 administrative complaints, and full administrative-enforcement chains -- and the
@@ -623,6 +623,26 @@ never as evidence of absence; the institutional classification derives from a
 pre-census database layer joined read-only to the adjudicated case set, disclosed as
 such; coding was by two independent machine coders with adjudication under recorded
 rules of decision, and every citation pin was mechanically verified (July 26, 2026).
+
+**Frame reconciliation to the final 594-case census (August 4, 2026).** The audit frame
+was drawn on the then-current 606-case series. The two subsequent caption-split and
+deduplication restatements (606 -> 598 -> 594) were intersected against this frame by
+document identifier -- the restatement maps are keyed by document, not by unit, so a
+unit-identifier test alone would miss one wave. Exactly one coded unit was affected:
+FH0371 (*Fair Hous. Just. Ctr., Inc. v. Pelican Mgmt., Inc.*, Second Circuit) dissolved
+into FH0125 (*Fair Housing Justice Center, Inc. v. Goldfarb Properties, Inc.*,
+S.D.N.Y.), and both sat in the frame, so the frame counted as two units what the final
+census counts as one. No split unit falls inside the frame. The denominator therefore
+moves from sixty to fifty-nine and the class cells from GOV 5/6, FHO 13/15, GHO 30/39
+to GOV 5/6, FHO 13/14, GHO 30/39 (5 + 13 + 30 = 48; 6 + 14 + 39 = 59). The numerator is
+unchanged: both coders returned any-pre-suit-activity TRUE for FH0125, while FH0371 was
+adjudicated FALSE (the adjudication struck its sole PRESENT field, holding that an
+ordinary rental application and denial is the challenged transaction rather than a
+record-building communication), so the merged unit inherits TRUE under the any-member
+convention this project applies to derived unit-level facts. Under an all-member
+convention the figure would instead read forty-seven of fifty-nine. The underlying
+per-unit codings and the adjudication record are unchanged by this reconciliation; only
+the unit boundary moved.
 
 ### M.17.2 Voucher record-flow audit (retrieval-frame counts)
 

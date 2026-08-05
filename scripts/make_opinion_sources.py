@@ -37,6 +37,20 @@ OUT = REPO / "opinion_sources.csv"
 
 CLUSTER_RE = re.compile(r"^(\d{6,9})_")
 
+# Verified-cluster overrides (ERRATA 2026-08-04, third entry). Four rows carry a
+# numeric filename prefix that is NOT the row's CourtListener cluster id (the
+# prefix resolves to an unrelated case). Each override below was re-resolved by
+# caption/party search against the live API with a passing positive control and
+# an exact decision-date or court corroboration; the sweep record is the
+# project's w1b_identity_sweep_2026-08-04 lane.
+CLUSTER_OVERRIDES = {
+    "025 - MATTER OF HART v New York City Hous Auth 2": "9884278",
+    "025 - MATTER OF HART v New York City Housing Authority": "9884278",
+    "10000566_2024_Robinson v. District of Columbia_dcd": "9533953",
+    "10464414_2024_Sandpiper Residents Association v. HUD_cadc": "9997813",
+    "9363862_2023_Socal Recovery, LLC v. City of Costa Mesa_ca9": "9368386",
+}
+
 
 def sha256_lf(path: Path) -> str:
     data = path.read_bytes().replace(b"\r\n", b"\n")
@@ -54,7 +68,7 @@ def main() -> None:
     for r in records:
         sf = r.get("source_file") or ""
         m = CLUSTER_RE.match(sf)
-        cid = m.group(1) if m else ""
+        cid = CLUSTER_OVERRIDES.get(sf, m.group(1) if m else "")
         text_path = CASE_TEXTS / f"{sf}.txt"
         in_repo = text_path.exists()
         prior_hash = prior.get(sf, {}).get("sha256_lf", "")
