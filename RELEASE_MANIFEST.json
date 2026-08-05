@@ -1,6 +1,6 @@
 {
   "_note": "Authoritative release manifest: every git-tracked file except this manifest. sha256_bytes is the raw-byte hash; sha256_lf (text files) is the LF-normalized hash. Verify with scripts/check_release_manifest.py. Execution-era hash manifests in replication/comparator/ and method/preregistration/ are historical provenance only.",
-  "file_count": 527,
+  "file_count": 528,
   "files": {
     ".gitattributes": {
       "sha256_bytes": "75e25fbf8b26d0547a9fb0818c23c3a736811cc093f6a0302489d26c90b267dd",
@@ -71,6 +71,11 @@
       "sha256_bytes": "9eecac106aff3f98bee15f82736dd074f0b2fc0a9ee2501bfcf202a93158827a",
       "sha256_lf": "9eaef5f78cbd09ac3a15445b01ef65a1d64a31b89f7515c31ce3a8b06c61eed0",
       "size": 252
+    },
+    "ERRATA.md": {
+      "sha256_bytes": "5ffe314f9808f94345f7894123aefde6616a3b628bc6da0c909ad9478dbf13c1",
+      "sha256_lf": "5ffe314f9808f94345f7894123aefde6616a3b628bc6da0c909ad9478dbf13c1",
+      "size": 4796
     },
     "LICENSE": {
       "sha256_bytes": "09c2c5625f4c619a387e8bcecbd2ed71552515da20d7fb9850ecc1edc6750146",
@@ -557,8 +562,8 @@
       "size": 14191
     },
     "manuscript/Duty_Without_Data.md": {
-      "sha256_bytes": "dd3b25e324abc14eca19da72b8a1e4bb6a54cbec461a2754e22a4a6de009caa9",
-      "sha256_lf": "dd3b25e324abc14eca19da72b8a1e4bb6a54cbec461a2754e22a4a6de009caa9",
+      "sha256_bytes": "5ac0da9a0ba3328c32143a6bd580fef2d9ef53cd565cb3ad43244b1e5158eb33",
+      "sha256_lf": "5ac0da9a0ba3328c32143a6bd580fef2d9ef53cd565cb3ad43244b1e5158eb33",
       "size": 119043
     },
     "method/METHODOLOGY.md": {
