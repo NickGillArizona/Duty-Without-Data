@@ -3,7 +3,7 @@
 
 
 **Machine-classified robustness appendix. The fn 90 selection audit, computed on the
-universal one-case-one-unit (598) series, is inconclusive under the registered rule
+universal one-case-one-unit (594) series, is inconclusive under the registered rule
 (largest registered-dimension shift +12.77 percentage points, past the ten-point bounding
 threshold); the earlier registered document-level pipeline run stayed within bounds. Every
 number independently recomputed from the canonical database.**
@@ -50,7 +50,7 @@ in the registration. Bootstrap intervals: 2,000 reps, seed 20260708.
 
 ## A-7.3 The fn 90 selection audit
 
-[Computed on the universal one-case-one-unit 598/201 series (governing cell restated 2026-08-04, D-QV5). Figures independently derived and
+[Computed on the universal one-case-one-unit 594/199 series (governing cell restated 2026-08-04, D-QV5/D-QV5-2). Figures independently derived and
 confirmed by a second-model comparison.]
 
 Registered rule: SUPPORTS-BOUNDING only if every dimension shifts 10 percentage points or
@@ -61,8 +61,8 @@ below returned SUPPORTS-BOUNDING.
 
 CASE-LEVEL SERIES (the series the manuscript's fn 90 reports; the universal
 one-case-one-unit basis of record). Universe: the case-level census's represented
-decided disability cases - P1 n=113, P3 n=60 (P2 n=28, descriptive only; case-level N
-283/65/250 = 598, represented pooled 201). This recompute is a post-registration
+decided disability cases - P1 n=113, P3 n=60 (P2 n=26, descriptive only; case-level N
+282/63/249 = 594, represented pooled 199). This recompute is a post-registration
 re-computation of the registered series - a disclosed deviation from the registered
 document-level unit of analysis, not a preregistered confirmation; the registered
 document-level run is retained below. Full cells with exact two-sided 95% Clopper-Pearson
@@ -79,7 +79,7 @@ an unresolved docket-composition signal - neither case-mix stability nor a demon
 selection effect.
 
 
-> **Restatement note (2026-08-04, D-QV5).** Eight cross-caption same-action appellate units were merged into their district-action units (N 606 -> 598; represented pools P1 116 -> 113, P3 60 -> 60; see `../../ERRATA.md`). The governing cell above is restated on the corrected census: 23.9% (27/113) to 36.7% (22/60), +12.77pp. The 43-cell dimension table below and `results/comparator_arms_case_level_2026-07.json` remain AS REGISTERED on the pre-merger 606/206 basis; their re-derivation is queued. The registered rule's verdict is unchanged: the restated governing shift remains past the 10-point bounding threshold with overlapping exact intervals, so the audit still returns INDETERMINATE.
+> **Restatement note (2026-08-04, D-QV5).** Eight cross-caption same-action appellate units were merged into their district-action units (N 606 -> 598 -> 594; represented pools P1 116 -> 113, P3 60 -> 60; see `../../ERRATA.md`). The governing cell above is restated on the corrected census: 23.9% (27/113) to 36.7% (22/60), +12.77pp. The 43-cell dimension table below and `results/comparator_arms_case_level_2026-07.json` remain AS REGISTERED on the pre-merger 606/206 basis; their re-derivation is queued. The registered rule's verdict is unchanged: the restated governing shift remains past the 10-point bounding threshold with overlapping exact intervals, so the audit still returns INDETERMINATE.
 
 All 43 dimension-category cells, sorted by absolute shift (shares are counts over the
 represented denominators, P1 n=116 and P3 n=60):

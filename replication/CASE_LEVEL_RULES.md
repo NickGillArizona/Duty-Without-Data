@@ -13,7 +13,7 @@ runs that check.
 
 One case, one unit. Opinion documents belonging to the same case or proceeding
 share a harmonized case identifier (`case_id`); the 730 kept opinion rows resolve
-to 598 distinct decided case units. 111 units contain more than one kept row (243
+to 594 distinct decided case units. 116 units contain more than one kept row (252
 rows in total; 124 rows are absorbed into their unit); 501 units are singletons.
 Two units carry split-format identifiers (`FHV2SPLIT02`, `FHV2SPLIT03`) from the
 harmonization audit; both are singletons.
@@ -59,7 +59,7 @@ and `member_of_multirow`.
 - **Victories.** The eighteen qualifying plaintiff-side judgments carry unit-level
   identifiers `V01`-`V18` (P1: 10, P2: 0, P3: 8). One additional merits
   disposition was reviewed and does not qualify; it contributes no kept rows and
-  is outside the 598-unit census.
+  is outside the 594-unit census.
 
 ## What the published record determines
 
@@ -67,7 +67,7 @@ Every unit's outcome, period, and representation re-derives from the published
 rows alone. The qualifying-judgment set is published as `victory_id`; the three
 surviving true-broad rows fall out of `keep_code` and unit membership; and the
 terminal-row rule runs on the published dates. No unit's value is taken on trust
-from the unit-level columns -- the build script derives all 598 independently and
+from the unit-level columns -- the build script derives all 594 independently and
 compares, reporting any mismatch.
 
 One attribution step deserves a precise statement. In seventeen of the eighteen
@@ -82,8 +82,8 @@ heterogeneous member set would fail the check loudly rather than resolve silentl
 
 ## The registered series
 
-Applying these rules to the CSV yields, exactly: 598 decided case units, split
-283 / 65 / 250 across P1 / P2 / P3; 201 represented and 397 pro se units;
+Applying these rules to the CSV yields, exactly: 594 decided case units, split
+282 / 63 / 249 across P1 / P2 / P3; 199 represented and 395 pro se units;
 eighteen qualifying judgments (10 / 0 / 8); zero qualifying judgments in pro se
 cases. The build script asserts every one of these values and exits nonzero on
 any mismatch.

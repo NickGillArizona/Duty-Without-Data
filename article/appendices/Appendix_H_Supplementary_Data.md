@@ -5,8 +5,8 @@
 > population; document-row denominators), published as reproducibility targets for the
 > archived scripts. The Note's reported Part II outcome series is the case-level census in
 > [`results/series_2026-07.json`](../../results/series_2026-07.json) (qualifying-judgment
-> rates 3.53 / 0.00 / 3.20 over the universal one-case-one-unit N 283/65/250, pooled
-> N = 598; eighteen qualifying plaintiff-side judgments, none pro se); the Note's fn 66
+> rates 3.55 / 0.00 / 3.21 over the universal one-case-one-unit N 282/63/249, pooled
+> N = 594; eighteen qualifying plaintiff-side judgments, none pro se); the Note's fn 66
 > describes the case-level construction.
 >
 > In the procedural-posture tables, "PW Strict" records a plaintiff-favorable disposition at the
@@ -116,7 +116,7 @@ The pleading-stage defense-win floors, as registered, are:
 | P2 | 50/68 | 73.5% |
 | P3 | 143/251 | 57.0% |
 
-These floors are REGISTERED ON THE PRE-MERGER 606-BASIS CENSUS (287/68/251; 2026-08-04 D-QV5 restated the census to 598 = 283/65/250 by merging eight cross-caption same-action appellate units -- see `../../ERRATA.md`). The floors' per-case lane-union flag list is not derivable from the published record, so they are not restated here; re-derivation on the 598 basis is queued. Their lower-bound status and the no-cross-period-trend disclaimer below are unchanged.
+These floors are REGISTERED ON THE PRE-MERGER 606-BASIS CENSUS (287/68/251; 2026-08-04 D-QV5/D-QV5-2 restated the census to 594 = 282/63/249 by merging eight cross-caption same-action appellate units -- see `../../ERRATA.md`). The floors' per-case lane-union flag list is not derivable from the published record, so they are not restated here; re-derivation on the 594 basis is queued. Their lower-bound status and the no-cross-period-trend disclaimer below are unchanged.
 
 
 These are **lower bounds**, not point estimates: not every validation lane exposes a complete

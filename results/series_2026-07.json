@@ -1,8 +1,8 @@
 {
   "_status": "Case-level outcome series of record for the Note's Part II. Base counts recomputed from the published per-row census record (replication/case_level_census.csv) by scripts/build_case_level_series.py.",
-  "_provenance": "Case-level outcome series on the UNIVERSAL one-case-one-unit basis. The base counts are recomputed deterministically by scripts/build_case_level_series.py --check from replication/case_level_census.csv under the rules published in replication/CASE_LEVEL_RULES.md; the derived percentages and exact Clopper-Pearson intervals in this file are asserted by scripts/validate_claims.py. Victory census: EIGHTEEN qualifying plaintiff-side judgments (10/0/8), zero pro se, classes 9 contested / 2 default / 7 liability-only. Restated 2026-08-04 (D-QV5): eight cross-caption same-action appellate units merged into their district-action units; N 606 -> 598. See ERRATA.md.",
+  "_provenance": "Case-level outcome series on the UNIVERSAL one-case-one-unit basis. The base counts are recomputed deterministically by scripts/build_case_level_series.py --check from replication/case_level_census.csv under the rules published in replication/CASE_LEVEL_RULES.md; the derived percentages and exact Clopper-Pearson intervals in this file are asserted by scripts/validate_claims.py. Victory census: EIGHTEEN qualifying plaintiff-side judgments (10/0/8), zero pro se, classes 9 contested / 2 default / 7 liability-only. Restated 2026-08-04 (D-QV5): eight cross-caption same-action appellate units merged into their district-action units; N 606 -> 598 -> 594 (D-QV5-2 residual lane, same date) -> 594 (D-QV5-2 residual lane, same date) -> 594 (D-QV5-2 residual lane, same date). See ERRATA.md.",
   "_basis_notes": {
-    "case_level_n_decided": "collapsed from the kept opinion rows in replication/case_level_census.csv (730 rows -> 598 case units (D-QV5 2026-08-04: eight caption-split appellate units merged)); rules in replication/CASE_LEVEL_RULES.md",
+    "case_level_n_decided": "collapsed from the kept opinion rows in replication/case_level_census.csv (730 rows -> 594 case units (D-QV5 + D-QV5-2 2026-08-04: twelve caption-split merges cured, four over-merged units split)); rules in replication/CASE_LEVEL_RULES.md",
     "strict_qualifying_rate_pct": "Distinct case-level qualifying plaintiff-side judgments divided by case-level N. Finality classes: 9 final contested, 2 final default, 7 liability-only with remedy unresolved.",
     "victories_per_month": "OMITTED: no victories-per-month presentation is part of the series of record.",
     "strict_rate_floor_pct": "OMITTED: no leave-to-amend floor value is part of the series of record; the floor family has not been computed on the 606 basis.",
@@ -19,11 +19,11 @@
     16.9
   ],
   "case_level_n_decided": [
-    283,
-    65,
-    250
+    282,
+    63,
+    249
   ],
-  "case_level_n_pooled": 598,
+  "case_level_n_pooled": 594,
   "distinct_qualifying_judgments": [
     10,
     0,
@@ -41,51 +41,51 @@
     0
   ],
   "strict_qualifying_rate_pct": [
-    3.53,
+    3.55,
     0.0,
-    3.2
+    3.21
   ],
-  "strict_qualifying_rate_pooled_pct": 3.01,
+  "strict_qualifying_rate_pooled_pct": 3.03,
   "broad_favorable_numerators": [
     12,
     0,
     9
   ],
   "broad_favorable_rate_pct": [
-    4.24,
+    4.26,
     0.0,
-    3.6
+    3.61
   ],
   "represented_per_window": [
     113,
-    28,
+    26,
     60
   ],
-  "represented_pooled": 201,
+  "represented_pooled": 199,
   "pro_se_per_window": [
-    170,
+    169,
     37,
-    190
+    189
   ],
-  "pro_se_pooled": 397,
+  "pro_se_pooled": 395,
   "represented_victory_cell": {
     "numerator": 18,
-    "denominator": 201,
+    "denominator": 199,
     "pct": 9.0,
     "ci95_pct": [
-      5.394,
-      13.784
+      5.449,
+      13.919
     ]
   },
   "pro_se_victory_cell": {
     "numerator": 0,
-    "denominator": 397,
-    "exact_upper_bound_pct": 0.925
+    "denominator": 395,
+    "exact_upper_bound_pct": 0.93
   },
   "pro_se_docket_share_case_level_pct": [
-    60.1,
-    56.9,
-    76.0
+    59.9,
+    58.7,
+    75.9
   ],
   "fn140_pleading_share": {
     "numerators": [
@@ -107,38 +107,38 @@
   },
   "under_call_bound": {
     "numerator": 1,
-    "denominator": 598,
-    "exact_upper_bound_pct": 0.928
+    "denominator": 594,
+    "exact_upper_bound_pct": 0.934
   },
   "p1_vs_p3_strict_diff_pp": -0.33,
   "clopper_pearson_95_pct": {
-    "10_283": [
-      1.7073,
-      6.4022
+    "10_282": [
+      1.7134,
+      6.4246
     ],
-    "0_65": [
+    "0_63": [
       0.0,
-      5.5172
+      5.6872
     ],
-    "8_250": [
-      1.3915,
-      6.2077
+    "8_249": [
+      1.3971,
+      6.2322
     ],
-    "18_598": [
-      1.7935,
-      4.7155
+    "18_594": [
+      1.8056,
+      4.747
     ],
-    "18_201": [
-      5.394,
-      13.784
+    "18_199": [
+      5.449,
+      13.919
     ],
-    "0_397": [
+    "0_395": [
       0.0,
-      0.925
+      0.93
     ],
-    "1_598": [
-      0.0042,
-      0.928
+    "1_594": [
+      0.0043,
+      0.934
     ]
   },
   "document_level_recorded_n_decided": [

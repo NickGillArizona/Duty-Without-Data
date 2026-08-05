@@ -2,7 +2,7 @@
 
 **Cited by:** Note footnote 140 (pleading-stage defense-win lower bounds, with app. H) and the period-total apparatus.
 **Source / regeneration:** the case-level series of record ([`results/series_2026-07.json`](../../results/series_2026-07.json)), built from the FHA Unified Database (`data/FHA_Unified_Database.json`) by `scripts/build_case_level_series.py`.
-**Unit convention:** one case, one unit. The case-level N is 598 (283/65/250 across P1/P2/P3) after removing duplicate, out-of-window, out-of-cohort, and procedural-only documents. This appendix reports the outcome series of record; superseded document-level pipeline tabulations are retained in the project's private research records, not here (see [`../../replication/DATA_PROVENANCE.md`](../../replication/DATA_PROVENANCE.md)).
+**Unit convention:** one case, one unit. The case-level N is 594 (282/63/249 across P1/P2/P3) after removing duplicate, out-of-window, out-of-cohort, and procedural-only documents. This appendix reports the outcome series of record; superseded document-level pipeline tabulations are retained in the project's private research records, not here (see [`../../replication/DATA_PROVENANCE.md`](../../replication/DATA_PROVENANCE.md)).
 
 ## B.1 Case-Level Outcome Census (the series of record)
 
@@ -10,15 +10,15 @@
 
 | Metric | Pooled census |
 |---|---|
-| Decided cases (case-level N) | 598 (283 / 65 / 250) |
+| Decided cases (case-level N) | 594 (282 / 63 / 249) |
 | Final contested judgments awarding relief | 9 |
 | Final default judgments awarding relief | 2 |
 | Liability determinations, remedy reserved at entry | 7 |
 | Qualifying plaintiff-side judgments (combined) | 18 (3.0%) |
-| Per-period qualifying judgments | 10/283 (3.53%) / 0/65 (0.00%) / 8/250 (3.20%) |
-| Represented cases: qualifying judgments | 18 of 201 (9.0%) |
-| Pro se cases: qualifying judgments | 0 of 397 (exact 95% upper bound 0.9%) |
-| Case-level pro se share, P1 -> P3 | 60.1% -> 76.0% |
+| Per-period qualifying judgments | 10/282 (3.55%) / 0/63 (0.00%) / 8/249 (3.21%) |
+| Represented cases: qualifying judgments | 18 of 199 (9.0%) |
+| Pro se cases: qualifying judgments | 0 of 395 (exact 95% upper bound 0.9%) |
+| Case-level pro se share, P1 -> P3 | 59.9% -> 75.9% |
 
 No aggregate cross-period trend is asserted in either direction: the P1-vs-P3 qualifying-judgment
 difference is -0.30 percentage points, with no interpretable sign, and the pooled census is

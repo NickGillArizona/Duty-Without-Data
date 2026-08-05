@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Validate key statistics reported in the note against the database and the
 case-level series of record (results/series_2026-07.json; UNIVERSAL
-one-case-one-unit basis, N = 598; restated 2026-08-04, D-QV5).
+one-case-one-unit basis, N = 594; restated 2026-08-04, D-QV5 + D-QV5-2).
 
 Three layers: (1) document-level pipeline counts recomputed from
 data/FHA_Unified_Database.json; (2) the case-level series asserted field by
@@ -13,7 +13,7 @@ Loads FHA_Unified_Database.json and checks counts, win rates, and pro-se rates
 against the values cited in the article. The first block asserts the raw
 document-level pipeline output (computed from the database; UNCHANGED by the
 case-level collapse, by construction). The second asserts the case-level
-outcome series reported in Part II on the universal 598 basis. Both must pass.
+outcome series reported in Part II on the universal 594 basis. Both must pass.
 
 Usage:
   python scripts/validate_claims.py                # both layers (needs the DB)
@@ -64,7 +64,7 @@ def pro_se_rate(cases):
 
 def check_case_level_series():
     """Assert the case-level outcome series reported in Part II on the
-    UNIVERSAL 598 basis (results/series_2026-07.json)."""
+    UNIVERSAL 594 basis (results/series_2026-07.json)."""
     path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
                         "..", "results", SERIES_FILENAME)
     with open(path, "r", encoding="utf-8") as f:
@@ -83,37 +83,37 @@ def check_case_level_series():
     ucb = cs["under_call_bound"]
     cp = cs["clopper_pearson_95_pct"]
     checks = [
-        ("case-level N (283/65/250)",  cs["case_level_n_decided"],            [283, 65, 250]),
-        ("case-level N pooled",        cs["case_level_n_pooled"],             598),
+        ("case-level N (282/63/249)",  cs["case_level_n_decided"],            [282, 63, 249]),
+        ("case-level N pooled",        cs["case_level_n_pooled"],             594),
         ("qualifying judgments",       cs["distinct_qualifying_judgments"],   [10, 0, 8]),
-        ("strict rate % (per window)", cs["strict_qualifying_rate_pct"],      [3.53, 0.00, 3.20]),
-        ("strict rate % (pooled)",     cs["strict_qualifying_rate_pooled_pct"], 3.01),
+        ("strict rate % (per window)", cs["strict_qualifying_rate_pct"],      [3.55, 0.00, 3.21]),
+        ("strict rate % (pooled)",     cs["strict_qualifying_rate_pooled_pct"], 3.03),
         ("finality classes 9/2/7",     [fc["final_contested"], fc["final_default"],
                                         fc["liability_only"]],                [9, 2, 7]),
         ("sensitivity excl. liab.",    cs["sensitivity_excluding_liability_only"], 11),
-        ("represented per window",     cs["represented_per_window"],          [113, 28, 60]),
-        ("represented pooled",         cs["represented_pooled"],              201),
-        ("pro se per window",          cs["pro_se_per_window"],               [170, 37, 190]),
-        ("pro se pooled",              cs["pro_se_pooled"],                   397),
-        ("represented cell 18/201",    [rvc["numerator"], rvc["denominator"]], [18, 201]),
+        ("represented per window",     cs["represented_per_window"],          [113, 26, 60]),
+        ("represented pooled",         cs["represented_pooled"],              199),
+        ("pro se per window",          cs["pro_se_per_window"],               [169, 37, 189]),
+        ("pro se pooled",              cs["pro_se_pooled"],                   395),
+        ("represented cell 18/199",    [rvc["numerator"], rvc["denominator"]], [18, 199]),
         ("represented cell 9.0%",      rvc["pct"],                            9.0),
-        ("pro se victories 0/397",     [psc["numerator"], psc["denominator"]], [0, 397]),
+        ("pro se victories 0/395",     [psc["numerator"], psc["denominator"]], [0, 395]),
         ("pro se victories (zero)",    cs["pro_se_victories"],                [0, 0, 0]),
-        ("pro se exact upper bound",   psc["exact_upper_bound_pct"],          0.925),
-        ("docket shares 60.1->76.0",   cs["pro_se_docket_share_case_level_pct"],
-                                                                             [60.1, 56.9, 76.0]),
+        ("pro se exact upper bound",   psc["exact_upper_bound_pct"],          0.930),
+        ("docket shares 59.9->75.9",   cs["pro_se_docket_share_case_level_pct"],
+                                                                             [59.9, 58.7, 75.9]),
         ("broad numerators",           cs["broad_favorable_numerators"],      [12, 0, 9]),
-        ("broad favorable rate %",     cs["broad_favorable_rate_pct"],        [4.24, 0.00, 3.60]),
+        ("broad favorable rate %",     cs["broad_favorable_rate_pct"],        [4.26, 0.00, 3.61]),
         ("P1-vs-P3 diff pp",           cs["p1_vs_p3_strict_diff_pp"],         -0.33),
         ("fn 140 floor numerators",    f140["numerators"],                    [140, 50, 143]),
         ("fn 140 floor denominators",  f140["denominators"],                  [287, 68, 251]),
         ("fn 140 floor pct",           f140["pct"],                           [48.8, 73.5, 57.0]),
-        ("represented cell 95% CI",    rvc["ci95_pct"],                       [5.394, 13.784]),
-        ("under-call bound 1/598",     [ucb["numerator"], ucb["denominator"]], [1, 598]),
-        ("under-call upper bound %",   ucb["exact_upper_bound_pct"],          0.928),
-        ("CP interval 18/598",         cp["18_598"],                          [1.7935, 4.7155]),
-        ("CP interval 0/397",          cp["0_397"],                           [0.0, 0.925]),
-        ("CP interval 1/598",          cp["1_598"],                           [0.0042, 0.928]),
+        ("represented cell 95% CI",    rvc["ci95_pct"],                       [5.449, 13.919]),
+        ("under-call bound 1/594",     [ucb["numerator"], ucb["denominator"]], [1, 594]),
+        ("under-call upper bound %",   ucb["exact_upper_bound_pct"],          0.934),
+        ("CP interval 18/594",         cp["18_594"],                          [1.8056, 4.747]),
+        ("CP interval 0/395",          cp["0_395"],                           [0.0, 0.930]),
+        ("CP interval 1/594",          cp["1_594"],                           [0.0043, 0.934]),
     ]
     passes = fails = 0
     print()

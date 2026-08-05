@@ -16,7 +16,7 @@ flowchart TD
     E["Unified database: data/FHA_Unified_Database.json<br/>30 model-classified keys plus screening and source<br/>metadata; one record per opinion document"]
     T2["Tier filter: 1,900 disability cases<br/>(predicate on classified fields,<br/>replication/SAMPLE_DEFINITIONS.md)"]
     F["Headline mechanism coding (separate ensemble)<br/>Kimi K2.6 + GLM-5.1 + DeepSeek V3.2, majority vote,<br/>Fleiss kappa = 0.63"]
-    G["Case-level census: one-case-one-unit collapse<br/>kept opinion rows -> 598 decided cases (bounded keep/collapse codes)"]
+    G["Case-level census: one-case-one-unit collapse<br/>kept opinion rows -> 594 decided cases (bounded keep/collapse codes)"]
     H["Deterministic analysis: scripts/ regenerate every<br/>registered statistic, table, and figure from committed inputs"]
     I["Validation: five published layers, reproducibility only<br/>(method/VALIDATION.md)"]
     J["Release gate: twenty deterministic checks, including a hash<br/>manifest of every tracked file<br/>(replication/GATES.md, scripts/run_release_checks.py)"]
@@ -39,7 +39,7 @@ disability tier is not a screening output but a downstream filter applied to the
 classified database. From that tier, two separate tracks produce the published
 findings: a distinct three-model ensemble codes the headline pleading-failure
 mechanism, and a documented one-case-one-unit collapse of the kept opinion rows
-produces the 598-case outcome census.
+produces the 594-case outcome census.
 Deterministic scripts regenerate
 every registered statistic from those inputs. Five validation layers re-read the
 classifications and report agreement. A twenty-check release gate re-verifies the

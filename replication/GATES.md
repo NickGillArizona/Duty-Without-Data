@@ -69,8 +69,8 @@ This check reads [`case_level_census.csv`](case_level_census.csv), re-derives ea
 unit's outcome, period, and representation from its member rows under the rules in
 [`CASE_LEVEL_RULES.md`](CASE_LEVEL_RULES.md), and compares the result against the registered
 series in [`../results/series_2026-07.json`](../results/series_2026-07.json). It asserts the
-structural invariants of the record — 730 kept opinion rows resolving to 598 decided case
-units — and the eleven registered cells: 598 decided units pooled; 283 / 65 / 250 across the
+structural invariants of the record — 730 kept opinion rows resolving to 594 decided case
+units — and the eleven registered cells: 594 decided units pooled; 282 / 63 / 249 across the
 three windows; 206 represented and 400 pro se; eighteen qualifying judgments, 10 / 0 / 8 by
 window; and zero qualifying judgments in pro se cases. A failure means the published series
 and the published record no longer agree.

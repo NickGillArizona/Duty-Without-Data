@@ -37,7 +37,7 @@ Scripts resolve paths through `scripts/config.py`, which reads `FHA_DATA_DIR` (d
 
 ### Case-level adjudication boundary
 
-The Part II case-level series (N = 598: 283/65/250, eighteen qualifying judgments, and
+The Part II case-level series (N = 594: 282/63/249, eighteen qualifying judgments, and
 every cell derived from them) is carried in `results/series_2026-07.json` and
 `results/case_level_recount.csv`. Everything DERIVED from the base counts — rates,
 shares, differences, and all exact Clopper-Pearson intervals — recomputes from those
@@ -81,7 +81,7 @@ When filtering the July 2026 corpus refresh, match BOTH source tags
 > Part II series is the case-level series in
 > [`../results/series_2026-07.json`](../results/series_2026-07.json)
 > (qualifying-judgment rates 3.48 / 0.00 / 3.19 over the universal
-> one-case-one-unit N 283/65/250); the manuscript reports no aggregate outcome
+> one-case-one-unit N 282/63/249); the manuscript reports no aggregate outcome
 > trend and no document-level outcome rate. Document-level outcome-rate cells are
 > not registered claim targets; the scripts remain runnable and their outputs are
 > diagnostics of the classification pipeline, not reported results.
@@ -195,7 +195,7 @@ implemented once, in `scripts/analysis_filters.py` (`is_t2_canonical`, `assign_p
 
 | Note statistic | Population / filter | Script | Output |
 |---|---|---|---|
-| Period composition — document-level (pro se share 60.1 -> 77.9, DIS_ANY sensitivity cohort); the reported Part II series is the case-level series in `results/series_2026-07.json` (qualifying-judgment rates 3.53 / 0.00 / 3.20 over N 283/65/250); document-level outcome rates are pipeline diagnostics, not reported results | T2 canonical; decided = {PLAINTIFF_WIN, DEFENDANT_WIN, MIXED}; P1/P2/P3 via `assign_period` | `scripts/recompute_stats_unified.py` | `results/unified_stats_report.md` |
+| Period composition — document-level (pro se share 60.1 -> 77.9, DIS_ANY sensitivity cohort); the reported Part II series is the case-level series in `results/series_2026-07.json` (qualifying-judgment rates 3.55 / 0.00 / 3.21 over N 282/63/249); document-level outcome rates are pipeline diagnostics, not reported results | T2 canonical; decided = {PLAINTIFF_WIN, DEFENDANT_WIN, MIXED}; P1/P2/P3 via `assign_period` | `scripts/recompute_stats_unified.py` | `results/unified_stats_report.md` |
 | Kitagawa decomposition — document-level pipeline diagnostic, not reported in the manuscript; see the case-level series in `results/series_2026-07.json` | same decided universe, stratified on `pro_se` | `scripts/decomposition.py` | `results/decomposition_results.json` |
 | Robustness checks 1-5 (reclassification, boundaries, exclusion, bootstrap, chi-squared) | per Appendix A-5 | `scripts/robustness_checks.py`, `scripts/robustness_bootstrap.py` | `results/robustness_checks_output.txt` |
 | Pleading-loss universe (T4, n = 739) | T2 AND `procedural_posture` in {MOTION_TO_DISMISS, SCREENING_ORDER} AND `outcome` in {DEFENDANT_WIN, PROCEDURAL} | `method/validation_three_model/run_three_model.py` | `method/validation_three_model/ensemble_results.json` |

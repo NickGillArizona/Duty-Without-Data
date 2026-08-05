@@ -67,3 +67,28 @@ its unit carried no victory. Docket-identity tracing confirmed the caption split
 a systematic sweep of all 50 appellate singleton units against the district units'
 docket numbers found the remaining seven. The sweep instrument recovered the known
 positive before being trusted.
+
+## 2026-08-04 (second entry, same day) — Census restated 598 → 594 (D-QV5-2: residual lane)
+
+The author-commissioned residual lane extended the caption-split audit to the
+district-district seam, the no-docket rows, and the converse defect (over-merged
+units). **Eight further dissolutions**: Hiatt v. Sun City Festival (D. Ariz. 23-552);
+Baptist Homes v. City of Madison (S.D. Miss. 24-92); Israel v. Guinn (N.D.N.Y.
+25-248); Taylor v. Royal (E.D. Pa. 26-164); Prince v. Pajela (D.N.J. 22-1939);
+McClain/McLain v. Johnson County (D. Kan. 25-4036, caption spelling variant);
+Players Place II Condo. Ass'n v. K.P. (one N.J. Supreme Court opinion captured
+twice); Partee v. Powers Properties (D.S.C. 3:23-4777, docket verbatim in both
+documents). **Four splits curing confirmed over-merges** — units that had fused
+distinct actions by the same serial litigant: Morris (D. Md.; 18-3399 vs 25-968),
+Alvarez (E.D. Pa.; 22-3631 v. HUD vs 24-3127 v. Philadelphia), and Johnson (D. Or.;
+Simonson 23-1561 and Guardian 19-485 split out of the Brenneke 21-582 consolidated
+unit). Net: 598 − 8 + 4 = **594** (282/63/249; represented 199, pro se 395).
+
+Convention documented: companion or consolidated actions with their own document
+rows remain distinct units (Honkala/Chick, per the census's existing hand-split);
+consolidated actions decided only in unified documents remain one unit (Brenneke;
+Avila's parallel-cases opinion). The eighteen qualifying judgments, their classes,
+and the zero pro se cell are again unchanged; rates move at the second decimal
+(qualifying-judgment rate 3.0% throughout; represented cell 9.0% throughout).
+Verification as in the first entry: deterministic rebuild, full checker suite,
+release gate.

@@ -28,7 +28,7 @@ DEPENDENCY_AUDIT_LEDGER.csv row A06 and DEPENDENCY_AUDIT_MEMO.md).
 ## Limitations
 
 No logistic model of reaching the merits on institutional status has been estimated on the
-598-case one-case-one-unit census, and the manuscript prints no odds ratio at fn 76: it reports
+594-case one-case-one-unit census, and the manuscript prints no odds ratio at fn 76: it reports
 descriptive gate counts only.
 
 Two secondary fields fall below the 85% bar and may not carry claims without further work:

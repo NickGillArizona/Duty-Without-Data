@@ -19,7 +19,7 @@ page_class: landing-page
             <a class="button" href="https://nickgillarizona.github.io/Duty-Without-Data/download-and-cite/">Read the manuscript</a>
           </div>
         </div>
-        <p class="hero-deck">The evidence runs on three legs: doctrine, HUD’s own administrative record, and an original census of 598 decided cases. The response is a bounded rulemaking petition — preserve the records existing duties already presuppose, hand the tenant a copy, make HUD explain its choices.</p>
+        <p class="hero-deck">The evidence runs on three legs: doctrine, HUD’s own administrative record, and an original census of 594 decided cases. The response is a bounded rulemaking petition — preserve the records existing duties already presuppose, hand the tenant a copy, make HUD explain its choices.</p>
       </div>
     </div>
   </section>
@@ -35,16 +35,16 @@ page_class: landing-page
       <div class="band-ledger">
         <div class="proof-grid">
           <div class="proof-card">
-            <p class="proof-value">598 decided cases</p>
+            <p class="proof-value">594 decided cases</p>
             <p>identified from 1,900 screened federal disability fair-housing opinion and order records, collapsed to one case-level unit.</p>
           </div>
           <div class="proof-card">
             <p class="proof-value">eighteen qualifying plaintiff-side judgments</p>
-            <p>18/598 (3.0%) of decided cases.</p>
+            <p>18/594 (3.0%) of decided cases.</p>
           </div>
           <div class="proof-card">
-            <p class="proof-value">none of the 397 pro se cases</p>
-            <p>produced a qualifying judgment. Across the same window, the pro se share of the decided docket rose from 60.1% to 76.0%.</p>
+            <p class="proof-value">none of the 395 pro se cases</p>
+            <p>produced a qualifying judgment. Across the same window, the pro se share of the decided docket rose from 59.9% to 75.9%.</p>
           </div>
         </div>
         <p class="finding-caveat">These figures describe the captured federal opinion-bearing docket. They do not establish causation, measure all fair-housing disputes, or show that missing records determined any individual result.</p>
@@ -61,7 +61,7 @@ page_class: landing-page
             <source media="screen and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://nickgillarizona.github.io/Duty-Without-Data/assets/figures/fig1_composition_mobile_dark.svg">
             <source media="screen and (max-width: 600px)" srcset="https://nickgillarizona.github.io/Duty-Without-Data/assets/figures/fig1_composition_mobile_light.svg">
             <source media="screen and (prefers-color-scheme: dark)" srcset="https://nickgillarizona.github.io/Duty-Without-Data/assets/figures/fig1_composition_dark.svg">
-            <img src="https://nickgillarizona.github.io/Duty-Without-Data/assets/figures/fig1_composition_light.svg" width="980" height="627" alt="Line chart of the decided federal disability fair-housing docket across three periods: the pro se share rises from 60.1% to 76.0% while the qualifying-judgment rate stays low and flat — eighteen qualifying plaintiff-side judgments in all, none pro se, every one counseled.">
+            <img src="https://nickgillarizona.github.io/Duty-Without-Data/assets/figures/fig1_composition_light.svg" width="980" height="627" alt="Line chart of the decided federal disability fair-housing docket across three periods: the pro se share rises from 59.9% to 75.9% while the qualifying-judgment rate stays low and flat — eighteen qualifying plaintiff-side judgments in all, none pro se, every one counseled.">
           </picture>
         </div>
         <figcaption class="figure-caption"><span class="figure-label">Figure 1.</span><span>Who files, and who wins: the top line is the pro se share of the decided docket; the bottom line is the qualifying-judgment rate. Every qualifying judgment sits on the counseled side of the gap. <a href="https://nickgillarizona.github.io/Duty-Without-Data/evidence-and-limits/">Examine the findings and their limits.</a></span></figcaption>
