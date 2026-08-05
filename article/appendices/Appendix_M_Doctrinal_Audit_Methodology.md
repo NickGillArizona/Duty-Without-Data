@@ -262,6 +262,25 @@ Of the 51 jurisdictions, 3 returned document-retrieval errors (Arizona, Massachu
 
 The convergent-validation bracket of 29 – 32 pp across all coding variants is documented in M.16.
 
+**Rule 3 disclosure and post hoc stage sensitivity.** The frozen instrument directs
+that a pro se matter dismissed at section 1915 screening for conclusory or
+unintelligible allegations default to TRANSLATION absent an identified
+jurisdictional defect. Because the rule is conditioned on representation and
+procedural posture, it may widen the pooled representation contrast. A post hoc
+stage-stratified diagnostic on the existing 728 ensemble-coded matters returns:
+
+| Diagnostic stratum | Pro se TRANSLATION | Represented TRANSLATION |
+|---|---:|---:|
+| Full ensemble | 286/632 (45.25%) | 13/95 (13.68%) |
+| No `SCREENING_1915` stage | 116/332 (34.94%) | 13/95 (13.68%) |
+| MTD and no `SCREENING_1915` stage | 96/266 (36.09%) | 13/87 (14.94%) |
+
+The direction persists where Rule 3's section 1915 condition is not reached. This
+does not estimate the rule's causal contribution: invocation was not logged, the
+stage and mechanism fields remain machine-coded, and the sensitivity is not an
+independent human validation. Aggregate diagnostic record:
+`../../results/mechanism_rule3_stage_sensitivity.json`.
+
 **Framing.** Parts II.E–F present this pattern as contextual stakes evidence, not as the legal predicate for a remand remedy. The TRANSLATION concentration is explicitly not offered as the *State Farm* predicate; the reasoned-engagement obligation attaches to the § 553(e) petition record (Part IV).
 
 ---

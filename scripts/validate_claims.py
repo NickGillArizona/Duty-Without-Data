@@ -105,9 +105,9 @@ def check_case_level_series():
         ("broad numerators",           cs["broad_favorable_numerators"],      [12, 0, 9]),
         ("broad favorable rate %",     cs["broad_favorable_rate_pct"],        [4.26, 0.00, 3.61]),
         ("P1-vs-P3 diff pp",           cs["p1_vs_p3_strict_diff_pp"],         -0.33),
-        ("fn 140 floor numerators",    f140["numerators"],                    [140, 50, 143]),
-        ("fn 140 floor denominators",  f140["denominators"],                  [287, 68, 251]),
-        ("fn 140 floor pct",           f140["pct"],                           [48.8, 73.5, 57.0]),
+        ("fn 140 floor numerators",    f140["numerators"],                    [141, 48, 143]),
+        ("fn 140 floor denominators",  f140["denominators"],                  [282, 63, 249]),
+        ("fn 140 floor pct",           f140["pct"],                           [50.0, 76.2, 57.4]),
         ("represented cell 95% CI",    rvc["ci95_pct"],                       [5.449, 13.919]),
         ("under-call bound 1/594",     [ucb["numerator"], ucb["denominator"]], [1, 594]),
         ("under-call upper bound %",   ucb["exact_upper_bound_pct"],          0.934),
@@ -117,7 +117,7 @@ def check_case_level_series():
     ]
     passes = fails = 0
     print()
-    print("Case-level outcome series (reported in Part II; universal 606 basis)")
+    print("Case-level outcome series (reported in Part II; universal 594 basis)")
     print(f"{'FIELD':<28} {'EXPECTED':>20} {'ACTUAL':>20}  RESULT")
     print("-" * 78)
     for label, actual, expected in checks:

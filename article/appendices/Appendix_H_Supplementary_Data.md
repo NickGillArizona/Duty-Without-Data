@@ -108,15 +108,18 @@
 
 ### H.5.3 Pleading-Stage Defense-Win Lower Bounds (the Note's fn 140)
 
-The pleading-stage defense-win floors, as registered, are:
+The pleading-stage defense-win floors on the final 594-case census are:
 
 | Window | Pleading-stage defense wins / decided cases | Lower-bound rate |
 |--------|---------------------------------------------|------------------|
-| P1 | 140/287 | 48.8% |
-| P2 | 50/68 | 73.5% |
-| P3 | 143/251 | 57.0% |
+| P1 | 141/282 | 50.0% |
+| P2 | 48/63 | 76.2% |
+| P3 | 143/249 | 57.4% |
 
-These floors are REGISTERED ON THE PRE-MERGER 606-BASIS CENSUS (287/68/251; 2026-08-04 D-QV5/D-QV5-2 restated the census to 594 = 282/63/249 by merging eight cross-caption same-action appellate units -- see `../../ERRATA.md`). The floors' per-case lane-union flag list is not derivable from the published record, so they are not restated here; re-derivation on the 594 basis is queued. Their lower-bound status and the no-cross-period-trend disclaimer below are unchanged.
+These floors apply the registered A08 any-member pleading-loss rule to the final
+D-QV5-2 case spine (594 = 282/63/249; see `../../ERRATA.md`). The reconstruction
+reproduces the historical 606-case result before yielding the final counts above.
+Their lower-bound status and the no-cross-period-trend disclaimer below are unchanged.
 
 
 These are **lower bounds**, not point estimates: not every validation lane exposes a complete

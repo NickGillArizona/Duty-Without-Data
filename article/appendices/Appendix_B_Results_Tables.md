@@ -29,8 +29,9 @@ judgments and changes no qualitative statement. Intervals are exact 95% Clopper-
 
 ## B.2 Pleading-Stage Defense-Win Lower Bounds (the Note's fn 140)
 
-On the registered pre-merger 606-basis census (see the basis note in Appendix H SS H.5.3 and ERRATA.md; 2026-08-04 D-QV5), the pleading-stage defense-win floors are 140/287 (48.8%) in P1,
-50/68 (73.5%) in P2, and 143/251 (57.0%) in P3. These are lower bounds, not point estimates:
+On the final 594-case D-QV5-2 census (see Appendix H SS H.5.3 and ERRATA.md), the
+pleading-stage defense-win floors are 141/282 (50.0%) in P1, 48/63 (76.2%) in P2,
+and 143/249 (57.4%) in P3. These are lower bounds, not point estimates:
 not every coded record includes a complete pleading-stage flag, so the numerators exclude
 decided cases whose records do not surface the flag. No cross-period trend is asserted on this
 series; see Appendix H § H.5.3.

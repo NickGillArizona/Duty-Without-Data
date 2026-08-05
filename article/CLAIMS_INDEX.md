@@ -488,3 +488,12 @@ the primary source itself (see
 - **Primary source / tier:** results/series_2026-07.json (case-level series of record); article/appendices/Appendix_A4_Reproducibility_Audit.md SS A-4.11
 - **Evidence route:** `scripts/validate_claims.py (case-level block); scripts/check_advocacy_claims.py; replication/case_level_census.csv; scripts/build_case_level_series.py`
 - **Confidence tier:** T1
+
+### C58 — Part II.E; fn 87
+
+> Rule 3 is representation-and-screening conditioned; the pro se TRANSLATION direction persists where no SCREENING_1915 stage is coded and in the MTD-without-screening stratum
+
+- **Source type:** post hoc machine-coded sensitivity
+- **Primary source / tier:** Frozen mechanism prompt; merged 728-case ensemble; FHA Unified Database stage field
+- **Evidence route:** `results/mechanism_rule3_stage_sensitivity.json; article/appendices/Appendix_M_Doctrinal_Audit_Methodology.md; method/VALIDATION.md`
+- **Confidence tier:** C

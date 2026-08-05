@@ -14,7 +14,7 @@ runs that check.
 One case, one unit. Opinion documents belonging to the same case or proceeding
 share a harmonized case identifier (`case_id`); the 730 kept opinion rows resolve
 to 594 distinct decided case units. 116 units contain more than one kept row (252
-rows in total; 124 rows are absorbed into their unit); 501 units are singletons.
+rows in total; 136 rows are absorbed into their unit); 478 units are singletons.
 Two units carry split-format identifiers (`FHV2SPLIT02`, `FHV2SPLIT03`) from the
 harmonization audit; both are singletons.
 

@@ -54,10 +54,11 @@ published terminal-row representation rule (`replication/CASE_LEVEL_RULES.md`), 
 merged *Rice* unit codes PRO_SE — the plaintiff was counseled at the district phase
 and pro se on the terminal appellate document.
 
-**Figures deliberately kept on the registered pre-merger basis** (each carries a
-dated basis note at its surface; re-derivation queued): the fn 140 pleading-stage
-defense-win floors (their per-case lane-union flag list is not derivable from the
-published record); Appendix A-7's 43-cell dimension table and
+**Registered-series follow-up.** The fn 140 pleading-stage defense-win floors have
+now been rederived on the final 594-case spine: 141/282, 48/63, and 143/249. The
+historical replay reproduces the registered 140/50/143 numerators before application
+to the final case spine. Figures still deliberately kept on the pre-merger basis are
+Appendix A-7's 43-cell dimension table and
 `results/comparator_arms_case_level_2026-07.json` (the governing cell is restated);
 the perimeter-census program-nexus classification.
 

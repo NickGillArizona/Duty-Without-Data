@@ -104,15 +104,15 @@ this default is conditioned on pro se status and resolves toward the family
 whose pro se / represented gap the Note reports, it is a potential source of
 upward pressure on the pro se TRANSLATION share, and because all coding and
 validation layers used the same frozen prompt, cross-coder agreement cannot rule
-that pressure out. Three considerations bound the concern without eliminating
-it: the default is conditioned on a fact pattern ("conclusory or
-unintelligible") that falls within the TRANSLATION family's definition rather
-than on ambiguity between families; the published confusion matrices show the
-dominant coder-disagreement flow ran out of TRANSLATION, not into it; and every
-classifier specification returns a gap whose lower 95% confidence bound exceeds
-19 percentage points, far from the region a screening-stratum default could
-plausibly account for. The finding remains, as stated throughout, directional
-and machine-based.
+that pressure out. A post hoc stage-stratified diagnostic bounds the concern
+without eliminating it. On the merged 728 ensemble-coded matters, TRANSLATION
+appears in 116/332 pro se matters with no `SCREENING_1915` stage versus 13/95
+represented matters; within MTD matters with no `SCREENING_1915` stage, the
+corresponding counts are 96/266 and 13/87. The direction therefore persists where
+Rule 3's section 1915 condition is not reached. This does not estimate Rule 3's
+causal contribution: invocation was not logged, the inputs remain machine-coded,
+and the diagnostic is not independent human validation. See
+[`../results/mechanism_rule3_stage_sensitivity.json`](../results/mechanism_rule3_stage_sensitivity.json).
 
 ## 4. Layer 3 — Kimi K2.6 independent single-model re-read (stratified 150-case sample)
 

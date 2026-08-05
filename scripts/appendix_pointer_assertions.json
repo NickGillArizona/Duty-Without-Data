@@ -47,21 +47,21 @@
    "raw_footnote": "87",
    "target_file": "article/appendices/Appendix_M_Doctrinal_Audit_Methodology.md",
    "target_heading": null,
-   "required_literals": ["contingency"],
-   "note": "translation-family contingency tables and ensemble validation layers"
+   "required_literals": ["contingency", "Rule 3", "96/266", "13/87"],
+   "note": "translation-family contingency tables, Rule 3 disclosure, and no-screening sensitivity"
   },
   {
    "raw_footnote": "140",
    "target_file": "article/appendices/Appendix_H_Supplementary_Data.md",
    "target_heading": "### H.5.3 Pleading-Stage Defense-Win Lower Bounds (the Note's fn 140)",
-   "required_literals": ["140/287", "50/68", "143/251"],
+   "required_literals": ["141/282", "48/63", "143/249"],
    "note": "lower-bound floors as printed"
   },
   {
    "raw_footnote": "140",
    "target_file": "article/appendices/Appendix_B_Results_Tables.md",
    "target_heading": null,
-   "required_literals": ["140/287"],
+   "required_literals": ["141/282"],
    "note": "same floors restated with the document-level tables fenced off"
   },
   {

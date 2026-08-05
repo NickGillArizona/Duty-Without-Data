@@ -89,21 +89,21 @@
   ],
   "fn140_pleading_share": {
     "numerators": [
-      140,
-      50,
+      141,
+      48,
       143
     ],
     "denominators": [
-      287,
-      68,
-      251
+      282,
+      63,
+      249
     ],
     "pct": [
-      48.8,
-      73.5,
-      57.0
+      50.0,
+      76.2,
+      57.4
     ],
-    "_basis": "REGISTERED ON THE PRE-MERGER 606-BASIS CENSUS (287/68/251). The floors' per-case lane-union flag list is not derivable from the published record, so they are NOT restated on the 598 basis; re-derivation queued under D-QV5 (2026-08-04). Lower-bound status and the no-cross-period-trend disclaimer are unchanged."
+    "_basis": "Registered A08 row flags (CENSUS pleading_stage_defense_win OR FULL_SWEEP PLEADING_LOSS; favorable rows excluded), case-collapsed by the any-member rule on the final D-QV5-2 594-case spine. The historical 606-case replay reproduces 140/50/143 before the final series yields 141/48/143. Lower-bound status and the no-cross-period-trend disclaimer are unchanged."
   },
   "under_call_bound": {
     "numerator": 1,
